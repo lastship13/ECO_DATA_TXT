@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>24463</ns0:RecordNumber>
+  <ns0:RecordTitle>Copper sulfate pentahydrate</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 LEPOMIS MACHOCHIRUS (BLUEGILL), WT 1.5 G, 884 UG/L @ 18 °C, STATIC BIOASSAY (95% CONFIDENCE LIMIT 707-1,100 UG/L) /TECHNICAL MATERIAL, 100% (ABOUT 25% ELEMENTAL COPPER)/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 LEPOMIS CYANELLUS (GREEN SUNFISH), WT 1.1 G, 3,510 UG/L @ 18 °C, STATIC BIOASSAY (95% CONFIDENCE LIMIT 2,570-4,800 UG/L) /TECHNICAL MATERIAL, 100% (ABOUT 25% ELEMENTAL COPPER)/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 PIMEPHALES PROMELAS (FATHEAD MINNOW), WT 1.2 G, 838 UG/L @ 18 °C (272 PPM CACO3), STATIC BIOASSAY (95% CONFIDENCE LIMIT 623-1,000 UG/L) /TECHNICAL MATERIAL, 100% (ABOUT 25% ELEMENTAL COPPER)/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 CARASSIUS AURATUS (GOLDFISH), WT 0.9 G, 1,380 UG/L @ 18 °C (272 PPM CACO3), STATIC BIOASSAY (95% CONFIDENCE LIMIT 989-1,930 UG/L) /TECHNICAL MATERIAL, 100% (ABOUT 25% ELEMENTAL COPPER)/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 SALMO GAIRDNERI (RAINBOW TROUT), WT 1.6 G, 135 UG/L @ 13 °C, STATIC BIOASSAY /TECHNICAL MATERIAL, 100% (ABOUT 25% ELEMENTAL COPPER)/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 STRIPED BASS 1 PPM OR LOWER/96 HR /CONDITIONS OF BIOASSAY NOT SPECIFIED/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 Pheasant oral approx 1,000 ppm</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Callinectes sapidus (blue crab) 28.0 ppm Copper/96 hr /Conditions of bioassay not specified/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Shrimp 17.0 ppm Copper/96 hr /Conditions of bioassay not specified/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Oysters 5.8 ppm Copper/96 hr /Conditions of bioassay not specified/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 VIVIPARUS BENGALENSIS (SNAIL) 0.060 PPM COPPER /96 HR @ 32.5 °C; 0.066 PPM COPPER /96 HR @ 24 °C; 0.09 @ 27.3 °C; &amp; 0.39 PPM COPPER/96 HR @ 20.3 °C /STATIC BIOASSAY/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

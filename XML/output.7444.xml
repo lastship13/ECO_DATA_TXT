@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>7444</ns0:RecordNumber>
+  <ns0:RecordTitle>2-Methyl-5-nitroaniline</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Pseudokirchneriella subcapitata (Green algae, log growth phase); Conditions: freshwater, static, 25 °C, pH 6.0-7.5; Concentration: 101.5 uM for 96 hr (95% confidence interval: 59.4-175.5 uM); Effect: decreased population abundance /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea, first instar larvae); Conditions: freshwater, static, 20 °C, pH 7.2-8.6, hardness 26 mg/L CaCO3, alkalinity 45 mg/L CaCO3, dissolved oxygen 8.7 mg/L (8.6-8.8 mg/L); Concentration: 22500 ug/L for 48 hr; Effect: intoxication, immobilization /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow, juvenile, length 2.4 cm, weight 0.28 g); Conditions: freshwater, static, 20.3 °C (19.5-22.0 °C), pH 7.6 (6.0-9.2), hardness 29.6 mg/L CaCO3 (12.0-43.0 mg/L), alkalinity 31.0 mg/L CaCO3 (15.0-60.0 mg/L), dissolved oxygen 7.2 mg/L (2.8-9.4 mg/L); Concentration: 68800 ug/L for 96 hr (95% confidence interval: 64200-74200 ug/L) /95-99% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow, juvenile, weight 0.09 g, length 1.9 cm); Conditions: freshwater, static, 20 °C, pH 7.2-8.6, hardness 26 mg/L CaCO3, alkalinity 45 mg/L CaCO3, dissolved oxygen 8.2 mg/L (8.2-8.3 mg/L); Concentration: 71300 ug/L for 96 hr /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

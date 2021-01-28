@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>7285</ns0:RecordNumber>
+  <ns0:RecordTitle>1,2,3-Trichloropropane</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Chlamydomonas angulosa (Green algae) age 72-96 hr, exponential growth phase, 5X10+4 cells/mL; Conditions: static, 19 °C, pH 6.5; Concentration: 760 mmol/cu m for 3 hr; Effect: physiology, photosynthesis /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Chlorella vulgaris (Green algae) age 72-96 hr, exponential growth phase, 20X10+4 cells/mL; Conditions: static, 19 °C, pH 6.5; Concentration: 1150 mmol/cu m for 3 hr; Effect: physiology, photosynthesis /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Selenastrum capricornutum (Green algae); Concentration: 49.6 mg/L for 72 hr; Effect: inhibition of biomass formation /Conditions of bioassay not specified in source examined/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Selenastrum capricornutum (Green algae); Concentration: 101 mg/L for 72 hr; Effect: inhibition of growth rate /Conditions of bioassay not specified in source examined/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Ceriodaphnia dubia (Water flea); Conditions: freshwater, static, pH 7.7, hardness 65.2 mg/L CaCO3, conductivity 500 umhos/cm; Concentration: 28 umol/L for 48 hr (95% confidence interval: 18-44 umol/L); Effect: intoxication, immobilization /&gt;97% pure/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>/LC50/; Species: Daphnia magna (Water flea) neonate age &lt;24 hr; Conditions: freshwater, renewal, 22.2 °C (22-22.2 °C), pH 8.23 (8.0-8.4), hardness 142.3 mg/L CaCO3 (125-176 mg/L CaCO3), alkalinity 96.2 mg/L CaCO3 (82-107 mg/L CaCO3), conductivity 348 umhos/cm (320-400 umhos/cm), dissolved oxygen 92.6% (90.7-92.7%); Concentration: 33800 ug/L for 48 hr (95% confidence interval: 27800-41100 ug/L) /99% pure/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea); Conditions: static (closed glass flasks); Concentration: 20 mg/L for 48 hr (95% confidence interval: 15-27 ug/L); Effect: immobilzation</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water flea); Conditions: static; Concentration: 41 mg/L for 24 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water flea); Conditions: static; Concentration: 20 mg/L for 48 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout); Concentration: 75 mg/L for 24 hr /Conditions of bioassay not specified in source examined/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout); Concentration: 64 mg/L for 48 hr /Conditions of bioassay not specified in source examined/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout); Concentration: 42 mg/L for 96 hr /Conditions of bioassay not specified in source examined/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Poecilia reticulata (guppies) 42 ppm 7 day exposure /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow) age 30 days, length 14 mm, weight 0.032 g; Conditions: freshwater, flow through, 21.2 °C (19.9-22.1 °C), pH 7.49 (6.68-7.74), hardness 75 mg/L CaCO3 (52-113.2 mg/L CaCO3), alkalinity 46 mg/L CaCO3 (42.8-54.4 mg/L CaCO3), conductivity 120 umhos/cm (120-122 umhos/cm), dissolved oxygen 89.4% (88-91.6%); Concentration: 50800 ug/L for 96 hr /99% pure/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow) age 30 days, length 13 mm, weight 0.026 g; Conditions: freshwater, static, 21.5 °C (20.3-23.4 °C), pH 7.32 (7.05-7.69), hardness 63.1 mg/L CaCO3 (52.8-79.9 mg/L CaCO3), alkalinity 42.6 mg/L CaCO3 (25.6-50.0 mg/L CaCO3), conductivity 130 umhos/cm (130-140 umhos/cm), dissolved oxygen 82.2% (80.1-90.0%); Concentration: 27400 ug/L for 96 hr (95% confidence interval: 25900-28900 ug/L) /99% pure/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow) age 31-32 days, mean length 17.9 mm, mean weight 0.077 g; Conditions: freshwater, flow through, 24.6 °C, pH 8.0, hardness 44.1 mg/L CaCO3, alkalinity 40.1 mg/L CaCO3, dissolved oxygen 7.9 mg/L; Concentration: 66.5 mg/L for 96 hr /99+% pure/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill); Conditions: static bioassay, temperature 21-23 °C, water hardness 40-45 mg CaCO3/L, pH 7.2-7.6; Concentration: 75 mg/L for 96 hours.</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

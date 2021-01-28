@@ -1,0 +1,211 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>2871</ns0:RecordNumber>
+  <ns0:RecordTitle>Coumaphos</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: /Anas platyrhynchos/ (Mallard) male age 3-4 months; oral 29.8 mg/kg (95% confidence limit 21.5-41.3 mg/kg) /purity: 95%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Anas platyrhynchos (Mallard Duck) chemical incorporated into food 401 ppm for 8 days (95% confidence interval: 277-592.71 ppm)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Colinus virginianus (Northern Bobwhite Quail) chemical incorporated into food 85 ppm for 8 days (95% confidence interval: 70-102 ppm)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Colinus virginianus (Northern Bobwhite Quail) oral via capsule 2.36 mg/kg (95% confidence interval: 1.12-3.26 mg/kg)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Apis mellifera (Honey Bee) worker bee; environmental, unspecified 0.57 ug/bee for 24 hr (95% confidence interval: 0.25-0.79 ug/bee)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Apis mellifera (Honey Bee) worker bee age 4 days; topical, general 20.29 ug/bee for 24 hr (95% confidence interval: 14.88-29.44 ug/bee)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Salvelinus namaycush (lake trout) weight 2.1 g; Conditions: static lab bioassay, 12 °C; Concentration: 593 ug/L for 96 hr (95% confidence limit: 416-846 ug/L) /Technical material, 95-97%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ictalurus punctatus (Channel Catfish) weight 1 g; Conditions: freshwater, static, 18 °C, , pH 7.4, hardness 44 mg/L CaCO3; Concentration: 5200 ug/L for 24 hr (95% confidence interval: 2980-9070 ug/L) /95% purity technical material/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ictalurus punctatus (channel catfish) weight 1.0 g; Conditions: static lab bioassay, 18 °C; Concentration: 840 ug/L for 96 hr (95% confidence limit: 620-1,140 ug/L) /Technical material, 95-97%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Micropterus salmoides (Largemouth Bass) weight 0.9 g; Conditions: freshwater, static, 18 °C, , pH 7.4, hardness 272 mg/L CaCO3; Concentration: 1500 ug/L for 24 hr (95% confidence interval: 1100-2000 ug/L) /95% purity technical material/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Micropterus salmoides (largemouth bass) weight 0.9 g; Conditions: static lab bioassay, 18 °C; Concentration: 1,100 ug/L for 96 hr (95% confidence limit: 1,000- 1,200 ug/L) /Technical material, 95-97%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (bluegill) weight 1.3 g; Conditions: static lab bioassay, 18 °C; Concentration: 340 ug/L for 96 hr /Technical material, 95-97%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Stizostedion vitreum (walleye) weight 0.8 g; Conditions: static lab bioassay, 18 °C; Concentration: 780 ug/L for 96 hr (95% confidence limit: 645-943 ug/L) /Technical material, 95-97%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Salmo clarki (cutthroat trout) weight 0.3 g; Conditions: static lab bioassay, 12 °C; Concentration: 862 ug/L for 96 hr (95% confidence limit: 645-1,150 ug/L) /Technical material, 95-97%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Gammarus fasciatus (scuds), mature; Conditions: static lab bioassay, 21 °C; Concentration: 0.074 ug/L for 96 hr (95% confidence limit 0.059-0.092 ug/L) /Technical material, 95-97%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: /Oncorhynchus mykiss/ (rainbow trout) weight 1.2 g; Conditions: static lab bioassay, 12 °C; Concentration: 890 ug/L for 96 hr /Technical material, 95-97%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna /(Water flea)/; Concentration: 1.0 ug/L for 48 hr /Conditions of bioassay not specified/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Crassostrea virginica (eastern oyster) larvae; Concentration: &gt;1000 ug/L for 14 days</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Crassostrea virginica (Eastern oyster) egg; Concentration: 110 ug/L for 48 hr /Conditions of bioassay not specified in source examined/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Mercenaria mercenaria (hard clam) egg; Concentration: 9120 ug/L for 48 hr /Conditions of bioassay not specified in source examined/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Mercenaria mercenaria (hard clam)  larvae; Concentration: 1470 ug/L for 12 days /Conditions of bioassay not specified in source examined/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill); Conditions: freshwater, static; Concentration: 5300 ug/L for 96 hr (95% confidence interval: 4000-6900 ug/L) /99.6% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow Trout); Conditions: freshwater, static; Concentration: 5900 ug/L for 96 hr (95% confidence interval: 5090-6850 ug/L) /99.6% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (fish); Concentration: 18,000 ug/L for 96 hr /Conditions of bioassay not specified in source examined/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphina magnia (water flea); Concentration: 1.0 ug/L for 48 hr /Conditions of bioassay not specified in source examined/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Gammarus lacustris (Scud); Conditions: freshwater, static; Concentration: 0.14 ug/L for 48 hr (95% confidence interval: 0.082-0.24 ug/L) /97% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Gammarus lacustris (Scud) juvenile; Conditions: freshwater, static; Concentration: 0.224 ug/L for 48 hr (95% confidence interval: 0.201-0.246 ug/L) /99% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Gammarus lacustris (Scud); Conditions: freshwater, static; Concentration: 0.15 ug/L for 96 hr (95% confidence interval: 0.11-0.2 ug/L) /95% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

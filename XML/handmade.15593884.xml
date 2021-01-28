@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf8'?>
+<Excel_XML>
+  <RECORDS>
+    <index>154</index>
+    <name>Benzenesulfonic acid, 4-C10-13-sec-alkyl derivs.</name>
+    <CAS>85536-14-7</CAS>
+    <IUPAC>4-(tridecan-3-yl)benzene-1-sulfonic acid</IUPAC>
+    <SMILES>CCCCCCCCCCC(CC)C1=CC=C(C=C1)S(O)(=O)=O</SMILES>
+    <Toxicity>Daphnia_EC50 : 5.2 mg/L  Daphnia_Duration : 48 hr  Daphnia_Further_info : Fisher Scientific ; SAFETY DATA SHEET</Toxicity>
+  </RECORDS>
+</Excel_XML>

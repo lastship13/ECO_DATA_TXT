@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>5870</ns0:RecordNumber>
+  <ns0:RecordTitle>Estrone</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Acartia tonsa (Calanoid Copepod, eggs); Conditions: saltwater, renewal; Concentration: 410 ug/L for 5 days (95% confidence interval: 210-810 ug/L); Effect: decreased larval development; slowed, retarded, delayed or non-development /99% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Neomysis integer (Opossum Shrimp, juvenile, length 2-4 mm); Conditions: freshwater, renewal, 15 °C; Concentration: &gt;10000 ug/L for 96 hr /100% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Tisbe battagliai (Harpacticoid copepod, age &lt;24 hr nauplii); Conditions: saltwater, renewal, 19.4-21.0 °C, pH 7.11-8.42, salinity 34.75-35.55 ppt, dissolved oxygen 7.0-8.4 mg/L; Concentration: &gt;100 ug/L for 10 days /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Tisbe battagliai (Harpacticoid copepod, age &lt;24 hr nauplii); Conditions: saltwater, renewal, 19.4-21.0 °C, pH 7.11-8.42, salinity 34.75-35.55 ppt, dissolved oxygen 7.0-8.4 mg/L; Concentration: &gt;100 ug/L for 21 days /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Danio rerio (Zebra danio, age 20 days posthatch); Conditions: freshwater, renewal, 26 °C; Concentration: 0.078 ug/L for 18 days; Effect: whole body vitellogenin induction /100% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Danio rerio (Zebra danio, age 6-8 months female adult); Conditions: freshwater, renewal, 25-28 °C, pH 8.0-8.5, hardness 140-145 mg/L CaCO3; Concentration: 0.753 nM for 3 wk; Effect: increased plasma vitellogenin /98% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Danio rerio (Zebra danio, age 6-8 months female adult); Conditions: freshwater, renewal, 25-28 °C, pH 8.0-8.5, hardness 140-145 mg/L CaCO3; Concentration: 1.72 nM for 3 wk; Effect: decreased ovary weight in relationship to body weight /98% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Strongylocentrotus purpuratus (Purple Sea Urchin, age 1 hr postfertilization embryo); Conditions: saltwater, static, 17 °C; Concentration: 604.4 ug/L for 95 hr (95% confidence interval: 492.6-706.6 ug/L); Effect: increased abnormal development /100% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

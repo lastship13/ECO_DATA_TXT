@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf8'?>
+<Excel_XML>
+  <RECORDS>
+    <index>159</index>
+    <name>Dodecanal</name>
+    <CAS>112-54-9</CAS>
+    <IUPAC>dodecanal</IUPAC>
+    <SMILES>CCCCCCCCCCCC=O</SMILES>
+    <Toxicity>Daphnia_EC50 : 0.27 mg/L  Daphnia_Duration : 48 hr  Daphnia_Further_info : Kimberly-Clark Australia Pty. Limited ; SAFETY DATA SHEET</Toxicity>
+  </RECORDS>
+</Excel_XML>

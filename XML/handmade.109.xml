@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf8'?>
+<Excel_XML>
+  <RECORDS>
+    <index>109</index>
+    <name>Dimethyl siloxane</name>
+    <CAS>63148-62-9</CAS>
+    <IUPAC>poly(dimethylsiloxane)</IUPAC>
+    <SMILES>C[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)C</SMILES>
+    <Toxicty>Daphnia_LC50 : 307.11 (163.26-852.16) AI mg/L  Daphnia_Duration : 72 ~ 96 hr  Daphnia_Further_info : echotox ; Age : 1-48 Hour(s) (Instar)</Toxicty>
+  </RECORDS>
+</Excel_XML>

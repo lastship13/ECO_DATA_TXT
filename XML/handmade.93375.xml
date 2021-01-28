@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf8'?>
+<Excel_XML>
+  <RECORDS>
+    <index>42</index>
+    <name>2,4-dimethylcyclohex-3-ene-1-carbaldehyde</name>
+    <CAS>68039-49-6</CAS>
+    <IUPAC>2,4-dimethylcyclohex-3-ene-1-carbaldehyde</IUPAC>
+    <SMILES>CC1C=C(CCC1C=O)C</SMILES>
+    <Toxicity>Daphnia_EC50 : 22.4 mg/L  Daphnia_Duration : 48 hrs  Daphnia_Further_info : Vigon Internatinal, Inc. (pdf)</Toxicity>
+  </RECORDS>
+</Excel_XML>

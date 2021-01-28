@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>6643</ns0:RecordNumber>
+  <ns0:RecordTitle>4-Tert-Amylphenol</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (fathead minnow, weight 102 mg); Conditions: flow-through bioassay, dissolved oxygen 7.4 (4.6-8.8) mg/L, water hardness 44.9 (42.4-46.6) mg/L as CaCO3, pH 6.9-7.7, alkalinity 42.9 (39.6-61.4) mg/L CaCO3, temp: 26.4 +/- 1.4 °C; Concentration: 3.17 (2.94-3.42) mg/L for 24 hr /Purity 98%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (fathead minnow, weight 102 mg); Conditions: flow-through bioassay, dissolved oxygen 7.4 (4.6-8.8) mg/L, water hardness 44.9 (42.4-46.6) mg/L as CaCO3, pH 6.9-7.7, alkalinity 42.9 (39.6-61.4) mg/L CaCO3, temp: 26.4 +/- 1.4 °C; Concentration: 2.58 (2.49-2.68) mg/L for 48 hr /Purity 98%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (fathead minnow, weight 102 mg); Conditions: flow-through bioassay, dissolved oxygen 7.4 (4.6-8.8) mg/L, water hardness 44.9 (42.4-46.6) mg/L as CaCO3, pH 6.9-7.7, alkalinity 42.9 (39.6-61.4) mg/L CaCO3, temp: 26.4 +/- 1.4 °C; Concentration: 2.50 (1.87-3.34) mg/L for 72 and 96 hr /Purity 98%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Crangon septemspinosa (shrimp); Conditions: aerated gently and changed at 49 hr; Concentration: 1.7 mg/L for 96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Cyprinus carpio (Common carp, male, age 50 days posthatch, weight 1.3-1.7 g); Conditions: freshwater, flow through, 25 °C, pH 7.6, hardness about 210 mg/L CaCO3, dissolved oxygen 4-6 mg/L; Concentration: 63 ug/L for 30 days; Effect: sexual development interference, formation of oviduct in genetic male /&gt;99% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cyprinus carpio (Common carp, weight 0.5-1.1 g); Conditions: freshwater, renewal, 25 °C, pH 7.6, hardness about 210 mg/L CaCO3, dissolved oxygen 4-6 mg/L; Concentration: 1600 ug/L for 96 hr /&gt;99% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+    </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

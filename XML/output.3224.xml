@@ -1,0 +1,589 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>3224</ns0:RecordNumber>
+  <ns0:RecordTitle>Endosulfan</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Colinus virginianus (Bobwhite quail, age 9 days) oral (in food) 805 ppm for 5 days (95% confidence limit: 690-939 ppm)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Colinus virginianus (Northern bobwhite) oral via capsule 42 mg/kg (95% confidence interval: 32-56 mg/kg)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Coturnix japonica (Japanese quail, age 14 days) oral (in food) approx 1250 ppm for 5 days</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Coturnix japonica (Japanese quail, juvenile, age 14 days post hatch) oral in food 2160 ppm for 5 days (95% confidence interval: 1658-2815 ppm)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Phasianus colchicus (Ring-necked pheasant, age 10 days) oral via capsule 1275 ppm (95% confidence limit: 1098-1482 ppm)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Phasianus colchicus (ring-necked pheasant, age 3-4 months) intragastric 190 mg/kg bw (95% confidence interval: 137-263 mg/kg bw)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Phasianus colchicus (ring-necked pheasant, age 12 months) intragastric &gt;320 mg/kg bw</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Anas platyrhynchos (Mallard duck, age 16 days) oral via capsule 1053 ppm for 5 days (95% confidence limit: 781-1540 ppm)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Anas platyrhynchos (Mallard duck, age 12 months) intragastric 31.2 mg/kg bw (95% confidence interval: 20.8-46.6 mg/kg bw)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Anas platyrhynchos (Mallard duck, age 3 months) intragastric 33.0 mg/kg bw (95% confidence interval: 23.8-45.8 mg/kg bw)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Anas platyrhynchos (Mallard duck) oral via capsule 28 mg/kg (95% confidence interval: 22-36 mg/kg)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Apis mellifera (Honey bee, adult) foliar spray &gt;0.77 AI lb/acre for 24 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Apis mellifera (Honey bee) dermal 275.0 ug/g bee for 24 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Apis mellifera (Honey bee, adult worker) chemical incorporated into the food 4.4 ug for 24 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Apis mellifera (Honey bee, adult worker) topical, general (bees were exposed to test chemical on the ventral surface of thorax) 7.1 ug for 24 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Chlorella vulgaris (Green algae, log growth phase); Conditions: freshwater, static; Concentration:  41500 ug/L for 10 days; Effect: growth, general /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Pseudokirchneriella subcapitata (Green algae); Conditions: freshwater, static, 25 °C; Concentration:  427.8 ug/L for 96 hr (95% confidence interval: 283.32-510.43 ug/L); Effect: decreased population abundance</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC100; Species: Bufo bufo (true toad); Concentration: 15 ug/L for 24 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea, age &lt;24 hr neonate); Conditions: freshwater, static, 25 °C; Concentration: 166.44 ug/L for 5 hr (95% confidence interval: 138.25-218.66 ug/L); Effect: decreased food consumption</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea, age &lt;24 hr neonate); Conditions: freshwater, static, 25 °C; Concentration: 165.57 ug/L for 5 hr (95% confidence interval: 139.12-233.79 ug/L); Effect: decreased feeding efficiency</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea, age &lt;24 hr neonate); Conditions: freshwater, static, 25 °C; Concentration: 366.33 ug/L for 5 hr (95% confidence interval: 228.67-514.67 ug/L); Effect: immobilization</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea, age &lt;24 hr); Conditions: freshwater, static, 25 °C; Concentration: 440 ug/L for 5 hr; Effect: behavior, filtration rate /96% purity technical endosulfan/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea, age &lt;24 hr); Conditions: freshwater, static; Concentration: 610 ug/L for 5 hr; Effect: feeding behavior, general /96% purity technical endosulfan/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water flea, age &lt;24 hr neonate); Conditions: freshwater, static, 20 °C; Concentration: 1820 ug/L for 48 hr (95% confidence interval: 1485-2239 ug/L) /40% purity, Thiodan 4EC/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water flea, age &lt;24 hr neonate); Conditions: freshwater, static, 20 °C; Concentration: 1920 ug/L for 48 hr (95% confidence interval: 1539-2395 ug/L) /50% purity WP; Thiodan, 67% alpha isomer/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water flea, age &lt;24 hr neonate); Conditions: freshwater, static, 20 °C; Concentration: 840 ug/L for 48 hr (95% confidence interval: 642-1113 ug/L) /99% purity Endosulfan, 60% alpha, 40% beta/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water flea, age &lt;24 hr juvenile); Conditions: freshwater, static, 22 °C, pH 7.9, hardness 250 mg/L CaCO3; Concentration: 620 ug/L for 24 hr /Endosulfan, 95% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Gammarus lacustris (Scud, mature); Conditions: static bioassay, 21 °C; Concentration: 5.8 ug/L for 96 hr (95% confidence limit: 4.1-8.1 ug/L) /Technical material 96%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pteronarcys californica (Stone flies, second year class); Conditions: static bioassay, 15 °C; Concentration: 2.3 ug/L for 96 hr (95% confidence limit: 1.6-3.3 ug/L) /Technical material 96%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cyprinus carpio (Common carp, weight 20 g); Conditions: freshwater, static, 28 °C, pH 7.6, hardness 100 mg/L CaCO3, dissolved oxygen 5.97 mg/L; Concentration: 2200 ug/L for 48 hr /35% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cyprinus carpio (Common carp, age 25-33 days, length 2.4-2.7 cm, weight 0.19-0.28 g); Conditions: freshwater, static, 25 °C, pH 6.9-7.2; Concentration: 1.5 ug/L for 24 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cyprinus carpio (Common carp, age 17-19 days, length 1.4-1.7 cm, weight 0.020-0.068 g); Conditions: freshwater, static, 25 °C, pH 6.9-7.2; Concentration: 1.6 ug/L for 24 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cyprinus carpio (Common carp, age 9-10 days, length 1.0-1.4 cm, weight 0.007-0.020 g); Conditions: freshwater, static, 25 °C, pH 6.9-7.2; Concentration: 11 ug/L for 24 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cyprinus carpio (Common carp, age 50-60 days, length 3.4-4.5 cm, weight 0.62-1.37 g); Conditions: freshwater, static, 25 °C, pH 6.9-7.2; Concentration: 2.0 ug/L for 24 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cyprinus carpio (Common carp, eyed egg, eyed embryo); Conditions: freshwater, static, 25 °C, pH 6.9-7.2; Concentration: 2500 ug/L for 24 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cyprinus carpio (Common carp, weight 7 g); Conditions: freshwater, renewal, 28 °C, pH 7, hardness 43.4 mg/L CaCO3, alkalinity 25.2 mg/L CaCO3, dissolved oxygen 5.7 mg/L; Concentration: 9.5 ug/L for 96 hr /95.5% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cyprinus carpio (Common carp, length 50 mm); Conditions: freshwater, renewal, 25 °C, pH 8, hardness 100 mg/L CaCO3, alkalinity 70 mg/L CaCO3; Concentration: 0.1 ug/L for 96 hr (95% confidence interval: 0.07-0.21 ug/L) /96.2% purity, Alpha:Beta 70:30/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cyprinus carpio (carp); Concentration: 10 ug/L for 48 hr /From table; Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Danio rerio (Zebra danio, adult, length 3.5 cm, weight 0.18 g); Conditions: freshwater, renewal, 25 °C, pH 7.1, hardness 35 mg/L CaCO3, dissolved oxygen 5.1 mg/L; Concentration: 1.6 ug/L for 24 hr (95% confidence interval: 1.3-2.1 ug/L) /97% purity mixture of Alpha/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Danio rerio (Zebra danio, length 2.5 cm); Conditions: freshwater, static, 22 °C, pH 7.8-8, hardness 150 mg/L CaCO3; Concentration: &lt;1000 ug/L for 24 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Gambusia affinis (Western mosquitofish, weight 0.12-0.21 g); Conditions: freshwater, static, 30 °C, dissolved oxygen 60%; Concentration: 2.0 ug/L for 96 hr; Effect: behavior, equilibrium /technical, 96.2% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Gambusia affinis (Western mosquitofish, weight 0.12-0.21 g); Conditions: freshwater, static, 35 °C, dissolved oxygen 60%; Concentration: 4.6 ug/L for 96 hr; Effect: behavior, equilibrium /technical, 96.2% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Gambusia affinis (Western mosquitofish, length 4.5-6 cm); Conditions: freshwater, static, 17.6-24 °C; Concentration: 37 ug/L for 24 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Gambusia affinis (Western mosquitofish, length 40 mm); Conditions: freshwater, static, 25 °C, pH 7.5, hardness 45 mg/L CaCO3, alkalinity 25 mg/L CaCO3; Concentration: 2.3 ug/L for 96 hr (95% confidence interval: 2.0-2.6 ug/L) /96.2% purity, Alpha:Beta 70:30/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Gambusia affinis (Western mosquitofish, adult, weight 0.289 g, length 2.76 cm); Conditions: freshwater, static; Concentration: 1.3 ug/L for 96 hr (95% confidence interval: 1.14-1.43 ug/L) /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ictalurus punctatus (Channel catfish, weight 1.7 g); Conditions: static bioassay, 18 °C; Concentration: 1.5 ug/L for 96 hr (95% confidence limit: 1.3-1.7 ug/L) /Technical material 96%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill, weight 1.0 g); Conditions: static bioassay, 18 °C; Conditions: 1.2 ug/L for 96 hr (95% confidence limit: 0.9-1.7 ug/L) /Technical material 96%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill); Conditions: freshwater, static; Concentration: 1.7 ug/L for 96 hr (95% confidence interval: 1.0-2.1 ug/L) /100% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill); Conditions: freshwater, static; Concentration: 10.5 ug/L for 96 hr (95% confidence interval: 8.1-13.6 ug/L) /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill); Conditions: freshwater, static; Concentration: 2.08 ug/L for 96 hr (95% confidence interval: 1.78-2.43 ug/L) /86% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill); Conditions: freshwater, static; Concentration: 3.3 ug/L for 96 hr (95% confidence interval: 2.5-4.1 ug/L) /96.6% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill); Conditions: freshwater, static; Concentration: 3.9 ug/L for 96 hr (95% confidence interval: 3.0-5.1 ug/L) /50% purity wettable powder/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill); Conditions: freshwater, static; Concentration: 5.6 ug/L for 96 hr (95% confidence interval: 4.5-7.4 ug/L) /33.7% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Menidia beryllina (Inland silverside, 28 day old larvae, weight 26.6 mg, length 13.9 mm); Conditions: saltwater, static, 25 °C, pH 7.1-8.2, salinity 20 ppt, dissolved oxygen 45-97 mg/L; Concentration: 1.5 ug/L for 96 hr (95% confidence interval: 1.4-1.5 ug/L) /99% AI formulation/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout, juvenile, weight  10.61 g, length 10.0 cm); Conditions: freshwater, renewal, 12.1 °C, pH 8.17, hardness 33.3 mg/L CaCO3, alkalinity 16.5 mg/L CaCO3, dissolved oxygen 8.17 mg/L; Concentration: 19.78 ug/L for 24 hr (95% confidence interval: 19.08-20.47 ug/L) /32.9% purity, Thiodan/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout, 3 month old juvenile, weight  1.3 g, length 4.2 cm); Conditions: freshwater, static, 15 °C; Concentration: 1.5 ug/L for 24 hr (95% confidence interval: 1.0-2.0 ug/L) /99% purity, 60% Alpha, 40% Beta/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout, 3 month old juvenile, weight  1.3 g, length 4.2 cm); Conditions: freshwater, static, 15 °C; Concentration: 6.6 ug/L for 24 hr (95% confidence interval: 5.0-10.0 ug/L) /50% purity wettable powder, Thiodan 67% Alpha isomer/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout, 3 month old juvenile, weight  1.3 g, length 4.2 cm); Conditions: freshwater, static, 15 °C; Concentration: 9.3 ug/L for 24 hr (95% confidence interval: 6.8-13.6 ug/L) /40% purity emulsifiable concentrate, Thiodan/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout, juvenile, weight  10.61 g, length 10.0 cm); Conditions: freshwater, renewal, 12.1 °C, pH 8.17, hardness 33.3 mg/L CaCO3, alkalinity 16.5 mg/L CaCO3, dissolved oxygen 8.17 mg/L; Concentration: 8.89 ug/L for 48 hr (95% confidence interval: 8.28-9.52 ug/L) /32.9% purity, Thiodan/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout, 3 month old juvenile, weight  1.3 g, length 4.2 cm); Conditions: freshwater, static, 15 °C; Concentration: 0.7 ug/L for 96 hr (95% confidence interval: 0.6-0.8 ug/L) /99% purity, 60% Alpha, 40% Beta/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout, 3 month old juvenile, weight  1.3 g, length 4.2 cm); Conditions: freshwater, static, 15 °C; Concentration: 3.5 ug/L for 96 hr (95% confidence interval: 3.1-3.9 ug/L) /50% purity wettable powder, Thiodan 67% Alpha isomer/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout, 3 month old juvenile, weight  1.3 g, length 4.2 cm); Conditions: freshwater, static, 15 °C; Concentration: 4.6 ug/L for 96 hr (95% confidence interval: 4.0-5.2 ug/L) /40% purity emulsifiable concentrate, Thiodan/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout, juvenile, weight  10.61 g, length 10.0 cm); Conditions: freshwater, renewal, 12.1 °C, pH 8.17, hardness 33.3 mg/L CaCO3, alkalinity 16.5 mg/L CaCO3, dissolved oxygen 8.17 mg/L; Concentration: 1.75 ug/L for 96 hr (95% confidence interval: 1.58-1.96 ug/L) /32.9% purity, Thiodan/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout, weight 1.3 g); Conditions: static bioassay, 13 °C; Concentration: 1.4 ug/L for 96 hr (95% confidence limit: 1.2-1.6 ug/L) /Technical material 96%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout, length 55 mm); Conditions: freshwater, static, 12 °C, pH 7.5, hardness 45 mg/L CaCO3, alkalinity 25 mg/L CaCO3; Concentration: 0.7 ug/L for 96 hr (95% confidence interval: 0.5-0.9 ug/L) /96.2% purity, Alpha:Beta 70:30/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout, length 55 mm); Conditions: freshwater, static, 4 °C, pH 7.5, hardness 45 mg/L CaCO3, alkalinity 25 mg/L CaCO3; Concentration: 1.6 ug/L for 96 hr (95% confidence interval: 1.4-1.9 ug/L) /96.2% purity, Alpha:Beta 70:30/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout, weight  0.6 g, 40 mm fork length); Conditions: freshwater, flow through, 12 °C, hardness 27 mg/L CaCO3; Concentration: 0.3 ug/L for 96 hr (95% confidence interval: 0.3-0.4 ug/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout, weight  0.8 g, 45 mm fork length); Conditions: freshwater, flow through, 13 °C, hardness 40 mg/L CaCO3; Concentration: 0.4 ug/L for 96 hr (95% confidence interval: 0.3-0.5 ug/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow, weight 0.7 g); Conditions: freshwater, static, 18 °C, pH 7.1, hardness 44 mg/L CaCO3; Concentration: 2.4 ug/L for 24 hr (95% confidence interval: 2.1-2.8 ug/L) /96% purity, technical material/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow, juvenile age 30-40 days); Conditions: freshwater, flow through, 23.8 °C, pH 7.3-7.8, hardness 47 mg/L CaCO3, alkalinity 43 mg/L CaCO3, dissolved oxgyen 7.58 mg/L; Concentration: 1.84 ug/L for 24 hr (95% confidence interval: 1.65-2.05 ug/L) /I and II isomers/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow, juvenile age 30-40 days); Conditions: freshwater, flow through, 23.8 °C, pH 7.3-7.8, hardness 47 mg/L CaCO3, alkalinity 43 mg/L CaCO3, dissolved oxgyen 7.58 mg/L; Concentration: 1.32 ug/L for 96 hr (95% confidence interval: 1.13-1.54 ug/L) /I and II isomers/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow, weight 0.1g, 16 mm fork length); Conditions: freshwater, flow through, 22 °C, hardness 39 mg/L CaCO3; Concentration: 1.0 ug/L for 96 hr (95% confidence interval: 0.8-1.3 ug/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow, weight 0.2 g, 28 mm fork length); Conditions: freshwater, flow through, 21 °C, hardness 33 mg/L CaCO3; Concentration: 1.7 ug/L for 96 hr (95% confidence interval: 1.5-2.3 ug/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow, weight 0.1 g, 17 mm fork length); Conditions: freshwater, static, 20 °C, hardness 41 mg/L CaCO3; Concentration: 0.8 ug/L for 96 hr (95% confidence interval: 0.8-0.9 ug/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow, weight 0.1 g, 17 mm fork length); Conditions: freshwater, static, 20 °C, hardness 36 mg/L CaCO3; Concentration: 1.3 ug/L for 96 hr (95% confidence interval: 0.8-2.2 ug/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow, weight 0.7 g); Conditions: static bioassay, 18 °C; Concentration: 1.5 ug/L for 96 hr (95% confidence limit: 1.1-2.0 ug/L) /Technical material 96%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow); Conditions: freshwater, static; Concentration: 0.86 ug/L for 7 days (95% confidence interval: 0.52-1.4 ug/L) /99% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Channa punctata; Concentration: 0.16 ppb for 96 hr (Isomer A), 2.5 ppb for 96 HR (35% EC), 4.8 ppb for 96 hr (Technical grade), 6.6 ppb for 96 hr (Isomer B), 16 ppb for 96 hr (4% dust) /Conditions of bioassay not specified in source examined/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC100; Species: Esox lucius (northern pike); Concentration: 5 ug/L for 24 hr /From table; Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Carassius auratus (goldfish); Concentration: 8 ug/L for 24 hr /From table; Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC100; Species: Carassius auratus (goldfish); Concentration: 10 ug/L for 24 hr /From table; Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lebistes reticulatus; Concentration: 5 ug/L for 24 hr /From table; Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

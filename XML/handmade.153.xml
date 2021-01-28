@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf8'?>
+<Excel_XML>
+  <RECORDS>
+    <index>153</index>
+    <name>Linalyl acetate</name>
+    <CAS>115-95-7</CAS>
+    <IUPAC>3,7-dimethylocta-1,6-dien-3-yl acetate</IUPAC>
+    <SMILES>CC(=CCCC(C)(C=C)OC(=O)C)C</SMILES>
+    <Toxicty>Daphnia_EC50 :  15 mg/L  Daphnia_Duration : 48hr  Daphnia_Further_info : EC50; Species: Daphnia magna (water flea) &lt; or = 24 hr old; Conditions: static, 20 + or - 1 °C, water hardness 240 mg/L (CaCO3), pH 7.7-8.0; Concentration: 15 mg/L for 48 hr; Effect: immobility /Purity 97.1%/ Organization for Economic Cooperation and Development; Screening Information Data Set for LINALYL ACETATE (115-95-7) p.15 &amp; 42 (March 2002). Available from, as of July 14, 2008: http://www.chem.unep.ch/irptc/sids/OECDSIDS/sidspub.html Hazardous Substances Data Bank (HSDB)</Toxicty>
+  </RECORDS>
+</Excel_XML>

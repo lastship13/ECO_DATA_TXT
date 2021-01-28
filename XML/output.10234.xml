@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>10234</ns0:RecordNumber>
+  <ns0:RecordTitle>Binapacryl</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Asellus brevicaudus 29 ug/l/96 hr @ 16 °C, mature. Static bioassay without aeration, pH 7.2-7.5, water hardness 40-50 mg/l as CaCO3 and alkalinity of 30-35 mg/l. Technical material, 99.9%.</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Rainbow trout 50 ug/l/96 hr @ 13 °C (95% confidence limit 46-55 ug/l), wt 1.1 g. Static bioassay without aeration, pH 7.2-7.5, water hardness of 40-50 mg/l as CaCo3 and alkalinity of 30-35 mg/l. Technical material, 99.9%.</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Channel catfish 15 ug/l/96 hr @ 18 °C, wt 1.4 g. Static bioassay without aeration, pH 7.2-7.5, water hardness 40-50 mg/l as CaCO3 and alkalinity of 30-35 mg/l. Technical material, 99.9%.</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Green sunfish 43 ug/l/96 hr @ 18 °C (95% confidence limit 37-50 ug/l), wt 0.8 g. Static bioassay without aeration, pH 7.2-7.5, water hardness 40-50 mg/l as CaCO3 and alkalinity of 30-35 mg/l. Technical material, 99.9%.</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Bluegill 40 ug/l/96 hr @ 18 °C (95% confidence limit 34-47 ug/l), wt 1.3 g. Static bioassay without aeration, pH 7.2-7.5, water hardness 40-50 mg/l as CaCO3 and alkalinity of 30-35 mg/l. Technical material, 99.9%.</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+    </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

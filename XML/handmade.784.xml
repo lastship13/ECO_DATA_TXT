@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf8'?>
+<Excel_XML>
+  <RECORDS>
+    <index>155</index>
+    <name>Hydrogen peroxide</name>
+    <CAS>7722-84-1</CAS>
+    <IUPAC>hydrogen peroxide</IUPAC>
+    <SMILES>OO</SMILES>
+    <Toxicity>Fathead_minnow_LC50 : 16.4 mg/L  Fathead_minnow_Duration : 96 hr  Fathead_minnow_Further_info : Merck KGaA ; MSDS</Toxicity>
+    <Toxicity>Daphnia_EC50 : 2.4 mg/L   Daphnia_Duration : 48 hr  Daphnia_Further_info : PeroxyChem LLC ; SAFETY DATA SHEET</Toxicity>
+  </RECORDS>
+</Excel_XML>

@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>91753</ns0:RecordNumber>
+  <ns0:RecordTitle>Pyriproxyfen</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia carinata sensu lato /Cladoceran/; Concentration: 0.08 ppm for 48 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Leander tenuicornis (shrimp); Concentration: 0.098 ppm for 96 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea) age 6-7 days female; Conditions: freshwater, renewal, 20 °C; Concentration: 149 ug/L for 60 hr; Effect: genetics, increased 2-domain hemoglobin mRNA /formulation/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water Flea) age &gt;13 day, mature organism; Conditions: freshwater, renewal, 20 °C; Concentration: 0.0557 ug/L for 5 days; Effect: population, change sex ratio /formulation/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Danio rerio (Zebra Danio) age 6-8 hr postfertilization embryo; Conditions: freshwater, renewal, 26 °C; Concentration: 26.1309 uM for 120 hr; Effect: multiple effects: increased mortality, deformation; decreased hatch /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Chironomus riparius (Midge) 1st instar larva; Conditions: freshwater, static, 16 °C, pH 7.0; Concentration: 6.1 ug/L for 28 days; Effect: development; decreased emergence /99.7% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Chironomus riparius (Midge) 1st instar larva; Conditions: freshwater, static, 24 °C, pH 7.0; Concentration: 4.1 ug/L for 28 days (95% confidence interval: 2.2-7.7 ug/L); Effect: development; decreased emergence /99.7% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Chironomus riparius (Midge) 1st instar larva; Conditions: freshwater, static, 16 °C, pH 7.0; Concentration: 3.1 ug/L for 28 days (95% confidence interval: 1.4-7.1 ug/L); Effect: reproduction; decreased fecundity /99.7% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Chironomus riparius (Midge) 1st instar larva; Conditions: freshwater, static, 24 °C, pH 7.0; Concentration: 2.7 ug/L for 28 days (95% confidence interval: 1.8-6.5 ug/L); Effect: reproduction; decreased fecundity /99.7% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>6805</ns0:RecordNumber>
+  <ns0:RecordTitle>Chlorfenac</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 BOBWHITE QUAIL, 14 DAY OLD, ORAL GREATER THAN 5000 PPM (NO MORTALITY TO 5000 PPM)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 JAPANESE QUAIL, 14 DAY OLD, ORAL GREATER THAN 5000 PPM (NO MORTALITY TO 5000 PPM)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 RING-NECKED PHEASANTS, 10 DAY OLD, ORAL GREATER THAN 5000 PPM (NO MORTALITY TO 5000 PPM)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 MALLARD DUCKS, 10 DAY OLD, ORAL GREATER THAN 5000 PPM (NO MORTALITY TO 5000 PPM)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50 SIMOCEPHALUS, FIRST INSTAR, 6.6 MG/L/48 HR @ 15 °C (95% CONFIDENCE LIMIT 4.5-9.6 MG/L), IMMOBILIZATION, STATIC BIOASSAY WITHOUT AERATION, PH 7.2-7.5, WATER HARDNESS 40-50 MG/L AS CALCIUM CARBONATE AND ALKALINITY OF 30-35 MG/L. /TECHNICAL MATERIAL, 50%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50 DAPHNIA PULEX, FIRST INSTAR, 4.5 MG/L/48 HR @ 15 °C (95%CONFIDENCE LIMIT 3.2-6.3 MG/L), IMMOBILIZATION, STATIC BIOASSAY WITHOUT AERATION, PH 7.2-7.5, WATER HARDNESS 40-50 MG/L AS CALCIUM CARBONATE AND ALKALINITY OF 30-35 MG/L. /TECHNICAL MATERIAL, 50%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 GAMMARUS FASCIATUS, MATURE, GREATER THAN 100 MG/L/96 HR @ 15 °C STATIC BIOASSAY WITHOUT AERATION, PH 7.2-7.5, WATER HARDNESS 40-50 MG/L AS CALCIUM CARBONATE AND ALKALINITY OF 30-35 MG/L. /TECHNICAL MATERIAL, 50%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 PTERONARCYS, SECOND YEAR CLASS, 60 MG/L/96 HR @ 15 °C (95% CONFIDENCE LIMIT 50-70 MG/L) STATIC BIOASSAY WITHOUT AERATION, PH 7.2-7.5, WATER HARDNESS 40-50 MG/L AS CALCIUM CARBONATE AND ALKALINITY OF 30-35 MG/L. /TECHNICAL MATERIAL, 50%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 SALMO GAIRDNERI (RAINBOW TROUT), WT 1.6 G, 11 MG/L/96 HR @ 13 °C STATIC BIOASSAY WITHOUT AERATION, PH 7.2-7.5, WATER HARDNESS 40-50 MG/L AS CALCIUM CARBONATE AND ALKALINITY OF 30-35 MG/L. /TECHNICAL MATERIAL, 50%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 LEPOMIS MACROCHIRUS (BLUEGILL), WT 0.9 G, 41 MG/L/96 HR @ 24 °C STATIC BIOASSAY WITHOUT AERATION, PH 7.2-7.5, WATER HARDNESS 40-50 MG/L AS CALCIUM CARBONATE AND ALKALINITY OF 30-35 MG/L. /TECHNICAL MATERIAL, 50%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 LEPOMIS MICROLOPHUS (REDEAR SUNFISH), WT 3.0 G, GREATER THAN 12 MG/L/96 HR @ 24 °C STATIC BIOASSAY WITHOUT AERATION, PH 7.2-7.5, WATER HARDNESS 40-50 MG/L AS CALCIUM CARBONATE AND ALKALINITY OF 30-35 MG/L. /TECHNICAL MATERIAL, 50%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+    </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

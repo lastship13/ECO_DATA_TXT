@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>37175</ns0:RecordNumber>
+  <ns0:RecordTitle>Enilconazole</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Anas platyrhynchos (Mallard duck, 14 days old) diet &gt;5620 ppm/8 days[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 1-</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Colinus virginianus (Bobwhite quail, 14 days old) diet 6290 ppm/8 days[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 1-</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 Coturnix japonica (Japanese quail) oral 510 mg/kg[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 1-</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 Phasianus colchicus (Ring-necked pheasant) oral 2000 mg/kg[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 1-</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50 Daphnia magna (Water flea, &lt;24 hr old; intoxication, immobilization) 3.54 ppm/48 hr (95% confidence limit: 2.6-4.7 ppm); static /97.6 % AI formulated product/[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 1-</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50 Daphnia magna (Water flea, &lt;24 hr old; intoxication, immobilization) 3.16 ppm/48 hr (95% confidence limit: 2.9-3.5 ppm); static renewal /98.9 % AI formulated product/[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 1-</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Lepomis macrochirus (Bluegill sunfish, weight 2.1 g) 3.99 ppm/96 hr (95% confidence limit: 2.7-5.7 ppm); static renewal /97.6% AI formulated product/[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 1-</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Oncorhynchus mykiss (Rainbow trout, weight 1.1 g) 1.48 ppm/96 hr (95% confidence limit: 1.1-1.9 ppm); flow through /97.6% AI formulated product/[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 1-</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Oncorhynchus mykiss (Rainbow trout, weight 0.6 g) 2 ppm/96 hr (95% confidence limit: 1.0-5.9 ppm); static renewal /98.9% AI formulated product/[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 1-</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Eisenia foetida (Earthworm) 541 mg/kg soil</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

@@ -1,0 +1,428 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>38018</ns0:RecordNumber>
+  <ns0:RecordTitle>2,2',3,3',4,4'-Hexachlorobiphenyl</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 Colinus virginianus (Northern bobwhite) oral 747 mg/kg for 5 days on treated diet plus 3 days untreated</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 Anas platyrhynchos (mallard) oral 1,975 mg/kg for 5 days on treated diet plus 3 days untreated</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 Anas platyrhynchos (mallard) oral &gt;2 mg/kg</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 Phasianus colchicus (ring-necked pheasant) oral 1,260 mg/kg for 5 days on treated diet plus 3 days untreated</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 Coturnix coturnix japonica (Japanese quail) oral 2,186 mg/kg for 5 days on treated diet plus 3 days untreated</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 Coturnix japonica (Japanese quail,14 days old) oral 2195 ppm/5 day duration</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 Mallard oral &gt; 2000 mg/kg, (sex: male; age: 10 months)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (water flea, age &lt;24 hr); Conditions: freshwater, static, 18 °C, pH 7.5-8.0, hardness 44-46 mg/L CaCO3, alkalinity 40-43 mg/L CaCO3, acidity 2.4-4.0 ppm, Ca hardness 34-36 ppm; Concentration: 33 ug/L for 21 days; Effect: reproduction, general /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (water flea, age &lt;24 hr); Conditions: freshwater, static, 18 °C, pH 7.5-8.0, hardness 44-46 mg/L CaCO3, alkalinity 40-43 mg/L CaCO3, acidity 2.4-4.0 ppm, Ca hardness 34-36 ppm; Concentration: 36 ug/L (27.7-46.8 ug/L) for 21 days /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ictalurus punctatus (Channel catfish); Concentration: 140 ug/L for 30 days /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ictalurus punctatus (channel catfish, 2.8 g); Conditions: freshwater, flow through, 22 °C, pH 7.4, hardness 272 mg/L CaCO3; Concentration: &gt;400 ug/L for 24 hr /100% pure, technical product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ictalurus punctatus (channel catfish, 2.8 g); Conditions: freshwater, flow through, 22 °C, pH 7.4, hardness 272 mg/L CaCO3; Concentration: &gt;400 ug/L for 96 hr /100% pure, technical product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ictalurus punctatus (channel catfish); Conditions: freshwater, flow through, 17 °C, pH 7.4, alkalinity 237 mg/L CaCO3; Concentration: 535 ug/L for 10 days /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ictalurus punctatus (channel catfish); Conditions: freshwater, flow through, 17 °C, pH 7.4, alkalinity 237 mg/L CaCO3; Concentration: 482 ug/L for 15 days /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ictalurus punctatus (channel catfish); Conditions: freshwater, flow through, 17 °C, pH 7.4, alkalinity 237 mg/L CaCO3; Concentration: 512 ug/L for 20 days /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ictalurus punctatus (channel catfish); Conditions: freshwater, flow through, 17 °C, pH 7.4, alkalinity 237 mg/L CaCO3; Concentration: 465 ug/L for 25 days /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ictalurus punctatus (channel catfish); Conditions: freshwater, flow through, 17 °C, pH 7.4, alkalinity 237 mg/L CaCO3; Concentration: 433 ug/L for 30 days /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ictalurus punctatus (channel catfish); Conditions: freshwater, flow through, 20 °C, pH 7.4, alkalinity 260 mg/L CaCO3; Concentration: 296 ug/L for 20 days /active ingredient, 60% chlorine/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ictalurus punctatus (channel catfish); Conditions: freshwater, flow through, 20 °C, pH 7.4, alkalinity 260 mg/L CaCO3; Concentration: 166 ug/L for 25 days /active ingredient, 60% chlorine/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ictalurus punctatus (channel catfish); Conditions: freshwater, flow through, 20 °C, pH 7.4, alkalinity 260 mg/L CaCO3; Concentration: 137 ug/L for 30 days /active ingredient, 60% chlorine/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ictalurus punctatus (channel catfish); Conditions: freshwater, flow through, 20 °C; Concentration: 296 ug/L for 20 days /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ictalurus punctatus (channel catfish); Conditions: freshwater, flow through, 20 °C; Concentration: 166 ug/L for 25 days /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ictalurus punctatus (channel catfish); Conditions: freshwater, flow through, 20 °C; Concentration: 137 ug/L for 30 days /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Salmo clarki (Cutthroat salmon, 2.70 g); Conditions: static, 9 °C, pH 7.4, alkalinity 159 mg/L, hardness 162 mg/L; Concentration: 60.9 mg/L for 96 hr (95% Confidence Limits: 55.4-67.0 mg/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Salmo gairdneri (rainbow trout); Concentration: 21 ug/L for 20 days /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (bluegill); Concentration: 150 ug/L for 30 days /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (bluegill, 2.2 g); Conditions: freshwater, flow through, 22 °C, pH 7.4, hardness 272 mg/L CaCO3; Concentration: &gt;400 ug/L for 24 hr /100% pure, technical product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (bluegill, 2.2 g); Conditions: freshwater, flow through, 22 °C, pH 7.4, hardness 272 mg/L CaCO3; Concentration: &gt;400 ug/L for 96 hr /100% pure, technical product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (bluegill); Conditions: freshwater, flow through, 20 °C; Concentration: 245 ug/L for 20 days /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (bluegill); Conditions: freshwater, flow through, 20 °C; Concentration: 212 ug/L for 25 days /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (bluegill); Conditions: freshwater, flow through, 20 °C; Concentration: 151 ug/L for 30 days /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (bluegill); Conditions: freshwater, flow through, 20 °C, pH 7.4, alkalinity 260 mg/L CaCO3; Concentration: 245 ug/L for 20 days /active ingredient, 60% chlorine/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (bluegill); Conditions: freshwater, flow through, 20 °C, pH 7.4, alkalinity 260 mg/L CaCO3; Concentration: 212 ug/L for 25 days /active ingredient, grade, 60% chlorine/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (bluegill); Conditions: freshwater, flow through, 20 °C, pH 7.4, alkalinity 260 mg/L CaCO3; Concentration: 151 ug/L for 30 days /active ingredient, 60% chlorine/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (bluegill); Conditions: freshwater, flow through, 17 °C, pH 7.4, alkalinity 237 mg/L CaCO3; Concentration: 400 ug/L for 30 days /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (rainbow trout, 1.8 g); Conditions: freshwater, flow through, 17 °C, pH 7.4, hardness 272 mg/L CaCO3; Concentration: &gt;200 ug/L for 24 hr /100% pure, technical product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (rainbow trout, 1.8 g); Conditions: freshwater, flow through, 17 °C, pH 7.4, hardness 272 mg/L CaCO3; Concentration: &gt;232 ug/L for 96 hr /100% pure, technical product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (rainbow trout); Conditions: freshwater, flow through, 20 °C, pH 7.4, alkalinity 260 mg/L CaCO3; Concentration: 240 ug/L for 10 days /active ingredient, 60% chlorine/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (rainbow trout); Conditions: freshwater, flow through, 20 °C, pH 7.4, alkalinity 260 mg/L CaCO3; Concentration: 94 ug/L for 15 days /active ingredient, 60% chlorine/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (rainbow trout); Conditions: freshwater, flow through, 20 °C, pH 7.4, alkalinity 260 mg/L CaCO3; Concentration: 21 ug/L for 20 days /active ingredient, 60% chlorine/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (rainbow trout); Conditions: freshwater, flow through, 20 °C; Concentration: 240 ug/L for 10 days /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (rainbow trout); Conditions: freshwater, flow through, 20 °C; Concentration: 94 ug/L for 15 days /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (rainbow trout); Conditions: freshwater, flow through, 20 °C; Concentration: 21 ug/L for 20 days /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (rainbow trout); Conditions: freshwater, diet; Concentration: 1.5 g/kg (&gt;1500000 ug/L) for 5 days /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (rainbow trout); Conditions: freshwater, flow through, 17 °C, pH 7.4, alkalinity 237 mg/L CaCO3; Concentration: 326 ug/L for 10 days /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (rainbow trout); Conditions: freshwater, flow through, 17 °C, pH 7.4, alkalinity 237 mg/L CaCO3; Concentration: 143 ug/L for 15 days /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (rainbow trout); Conditions: freshwater, flow through, 17 °C, pH 7.4, alkalinity 237 mg/L CaCO3; Concentration: 78 ug/L for 20 days /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (rainbow trout); Conditions: freshwater, flow through, 17 °C, pH 7.4, alkalinity 237 mg/L CaCO3; Concentration: 49 ug/L for 25 days /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (rainbow trout); Conditions: freshwater, flow through, 17 °C, pH 7.4, alkalinity 237 mg/L CaCO3; Concentration: 51 ug/L for 30 days /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Perca flavescens (yellow perch, 1.20 g); Conditions: flow-through, 17 °C, pH 7.6, hardness 314 mg/L; Concentration: &gt; 0.20 mg/L for 96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (fathead minnow); Conditions: freshwater, flow through, 25 °C, pH 7.52 (7.10-7.85), dissolved oxygen 7.0 mg/L (4.6-8.8 mg/L); Concentration: 3.3 ug/L for 30 days /active ingredient/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Salmo gairdneri (Rainbow trout), 1.80 g; Conditions: flow-through, 17 °C, pH 7.4, hardness 272 mg/L; Concentration: &gt; 0.23 mg/L for 96 hr /Aroclor 1260/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Salmo trutta (brown trout), 1.10 g;  Conditions: static, 132 °C, pH 7.4, hardness 44 mg/L; Concentration &gt; 24.0 mg/L for 96 hr /Aroclor 1260/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cardium edule (cockle), adult; Conditions: static, 15 °C; Concentration: &gt; 10 mg/L for 48 hr /Aroclor 1260/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Crangon crangon (Brown shrimp), adult; Conditions: static, 15 °C; Concentration: &gt; 10 mg/L for 48 hr /Aroclor 1260/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cyprinus carpio (carp), fry; Conditions: static, 23-25 °C; Concentration: 1.45 mg/L for 96 hr /Kanechlor 300/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lebistes reticulatus (guppy), fry; Conditions: static, 24-25 °C; Concentration: 0.9 mg/L for 96 hr /Kanechlor 300/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lebistes reticulatus (guppy), 0.35 g; Conditions: static, 24-25 °C; Concentration: 3.2 mg/L for 96 hr /Kanechlor 300/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cardium edule (cockle), adult; Conditions: static, 15 °C; Concentration: &gt; 10 mg/L for 48 hr /Clophen A60/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

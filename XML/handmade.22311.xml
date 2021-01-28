@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf8'?>
+<Excel_XML>
+  <RECORDS>
+    <index>97</index>
+    <name>Citrus Oil Distilled</name>
+    <CAS>68647-72-3</CAS>
+    <IUPAC>Citrus Oil Distilled</IUPAC>
+    <SMILES>C=C(C)C1CC=C(C)CC1</SMILES>
+    <Toxicity>Daphnia_EC50 : 0.42 mg/L  Daphnia_Duration : 48 hr  Daphnia_Further_info : SAFETY DATA SHEET(carlroth)</Toxicity>
+  </RECORDS>
+</Excel_XML>

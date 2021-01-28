@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>28777</ns0:RecordNumber>
+  <ns0:RecordTitle>N-(Cyclohexylthio)phthalimide</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Lepomis macrochirus (Bluegill sunfish, standard length 3.8 cm) 1.5 mg/L/24 hr; 1.2 mg/L/48 hr, 96 hr; static, temperature 22 °C, dissolved oxygen 0.4-8.3 mg/L, pH 6.8-7.3, water hardness (CaCO3) 255 ppm.</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Oncorhynchus mykiss (Rainbow trout, standard length 2.7 cm) 0.47 mg/L/24 hr; 0.42 mg/L/48 hr; 0.41 mg/L/96 hr; static, temperature 12 °C, dissolved oxygen 5.2-9.8 mg/L, pH 7.2-7.6, water hardness (CaCO3) 255 ppm.</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Pimephales promelas (Fathead minnow, standard weight 0.56 g, standard length 29.3 mm) 0.43 mg/L/24 hr; 0.42 mg/L/192 hr; 0.40 mg/L/240 hr; 0.39 mg/L/336 hr; flow-through, temperature 22 °C, dissolved oxygen 9.3 mg/L, pH 7.7, water hardness (CaCO3) 250 mg/L, alkalinity 360 mg/L</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Paratanytarsus parthenogenetica (Midge, 3rd and 4th instar larvae, 8-10 days old) 130 mg/L/48 hr; static, temperature 20 °C, dissolved oxygen 8.9 to 7.9 mg/L, pH 7.9 to 8.3, water hardness (CaCO3) 255 ppm.</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50 Selenastrum capricornutum (Freshwater alga; inhibition of growth rate) 21 ppm/96 hr; static, temperature 24 °C, pH 7.8 to 7.0</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50 Daphnia magna (immobilization) 32 mg/L/48 hr, 24 hr (95% confidence interval: 22-46 mg/L) /Conditions of bioassay not specified in source examined/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+    </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

@@ -1,0 +1,162 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>15625</ns0:RecordNumber>
+  <ns0:RecordTitle>2,3,7,8-Tetrachlorodibenzo-P-dioxin</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Colinus virginianus /(Northern Bobwhite)/ oral 0.0150 mg/kg (95% confidence limit: 0.00919-0.0245 mg/kg)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Streptopelia risoria /(Ringneck dove)/ oral &gt; 0.810 mg/kg</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Phasianus colchicus (Ring-Necked Pheasant) sexually mature organism, age 40-45 wk, weight 0.9-1.3 kg; ip 4.5 ug/kg</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Neovison vison (Mink) oral via capsule 4.2 ug/kg</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Lepomis macrochirus (Bluegill); Concentration: 16 ug/kg /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Cyprinus carpio (Common carp) ip 2-4 ug/kg for 80 days /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Ameiurus melas (Black bullhead) ip 4-8 ug/kg/80 day /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Danio rerio (Zebrafish) 240 hr post fertilization; Conditions: static; Concentration: 2.5 ng/g egg</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Micropterus salmoides (Largemouth bass) ip 11 ug/kg, 80 days post-treatment /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Oncorhynchus mykiss (Rainbow trout) fertilized eggs; Conditions: static; Concentration: 439 pg/g for 48 hr (95% fiducial limits: 346-519 pg/g egg)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Oncorhynchus mykiss (Rainbow trout) newly fertilized eggs; injection &gt;200-&lt;300 pg/g egg/approx 30 days /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Oncorhynchus mykiss (Rainbow trout) ip 10 ug/g for 80 days /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Oryzias latipes (Japanese medaka, embryos); Conditions: static, nonrenewal system; Concentration: 14 ng/L water (95% CI: 11-17 ng/L); Effect: prevention of hatching</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oryzias latipes (Japanese medaka) 3 days post-hatch; Conditions: static, nonrenewal system; Concentration: 9 ng/L water (95% CI: 6-12 ng/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Oryzias latipes (Japanese medaka) embryos; Conditions: static, nonrenewal system; Concentration: 3.5 ng/L (95% CI: 1.3-5.7) and 14 ng/L (95% CI: 12.4-15.6); Effect: minor lesions and severe, life-threatening lesions</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oryzias latipes (Japanese Medaka) embryo; Conditions: freshwater, static, 25 °C; Concentration: 0.02 ug/L for 17 days /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Perca flavescens (Yellow perch) ip 3 ug/kg, 80 days post-treatment /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>ED50; Species: Platichthys flesus (Flounder) oral 1.62 ug/kg bw; Effect: increased enzyme activity in the liver 10 days post-exposure /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead Minnow) juvenile, weight 0.5-1.0 g; Conditions: freshwater, renewal, 21-23 °C, pH 6.8-7.7, hardness 110 mg/L CaCO3, alkalinity 80 mg/L CaCO3, dissolved oxygen 4.5-8.3 mg/L; Concentration: 0.0017 ug/L for 28 days /100% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Pimephales promelas (Fathead Minnow) 1 month old larvae, weight 0.0017-0.0094 g; Conditions: freshwater, static; Concentration: 70.915 ug/L for 64 days (95% confidence interval: 56.592-91.478 ug/L) /100% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Pimephales promelas (Fathead Minnow) age &lt;6 hr blastula; Conditions: freshwater, static, 23 °C; Concentration: 25.71 ug/L for 7 days (95% confidence interval: 16.22-47.39 ug/L) /100% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

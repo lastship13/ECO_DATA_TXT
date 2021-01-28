@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>8007</ns0:RecordNumber>
+  <ns0:RecordTitle>Butylamine</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Leuciscus idus /Freshwater fish, Ide or Orfe/ 171 mg/L/96 hr; freshwater.</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Brine shrimp 30-70 ppm for 24 hr. /static bioassay/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Anabaena subcylindrica (Blue-green algae, axenic, 1-3x 10+7 cells/mL); Conditions: freshwater, static, 25 °C, pH 7.2; Concentration: 0.012 ug/cell for &lt; or = 3 hr; Effect: decreased nitrogen fixation</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Anabaena subcylindrica (Blue-green algae, axenic, 1-3x 10+7 cells/mL); Conditions: freshwater, static, 25 °C, pH 7.2; Concentration: 1.8x10-8 ug/cell for &lt; or = 3 hr; Effect: decreased photosynthesis, oxygen production</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Chlorella ellipsoidea (Green algae, axenic); Conditions: freshwater, static, 25 °C, pH 7.2; Concentration: 0.1x10-8 ug/cell for 90 min; Effect: decreased photosynthesis, oxygen production</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea, age &lt;24 hr, Lake Langedam strain); Conditions: freshwater, static, 20 °C, pH 7.8-7.9, hardness 250 mg/L CaCO3, dissolved oxygen 96-98%; Concentration: 100 mg/L for 24 hr; Effect: intoxication, immobilization /&gt;99% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea, age &lt;24 hr, Lake Langedam strain); Conditions: freshwater, renewal, 20 °C, pH 7.8-7.9, hardness 250 mg/L CaCO3, dissolved oxygen 96-98%; Concentration: 100 mg/L for 48 hr; Effect: intoxication, immobilization /&gt;99% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water flea, age &lt;24 hr); Conditions: freshwater, static, 20-22 °C, pH 7.6-7.7; Concentration: 75 mg/L for 24 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill, length 33-75 mm); Conditions: freshwater, static, 23 °C, pH 7.6-7.9, hardness 55 mg/L CaCO3; Concentration: 32000 ug/L for 96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Menidia beryllina (Inland silverside, length 40-100 mm); Conditions: saltwater, static, 20 °C, pH 7.6-7.9, hardness 55 mg/L CaCO3; Concentration: 24000 ug/L for 96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oryzias latipes (Medaka, length 2.0 cm, weight 0.2 g); Conditions: freshwater, static, 25 °C; Concentration: 1000 mg/L for 24 and 48 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Pimephales promelas (Fathead minnow, age 30 days, mean length 16.5 mm, mean weight 0.067 g) 268 mg/L/96 hr; flow through, 25.8 °C, pH 7.55, dissolved oxygen 6.7 mg/L, hardness 45.8 mg/L CaCO3, alkalinity 42.9 mg/L CaCO3 /99% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50 Pimephales promelas (Fathead minnow, age 30 days, mean length 16.5 mm, mean weight 0.067 g) 268 mg/L/96 hr; flow through, 25.8 °C, pH 7.55, dissolved oxygen 6.7 mg/L, hardness 45.8 mg/L CaCO3, alkalinity 42.9 mg/L CaCO3; Effect: Affected fish lost schooling behavior and swam near the tank surface. They were hyperactive, had increased respiration, and lost equilibrium prior to death. /99% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

@@ -1,0 +1,260 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>6294</ns0:RecordNumber>
+  <ns0:RecordTitle>p,p'-DDD</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Colinus virginianus (Bobwhite quail, 23 days old) oral 5-day diet ad libitum 2178 ppm for 5 days (95% confidence limit 1835-2584 ppm) /Technical grade, purity &gt;95%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Coturnix japonica (Japanese quail, 7 days old) oral ad libitum 3165 ppm for 5 days (95% confidence limit 2534-3978 ppm) /Technical grade, purity &gt;95%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Coturnix japonica (Japanese quail) oral ad libitum 2,636 ppm for 5 days (95% confidence limit: 2,225-3,122 ppm) /Technical grade, 100% AI/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Phasianus colchicus (Ring-necked pheasant, 10 days old) oral ad libitum 445 ppm for 5 days (95% confidence level 402-494 ppm) /Technical grade, purity &gt;95%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Phasianus colchicus (Ring-necked pheasant, female, 3-4 months old) oral 386 mg/kg (95% confidence limit: 270-551 mg/kg) /Purity greater than 95%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Anas platyrhynchos (Mallard duck, 17 days old) oral ad libitum 4814 ppm for 5 days (95% confidence limit: 3451-7054 ppm) /Technical grade, purity &gt;95%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Anas platyrhynchos (Mallard duck, female, 3 months old) oral &gt;2000 mg/kg /Purity greater than 95%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Callipepla californica (California quail, female, 6 months old) oral &gt;760 mg/kg /Purity greater than 95%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea, age 1st instar larva); Conditions: freshwater, static, 21 °C, pH 7.1, hardness 44 mg/L CaCO3; Concentration: 8.9 ug/L for 48 hr; Effect: intoxication, immobilization /99% purity, technical material/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea, age 1st instar larva); Conditions: freshwater, static, 10 °C, pH 7.1, hardness 44 mg/L CaCO3; Concentration: 9.1 ug/L for 48 hr; Effect: intoxication, immobilization /99% purity, technical material/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia pulex (water flea); Concentration: 3.2 ug/L for 48 hr /Conditions of bioassay not specified/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Asellus brevicaudus (Sowbug, mature); Conditions: at 21 °C, static bioassay; Concentration: 16 ug/L for 96 hr /Technical material, 99%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Asellus breviacaudus; Concentration: 10.0 ug/L for 96 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Gammarus fasciatus (Scud, mature); Conditions: static bioassay, 21 °C; Concentration: 0.6 ug/L for 96 hr (95% confidence limit 0.1-1.2 ug/L) /Technical material, 99%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Palaemonetes kadiakensis (Glass shrimp, mature); Conditions: static bioassay, 21 °C; Concentration: 2.4 ug/L for 96 hr /Technical material, 99%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Palaemonetes kadiakenis; Concentration: 0.68 ug/L for 96 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pteronarcys californica (Stonefly, second year class); Condittions: static bioassay, 15 °C; Concentration: 380 ug/L for 96 hr (95% confidence limit: 280-520 ug/L) /Technical material, 99%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ischnura venticalis (Damselfly, juvenile); Conditions: static bioassay, 21 °C; Concentration: 34 ug/L for 96 hr /Technical material, 99%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ictalarius punctatus (Channel catfish, weight 0.8 g); Conditions: static bioassay, 18 °C; Concentration: 1500 ug/L for 96 hr (95% confidence limit: 1180-1910 ug/L) /Technical material, 99%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Stizostedion vitreum (Walleye, weight 1.0 g); Conditions: static bioassay, 18 °C; Concentration: 14 ug/L for 96 hr (95% confidence limit: 11-19 ug/L) /Technical material, 99%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Gammarus lacustris; Concentration: 0.64 ug/L for 96 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Gammarus fasciatus; Concentration: 0.86 ug/L for 96 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Bufo woodhousei fowleri (Fowler's toad, tadpole); Conditions: freshwater, static, 16 °C, pH 7.1, hardness 44 mg/L CaCO3; Concentration: 709 ug/L for 24 hr (95% confidence interval: 246-2050 ug/L) /99% purity, technical material/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Bufo woodhousei fowleri (Fowler's toad, tadpole); Conditions: freshwater, static, 16 °C, pH 7.1, hardness 44 mg/L CaCO3; Concentration: 140 ug/L for 96 hr (95% confidence interval: 95-206 ug/L) /99% purity, technical material/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ictalurus punctatus (Channel catfish, weight 0.8 g); Conditions: freshwater, static, 18 °C, pH 7.1, hardness 44 mg/L CaCO3; Concentration: 13000 ug/L for 24 hr (95% confidence interval: 7300-23100 ug/L) /99% purity, technical material/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ictalurus punctatus (Channel catfish, weight 0.8 g); Conditions: freshwater, static, 18 °C, pH 7.1, hardness 44 mg/L CaCO3; Concentration: 1500 ug/L for 96 hr (95% confidence interval: 1180-1910 ug/L) /99% purity, technical material/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill, weight 0.9 g); Conditions: freshwater, static, 24 °C, pH 7.4, hardness 44 mg/L CaCO3; Concentration: 56 ug/L for 24 hr (95% confidence interval: 46-68 ug/L) /99% purity, technical material/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill, weight 0.9 g); Conditions: freshwater, static, 24 °C, pH 7.4, hardness 44 mg/L CaCO3; Concentration: 42 ug/L for 96 hr (95% confidence interval: 36-49 ug/L) /99% purity, technical material/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Micropterus salmoides (Largemouth bass, weight 0.7 g); Conditions: freshwater, static, 18 °C, pH 7.1, hardness 44 mg/L CaCO3; Concentration: 50 ug/L for 24 hr (95% confidence interval: 35-71 ug/L) /99% purity, technical material/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Micropterus salmoides (Largemouth bass, weight 0.7 g); Conditions: static bioassay, 18 °C; Concentration: 42 ug/L for 96 hr (95% confidence limit: 34-51 ug/L) /Technical material, 99%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout, weight 1.0 g); Conditions: freshwater, static, 12 °C, pH 7.1, hardness 44 mg/L CaCO3; Concentration: 70 ug/L for 96 hr (95% confidence interval: 57-87 ug/L) /99% purity, technical material/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout, weight 1.0 g); Conditions: freshwater, static, 12 °C, pH 7.4, hardness 272 mg/L CaCO3; Concentration: 70 ug/L for 96 hr (95% confidence interval: 58-85 ug/L) /99% purity, technical material/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout, weight 1.0 g); Conditions: static bioassay, 12 °C; Concentration: 70 ug/L for 96 hr (95% confidence limit: 57-87 ug/L) /Technical material, 99%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow, weight 1.0 g); Conditions: freshwater, static, 18 °C, pH 7.1, hardness 44 mg/L CaCO3; Concentration: 8100 ug/L for 24 hr (95% confidence interval: 6406-10242 ug/L) /99% purity, technical material/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow, weight 1.0 g); Conditions: static bioassay, 18 °C; Concentration: 4400 ug/L for 96 hr (95% confidence limit: 3470-5580 ug/L) /Technical material, 99%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

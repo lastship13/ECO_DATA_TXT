@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>8146</ns0:RecordNumber>
+  <ns0:RecordTitle>Diethylene glycol monoethyl ether</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Pimephales promelas (fathead minnow) 26.5 g/L/96 hr (confidence limit 24.2 to 29.0 g/L). Nominal concentrations were not reported. Individual lengths and weights of the test fish were not recorded; however, the measured mean weight was 0.151 g. /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Lepomis macrochirus (Bluegill) 10,000 ppm/96 hr (static bioassay in fresh water at 23 °C, mild aeration applied after 24 hr).</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Species: Lepomis macrochirus (Bluegill, weight 0.44 g); Conditions: freshwater, flow through, 18.3 °C (17.7-18.8 °C), pH 7.86 (7.76-8.06), hardness 196 mg/L CaCO3, alkalinity 172 mg/L CaCO3, dissolved oxygen 5.45 mg/L (4.12-6.81 mg/L); Concentration: 21400 mg/L for 96 hr (95% confidence interval: 19100-23900 mg/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Species: Gambusia affinis (Western mosquitofish, weight 0.25 g); Conditions: freshwater, flow through, 19.9 °C (19.3-20.9 °C), pH 7.83 (7.81-7.86), hardness 196 mg/L CaCO3, alkalinity 172 mg/L CaCO3, dissolved oxygen 5.49 mg/L (4.22-6.80 mg/L); Concentration: 12900 mg/L for 96 hr (95% confidence interval: 11100-15000 mg/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Species: Gambusia affinis (Western mosquitofish, weight 0.23 g); Conditions: freshwater, flow through, 18.3 °C (17.7-18.8 °C), pH 7.86 (7.76-8.06), hardness 196 mg/L CaCO3, alkalinity 172 mg/L CaCO3, dissolved oxygen 5.45 mg/L (4.12-6.81 mg/L); Concentration: 15200 mg/L for 96 hr (95% confidence interval: 12400-18700 mg/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Species: Ictalurus punctatus (Channel catfish, weight 0.72 g); Conditions: freshwater, flow through, 17.3 °C (16.3-18.3 °C), pH 7.88 (7.86-7.91), hardness 196 mg/L CaCO3, alkalinity 172 mg/L CaCO3, dissolved oxygen 7.28 mg/L (6.54-8.11 mg/L); Concentration: 6010 mg/L for 96 hr (95% confidence interval: 4740-8080 mg/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Rana catesbiana (Bullfrog, weight 3.54 g); Conditions: freshwater, flow through, 17.2  °C (17.0-17.6 °C), pH 8.04 (8.03-8.05), hardness 196 mg/L CaCO3, alkalinity 172 mg/L CaCO3, dissolved oxygen 6.98 mg/L (6.61-7.22 mg/L); Concentration: 20900 mg/L for 96 hr (confidence interval: 1940-22600 mg/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout, weight 0.68 g); Conditions: freshwater, flow through, 14.9  °C (14.6-15.2 °C), pH 8.11 (8.09-8.13), hardness 196 mg/L CaCO3, alkalinity 172 mg/L CaCO3, dissolved oxygen 7.71 mg/L (7.50-7.98 mg/L); Concentration: 13400 mg/L for 96 hr (confidence interval: 11400-15700 mg/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow, weight 1.44 g); Conditions: freshwater, flow through, 24.8  °C (24.0-25.6 °C), pH 7.99 (7.99-8.00), hardness 196 mg/L CaCO3, alkalinity 172 mg/L CaCO3, dissolved oxygen 5.64 mg/L (4.68-6.42 mg/L); Concentration: 13900 mg/L for 96 hr (confidence interval: 11600-16700 mg/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow, weight 0.35 g); Conditions: freshwater, flow through, 18.1  °C (17.3-18.7 °C), pH 8.06 (8.03-8.14), hardness 196 mg/L CaCO3, alkalinity 172 mg/L CaCO3, dissolved oxygen 7.62 mg/L (7.38-8.11 mg/L); Concentration: 9650 mg/L for 96 hr (confidence interval: 7910-11800 mg/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Pimephales promelas (Fathead minnow) 26400 mg/L for 96 hr /flow-through bioassay/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Daphnia magna (Water flea) 1982 mg/L for 48 hr /static bioassay/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Carassius auratus (Goldfish) 20800 mg/L for 96 hr /flow-through bioassay/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

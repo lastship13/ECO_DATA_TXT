@@ -1,0 +1,204 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>5284359</ns0:RecordNumber>
+  <ns0:RecordTitle>Calcium dichloride</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water Flea); Conditions: freshwater, static, 11.5-14.5 °C, pH 7.2-7.8, dissolved oxygen 5.2-6.5 mg/L; Concentration: 573060 ug/L for 24 hr (95% confidence interval: 448700-699000 ug/L); Effect: intoxication, immobilization /total Ca ion/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water Flea) age 4 hr; Conditions: freshwater, static, 25 °C; Concentration: 920000 ug/L for 64 hr; Effect: intoxication, immobilization</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Americamysis bahia (Opossum Shrimp) age 4-5 days; Conditions: saltwater, static, 25-27 °C, salinity 10 ppt; Concentration: 270000 ug/L for 48 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Americamysis bahia (Opossum Shrimp) age 4-5 days; Conditions: saltwater, static, 25-27 °C, salinity 20 ppt; Concentration: 530000 ug/L for 48 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Nitzschia linearia (Diatom); Conditions: static; Concentration: 3,130 mg/L for 120 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ceriodaphnia dubia (Water Flea) age &lt;24 hr; Conditions: freshwater, static, 25 °C, pH 7.5-9.0, dissolved oxygen &gt;40 %; Concentration: 2260000 ug/L for 24 hr (95% confidence interval: 1770000-2680000 ug/L) /total chloride ion/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ceriodaphnia dubia (Water Flea) age &lt;24 hr; Conditions: freshwater, static, 25 °C, pH 7.5-9.0, dissolved oxygen &gt;40 %; Concentration: 1830000 ug/L for 48 hr (95% confidence interval: 1770000-2030000 ug/L) /total chloride ion/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia hyalina (Water Flea) adult, length 1.27 mm; Conditions: freshwater, static, 10 °C, pH 7.2, alkalinity 29 mg/L CaCO3; Concentration: 3000000 ug/L for 48 hr (95% confidence interval: 2280000-3948000 ug/L) /total calcium ion/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water Flea) age &lt;24 hr; Conditions: freshwater, static, 20 °C, pH 7.5-9.0, dissolved oxygen &gt;40%; Concentration: 3250000 ug/L for 24 hr (95% confidence interval: 2680000-4010000 ug/L) /total chloride ion/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water Flea) age &lt;24 hr; Conditions: freshwater, static, 20 °C, pH 7.5-9.0, dissolved oxygen &gt;40%; Concentration: 2770000 ug/L for 48 hr (95% confidence interval: 2330000-3230000 ug/L) /total chloride ion/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water Flea); Conditions: freshwater, static, 21-25 °C; Concentration: 1838000 ug/L for 24 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water Flea); Conditions: freshwater, static, 21-25 °C; Concentration: 759000 ug/L for 48 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water Flea); Conditions: freshwater, static, 21-25 °C; Concentration: 649000 ug/L for 4.2 days</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill); Conditions: freshwater, static, 21-25 °C; Concentration: 8350000 ug/L for 24 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill) length 5-9 cm, weight 1-9 g; Conditions: freshwater, static, 20 °C, pH 7.19-7.80, hardness 6314-11900 mg/L CaCO3, alkalinity 32.6-49.6 mg/L CaCO3, dissolved oxygen 7.2-8.7 mg/L; Concentration: 10650000 ug/L for 96 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oryzias latipes (Medaka); Conditions: freshwater, static, 10 °C; Concentration: &gt;1000000 ug/L for 24 hr /total calcium ion/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oryzias latipes (Medaka); Conditions: freshwater, static, 20 °C; Concentration: &gt;1000000 ug/L for 24 hr /total calcium ion/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oryzias latipes (Medaka); Conditions: freshwater, static, 30 °C; Concentration: &gt;1000000 ug/L for 24 hr /total calcium ion/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oryzias latipes (Medaka); Conditions: freshwater, static, 10 °C; Concentration: &gt;1000000 ug/L for 48 hr /total calcium ion/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oryzias latipes (Medaka); Conditions: freshwater, static, 20 °C; Concentration: &gt;1000000 ug/L for 48 hr /total calcium ion/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oryzias latipes (Medaka); Conditions: freshwater, static, 30 °C; Concentration: &gt;1000000 ug/L for 48 hr /total calcium ion/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead Minnow) age 1-7 days; Conditions: freshwater, static, 25 °C, pH 7.5-9.0, dissolved oxygen &gt;40%; Concentration: 6660000 ug/L for 24 hr (95% confidence interval: 4700000-10000000 ug/L) /total chloride ion/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead Minnow) age 1-7 days; Conditions: freshwater, static, 25 °C, pH 7.5-9.0, dissolved oxygen &gt;40%; Concentration: 6560000 ug/L for 48 hr (95% confidence interval: 4390000-10000000 ug/L) /total chloride ion/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead Minnow) age 1-7 days; Conditions: freshwater, static, 25 °C, pH 7.5-9.0, dissolved oxygen &gt;40%; Concentration: 4630000 ug/L for 96 hr (95% confidence interval: 3930000-5360000 ug/L) /total chloride ion/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Tubifex tubifex (Tubificid Worm); Conditions: freshwater, renewal; Concentration: 814400 ug/L for 24 hr (95% confidence interval: 750660-910160 ug/L); Effect: intoxication, immobilization /total calcium ion/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Tubifex tubifex (Tubificid Worm); Conditions: freshwater, renewal; Concentration: 389050 ug/L for 48 hr (95% confidence interval: 326660-446520 ug/L); Effect: intoxication, immobilization /total calcium ion/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Tubifex tubifex (Tubificid Worm); Conditions: freshwater, renewal; Concentration: 281190 ug/L for 96 hr (95% confidence interval: 249020-326600 ug/L); Effect: intoxication, immobilization /total calcium ion/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

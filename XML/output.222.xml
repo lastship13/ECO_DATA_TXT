@@ -1,0 +1,897 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>222</ns0:RecordNumber>
+  <ns0:RecordTitle>Ammonia</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Campostoma anomalum (stoneroller); Concentration: 1.72 mg/L for 96 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Carassius auratus (goldfish); Concentration: 2-2.5 mg/L for 24-96 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Carassius auratus (goldfish); Concentration: 7.2 mg/L for 24 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Catostomus commersoni (White sucker); Concentration: 0.79 mg/L for 96 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Catostomus commersoni (White sucker); Concentration: 1.35-1.4 mg/L for 96 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Catostomus platyrhynchos (mountain sucker); Concentration: 0.67-0.82 mg/L for 96 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Clarias batrachus (walking catfish); Conditions: static bioassay; Concentration: 0.28 mg/L for 48 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cottus bairdi (mottled sculpin); Concentration: 1.39 mg/L for 96 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cyprinus carpio (carp); Concentration: 0.24 mg/L for 18 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cyprinus carpio (carp); Concentration: 0.1 mg/L for 96 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Etheostoma spectabile (orange throat darter); Concentration: 0.9-1.07 mg/L for 96 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Galaxias maculatus juvenile (Common jollytail); Conditions: semi-static, Canadian standard procedure; Concentration: 1.55 mg/L for 96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Gambusia affinis (mosquitofish); Concentration: 1.3 mg/L for 17 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Gambusia affinis (mosquitofish); Concentration: 2.4-3.4 mg/L for 96 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ictalurus punctatus (Channel catfish); Concentration: 1.24-1.96 mg/L for 48 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ictalurus punctatus (Channel catfish); Concentration: 1.5-4.2 mg/L for 96 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis cyanellus (green sunfish); Concentration: 0.6-2.1 mg/L for 96 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis gibbosus (pumpkinseed mango fish); Concentration: 0.14 - 0.86 mg/L for 96 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (bluegill); Concentration: 0.26-4.6 mg/L for 96 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Micropterus dolomieui (smallmouth bass); Concentration: 0.7-1.8 mg/L for 96 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Micropterus salmoides (bigmouth bass); Concentration: 1-1.7 mg/L for 96 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Monacanthus hispidus (flathead file fish); Concentration: 0.69 mg/L for 96 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Morone americana (white perch); Conditions: pH 6; Concentration: 0.15-0.2 mg/L for 96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Morone americana (white perch); Conditions: pH 8; Concentration: 0.52-2.13 mg/L for 96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Mugil cephalus (flathead mullet); Concentration: 1.2-2.4 mg/L for 96 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Notemigonus crysoleucas (golden shiner); Concentration: 0.72-1.62 mg/L for 96 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Notropis spilopterus (spotfin shiner); Concentration: 1.35 mg/L for 96 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Notropis whippelei (stellcolor shiner); Concentration: 1.25 mg/L for 96 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus gorbuscha (humpback salmon) late alevins; Concentration: 0.83 mg/L for 96 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus gorbuscha (humpback salmon) eyed embryos; Concentration: &gt;1.5 mg/L for 96 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus kisutch (coho salmon); Concentration: 0.5 mg/L for 48 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus kisutch (coho salmon); Conditions: flow-through; Concentration: 0.45 mg/L for 96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus kisutch (coho salmon); Concentration: 0.55 mg/L for 96 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus tschawytscha (Chinook salmon); Concentration: 0.47 mg/L for 96 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (fathead minnows); Concentration: 0.75-3.4; 0.73-2.3 mg/L for 96 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimpephales promelas (fathead minnow); Concentration: 8.2 mg/L (hard water) for 96 hr /Conditions of bioassay not specified/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Poecilia reticulata (guppy); Concentration: 1.5 mg/L for 96 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Poecilia reticulata (guppy) fry; Conditions: static; Concentration: 1.26 mg/L for 72 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Poecilia reticulata (guppy) fry; Conditions: static; Concentration: 74 mg/L for 72 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Prosopium williamsoni (Rocky Mountain whitefish); Concentration: 0.47 mg/L for 96 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Salmo aquabonita (California golden trout); Concentration: 0.76 mg/L for 96 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Salmo clarki (cutthroat trout); Concentration: 0.52-0.8 mg/L for 96 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: /Oncorhynchus mykiss/ (Rainbow trout); Concentration: 0.16-10.2 mg/L for 96 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: /Oncorhynchus mykiss/ (Rainbow trout, fertilized egg); Conditions: static; Concentration: &gt;3.58 mg/L for 24 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: /Oncorhynchus mykiss/ (Rainbow trout, age 0-50 days, alevin); Conditions: static; Concentration: &gt;3.58 mg/L for 24 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: /Oncorhynchus mykiss/ (Rainbow trout, age 85 days old, fry); Conditions: static; Concentration: 0.068 mg/L for 24 hr;</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: /Oncorhynchus mykiss/ (Rainbow trout, adult ) Conditions: static; Concentration: 0.097 mg/L for 24 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Salmo salar (Atlantic salmon); Concentration: 0.28 mg/L for 96 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Salmo trutta (brown trout); Concentration: 0.47 mg/L for 96 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Salmo trutta (brown trout); Concentration: &gt;0.15 mg/L for 18 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Salvelinus fontinalis (brook trout); Concentration: 0.96-1.05 mg/L for 96 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Salvelinus fontinalis (brook trout); Concentration: &gt;3.2 mg/L for 1.8 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Sciaenops ocellata (Red drum) juvenile; Conditions: static; Concentration: 0.9 mg/L for 24 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Sciaenops ocellata (Red drum) juvenile; Conditions: static; Concentration: 0.8 mg/L for 48 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Stizostedion vitreum (walleye); Concentration: 0.85 mg/L for 96 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Tilapia aurea (blue tilapia); Concentration: 2.85 mg/L for 72 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Asellus aquaticus (water slater); Conditions: 11.5 °C, pH 7.8-8.0, hardness 97.6-105.8 mg/L CaCO3, dissolved oxygen &gt;96%; Concentration: 4.04 mg/L for 24 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Asellus aquaticus (water slater); Conditions: 11.5 °C, pH 7.8-8.0, hardness 97.6-105.8 mg/L CaCO3, dissolved oxygen &gt;96%; Concentration: 3.0 mg/L for 48 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Asellus aquaticus (water slater); Conditions: 11.5 °C, pH 7.8-8.0, hardness 97.6-105.8 mg/L CaCO3, dissolved oxygen &gt;96%; Concentration: 2.3 mg/L for 96 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Asellus aquaticus (water slater); Conditions: 11.5 °C, pH 7.8-8.0, hardness 97.6-105.8 mg/L CaCO3, dissolved oxygen &gt;96%; Concentration: 1.98 mg/L for 6 days</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ceriodaphnia reticulata (zooplankton); Conditions: static; Concentration: 131 mg/L for 48 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (water flea); Concentration: 24 mg/L for 48 hr /Conditions of bioassay not specified/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (water flea); Conditions: static; Concentration: 189 mg/L for 48 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia pulex (water flea); Conditions: static; Concentration: 187 mg/L for 48 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Gammarus pulex (freshwater amphipod); Conditions: 11.5 °C, pH 7.8-8.0, hardness 97.6-105.8 mg/L CaCO3, dissolved oxygen &gt;96%; Concentration: 4.1 mg/L for 10 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Gammarus pulex (freshwater amphipod); Conditions: 11.5 °C, pH 7.8-8.0,hardness 97.6-105.8 mg/L CaCO3, dissolved oxygen &gt;96%; Concentration: 3.2 mg/L for 24 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Gammarus pulex (freshwater amphipod); Conditions: 11.5 °C, pH 7.8-8.0, hardness 97.6-105.8 mg/L CaCO3, dissolved oxygen &gt;96%; Concentration: 2.52 mg/L for 48 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Gammarus pulex (freshwater amphipod); Conditions: 11.5 °C, pH 7.8-8.0, hardness 97.6-105.8 mg/L CaCO3, dissolved oxygen &gt;96%; Concentration: 2.05 mg/L for 96 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Gammarus pulex (freshwater amphipod); Conditions: 11.5 °C, pH 7.8-8.0, hardness 97.6-105.8 mg/L CaCO3, dissolved oxygen &gt;96%; Concentration: 1.75 mg/L for 6 days</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Limnodrilus hoffmeisteri (aquatic worm); Conditions: 11.5 °C, pH 7.8-8.0, hardness 97.6-105.8 mg/L CaCO3, dissolved oxygen &gt;96%; Concentration: 3.6 mg/L for 10 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Limnodrilus hoffmeisteri (aquatic worm); Conditions: 11.5 °C, pH 7.8-8.0, hardness 97.6-105.8 mg/L CaCO3, dissolved oxygen &gt;96%; Concentration: 2.8 mg/L for 24 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Limnodrilus hoffmeisteri (aquatic worm); Conditions: 11.5 °C, pH 7.8-8.0, hardness 97.6-105.8 mg/L CaCO3, dissolved oxygen &gt;96%; Concentration: 2.32 mg/L for 48 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Limnodrilus hoffmeisteri (aquatic worm); Conditions: 11.5 °C, pH 7.8-8.0, hardness 97.6-105.8 mg/L CaCO3, dissolved oxygen &gt;96%; Concentration: 1.92 mg/L for 96 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Limnodrilus hoffmeisteri (aquatic worm); Conditions: 11.5 °C, pH 7.8-8.0, hardness 97.6-105.8 mg/L CaCO3, dissolved oxygen &gt;96%; Concentration: 1.45 mg/L for 6 days</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lymnaea stagnalis (great pond snail); Conditions: 11.5 °C, pH 7.8-8.0, hardness 97.6-105.8 mg/L CaCO3, dissolved oxygen &gt;96%; Concentration: 2.89 mg/L for 10 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lymnaea stagnalis (great pond snail); Conditions: 11.5 °C, pH 7.8-8.0, hardness 97.6-105.8 mg/L CaCO3, dissolved oxygen &gt;96%; Concentration: 1.92 mg/L for 24 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lymnaea stagnalis (great pond snail); Conditions: 11.5 °C, pH 7.8-8.0, hardness 97.6-105.8 mg/L CaCO3, dissolved oxygen &gt;96%; Concentration: 1.5 mg/L for 48 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lymnaea stagnalis (great pond snail); Conditions: 11.5 °C, pH 7.8-8.0, hardness 97.6-105.8 mg/L CaCO3, dissolved oxygen &gt;96%; Concentration: 1.0 mg/L for 96 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lymnaea stagnalis (great pond snail); Conditions: 11.5 °C, pH 7.8-8.0, hardness 97.6-105.8 mg/L CaCO3, dissolved oxygen &gt;96%; Concentration: 0.78 mg/L for 6 days</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Nitocra spinipes (copeopod); Concentration: 70 mg/L for 96 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Physa fontinalis (common bladder snail); Conditions: 11.5 °C, pH 7.8-8.0, hardness 97.6-105.8 mg/L CaCO3, dissolved oxygen &gt;96%; Concentration: 3.2 mg/L for 10 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Physa fontinalis (common bladder snail); Conditions: 11.5 °C, pH 7.8-8.0, hardness 97.6-105.8 mg/L CaCO3, dissolved oxygen &gt;96%; Concentration: 2.2 mg/L for 24 hr;</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Physa fontinalis (common bladder snail); Conditions: 11.5 °C, pH 7.8-8.0, hardness 97.6-105.8 mg/L CaCO3, dissolved oxygen &gt;96%; Concentration: 1.89 mg/L for 48 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Physa fontinalis (common bladder snail); Conditions: 11.5 °C, pH 7.8-8.0, hardness 97.6-105.8 mg/L CaCO3, dissolved oxygen &gt;96%; Concentration: 1.7 mg/L for 96 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Physa fontinalis (common bladder snail); Conditions: 11.5 °C, pH 7.8-8.0, hardness 97.6-105.8 mg/L CaCO3, dissolved oxygen &gt;96%; Concentration: 0.59 mg/L for 6 days</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Polycelus tenuis (aquatic worm); Conditions: 11.5 °C, pH 7.8-8.0, hardness 97.6-105.8 mg/L CaCO3, dissolved oxygen &gt;96%; Concentration: 3.6 mg/L for 10 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Polycelus tenuis (aquatic worm); Conditions: 11.5 °C, pH 7.8-8.0, hardness 97.6-105.8 mg/L CaCO3, dissolved oxygen &gt;96%; Concentration: 1.95 mg/L for 24 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Polycelus tenuis (aquatic worm); Conditions: 11.5 °C, pH 7.8-8.0, hardness 97.6-105.8 mg/L CaCO3, dissolved oxygen &gt;96%; Concentration: 0.95 mg/L for 48 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Polycelus tenuis (aquatic worm); Conditions: 11.5 °C, pH 7.8-8.0, hardness 97.6-105.8 mg/L CaCO3, dissolved oxygen &gt;96%; Concentration: 0.71 mg/L for 96 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Polycelis tenuis (aquatic worm); Conditions: 11.5 °C, pH 7.8-8.0, hardness 97.6-105.8 mg/L CaCO3, dissolved oxygen &gt;96%; Concentration: 0.59 mg/L for 6 days</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Simochephalus vetulus (water flea); Concentration: 123 mg/L for 48 hr /Conditions of bioassay not specified/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Baetis rhodani (insect); Conditions: 11.5 °C, pH 7.8-8.0; hardness 97.6-105.8 mg/L CaCO3, dissolved oxygen &gt;96%; Concentration: 2.7 mg/L for 10 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Baetis rhodani (insect); Conditions: 11.5 °C, pH 7.8-8.0; hardness 97.6-105.8 mg/L CaCO3, dissolved oxygen &gt;96%; Concentration: 2.3 mg/L for 24 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Baetis rhodani (insect); Conditions: 11.5 °C, pH 7.8-8.0; hardness 97.6-105.8 mg/L CaCO3, dissolved oxygen &gt;96%; Concentration: 2.0 mg/L for 48 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Baetis rhodani (insect); Conditions: 11.5 °C, pH 7.8-8.0; hardness 97.6-105.8 mg/L CaCO3, dissolved oxygen &gt;96%; Concentration: 1.7 mg/L for 96 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Baetis rhodani (insect); Conditions: 11.5 °C, pH 7.8-8.0; hardness 97.6-105.8 mg/L CaCO3, dissolved oxygen &gt;96%; Concentration: 1.35 mg/L for 150 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Chironomus riparius (insect); Conditions: 11.5 °C, pH 7.8-8.0; hardness 97.6-105.8 mg/L CaCO3, dissolved oxygen &gt;96%; Concentration: 3.9 mg/L for 10 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Chironomus riparius (insect); Conditions: 11.5 °C, pH 7.8-8.0; hardness 97.6-105.8 mg/L CaCO3, dissolved oxygen &gt;96%; Concentration: 3.0 mg/L for 24 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Chironomus riparius (insect); Conditions: 11.5 °C, pH 7.8-8.0; hardness 97.6-105.8 mg/L CaCO3, dissolved oxygen &gt;96%; Concentration: 2.13 mg/L for 48 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Chironomus riparius (insect); Conditions: 11.5 °C, pH 7.8 - 8.0; hardness 97.6 - 105.8 mg/L CaCO3, dissolved O2 &gt; 96%; Concentration: 1.65 mg/L for 96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Chironomus riparius (insect); Conditions: 11.5 °C, pH 7.8-8.0; hardness 97.6-105.8 mg/L CaCO3, dissolved oxygen &gt;96%; Concentration: 1.39 mg/L for 150 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Ceriodaphnia dubia (water flea) age &lt;24 hr, neonate; Conditions: freshwater, renewal, approximately 25 °C, pH 8.3, hardness 160 mg/L CaCO3, alkalinity 60 mg/L CaCO3; Concentration: 4890 ug/L for 7 days; Effect: reproduction, decreased fecundity</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ceriodaphnia dubia (water flea) age &lt;24 hr, neonate; Conditions: freshwater, renewal, approximately 25 °C, pH 8.3, hardness 160 mg/L CaCO3, alkalinity 60 mg/L CaCO3; Concentration: 14010 ug/L for 7 days</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (water flea) mature organism, non-reproducing; Conditions: freshwater, renewal, 20 °C, pH 7; Concentration: 1740 ug/L for 24 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (water flea) mature organism, non-reproducing; Conditions: freshwater, renewal, 20 °C, pH 7; Concentration: 1980 ug/L for 24 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (water flea) age &lt;24 hr; Conditions: freshwater, static, 25 °C, pH 7.2-7.4, hardness 45 mg/L CaCO3, alkalinity 43-45 mg/L CaCO3, dissolved oxygen 7.6-7.9 mg/L; Concentration: 4180 ug/L (2900-6030 ug/L) (unionized) for 48 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cyprinus carpio (common carp) fingerling; Conditions: freshwater, 15 °C; Concentration: 660 ug/L (unionized) for 96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cyprinus carpio (common carp) fingerling; Conditions: freshwater, 20 °C; Concentration: 440 ug/L (unionized) for 96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cyprinus carpio (common carp) larva; Conditions: freshwater, flow through, 22.5-22.9 °C, ph 7.22-7.88, hardness 110-134 mg/L CaCO3, alkalinity 105-110 mg/L CaCO3, dissolved oxygen 94-96%; Concentration: 500 ug/L (460-540 ug/L) (unionized) for 28 days</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ictalurus punctatus (channel catfish); Conditions: freshwater, static, 20-24 °C, pH 6.9-7.1, hardness 47 mg/L CaCO3; Concentration: 305500 ug/L for 6 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ictalurus punctatus (channel catfish); Conditions: freshwater, static, 20-24 °C, pH 6.9-7.1, hardness 47 mg/L CaCO3; Concentration: 255200 ug/L for 12 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ictalurus punctatus (channel catfish); Conditions: freshwater, static, 20-24 °C, pH 6.9-7.1, hardness 47 mg/L CaCO3; Concentration: 269900 ug/L for 24 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ictalurus punctatus (channel catfish); Conditions: freshwater, static, 20-24 °C, pH 6.9-7.1, hardness 47 mg/L CaCO3; Concentration: 282700 ug/L for 48 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (bluegill); Conditions: freshwater, flow through; Concentration: 1170 ug/L (unionized) for 96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Menidia beryllina (inland silverside) age 1 wk; Conditions: salt water, flow through, 26 °C, pH 8.9-9.0, salinity 30 g/kg; Concentration: 2.01 ppm (1.23-2.64 ppm) (2010 ug/L (1230-2640 ug/L)) (total-NH4); 0.75 ppm (0.646-0.897 ppm) (750 ug/L (646-897 ug/L)) (unionized-NH3) for 96 hr /NH4Cl and 5% NH4OH/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Menidia beryllina (inland silverside) age 1 wk, larva; Conditions: salt water, flow through, 24 °C, pH 7.8-8.1, salinity 11 g/kg; Concentration: 20.32 ppm (15.72-26.28 ppm) (20320 ug/L (15720-26280 ug/L)) (total-NH4); 0.880 ppm (0.690-1.120 ppm) (880 ug/L (690-1120 ug/L)) (unionized-NH3) for 96 hr /NH4Cl and 3% NH4OH/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Menidia beryllina (inland silverside) age 1 wk, larva; Conditions: salt water, flow through, 32.5 °C, pH 7.9-8.1, salinity 30 g/kg; Concentration: 27.06 ppm (20.04-35.98 ppm) (27060 ug/L (20040-35980 ug/L)) (total-NH4); 1.70 ppm (1.45-1.90 ppm) (1700 ug/L (1450-1900 ug/L)) (unionized-NH3) for 96 hr /NH4Cl and 3% NH4OH/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Menidia beryllina (inland silverside) age 1 wk, larva; Conditions: salt water, flow through, 25 °C, pH 6.9-7.1, salinity 11 g/kg; Concentration: 338.37 ppm (303.67-371.53 ppm) (338370 ug/L (303670-371530 ug/L)) (total-NH4); 1.64 ppm (1.29-1.93 ppm) (1640 ug/L (1290-1930 ug/L)) (unionized-NH3) for 96 hr /NH4Cl and 1% NH4OH/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Menidia beryllina (inland silverside) age 1 wk, larva; Conditions: salt water, flow through, 24 °C, pH 8.9-9.1, salinity 11 g/kg; Concentration: 3.55 ppm (2.90-4.24 ppm) (3550 ug/L (2900-4240 ug/L)) (total-NH4); 1.16 ppm (0.94-1.38 ppm) (1160 ug/L (940-1380 ug/L)) (unionized-NH3) for 96 hr /NH4Cl and NH4OH/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Menidia beryllina (inland silverside) age 2 wk, larva; Conditions: salt water, flow through, 18 °C, pH 7.9-8.1, salinity 30.5 g/kg; Concentration: 38.01 ppm (32.2-54.9 ppm) (38010 ug/L (32200-54900 ug/L)) (total-NH4); 0.98 ppm (0.79-1.58 ppm) (980 ug/L (790-1580 ug/L)) (unionized-NH3) for 96 hr /NH4Cl and 3% NH4OH/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Menidia beryllina (inland silverside) age 1 wk, larva; Conditions: salt water, flow through, 26 °C, pH 7.8-8.1, salinity 19 g/kg; Concentration: 42.86 ppm (37.39-48.89 ppm) (42860 ug/L (37390-48890 ug/L)) (total-NH4); 1.94 ppm (1.69-2.29 ppm) (1940 ug/L (1690-2290 ug/L)) (unionized-NH3) for 96 hr /NH4Cl and 3% NH4OH/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Menidia beryllina (inland silverside) age 10 days; Conditions: salt water, flow through, 25.5 °C, pH 7.8-8.0, salinity 30.5 g/kg; Concentration: 45.64 ppm (42.17-51.26 ppm) (45640 ug/L (42170-51260 ug/L)) (total-NH4); 1.77 ppm (1.66-1.96 ppm) (1770 ug/L (1660-1960 ug/L)) (unionized-NH3) for 96 hr /NH4Cl and 5% NH4OH/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (rainbow trout); Conditions: freshwater, flow through; Concentration: 370 ug/L for 48 hr /dissolved product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (fathead minnow, age 1 day, larva); Conditions: freshwater, static, 20 °C; Concentration: approximately 1.0 ppm (1000 ug/L) (from graph) (unionized-NH3) for 48 hr /100% pure product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (fathead minnow) length 5.1-6.4 cm, weight 1.5 g; Conditions: freshwater, static, 25 °C, pH 7.4, hardness 20 mg/L, alkalinity 16 mg/L, acidity 2 mg/L, dissolved oxygen 8.0 mg/L; Concentration: 5900 ug/L (total) for 96 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (fathead minnow, 5.1-6.4 cm, 1.5 g); Conditions: freshwater, static, 25 °C, pH 8.2, hardness 380 mg/L, alkalinity 320 mg/L, acidity 0 mg/L, dissolved oxygen 8.0 mg/L; Concentration: 8200 ug/L (total) for 96 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

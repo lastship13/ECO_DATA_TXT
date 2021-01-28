@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf8'?>
+<Experiment_XML>
+  <RECORDS>
+    <index>1</index>
+    <name>Sodium hydroxide</name>
+    <CAS>1310-73-2</CAS>
+    <IUPAC>sodium;hydroxide</IUPAC>
+    <SMILES>[OH-].[Na+]</SMILES>
+    <Toxicity>HaCat_IC50 : 205 mg/L  HaCat_Concentration_type : formulation  HaCat_Duration : 24 hrs</Toxicity>
+    <Toxicity>Zebrafish_EC50 : 13.76 mg/L  Zebrafish_Organism_lifestage : embryo  Zebrafish_Concentration_type : formulation  Zebrafish_Duration : 6 days</Toxicity>
+  </RECORDS>
+</Experiment_XML>

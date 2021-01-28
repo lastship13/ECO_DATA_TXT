@@ -1,0 +1,239 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>5281875</ns0:RecordNumber>
+  <ns0:RecordTitle>Hydramethylnon</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 /Anas platyrhynchos/ (Mallard duck) oral &gt;2,510 mg/kg</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 /Colinus virginianus/ (Bobwhite quail) oral 1,828 mg/kg</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Anas platyrhynchos (Mallard duck, age 14 days) diet 4355 ppm for 8 days (95% confidence interval: 2877-6592 ppm)[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on Tetrahydro-5,5-dimethyl-2(1H)-pyrimidio[3-[4-Trifluoromethyl)phenyl]-1-[2-</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Colinus virginianus (Northern bobwhite, age 14 days) diet 1136 ppm for 8 days (95% confidence interval: 908-1420 ppm)[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on Tetrahydro-5,5-dimethyl-2(1H)-pyrimidio[3-[4-Trifluoromethyl)phenyl]-1-[2-</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 Apis mellifera (Honey bee, adult) topical, general 67 ug/bee for 48 hr (95% confidence interval: 52-96 ug/bee)[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on Tetrahydro-5,5-dimethyl-2(1H)-pyrimidio[3-[4-Trifluoromethyl)phenyl]-1-[2-</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill, weight 0.3 g); Conditions: freshwater, static, 22 °C, pH 7.2, hardness 40 mg/L CaCO3; Concentration: 120 ug/L for 96 hr (95% confidence interval: 87-166 ug/L) /97.7% purity, technical material/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill); Conditions: freshwater, static; Concentration: 1700 ug/L for 96 hr (95% confidence interval: 1400-2100 ug/L) /92% purity/[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on Tetrahydro-5,5-dimethyl-2(1H)-pyrimidio[3-[4-Trifluoromethyl)phenyl]-1-[2-</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout, weight 1 g); Conditions: freshwater, static, 12 °C, pH 7.4, hardness 39 mg/L CaCO3; Concentration: 76 ug/L for 96 hr (95% confidence interval: 59-97 ug/L) /97.7% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout); Conditions: freshwater, static; Concentration: 150 ug/L for 96 hr (95% confidence interval: 120-180 ug/L) /92% purity/[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on Tetrahydro-5,5-dimethyl-2(1H)-pyrimidio[3-[4-Trifluoromethyl)phenyl]-1-[2-</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ictalurus punctatus (Channel catfish, weight 0.6 g); Conditions: freshwater, static, 22 °C, pH 7.3, hardness 42 mg/L CaCO3; Concentration: 130 ug/L for 24 hr (95% confidence interval: 90-190 ug/L) /97.7% purity, technical material/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ictalurus punctatus (Channel catfish, weight 0.6 g); Conditions: freshwater, static, 22 °C, pH 7.3, hardness 42 mg/L CaCO3; Concentration: 70 ug/L for 96 hr (95% confidence interval: 53-92 ug/L) /97.7% purity, technical material/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ictalurus punctatus (Channel catfish); Conditions: freshwater, static; Concentration: 90 ug/L for 96 hr (95% confidence interval: 80-110 ug/L) /92% purity, technical material/[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on Tetrahydro-5,5-dimethyl-2(1H)-pyrimidio[3-[4-Trifluoromethyl)phenyl]-1-[2-</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 /Cyprinus carpio/ (Carp) 0.34 mg/L/72 hr /Conditions of bioassay not specified in source examined/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow, weight 0.75 g); Conditions: freshwater, static, 22 °C, pH 7.2, hardness 40 mg/L CaCO3; Concentration: 240 ug/L for 24 hr (95% confidence interval: 171-337 ug/L) /97.7% purity, technical material/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow, weight 0.75 g); Conditions: freshwater, static, 22 °C, pH 7.2, hardness 40 mg/L CaCO3; Concentration: 75 ug/L for 96 hr (95% confidence interval: 59-96 ug/L) /97.7% purity, technical material/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea, first instar larvae); Conditions: freshwater, static; Concentration: 1140 ug/L for 48 hr (95% confidence interval: 900-1390 ug/L); Effect: intoxication, immobilization /92% purity/[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on Tetrahydro-5,5-dimethyl-2(1H)-pyrimidio[3-[4-Trifluoromethyl)phenyl]-1-[2-</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea, first instar larvae); Conditions: freshwater, static, 22 °C, pH 7.5, hardness 43 mg/L CaCO3; Concentration: 130 ug/L for 48 hr (95% confidence interval: 60-280 ug/L); Effect: intoxication, immobilization /97.7% purity, technical material/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Chironomus plumosus (Midge, third instar); Conditions: freshwater, static, 17 °C, pH 7.5, hardness 43 mg/L CaCO3; Concentration: 140 ug/L for 48 hr (95% confidence interval: 100-180 ug/L); Effect: intoxication, immobilization /97.7% purity, technical material/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Chlorella sp. (Green algae); Conditions: saltwater, static, 20 °C, pH 8.1, salinity 30 ppt; Concentration: 2.74 ug/L for 48 hr (95% confidence interval: 1.95-3.85 ug/L); Effect: population changes, general</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Chlorella sp. (Green algae); Conditions: saltwater, static, 20 °C, pH 8.1, salinity 30 ppt; Concentration: 5.49 ug/L for 72 hr (95% confidence interval: 4.76-6.37 ug/L); Effect: population changes, general</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Chlorella sp. (Green algae); Conditions: saltwater, static, 20 °C, pH 8.1, salinity 30 ppt; Concentration: 4.97 ug/L for 96 hr (95% confidence interval: 4.45-5.57 ug/L); Effect: population changes, general</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Dunaliella tertiolecta (Green algae); Conditions: saltwater, static, 20 °C, pH 8.1, salinity 30 ppt; Concentration: 10.3 ug/L for 48 hr (95% confidence interval: 7.3-13.4 ug/L); Effect: population changes, general</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Dunaliella tertiolecta (Green algae); Conditions: saltwater, static, 20 °C, pH 8.1, salinity 30 ppt; Concentration: 10.8 ug/L for 72 hr (95% confidence interval: 9.1-12.6 ug/L); Effect: population changes, general</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Dunaliella tertiolecta (Green algae); Conditions: saltwater, static, 20 °C, pH 8.1, salinity 30 ppt; Concentration: 17.8 ug/L for 96 hr (95% confidence interval: 15.6-20.5 ug/L); Effect: population changes, general</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Isochrysis galbana (Haptophyte); Conditions: saltwater, static, 20 °C, pH 8.1, salinity 30 ppt; Concentration: 1.81 ug/L for 72 hr (95% confidence interval: 1.63-1.99 ug/L); Effect: population changes, general</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Isochrysis galbana (Haptophyte); Conditions: saltwater, static, 20 °C, pH 8.1, salinity 30 ppt; Concentration: 2.89 ug/L for 96 hr (95% confidence interval: 2.74-3.06 ug/L); Effect: population changes, general</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Skeletonema costatum (Diatom); Conditions: saltwater, static, 20 °C, pH 8.1, salinity 30 ppt; Concentration: 0.171 ug/L for 48 hr (95% confidence interval: 0.160-0.182 ug/L); Effect: population changes, general</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Skeletonema costatum (Diatom); Conditions: saltwater, static, 20 °C, pH 8.1, salinity 30 ppt; Concentration: 0.180 ug/L for 72 hr (95% confidence interval: 0.172-1.188 ug/L); Effect: population changes, general</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Skeletonema costatum (Diatom); Conditions: saltwater, static, 20 °C, pH 8.1, salinity 30 ppt; Concentration: 0.240 ug/L for 96 hr (95% confidence interval: 0.234-0.246 ug/L); Effect: population changes, general</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Thalassiosira guillardii (Diatom); Conditions: saltwater, static, 20 °C, pH 8.1, salinity 30 ppt; Concentration: 0.139 ug/L for 48 hr (95% confidence interval: 0.135-0.144 ug/L); Effect: population changes, general</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Thalassiosira guillardii (Diatom); Conditions: saltwater, static, 20 °C, pH 8.1, salinity 30 ppt; Concentration: 0.166 ug/L for 72 hr (95% confidence interval: 0.162-0.170 ug/L); Effect: population changes, general</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Thalassiosira guillardii (Diatom); Conditions: saltwater, static, 20 °C, pH 8.1, salinity 30 ppt; Concentration: 0.255 ug/L for 96 hr (95% confidence interval: 0.250-0.259 ug/L); Effect: population changes, general</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

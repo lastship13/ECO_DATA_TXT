@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>22563</ns0:RecordNumber>
+  <ns0:RecordTitle>Deethylatrazine</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pseudokirchneriella subcapitata (Green Algae) ~120000 cells/mL; Conditions: freshwater, static, 25 °C; Concentration: 2000 ug/L for 6 hr (95% confidence interval: 1500-2900 ug/L) /99.5% purity formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Chlorella fusca (Green algae); Conditions: static; Concentration: 821 ug/L for 96 hr (95% confidence interval: 580.2-1,057 ug/L); Effect: growth rate inhibition /&gt;95% pure deethyl-atrazine/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Diporeia sp. (Scud) adult, male, female; Conditions: freshwater, renewal, 25 °C; Concentration: 330 ug/L for 21 days (95% confidence interval: 150-700 ug/L) /99.5% purity formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Diporeia sp. (Scud) adult, male, female; Conditions: freshwater, renewal, 25 °C; Concentration: 3000 ug/L for 96 hr /99.5% purity formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Hyalella azteca (Scud) age &lt; or =7 days juvenile; Conditions: freshwater, renewal, 25 °C; Concentration: 3000 ug/L for 21 days /99.5% purity formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Hyalella azteca (Scud) age &lt; or =7 days juvenile; Conditions: freshwater, renewal, 25 °C; Concentration: 5100 ug/L for 96 hr (95% confidence interval: 3000-11600 ug/L) /99.5% purity formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

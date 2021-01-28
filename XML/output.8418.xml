@@ -1,0 +1,449 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>8418</ns0:RecordNumber>
+  <ns0:RecordTitle>Anthracene</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Aedes aegypti (Mosquito); Concentration: = &lt;0.001 mg/L for 24 hr /Conditions of bioassay not specified in source examined/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Aedes aegypti (Mosquito); Concentration: 0.027 mg/L for 48 hr /Conditions of bioassay not specified in source examined/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Aedes taeniorhynchus (Mosquito); Concentration: 0.26 mg/L for 24 hr /Conditions of bioassay not specified in source examined/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Culex quinquefasciatus (Mosquito); Concentration: 0.037 mg/L for 24 hr /Conditions of bioassay not specified in source examined/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Culicid mosquito larvae; Concentration: 26.8 ug/L for 24 hr /Phototoxicity study; Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Chlorella fusca vacuolata (Green algae) strain 21115, 75000 cells/mL; Conditions: freshwater, static, 28 °C, pH 6.9, fluorescent lighting with an intensity of 22-33 klux; Concentration: 2.8 umol/L for 24 hr (95% confideence interval: 1.35-17.2 umol/L); Effect: population, decreased population growth rate /99% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Scenedesmus subspicatus (Green algae) log growth phase 10000 cells/mL; Conditions: freshwater, static, 25 °C; Concentration: 1040 ug/L for 7 days; Effect: decreased population growth rate /&gt;98% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>IC50; Species: Absidia fusca (Fungus) spore; Conditions: freshwater, static, 22 °C; Concentration: 24100 ug/L for 72 hr; Effect: decreased population growth rate /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>IC50; Species: Aspergillus terreus terreus (Fungi) spore; Conditions: freshwater, static, 22 °C; Concentration: 22170 ug/L for 72 hr; Effect: decreased population growth rate /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>IC50; Species: Chaetomium elatum (Fungus) spore; Conditions: freshwater, static, 22 °C; Concentration: 21750 ug/L for 72 hr; Effect: decreased population growth rate /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>IC50; Species: Cladosporium herbarum (Fungus) spore; Conditions: freshwater, static, 22 °C; Concentration: 66800 ug/L for 72 hr; Effect: decreased population growth rate /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>IC50; Species: Cunninghamella elegans (Fungus) spore; Conditions: freshwater, static, 22 °C; Concentration: 9160 ug/L for 48 hr; Effect: decreased population growth rate /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>IC50; Species: Cunninghamella elegans (Fungus) spore; Conditions: freshwater, static, 22 °C; Concentration: 25270 ug/L for 72 hr; Effect: decreased population growth rate /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>IC50; Species: Nectria haematococca (Fungus) spore; Conditions: freshwater, static, 22 °C; Concentration: 24210 ug/L for 48 hr; Effect: decreased population growth rate /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>IC50; Species: Nectria haematococca (Fungus) spore; Conditions: freshwater, static, 22 °C; Concentration: 27350 ug/L for 72 hr; Effect: decreased population growth rate /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>IC50; Species: Penicillium chrysogenum (Fungus) spore; Conditions: freshwater, static, 22 °C; Concentration: 30340 ug/L for 72 hr; Effect: decreased population growth rate /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>IC50; Species: Phanerochaete chrysosporium (Fungi) spore; Conditions: freshwater, static, 22 °C; Concentration: 30220 ug/L for 48 hr; Effect: decreased population growth rate /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>IC50; Species: Phanerochaete chrysosporium (Fungi) spore; Conditions: freshwater, static, 22 °C; Concentration: 28660 ug/L for 72 hr; Effect: decreased population growth rate /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Rana pipiens (Leopard frog); Concentration: 0.065 ppm for 30 min /Toxicity values based on phototoxicity study; Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Rana pipiens (Leopard frog) embryo Schumway 25 stage; Conditions: freshwater, static; Concentration: 25 ug/L for 5 hr /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Rana pipiens (Leopard frog); Concentration: 0.11 mg/L for 24 hour /Freshwater amphibian; conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Artemia salina (Marine crustacean); Concentration: 0.02 mg/L for 3 hr /Conditions of bioassay not specified in source examined/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Artemia spp. (Marine crustacean) = &gt;0.05 mg/L for 48 hr /Conditions of bioassay not specified in source examined/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea) age &lt;24 hr; Conditions: freshwater, static, dissolved oxygen &gt; or =2 mg/L; Concentration: 211 ug/L for 24 hr (95% confidence interval: 189-236 ug/L); Effect: intoxication, immobilization /&gt; or =97% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea) age &lt;24 hr; Conditions: freshwater, static, dissolved oxygen &gt; or = 2 mg/L; Concentration: 95 ug/L for 48 hr (95% confidence interval: 81-112 ug/L); Effect: intoxication, immobilization /&gt; or =97% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea) age 4-6 days; Conditions: freshwater, static, 23 °C; Concentration: 0.2 mmol/cu m for 48 hr; Effect: intoxication, immobilization /&gt; or =97% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea) age 4-6 days, length 1.5 mm; Conditions: freshwater, static, 23 °C, pH 6-7, dissolved oxygen 5-9 mg/L; Concentration: 17 mmol/cu m for 48 hr (95% confidence interval: 1-&gt;33 mmol/cu m); Effect: intoxication, immobilization /&gt; or =97% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water flea) age 5 days; Conditions: freshwater, static, 22 °C, pH 6.5-7.5; Concentration: 0.000000452 mol/L for 24 hr /formulation/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water flea); Concentration: 0.035 mg/L for 48 hour /Freshwater crustacean; conditions of bioassay not specified/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Americamysis bahia (Opossum shrimp) age 24-48 hr; Conditions: saltwater, static, 21.5 °C, ultraviolet light; Concentration: 3.6 ug/L for 48 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Americamysis bahia (Opossum shrimp) age 24-48 hr; Conditions: saltwater, static, 21.5 °C, fluorescent light; Concentration: 535 ug/L for 48 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill sunfish) juvenile; Concentration: 11.9 ug/L for 96 hr /Phototoxicity study; Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill) juvenile, length 3.11 cm; Conditions: freshwater, flow through, 30 °C, dissolved oxygen 5.0 mg/L; Concentration: 10.05 ug/L for 48 hr (95% confidence interval: 8.58-11.66 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill) juvenile, length 3.11 cm; Conditions: freshwater, flow through, 20 °C, dissolved oxygen 8.1 mg/L; Concentration: 11.56 ug/L for 48 hr (95% confidence interval: 9.51-13.49 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill) juvenile, length 3.11 cm; Conditions: freshwater, flow through, 30 °C, dissolved oxygen 8.1 mg/L; Concentration: 12.02 ug/L for 48 hr (95% confidence interval: 10.29-14.29 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill) juvenile, length 3.11 cm; Conditions: freshwater, flow through, 20 °C, dissolved oxygen 6.9 mg/L; Concentration: 3.36 ug/L for 48 hr (95% confidence interval: 1.38-4.58 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill) juvenile, length 3.11 cm; Conditions: freshwater, flow through, 30 °C, dissolved oxygen 6.9 mg/L; Concentration: 5.1 ug/L for 48 hr (95% confidence interval: 4.03-6.14 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill) juvenile, length 3.11 cm; Conditions: freshwater, flow through, 20 °C, dissolved oxygen 5.0 mg/L; Concentration: 9.69 ug/L for 48 hr (95% confidence interval: 8.42-11.16 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill) juvenile, length 3.11 cm; Conditions: freshwater, flow through, 20 °C, dissolved oxygen 6.9 mg/L; Concentration: 1.27 ug/L for 96 hr (95% confidence interval: 0-3.18 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill) juvenile, length 3.11 cm; Conditions: freshwater, flow through, 30 °C, dissolved oxygen 6.9 mg/L; Concentration: 3.74 ug/L for 96 hr (95% confidence interval: 2.09-4.76 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill) juvenile, length 3.11 cm; Conditions: freshwater, flow through, 30 °C, dissolved oxygen 5.0 mg/L; Concentration: 6.78 ug/L for 96 hr (95% confidence interval: 5.94-7.81 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill) juvenile, length 3.11 cm; Conditions: freshwater, flow through, 20 °C, dissolved oxygen 5.0 mg/L; Concentration: 7.47 ug/L for 96 hr (95% confidence interval: 5.91-8.80 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill) juvenile, length 3.11 cm; Conditions: freshwater, flow through, 20 °C, dissolved oxygen 8.1 mg/L; Concentration: 7.97 ug/L for 96 hr (95% confidence interval: 4.83-9.51 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill) juvenile, length 3.11 cm; Conditions: freshwater, flow through, 30 °C, dissolved oxygen 8.1 mg/L; Concentration: 8.27 ug/L for 96 hr (95% confidence interval: 7.68-9.62 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill) weight 1-1.5 g; Conditions: freshwater, flow through, 22 °C, 24 hr photoperiod; Concentration: 4.5 ug/L for 96 hr /Sigma grade III formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill) weight 1-1.5 g; Conditions: freshwater, flow through, 22 °C, 6 hr photoperiod; Concentration: 46 ug/L for 96 hr /Sigma grade III formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Poecilia reticulata (Guppy); Conditions: freshwater, static, 24 °C; Concentration: 0.0001 mol/L for 96 hr /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>IC50; Species: Lemna gibba (Inflated duckweed) G-3; Conditions: freshwater, static, 23 °C; Concentration: 1200 ug/L for 6 hr; Effect: biochemistry, decreased half-time for the rise from minimum fluorescence to maximum fluorescence /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>IC50; Species: Lemna gibba (Inflated duckweed) G-3; Conditions: freshwater, static, 23 °C; Concentration: 1800 ug/L for 6 hr; Effect: physiology, decreased photosystem II (PSII) electron transport /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>IC50; Species: Lemna gibba (Inflated duckweed) G-3; Conditions: freshwater, static, 23 °C; Concentration: 90 ug/L for 6 hr; Effect: physiology, decreased photosystem I (PSI) electron transport activity /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>IC50; Species: Lemna gibba (Inflated duckweed) G-3; Conditions: freshwater, static, no sunlight preincubation period, tests performed under simulated solar radiation; Concentration: 1100 ug/L for 8 days; Effect: growth, decreased number of leaves</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>IC50; Species: Lemna gibba (Inflated duckweed) G-3; Conditions: freshwater, static, 20 day sunlight preincubation period, tests performed under simulated solar radiation; Concentration: 200 ug/L for 8 days; Effect: growth, decreased number of leaves</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>IC50; Species: Lemna gibba (Inflated duckweed) G-3; Conditions: freshwater, static, 7 day sunlight preincubation period, tests performed under simulated solar radiation; Concentration: 470 ug/L for 8 days; Effect: growth, decreased number of leaves</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Mulinia lateralis (Clam) juvenile; Conditions: saltwater, renewal, 21.5 °C, fluorescent light; Concentration: &gt;13300 ug/L for 96 hr; Effect: growth, general, decreased dry weight</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Mulinia lateralis (Clam) juvenile; Conditions: saltwater, renewal, 21.5 °C, ultraviolet light; Concentration: &gt;82.8 ug/L for 96 hr; Effect: growth, general, decreased dry weight</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Mulinia lateralis (Clam) embryo, length &gt;1 mm-&lt;1.5 mm; Conditions: saltwater, renewal, 21.5 °C, fluorescent light; Concentration: 4260 ug/L for 96 hr; Effect: multiple effects; development, decreased survival</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Mulinia lateralis (Clam) embryo, length &gt;1 mm-&lt;1.5 mm; Conditions: saltwater, renewal, 21.5 °C, ultraviolet light; Concentration: 6.47 ug/L for 96 hr; Effect: multiple effects; development, decreased survival</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Mulinia lateralis (Clam) juvenile; Conditions: saltwater, renewal, 21.5 °C, fluorescent light; Concentration: &gt;13300 ug/L for 96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Mulinia lateralis (Clam) juvenile; Conditions: saltwater, renewal, 21.5 °C, ultraviolet light; Concentration: 68.9 ug/L for 96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow); Concentration: 0.36 mg/L for 24 hour /Freshwater fish; conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Enchytraeus crypticus (Earthworm) adult; direct application (natural soil: 2.3% organic matter) &gt;5038 umol/kg soil for 28 days; Effect: decreased progeny counts/numbers</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Enchytraeus crypticus (Earthworm) adult; direct application (natural soil: 2.3% organic matter) &gt;5038 umol/kg soil for 28 days</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

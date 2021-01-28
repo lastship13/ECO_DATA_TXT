@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>8663</ns0:RecordNumber>
+  <ns0:RecordTitle>2-Naphthol</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water Flea) age 24 hr, juvenile, first instar; Conditions: freshwater, static, 19.5-20.5 °C; Concentration: 3540 ug/L for 48 hr (95% confidence interval: 3170-3950 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Micropterus salmoides (Largemouth Bass) eggs and larvae; Conditions: freshwater, flow through, 20.2-23.2 °C, pH 7.41-8.10, hardness 86.8-116.3 mg/L CaCO3, dissolved oxygen 7.1-8.4 mg/L; Concentration: 1000 ug/L for 7 days (95% confidence interval: 290-2270 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Micropterus salmoides (Largemouth Bass) embryo; Conditions: freshwater, flow through, 20.2-23.2 °C, pH 7.4-8.1, hardness 86.8-116.3 mg/L CaCO3, dissolved oxygen 7.1-8.4 mg/L; Concentration: 6360 ug/L for 72 hr (95% confidence interval: 5850-6910 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow Trout) embryo; Conditions: freshwater, flow through, 13.3-14.2 °C, pH 7.4-8.1, hardness 86.8-116.3 mg/L CaCO3, dissolved oxygen 8.6-10.2 mg/L; Concentration: 80 ug/L for 23 days (95% confidence interval: 60-100 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow Trout) organisms at different lifestages, eggs and larvae; Conditions: freshwater, flow through, 13.3-14.2 °C, pH 7.41-8.10, hardness 86.8-116.3 mg/L CaCO3, dissolved oxygen 8.6-10.2 mg/L; Concentration: 70 ug/L for 27 days (95% confidence interval: 40-110 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead Minnow) age 1-2 months, juvenile, weight 0.27 g, length 28 mm; Conditions: freshwater, static, 20 °C, dissolved oxygen 4.3-8.5 mg/L; Concentration: 3460 ug/L for 96 hr (95% confidence interval: 2430-3900 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

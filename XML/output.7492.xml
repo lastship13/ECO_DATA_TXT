@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>7492</ns0:RecordNumber>
+  <ns0:RecordTitle>1,4-Dinitrobenzene</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Pimephales promelas (fathead minnow) 0.687 (0.642-0.734) mg/l 24 hr, wt 164 mg, flow-through bioassay, dissolved oxygen 7.4 (4.6-8.8) mg/l, water hardness 44.9 (42.4-46.6) mg/l as CaCO3, pH 6.9-7.7, alkalinity 42.9 (39.6-61.4) mg/l CaCO3, temp: 26.4 +/- 1.4 °C, Purity 98%</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Pimephales promelas (fathead minnow) 0.641 (0.605-0.678) mg/l 48 hr, wt 164 mg, flow-through bioassay, dissolved oxygen 7.4 (4.6-8.8) mg/l, water hardness 44.9 (42.4-46.6) mg/l as CaCO3, pH 6.9-7.7, alkalinity 42.9 (39.6-61.4) mg/l CaCO3, temp: 26.4 +/- 1.4 °C, Purity 98%</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Pimephales promelas (fathead minnow) 0.609 (0.584-0.636) mg/l 72 hr, wt 164 mg, flow-through bioassay, dissolved oxygen 7.4 (4.6-8.8) mg/l, water hardness 44.9 (42.4-46.6) mg/l as CaCO3, pH 6.9-7.7, alkalinity 42.9 (39.6-61.4) mg/l CaCO3, temp: 26.4 +/- 1.4 °C, Purity 98%</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Pimephales promelas (fathead minnow) 0.603 (0.581-0.627) mg/l 96 hr, wt 164 mg, flow-through bioassay, dissolved oxygen 7.4 (4.6-8.8) mg/l, water hardness 44.9 (42.4-46.6) mg/l as CaCO3, pH 6.9-7.7, alkalinity 42.9 (39.6-61.4) mg/l CaCO3, temp: 26.4 +/- 1.4 °C, Purity 98%</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

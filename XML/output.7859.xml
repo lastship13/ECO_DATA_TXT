@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>7859</ns0:RecordNumber>
+  <ns0:RecordTitle>Propargyl alcohol</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Pimephales promelas (fathead minnow) 1.44 mg/l/96 hr (confidence limit 1.25-1.67 mg/l), flow-through bioassay with measured concentrations, 24.7 °C, dissolved oxygen 6.9 mg/l, hardness 42.8 mg/l calcium carbonate, alkalinity 40.6 mg/l calcium carbonate, and pH 7.7.</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50 Pimephales promelas (fathead minnow) 1.44 mg/l/96 hr (confidence limit 1.25-1.67 mg/l), flow-through bioassay with measured concentrations, 24.7 °C, dissolved oxygen 6.9 mg/l, hardness 42.8 mg/l calcium carbonate, alkalinity 40.6 mg/l calcium carbonate, and pH 7.7. Effect: loss of equilibrium.</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Pimephales promelas (fathead minnow) 1.53 mg/l/96 hr (confidence limit 1.49-1.56 mg/l), flow-through bioassay with measured concentrations, 25.7 °C, dissolved oxygen 6.8 mg/l, hardness 43.4 mg/l calcium carbonate, alkalinity 40.8 mg/l calcium carbonate, and pH 7.72.</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50 Pimephales promelas (fathead minnow) 1.53 mg/l/96 hr (confidence limit 1.49-1.56 mg/l), flow-through bioassay with measured concentrations, 25.7 °C, dissolved oxygen 6.8 mg/l, hardness 43.4 mg/l calcium carbonate, alkalinity 40.8 mg/l calcium carbonate, and pH 7.72. Effect: loss of equilibrium.</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Xenopus laevis (Clawed frog); Conditions: freshwater; static; Concentration:  1 mmol/L (95% confidence limit: 0.9 to 1.3 mmol/L) for 96 hr; Effect: developmental, deformation /&gt;=95% AI formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Xenopus laevis (Clawed frog); Conditions: freshwater; static; Concentration:  3.36 mmol/L (95% confidence limit: 2.7 to 4.5 mmol/L) for 96 hr /&gt;=95% AI formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Xenopus laevis (Clawed frog); Conditions: freshwater; renewal; Concentration:  0.054 mmol/L (95% confidence limit: 0.04 to 0.07 mmol/L) for 96 hr /&gt;=95% AI formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Xenopus laevis (Clawed frog); Conditions: freshwater; renewal; Concentration:  0.033 mmol/L for 96 hr /&gt;=95% AI formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea); Conditions: freshwater; /conditions of bioassay not specified/; Concentration: = 32 mg/L for 24 hr; Effect: behavior, equilibrium /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water flea); Conditions: freshwater; static; Concentration:  11000 ug/L for 24 hr /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow, juvenile, size 19.7 mm, wt 119 mg); Conditions: freshwater; flow-through; Concentration:  1530 ug/L (95% confidence limit: 1490 to 1560 ug/L) for 96 hr at 24.8 °C, pH 7.69 mg/L, water hardness 44.5 mg/L CaCO3, alkalinity 43.2 mg/L CaCO3, dissolved oxygen 6.9 mg/L /active ingredient/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Leuciscus idus melanotus (Carp); Conditions: freshwater; /conditions of bioassay not specified/; Concentration: = 1.9 mg/L for 48 hr /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Leuciscus idus (golden orfe); Conditions: static; Concentration: 4.6 mg/L/96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

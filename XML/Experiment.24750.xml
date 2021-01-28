@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf8'?>
+<Experiment_XML>
+  <RECORDS>
+    <index>5</index>
+    <name>Dodecan-1-ol, ethoxylated</name>
+    <CAS>4536-30-5</CAS>
+    <IUPAC>2-dodecoxyethanol</IUPAC>
+    <SMILES>CCCCCCCCCCCCOCCO</SMILES>
+    <Toxicity>HaCat_IC50 : 104 mg/L  HaCat_Concentration_type : formulation  HaCat_Duration : 24 hrs</Toxicity>
+    <Toxicity>Zebrafish_EC50 : 55 mg/L  Zebrafish_Organism_lifestage : embryo  Zebrafish_Concentration_type : formulation  Zebrafish_Duration : 6 days</Toxicity>
+  </RECORDS>
+</Experiment_XML>

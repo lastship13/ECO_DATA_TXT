@@ -1,0 +1,470 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>712</ns0:RecordNumber>
+  <ns0:RecordTitle>Formaldehyde</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: /Morone saxatilis/ (Striped bass) larvae; Conditions: static bioassay; Concentration: 10 mg/L for 48-96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout) weight 0.63 g; Conditions: static; Concentration: 118 ppm for 96 hr (95% confidence limit: 99.7-140 ppm) /37% AI formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout) weight 0.81 g; Conditions: static; Concentration: &gt;100 ppm for 96 hr /18.8% AI formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout) average length 1.5-1.8 in, average weight 0.5-0.9 g; Conditions: static, 12 °C, total hardness 42 ppm CaCO3; Concentration: 207 mg/L for 24 hr (95% confidence interval: 182-236 mg/L) /Formalin, 37% formaldehyde gas in water/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout) average length 1.5-1.8 in, average weight 0.5-0.9 g; Conditions: static, 12 °C, total hardness 42 ppm CaCO3; Concentration: 168 mg/L for 48 hr (95% confidence interval: 154-183 mg/L) /Formalin, 37% formaldehyde gas in water/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout); Concentration: 50 mg/L for 48 hr (95% confidence limit: 42.3-86.0 mg/L) /Conditions of bioassay not specified in source examined/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Salmo salar (Atlantic salmon); Conditions: static; Concentration: 156 mg/L for 24 hr (95% confidence limit: 133-182 mg/L) /Formalin/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Salmo salar (Atlantic salmon); Condtions: static; Concentration: 69.2 mg/L for 96 hr (95% confidence limit: 59.6-80.4 mg/L) /Formalin/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Salmo salar (Atlantic salmon) weight 0.6 g; Conditions: static; Concentration: 173 ppm for 96 hr (95% confidence limit: 149-201 ppm) /37% AI formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Salvelinus namaycush (Lake trout) average length: 4.0 in, average weight 2.5-3.2 g; Conditions: static, total hardness 42 ppm CaCO3, temp 12 °C; Concentration: 220 mg/L for 24 hr (95% confidence interval: 200-242 mg/L) /Formalin, 37% formaldehyde gas in water/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Salvelinus namaycush (Lake trout) average length: 4.0 in, average weight 2.5-3.2 g; Conditions: static, total hardness 42 ppm CaCO3, temp 12 °C; Concentration: 167 mg/L for 48 hr (95% confidence interval: 160-174 mg/L) /Formalin, 37% formaldehyde gas in water/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Salvelinus namaycush (Lake trout) weight 0.5 g; Conditions: static; Concentration: 100 ppm for 96 hr (95% confidence limit: 78.2-128 ppm) /37% AI formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ameiurus melas (Black bullhead); Conditions: static; Concentration: 69.2 mg/L for 24 hr (95% confidence limit: 49.2-97.2 mg/L) /Formalin/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ameiurus melas (Black bullhead); Conditions: static; Concentration: 24.8 mg/L for 96 hr (95% confidence limit: 20.4-30.3 mg/L) /Formalin/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis cyanellus (Green sunfish) weight 0.7 g; Conditions: static; Concentration: 173 ppm for 96 hr (95% confidence limit: 123-243 ppm) /37% AI formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill) weight 0.5 g; Conditions: static; Concentration: 100 ppm for 96 hr (95% confidence limit: 80-125 ppm) /37% AI formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill) weight 0.71 g; Conditions: static; Concentration: 80.8 ppm for 96 hr (95% confidence limit: 69.5-94.1 ppm) /37% AI formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill) average length: 1.4-1.7 in, average weight 0.7-1.1 g; Conditions: static, total hardness 42 ppm CaCO3, temp 12 °C; Concentration: 185 mg/L for 24 hr (95% confidence interval: 156-220 mg/L) /Formalin, 37% formaldehyde gas in water/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill) average length: 1.4-1.7 in, average weight 0.7-1.1 g; Conditions: static, total hardness 42 ppm CaCO3, temp 12 °C; Concentration: 140 mg/L for 48 hr (95% confidence interval: 127-154 mg/L) /Formalin, 37% formaldehyde gas in water/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Menidia menidia (Atlantic silverside) weight 0.22 g; Conditions: static; Concentration: 69 ppm for 96 hr (95% confidence limit: 52-86 ppm) /37% AI formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Micropterus dolomieui (Smallmouth bass); Conditions: static; Concentration: 88.8 mg/L for 24 hr (95% confidence limit: 68.4-91.2 mg/L) /Formalin/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Micropterus dolomieui (Smallmouth bass); Conditions: static; Concentration: 54.4 mg/L for 96 hr (95% confidence limit: 36.1-82.0 mg/L) /Formalin/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Micropterus dolomieui (Smallmouth bass) weight 0.68 g; Conditions: static; Concentration: 136 ppm for 96 hr (95% confidence limit: 90-205 ppm) /37% AI formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Micropterus salmoides (Largemouth bass); Conditions: static; Concentration: 412 mg/L for 6 hr (95% confidence limit: 371-456 mg/L) /Formalin/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Micropterus salmoides (Largemouth bass); Conditions: static; Concentration: 113 mg/L for 24 hr (95% confidence limit: 91.6-140 mg/L) /Formalin/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Micropterus salmoides (Largemouth bass); Conditions: static; Concentration: 57.2 mg/L for 96 hr (95% confidence limit: 51.6-63.6 mg/L) /Formalin/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Micropterus salmoides (Largemouth bass) weight 1.0 g; Conditions: static; Concentration: 143 ppm for 96 hr (95% confidence limit: 129-159 ppm) /37% AI formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow); Conditions: flow-through bioassay with measured concentrations, 21.7 °C, dissolved oxygen 7.4 mg/L, hardness 50.8 mg/L calcium carbonate, alkalinity 37.0 mg/L calcium carbonate, and pH 6.8; Concentration: 24.1 mg/L for 96 hr (confidence limit: 22.6-25.7 mg/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Salmo trutta (Brown trout) average length: 1.7-1.9 in, average weight 0.8-1.2 g; Conditions: static, total hardness 42 ppm CaCO3, temp 12 °C; Concentration: 325 mg/L for 24 hr (95% confidence interval: 304-348 mg/L) /Formalin, 37% formaldehyde gas in water/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Salmo trutta (Brown trout) average length: 1.7-1.9 in, average weight 0.8-1.2 g; Conditions: static, total hardness 42 ppm CaCO3, temp 12 °C; Concentration: 185 mg/L for 48 hr (95% confidence interval: 160-208 mg/L) /Formalin, 37% formaldehyde gas in water/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Salvelinus fontinalis (Brook trout) average length: 1.5-1.6 in, average weight 0.4-0.6 g; Conditions: static, total hardness 42 ppm CaCO3, temp 12 °C; Concentration: 196 mg/L for 24 hr (95% confidence interval: 187-206 mg/L) /Formalin, 37% formaldehyde gas in water/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Salvelinus fontinalis (Brook trout) average length: 1.5-1.6 in, average weight 0.4-0.6 g; Conditions: static, total hardness 42 ppm CaCO3, temp 12 °C; Concentration: 157 mg/L for 48 hr (95% confidence interval: 143-173 mg/L) /Formalin, 37% formaldehyde gas in water/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Anguilla rostrata (American eel) yellow phase eels; Conditions: static; Concentration: 329.65 mg/L for 96 hr (95% confidence limit: 257.18-402.93 mg/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Anguilla rostrata (American eel) black eel stage; Conditions: static; Concentration: 224.49 mg/L for 96 hr (95% confidence limit: 179.65-320.92 mg/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Brachydanio rerio (Zebra danio); Conditions: static; Concentration: 41 mg/L for 96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Rasbora heteromorpha (Harlequin); Conditions: static; Concentration: 76 mg/L for 24 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Rasbora heteromorpha (Harlequin); Conditions: static; Concentration: 50 mg/L for 48 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Anas platyrhynchos (Mallard duck) age 6 days; dietary &gt;5000 ppm for 8 days</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Colinus virginianus (Bobwhite quail) age 14 days; dietary &gt;5000 ppm for 8 days</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Colinus virginianus (Bobwhite quail) age 72 weeks; oral 790 mg/kg (95% confidence limit: 681-916 mg/kg)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Chanos chanos (Milkfish) fingerlings; Conditions: static; Concentration: 322 ppm for 24 hr (95% confidence limit: 222-359 ppm) /Formalin/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Chanos chanos (Milkfish) fingerlings; Conditions: static; Concentration: 260 ppm for 48 hr (95% confidence limit: 181-410 ppm) /Formalin/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Chanos chanos (Milkfish) fingerlings; Conditions: static; Concentration: 241 ppm for 72 hr (95% confidence limit: 163-431 ppm) /Formalin/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Chanos chanos (Milkfish) fingerlings; Conditions: static; Concentration: 232 ppm for 96 hr (95% confidence limit: 154-422 ppm) /Formalin/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ictalurus punctatus (Channel catfish) weight 0.4 g; Condtions: static; Concentration: 65.8 ppm for 96 hr (58.1-74.5 ppm) /37% AI formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Penaeus duorarum (Pink shrimp) weight 1.44 g; Conditions: static; Concentration: 143 ppm for 96 hr (95% confidence limit: 91-291 ppm) /37% AI formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Trachinotus carolinus (Florida pompano) weight 0.25 g; Conditions: static; Concentration: 69.1 ppm for 96 hr (95% confidence limit: 61.8-77.8 ppm) /37% AI formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Scenedesmus subspicatus (Green Algae); Conditions: freshwater, static; Concentration: 211000 ug/L for 49-79 min; Effect: population, decreased photosynthesis /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Pseudokirchneriella subcapitata (Green Algae) exponential growth phase, 15000 cells/mL; Conditions: static, 24 °C, dissolved oxygen 1-2 mg/L; Concentration: 2627 ug/L for 48 hr; Effect: physiology, decreased photosynthesis</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Pseudokirchneriella subcapitata (Green Algae) exponential growth phase, 15000 cells/mL; Conditions: static, 24 °C, dissolved oxygen 1-2 mg/L; Concentration: 4249 ug/L for 48 hr; Effect: population, decreased population growth rate</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Artemia salina (Brine Shrimp) age 2-3 instar nauplii; Conditions: saltwater, static, 25 °C; Concentration: 2671000 ug/L for 24 hr (95% confidence interval: 1744000-3597000 ug/L); Effect: intoxication, immobilization /formulation/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water Flea) age &lt;24 hr; Conditions: freshwater, static; Concentration: 14600 ug/L for 48 hr (95% confidence interval: 11300-18000 ug/L); Effect: intoxication, immobilization /37% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Penaeus duorarum (Northern Pink Shrimp) weight 1.44 g; Conditions: saltwater, static; Concentration: 143000 ug/L for 96 hr (95% confidence interval: 91000-291000 ug/L) /37% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Penaeus duorarum (Northern Pink Shrimp); Conditions: saltwater, static; Concentration: 358000 ug/L for 96 hr (95% confidence interval: 209000-610000 ug/L) /25.9% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Penaeus duorarum (Northern Pink Shrimp); Conditions: saltwater, static; Concentration: 7600 ug/L for 96 hr (95% confidence interval: 5800-10000 ug/L) /27.75% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Crassostrea virginica (American Or Virginia Oyster) embryo; Conditions: saltwater, static; Concentration: 1800 ug/L for 48 hr (95% confidence interval: 1400-2300 ug/L) /37% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Crassostrea virginica (American Or Virginia Oyster) embryo; Conditions: saltwater, static; Concentration: 2900 ug/L for 48 hr (95% confidence interval: 2100-3700 ug/L) /25.9% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Crassostrea virginica (American Or Virginia Oyster) embryo; Conditions: saltwater, static; Concentration: 300 ug/L for 48 hr (95% confidence interval: 180-510 ug/L) /27.75% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>TLm Catfish 32 ppm/24 hr in fresh water /Conditions of bioassay not specified/.</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>TLm Flounder 100-300 ppm/48 hr in salt water /Conditions of bioassay not specified/.</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow Trout) weight 1 g (0.3-2.9 g); Conditions: freshwater, static, 10.5 °C, pH 8.2, hardness 340 mg/L CaCO3; Concentration: 60000 ug/L for 96 hr /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout); Conditions: freshwater, static; Concentration: 51.2 ppm for 96 hr /91% purity/ /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill sunfish); Conditions: freshwater, static; Concentration: 39.1 ppm for 96 hr /91% purity/ /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Penaeus duoratum (Pink shrimp); Conditions: saltwater, static; Concentration: 31 ppm for 96 hr /91% purity/ /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Uca pugilator (Fiddler crab); Conditions: saltwater, static; Concentration: 213 ppm for 96 hr /91% purity/ /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

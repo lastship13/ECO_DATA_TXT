@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf8'?>
+<Excel_XML>
+  <RECORDS>
+    <index>139</index>
+    <name>Castor oil, hydrogenated, ethoxylated</name>
+    <CAS>61788-85-0</CAS>
+    <IUPAC>Castor oil, hydrogenated, ethoxylated</IUPAC>
+    <SMILES>NO DATA</SMILES>
+    <Toxicity>Daphnia_EC50 : &gt;1.0 mg/L  Daphnia_Duration : 48 hr  Daphnia_Further_info : ECHA ; European Chemicals Agency</Toxicity>
+  </RECORDS>
+</Excel_XML>

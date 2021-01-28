@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf8'?>
+<Excel_XML>
+  <RECORDS>
+    <index>35</index>
+    <name>4-tert-butylcyclohexyl acetate</name>
+    <CAS>32210-23-4</CAS>
+    <IUPAC>(4-tert-butylcyclohexyl) acetate</IUPAC>
+    <SMILES> CC(=O)OC1CCC(CC1)C(C)(C)C</SMILES>
+    <Toxicity>Daphnia_EC50 : 5.3 mg/L  Daphnia_Duration : 48 hrs  Daphnia_Further_info : Eternis Fine Chemicals Ltd. - Safety data sheet (http://www.eternis.com/sites/default/files/products/PTBCHA%20Super%20SDS.pdf)</Toxicity>
+  </RECORDS>
+</Excel_XML>

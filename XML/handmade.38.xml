@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf8'?>
+<Excel_XML>
+  <RECORDS>
+    <index>38</index>
+    <name>Citral</name>
+    <CAS>5392-40-5</CAS>
+    <IUPAC>(2E)-3,7-dimethylocta-2,6-dienal</IUPAC>
+    <SMILES>CC(=CCC/C(=C/C=O)/C)C</SMILES>
+    <Toxicty>Medaka_LC50 : 4.1 mg/L  Medaka_Duration : 96 hrs   Medaka_Further_info : Pubchem, 6.1 mg/L (24 hrs, Pubchem), 5.8 mg/L (48 hrs, Pubchem)</Toxicty>
+    <Toxicty>Daphnia_EC50 : 1.6 mg/L  Daphnia_Duration : 21 days  Daphnia_Further_info : Pubchem, 10mg/L (24 hrs, Pubchem) 1.5 mg/L (14 days, Pubchem)</Toxicty>
+  </RECORDS>
+</Excel_XML>

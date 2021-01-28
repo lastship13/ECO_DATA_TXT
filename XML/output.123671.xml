@@ -1,0 +1,330 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>123671</ns0:RecordNumber>
+  <ns0:RecordTitle>Brilliant Blue</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Colinus virginianus (Northern Bobwhite Quail, age 10 days) diet &gt;5620 ppm for 8 days</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Colinus virginianus (Northern Bobwhite Quail, age 35 weeks) oral via capsule &gt;2250 mg/kg</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Anas platyrhynchos (Mallard Duck, age 10 days) diet &gt;5620 ppm for 8 days</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Anas platyrhynchos (Mallard Duck, age 22 weeks) oral via capsule &gt;2250 mg/kg</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water Flea, age &lt;24 hr); Conditions: freshwater, static; Concentration: &gt;97000 ug/L for 48 hr; Effect: intoxication, immobilization /formulation/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill); Conditions: freshwater, static; Concentration: &gt;96000 ug/L for 96 hr /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus gorbuscha (Pink Salmon, age 3.5 months juvenile, length 4.2 cm, weight 0.7 g); Conditions: freshwater, static, 14 °C; Concentration: &gt;1126000 ug/L for 24 hr /50% AI/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus gorbuscha (Pink Salmon, age 3.5 months juvenile, length 4.2 cm, weight 0.7 g); Conditions: freshwater, static, 14 °C, soft water; Concentration: &gt;680000 ug/L for 24 hr /50% AI/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus gorbuscha (Pink Salmon, age 3.5 months juvenile, length 4.2 cm, weight 0.7 g); Conditions: freshwater, static, 14 °C, hard water; Concentration: 674000 ug/L for 24 hr /50% AI/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus gorbuscha (Pink Salmon, age 3.5 months juvenile, length 4.2 cm, weight 0.7 g); Conditions: freshwater, static, 14 °C; Concentration: &gt;1126000 ug/L for 48 hr /50% AI/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus gorbuscha (Pink Salmon, age 3.5 months juvenile, length 4.2 cm, weight 0.7 g); Conditions: freshwater, static, 14 °C, soft water; Concentration: &gt;680000 ug/L for 48 hr /50% AI/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus gorbuscha (Pink Salmon, age 3.5 months juvenile, length 4.2 cm, weight 0.7 g); Conditions: freshwater, static, 14 °C, hard water; Concentration: 265000 ug/L for 48 hr /50% AI/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus gorbuscha (Pink Salmon, age 3.5 months juvenile, length 4.2 cm, weight 0.7 g); Conditions: freshwater, static, 14 °C, hard water; Concentration: 239000 ug/L for 96 hr /50% AI/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus gorbuscha (Pink Salmon, age 3.5 months juvenile, length 4.2 cm, weight 0.7 g); Conditions: freshwater, static, 14 °C, soft water; Concentration: 398000 ug/L for 96 hr /50% AI/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus gorbuscha (Pink Salmon, age 3.5 months juvenile, length 4.2 cm, weight 0.7 g); Conditions: freshwater, static, 14 °C; Concentration: 619000 ug/L for 96 hr /50% AI/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus keta (Chum Salmon, age 3.5 months juvenile, length 4.2 cm, weight 0.7 g); Conditions: freshwater, static, 14 °C, soft water; Concentration: &gt;1130000 ug/L for 24 hr /50% AI/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus keta (Chum Salmon, age 3.5 months juvenile, length 4.2 cm, weight 0.7 g); Conditions: freshwater, static, 14 °C, soft water; Concentration: 801000 ug/L for 48 hr /50% AI/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus keta (Chum Salmon, age 3.5 months juvenile, length 4.2 cm, weight 0.7 g); Conditions: freshwater, static, 14 °C, soft water; Concentration: 427000 ug/L for 96 hr /50% AI/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus kisutch (Coho Salmon, age 3.5 months juvenile, length 4.2 cm, weight 0.7 g); Conditions: freshwater, static, 14 °C; Concentration: &gt;2038000 ug/L for 24 hr /50% AI/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus kisutch (Coho Salmon, age 3.5 months juvenile, length 4.2 cm, weight 0.7 g); Conditions: freshwater, static, 14 °C, soft water; Concentration: 1154000 ug/L for 24 hr /50% AI/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus kisutch (Coho Salmon, age 3.5 months juvenile, length 4.2 cm, weight 0.7 g); Conditions: freshwater, static, 14 °C, hard water; Concentration: 569000 ug/L for 24 hr /50% AI/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus kisutch (Coho Salmon, age 3.5 months juvenile, length 4.2 cm, weight 0.7 g); Conditions: freshwater, static, 14 °C; Concentration: 1261000 ug/L for 48 hr /50% AI/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus kisutch (Coho Salmon, age 3.5 months juvenile, length 4.2 cm, weight 0.7 g); Conditions: freshwater, static, 14 °C, soft water; Concentration: 332000 ug/L for 48 hr /50% AI/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus kisutch (Coho Salmon, age 3.5 months juvenile, length 4.2 cm, weight 0.7 g); Conditions: freshwater, static, 14 °C, hard water; Concentration: 392000 ug/L for 48 hr /50% AI/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus kisutch (Coho Salmon, age 3.5 months juvenile, length 4.2 cm, weight 0.7 g); Conditions: freshwater, static, 14 °C; Concentration: 1144000 ug/L for 96 hr /50% AI/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus kisutch (Coho Salmon, age 3.5 months juvenile, length 4.2 cm, weight 0.7 g); Conditions: freshwater, static, 14 °C, soft water; Concentration: 332000 ug/L for 96 hr /50% AI/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus kisutch (Coho Salmon, age 3.5 months juvenile, length 4.2 cm, weight 0.7 g); Conditions: freshwater, static, 14 °C, hard water; Concentration: 377000 ug/L for 96 hr /50% AI/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow Trout, age 3.5 months juvenile, length 4.2 cm, weight 0.7 g); Conditions: freshwater, static, 14 °C, soft water; Concentration: &gt;1030000 ug/L for 24 hr /50% AI/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow Trout, age 3.5 months juvenile, length 4.2 cm, weight 0.7 g); Conditions: freshwater, static, 14 °C; Concentration: &gt;2114000 ug/L for 24 hr /50% AI/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow Trout, age 3.5 months juvenile, length 4.2 cm, weight 0.7 g); Conditions: freshwater, static, 14 °C, hard water; Concentration: 3457000 ug/L for 24 hr /50% AI/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow Trout, age 3.5 months juvenile, length 4.2 cm, weight 0.7 g); Conditions: freshwater, static, 14 °C; Concentration: 1421000 ug/L for 48 hr /50% AI/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow Trout, age 3.5 months juvenile, length 4.2 cm, weight 0.7 g); Conditions: freshwater, static, 14 °C, hard water; Concentration: 1525000 ug/L for 48 hr /50% AI/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow Trout, age 3.5 months juvenile, length 4.2 cm, weight 0.7 g); Conditions: freshwater, static, 14 °C, soft water; Concentration: 972000 ug/L for 48 hr /50% AI/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow Trout, age 3.5 months juvenile, length 4.2 cm, weight 0.7 g); Conditions: freshwater, static, 14 °C; Concentration: 1370000 ug/L for 96 hr /50% AI/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow Trout, age 3.5 months juvenile, length 4.2 cm, weight 0.7 g); Conditions: freshwater, static, 14 °C, hard water; Concentration: 1474000 ug/L for 96 hr /50% AI/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow Trout, age 3.5 months juvenile, length 4.2 cm, weight 0.7 g); Conditions: freshwater, static, 14 °C, soft water; Concentration: 412000 ug/L for 96 hr /50% AI/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow Trout); Conditions: freshwater, static; Concentration: 96000 ug/L for 96 hr /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus nerka (Sockeye Salmon, age 3.5 months juvenile, length 4.2 cm, weight 0.7 g); Conditions: freshwater, static, 14 °C, soft water; Concentration: &gt;700000 ug/L for 24 hr /50% AI/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus nerka (Sockeye Salmon, age 3.5 months juvenile, length 4.2 cm, weight 0.7 g); Conditions: freshwater, static, 14 °C, soft water; Concentration: &gt;700000 ug/L for 48 hr /50% AI/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus nerka (Sockeye Salmon, age 3.5 months juvenile, length 4.2 cm, weight 0.7 g); Conditions: freshwater, static, 14 °C, soft water; Concentration: 201000 ug/L for 72 hr /50% AI/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus nerka (Sockeye Salmon, age 3.5 months juvenile, length 4.2 cm, weight 0.7 g); Conditions: freshwater, static, 14 °C, soft water; Concentration: 180000 ug/L for 96 hr /50% AI/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus tshawytscha (Chinook Salmon, age 3.5 months juvenile, length 4.2 cm, weight 0.7 g); Conditions: freshwater, static, 14 °C, soft water; Concentration: &gt;649000 ug/L for 24 hr /50% AI/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus tshawytscha (Chinook Salmon, age 3.5 months juvenile, length 4.2 cm, weight 0.7 g); Conditions: freshwater, static, 14 °C, soft water; Concentration: 721000 ug/L for 48 hr /50% AI/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus tshawytscha (Chinook Salmon, age 3.5 months juvenile, length 4.2 cm, weight 0.7 g); Conditions: freshwater, static, 14 °C, soft water; Concentration: 412000 ug/L for 72 hr /50% AI/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus tshawytscha (Chinook Salmon, age 3.5 months juvenile, length 4.2 cm, weight 0.7 g); Conditions: freshwater, static, 14 °C, soft water; Concentration: 370000 ug/L for 96 hr /50% AI/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

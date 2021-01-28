@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>73674</ns0:RecordNumber>
+  <ns0:RecordTitle>Thifensulfuron-methyl</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 Anas platyrhynchos (Mallard duck) oral &gt;2510 mg/kg[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 3-[[[</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Anas platyrhynchos (Mallard duck, 10 day old) diet &gt;5620 ppm/8 days[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 3-[[[</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Colinus virginianus (Northern bobwhite, 13 day old) diet &gt;5620 ppm/8 days[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 3-[[[</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 Apis mellifera (Honey bee) topical 12.5 ug/bee/48 hr[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 3-[[[</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50 Daphnia magna (Water flea; intoxication, immobilization) &gt;1000 ppm/48 hr; static /formulated product/[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 3-[[[</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Lepomis macrochirus (Bluegill sunfish) &gt;100 ppm/96 hr; static /formulated product/[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 3-[[[</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50 Oncorhynchus mykiss (Rainbow trout) &gt;100 ppm/96 hr; static /formulated product/[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 3-[[[</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

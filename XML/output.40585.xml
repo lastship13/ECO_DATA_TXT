@@ -1,0 +1,533 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>40585</ns0:RecordNumber>
+  <ns0:RecordTitle>Deltamethrin</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Rhodeus sericeus amarus; Conditions: static; Concentration: 1.12 ug/L for 96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Salmo salar; Concentration: 1.97 ug/L for 96 hr /Conditions of bioassay not specified in source examined/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Sarotherodon mossambicuse; Conditions: flow system, static conditions; Concentration: 3.5 ug/L for 96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Anas platyrhynchos (Mallard duck) oral &gt;4640 mg/kg</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Quail dietary &gt;5620 mg/kg diet/8 day</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Anas platyrhynchos (Mallard duck, age 14 days) diet &gt;4640 ppm for 8 days</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Colinus virginianus (Northern bobwhite quail, age 14 days) diet &gt;10000 ppm for 8 days</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Colinus virginianus (Northern bobwhite quail, age  weeks) oral (via capsule) &gt;2250 mg/kg</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Apis mellifera (Honey bee) contact 0.0015 ug/bee /99.7% a.i./ /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Apis mellifera (Honey bee, adult 0.1265 g, workers) topical 0.677 ug/bee</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Nomia melanderi (Alkali bee, adult 0.0866 g) topical 0.444 ug/bee</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Megachile rotundata (Alfalfa leafcutter bee, adult 0.0308 g) topical 0.334 ug/bee</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Coccinella septempunctata (Sevenspotted Lady beetle, adult) foliar spray (flag leaf residual bioassay) 2.0 g/ha</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Coccinella septempunctata (Sevenspotted Lady beetle, larvae) foliar spray (flag leaf residual bioassay) 0.4 g/ha</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Eisenia fetida (Earthworm, 0.4 g) direct application in artificial soil 6.6 mg/kg/day for 14 days</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Eisenia fetida (Earthworm, mature organism 3 months old) direct application in artificial soil 432.9 mg/kg/day for 14 days</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Scenedesmus subspicatus (Green algae); Conditions: freshwater, static, 22 °C, pH 8.3; Concentration: 2560 ug/L for 72 hr (95% confidence interval: 1440-4590 ug/L); Effect: decreased population growth rate</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Ceriodaphnia dubia (Water Flea); Conditions: freshwater, static, 22.0-22.4 °C, pH 6.67-7.97, conductivity 771-797uS/cm; Concentration: 0.02 ug/L for 48 hr; Effect: intoxication, immobilization /&gt; or = 98% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Ceriodaphnia dubia (Water Flea); Conditions: freshwater, static, 22.5-24.9 °C, pH 6.59-7.78, conductivity 775-793 uS/cm; Concentration: 0.021 ug/L for 48 hr; Effect: intoxication, immobilization /&gt; or = 98% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Ceriodaphnia dubia (Water Flea); Conditions: freshwater, static, 22.3-23.8 °C, pH 7.32-8.61, conductivity 510-527 uS/cm; Concentration: 0.025 ug/L for 48 hr; Effect: intoxication, immobilization /&gt; or = 98% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Ceriodaphnia dubia (Water Flea); Conditions: freshwater, static, 21.6-22.0 °C, pH 7.95-8.02, conductivity 498-521 uS/cm; Concentration: 0.029 ug/L for 48 hr; Effect: intoxication, immobilization /&gt; or = 98% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Ceriodaphnia dubia (Water Flea); Conditions: freshwater, static, 21.1-23.0 °C, pH 7.98-8.50, conductivity 794-821 uS/cm; Concentration: 0.083 ug/L for 48 hr; Effect: intoxication, immobilization /&gt; or = 98% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Ceriodaphnia dubia (Water Flea); Conditions: freshwater, static, 23.2-23.4 °C, pH 7.98-8.33, conductivity 816-847 uS/cm; Concentration: 0.088 ug/L for 48 hr; Effect: intoxication, immobilization /&gt; or = 98% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water Flea, age 4-5 day juvenile, 4th instar); Conditions: freshwater, static, pH 8.3, dissolved oxygen &gt; or =91% saturated; Concentration: 0.05 ug/L for 24 hr; Effect: feeding behavior, decreased food consumption /99.8% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water Flea, age 6-24 hr neonate); Conditions: freshwater, renewal, 20 °C, pH 7.8-8.0, hardness 250 mg/L CaCO3, dissolved oxygen 4-6 mg/L; Concentration: 0.113 ug/L for 24 hr; Effect: intoxication, immobilization /formulation/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water Flea, age 48-72 hr juvenile); Conditions: freshwater, renewal, 20 °C, pH 7.8-8.0, hardness 250 mg/L CaCO3, dissolved oxygen 4-6 mg/L; Concentration: 0.29 ug/L for 24 hr; Effect: intoxication, immobilization /formulation/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water Flea, adult gravid female); Conditions: freshwater, static, 20-21 °C, pH 6.9-7.3, dissolved oxygen 2.2 mg/L; Concentration: 0.64 ug/L for 24 hr (95% confidence interval: 0.25-1.63 ug/L); Effect: intoxication, immobilization /Technical, 99.9%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water Flea, adult gravid female); Conditions: freshwater, static, 20-21 °C, pH 6.9-7.3, dissolved oxygen 4.5 mg/L; Concentration: 3.42 ug/L for 24 hr (95% confidence interval: 1.81-6.47 ug/L); Effect: intoxication, immobilization /Technical, 99.9%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water Flea, adult gravid female); Conditions: freshwater, static, 20-21 °C, pH 6.9-7.3, dissolved oxygen 10.1 mg/L; Concentration: 4.65 ug/L for 24 hr (95% confidence interval: 2.51-8.64 ug/L); Effect: intoxication, immobilization /Technical, 99.9%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water Flea, &lt;24 hr); Conditions: freshwater, flow through; Concentration: 0.18 ug/L for 48 hr (95% confidence interval: 0.12-0.25 ug/L); Effect: intoxication, immobilization /formulation/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water Flea, &lt;24 hr); Conditions: freshwater, renewal; Concentration: 0.11 ug/L for 48 hr (95% confidence interval: 0.052-0.18 ug/L); Effect: intoxication, immobilization /2.5 Emulsifiable Concentrate formulation/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water Flea, age 6-24 hr neonate); Conditions: freshwater, renewal, 20 °C, pH 7.8-8.0, hardness 250 mg/L CaCO3, dissolved oxygen 4-6 mg/L; Concentration: 0.031 ug/L for 48 hr; Effect: intoxication, immobilization /formulation/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water Flea, age 48-72 hr juvenile); Conditions: freshwater, renewal, 20 °C, pH 7.8-8.0, hardness 250 mg/L CaCO3, dissolved oxygen 4-6 mg/L; Concentration: 0.029 ug/L for 48 hr; Effect: intoxication, immobilization /formulation/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water Flea, &lt;24 hr); Conditions: freshwater, static; Concentration: 3.5 ug/L for 48 hr (95% confidence interval: 2.6-4.5 ug/L); Effect: intoxication, immobilization /99.3% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water Flea, adult gravid female); Conditions: freshwater, static, 20-21 °C, pH 6.9-7.3, dissolved oxygen 2.2 mg/L; Concentration: 0.05 ug/L for 48 hr (95% confidence interval: 0.03-0.09 ug/L); Effect: intoxication, immobilization /Technical, 99.9%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water Flea, adult gravid female); Conditions: freshwater, static, 20-21 °C, pH 6.9-7.3, dissolved oxygen 10.1 mg/L; Concentration: 0.85 ug/L for 48 hr (95% confidence interval: 0.53-1.34 ug/L); Effect: intoxication, immobilization /Technical, 99.9%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water Flea, adult gravid female); Conditions: freshwater, static, 20-21 °C, pH 6.9-7.3, dissolved oxygen 4.5 mg/L; Concentration: 1.01 ug/L for 48 hr (95% confidence interval: 0.63-1.61 ug/L); Effect: intoxication, immobilization /Technical, 99.9%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water Flea, age 6-24 hr neonate); Conditions: freshwater, renewal, 20 °C, pH 7.8-8.0, hardness 250 mg/L CaCO3, dissolved oxygen 4-6 mg/L; Concentration: 0.003 ug/L for 96 hr; Effect: intoxication, immobilization /formulation/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water Flea, age 48-72 hr juvenile); Conditions: freshwater, renewal, 20 °C, pH 7.8-8.0, hardness 250 mg/L CaCO3, dissolved oxygen 4-6 mg/L; Concentration: 0.018 ug/L for 96 hr; Effect: intoxication, immobilization /formulation/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water Flea, age 4-5 day juvenile, 4th instar); Conditions: freshwater, static, pH 8.3, dissolved oxygen &gt; or =91% saturated; Concentration: 0.15 ug/L for 48 hr /99.8% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water flea); Conditions: flow through; Concentration: 0.57 ug a.i./L for 48 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water Flea, age 48-72 hr juvenile); Conditions: freshwater, renewal, 20 °C, pH 7.8-8.0, hardness 250 mg/L CaCO3, dissolved oxygen 4-6 mg/L; Concentration: 0.021 ug/L for 96 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water Flea, age 6-24 hr neonate); Conditions: freshwater, renewal, 20 °C, pH 7.8-8.0, hardness 250 mg/L CaCO3, dissolved oxygen 4-6 mg/L; Concentration: 0.01 ug/L for 96 hr /formulation/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Mysidopsis bahia (Mysid shrimp); Concentration: 0.0017 ug a.i./L for 96 hr /Conditions of bioassay not specified in source examined/ /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Alburnus alburnus (Bleak); Conditions: static; Concentration: 0.69 ug/L for 96 hr /Technical product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cyprinodon variegatus (Sheepshead minnow); Concentration: 0.36 ug a.i./L for 96 hr /Conditions of bioassay not specified in source examined/ /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cyprinus carpio (Common Carp, young organism, weight 3.5-5.8 g, length 6.2-7.4 cm); Conditions: freshwater, static, 20.5 °C, pH 8.4, hardness 180-200 mg/L CaCO3, alkalinity 135-160 mg/L CaCO3, dissolved oxygen 7.2 mg/L; Concentration: 9.41 ug/L for 24 hr (95% confidence interval: 7.13-13.7 ug/L /2.5 Emulsifiable Concentrate formulation/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cyprinus carpio (Common Carp, young organism, weight 3.5-5.8 g, length 6.2-7.4 cm); Conditions: freshwater, static, 20.5 °C, pH 8.4, hardness 180-200 mg/L CaCO3, alkalinity 135-160 mg/L CaCO3, dissolved oxygen 7.2 mg/L; Concentration: 4.47 ug/L for 48 hr (95% confidence interval: 3.4-6.14 ug/L /2.5 Emulsifiable Concentrate formulation/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cyprinus carpio (Common Carp, young organism, weight 3.5-5.8 g, length 6.2-7.4 cm); Conditions: freshwater, static, 20.5 °C, pH 8.4, hardness 180-200 mg/L CaCO3, alkalinity 135-160 mg/L CaCO3, dissolved oxygen 7.2 mg/L; Concentration: 1.65 ug/L for 96 hr (95% confidence interval: 1.32-2.07 ug/L /2.5 Emulsifiable Concentrate formulation/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cyrpinus carpio (Common carp); Conditions: flow system, static condition; Concentration: 1.84 ug/L for 96 hr /Technical product/ /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cyrpinus carpio (Common carp); Conditions: flow system, static condition; Concentration: 0.86 ug/L for 96 hr /Technical product/ /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Brachydanio rerio (Zebra fish); Conditions: flow system, static condition; Concentration: 2.0 ug/L for 96 hr /Technical product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Danio rerio (Zebra Danio, fertilized eggs); Conditions: freshwater, flow through, 27 °C, pH 8, dissolved oxygen 6 mg/L; Concentration: 0.52 ug/L for 35 days (95% confidence interval: 0.46-0.58 ug/L /&gt;98% deltamethrin/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Gambusia affinis (Western mosquitofish, length 4.5-6 cm); Conditions: freshwater, static, 17.6-24 °C; Concentration: 0.32 ug/L for 24 hr /25% purity emulsifiable concentrate formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Gambusia affinis (Western mosquitofish, length 4-5 cm); Conditions: static, 8.8-16 °C; Concentration: 1.0 ug/L for 48 hr /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50: Species: Ictalurus nebulosus (Brown bullhead); Conditions: flow system, static conditions; Concentration: 1.2 ug/L for 96 hr /Technical product/ /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ictalurus punctatus (Channel catfish); Conditions: flow system, static condition; Concentration: 0.63 ug/L for 96 hr /Technical product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis gibbosus (Pumpkinseed sunfish); Conditions: flow system, static condition; Concentration: 0.58 ug/L for 96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepmois machrochirus (Bluegill sunfish); Conditions: flow system, static condition; Concentration: 1.2 ug/L for 96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill); Conditions: freshwater, flow through; Concentration: 0.36 ug/L for 96 hr (95% confidence interval: 0.33-0.39 ug/L) /2.5 Emulsifiable Concentrate formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill); Conditions: freshwater, flow through; Concentration: 1.5 ug/L for 96 hr (95% confidence interval: 1.2-2.1 ug/L) /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill); Conditions: freshwater, static; Concentration: 1.4 ug/L for 96 hr (95% confidence interval: 1.0-1.8 ug/L) /99.3% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout, male, female fry, weight 1.9-2.5 g); Conditions: freshwater, static, 15.5 °C, pH 8.5, hardness 184-202 mg/L CaCO3, alkalinity 133-161 mg/L CaCO3, conductivity 227.05 uS/cm, dissolved oxygen 7.19 mg/L; Concentration: 3.1856 ug/L for 24 hr (95% confidence interval: 1.8438-5.1897) /formulation/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout, length 5-6 cm); Conditions: static, 12.0-25.5 °C; Concentration: 0.7 ug/L for 24 hr /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout, weight 2.6 g); Conditions: freshwater, static; Concentration: 2.5 ug/L for 24 hr (95% confidence interval: 1.9-3.3 ug/L) /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout, male, female fry, weight 1.9-2.5 g); Conditions: freshwater, static, 15.5 °C, pH 8.5, hardness 184-202 mg/L CaCO3, alkalinity 133-161 mg/L CaCO3, conductivity 227.05 uS/cm, dissolved oxygen 7.19 mg/L; Concentration: 1.6568 ug/L for 48 hr (95% confidence interval: 0.7287-3.16 ug/L) /formulation/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout, length 5-6 cm); Conditions: static, 12.0-25.5 °C; Concentration: 0.5 ug/L for 48 hr /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout, weight 2.6 g); Conditions: freshwater, static; Concentration: 2.3 ug/L for 24 hr (95% confidence interval: 1.9-2.7 ug/L) /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout, male, female fry, weight 1.9-2.5 g); Conditions: freshwater, static, 15.5 °C, pH 8.5, hardness 184-202 mg/L CaCO3, alkalinity 133-161 mg/L CaCO3, conductivity 227.05 uS/cm, dissolved oxygen 7.19 mg/L; Concentration: 0.6961 ug/L for 96 hr (95% confidence interval: 0.3184-1.6575 ug/L) /formulation/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout, weight 2.6 g); Conditions: freshwater, static; Concentration: 2.3 ug/L for 96 hr (95% confidence interval: 1.9-2.7 ug/L) /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout); Conditions: freshwater, flow through; Concentration: 0.25 ug/L for 96 hr (95% confidence interval: 0.22-0.28 ug/L) /2.5 emulsifiable concentrate formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout); Conditions: flow system, static conditions; Concentration: 0.39 ug/L for 96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout, juvenile, weight 4.1 g); Conditions: freshwater, renewal, 14.5-16.5 °C, pH 7.40-7.82; Concentration: 1 ug/L for 96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout); Conditions: freshwater, static; Concentration: 0.91 ug/L for 96 hr (95% confidence interval: 0.66-1.3 ug/L) /99.3% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

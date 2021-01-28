@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf8'?>
+<Excel_XML>
+  <RECORDS>
+    <index>156</index>
+    <name>Etidronic acid</name>
+    <CAS>2809-21-4</CAS>
+    <IUPAC>(1-hydroxy-1-phosphonoethyl)phosphonic acid</IUPAC>
+    <SMILES>CC(O)(P(=O)(O)O)P(=O)(O)O</SMILES>
+    <Toxicity>Daphnia_EC50 : 527 mg/L  Daphnia_Duration : 48 hr  Daphnia_Further_info : Spectrum Chemical Mfg. Corp ; SAFETY DATA SHEET</Toxicity>
+  </RECORDS>
+</Excel_XML>

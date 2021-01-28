@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>51605</ns0:RecordNumber>
+  <ns0:RecordTitle>Fenoxycarb</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Colinus virginianus (Northern bobwhite) juvenile; diet 11574 ppm for 8 days[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Colinus virginianus (Northern bobwhite) oral &gt;7000 mg/kg[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Anas platyrhynchos (Mallard duck) juvenile; diet &gt;20000 ppm for 8 days[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Anas platyrhynchos (Mallard duck) adult; oral &gt;3000 mg/kg[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: /Coturnix/ (Japanese quail) oral &gt; 7000 mg/kg</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea) age &lt;24 hr; Conditions: freshwater, static; Concentration: 400 ug/L for 48 hr (95% confidence interval: 310-550 ug/L); Effect: intoxication, immobilization /95% purity/[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Ceriodaphnia reticulata (Water Flea) age &gt;24 hr; Conditions: freshwater, renewal, 24 °C, pH 7.0-7.5, hardness 75-85 mg/L CaCO3, dissolved oxygen 80-99%; Concentration: 9.2 ug/L for 14 days (95% confidence interval: 4.6-18 ug/L); Effect: sexual development /96.6% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Gammarus pulex (Scud); Conditions: freshwater, static, 15 °C, pH 7.4, hardness 180 mg/L CaCO3; Concentration: 1730 ug/L for 96 hr (95% confidence interval: 970-3100 ug/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ceriodaphnia dubia (Water Flea) age &lt;12 hr neonate; Conditions: freshwater, renewal, 24 °C, pH 8.1, dissolved oxygen &gt; or =91% saturated; Concentration: 18.01 ug/L for 10 days /99.6% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Danio rerio (Zebra Danio) embryo; Conditions: freshwater, static, 26 °C, pH 7.2-7.8, dissolved oxygen &gt; 7.6 mg/L; Concentration: 2310 ug/L for 48 hr /99.6% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cyprinus carpio (Common carp); Conditions: freshwater, static; Concentration: 2700 ug/L for 96 hr (95% confidence interval: 2200-3000 ug/L) /95% purity/[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Gambusia affinis (Western mosquitofish) newly hatched larvae age 3-5 days, organisms at different lifestages; Conditions: freshwater, static, 27 °C, dissolved oxygen &gt; or =40%; Concentration: 1.05 ug/L for 24 hr (95% confidence interval: 1.04-1.06 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Gambusia affinis (Western mosquitofish) newly hatched larvae age 3-5 days, organisms at different lifestages; Conditions: freshwater, static, 27 °C, dissolved oxygen &gt; or =40%; Concentration: 1.05 ug/L for 48 hr (95% confidence interval: 1.04-1.06 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Gambusia affinis (Western mosquitofish) length 2.8-4.03 cm, weight 0.22-0.51 g; Conditions: freshwater, static, 26 °C; Concentration: 0.073 ug/L for 72 hr /12.5% EC/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill); Conditions: freshwater, static; Concentration: 1860 ug/L for 96 hr (95% confidence interval: 1400-2400 ug/L) /95% purity/[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout); Conditions: freshwater, static; Concentration: 1600 ug/L for 96 hr (95% confidence interval: 1400-1700 ug/L) /95% purity/[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout) weight 0.24 g; Conditions: freshwater, flow through; Concentration: 660 ug/L for 96 hr (95% confidence interval: 600-720 ug/L) /97.8% purity/[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

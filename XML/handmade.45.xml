@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf8'?>
+<Excel_XML>
+  <RECORDS>
+    <index>45</index>
+    <name>Sodium chloride</name>
+    <CAS>7647-14-5</CAS>
+    <IUPAC>sodium;chloride</IUPAC>
+    <SMILES>[Na+].[Cl-]</SMILES>
+    <Toxicty>Zebrafish_LC50 : Total 10390 AI mg/L (egg)  Zebrafish_Duration : 4 Days  Zebrafish_Further_info : Ecotox, 29550 AI mg/L 0.0208 Day(s) in Ecotox</Toxicty>
+    <Toxicty>Zebrafish_EC50 : Total 12009.9954 AI mg/L  Zebrafish_Duration : .1667-2 Day(s)  Zebrafish_Further_info : Only egg data. Ecotox, Total 12009.9954 AI mg/L .6667-2 Days in Ecotox 1 data in PubChem</Toxicty>
+    <Toxicty>Fatheadminnow_LC50 : 7450000 ug/L  Fatheadminnow_Duration : 96 hrs  Fatheadminnow_Further_info : PubChem, 7400000 ug/L for 24 hr (PubChem) ;  7500000 ug/L for 24 hr (PubChem)</Toxicty>
+    <Toxicty>Daphnia_LC50 : 81.19799 mmol/L  Daphnia_Duration : 48hr  Daphnia_Further_info : PubChem, 11 datas in PubChem; 105 datas in Ecotox</Toxicty>
+    <Toxicty>Daphnia_EC50 : 340700 to 469200 ug/L  Daphnia_Duration : 48hr  Daphnia_Further_info : PubChem, 3 datas(24hr, , 64hr,21 days) in PubChem; 16 datas(1,2,7,8,9,10,21 Days) in Ecotox</Toxicty>
+  </RECORDS>
+</Excel_XML>

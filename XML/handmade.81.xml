@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf8'?>
+<Excel_XML>
+  <RECORDS>
+    <index>81</index>
+    <name>N,N'-1,2-Ethanediylbis N-acetylacetamide</name>
+    <CAS>10543-57-4</CAS>
+    <IUPAC>N-acetyl-N-[2-(diacetylamino)ethyl]acetamide</IUPAC>
+    <SMILES>CC(=O)N(CCN(C(=O)C)C(=O)C)C(=O)C</SMILES>
+    <Toxicty>Daphnia_EC50 : &gt; 1000 AI mg/L  Daphnia_Duration : 48hr  Daphnia_Further_info : echotox &amp; pubchem, Age : &lt;24 Hour(s), </Toxicty>
+  </RECORDS>
+</Excel_XML>

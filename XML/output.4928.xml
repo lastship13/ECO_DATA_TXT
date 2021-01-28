@@ -1,0 +1,204 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>4928</ns0:RecordNumber>
+  <ns0:RecordTitle>Prometon</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Salmo gairdneri (Rainbow trout) 20 ppm/96 hr /Technical; conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Lepomis macrochirus (Bluegill sunfish) &gt; 32 ppm/96 hr /Technical; conditions of assay not given/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Carassius auratus (Goldfish) 8.6 mg/l/96 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Colinus virginianus (Bobwhite quail) chicks oral &gt; 5080 ppm (8 day diet) /Pramitol 25E/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Anas platyrhynchos (Mallard duck) oral 4572 ppm (8 day diet) /Pramitol 25E/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Colinus virginianus (Northern bobwhite, age 10 days) dietary &gt;5620 ppm for 8 days</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Colinus virginianus (Northern bobwhite, age 6-8 weeks) dietary &gt;20000 ppm for 8 days</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Anas platyrhynchos (Mallard duck, age 14 days) oral 3157 mg/kg for 14 days (95% confidence interval: 1605-6211 mg/kg)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Colinus virginianus (Northern bobwhite, age 26 weeks) oral &gt;2264 mg/kg for 14 days</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Chlorella fusca vacuolata (Green algae, 75000 cells/mL); Conditions: freshwater, static, 28 °C, pH 6.7; Concentration: 123 ug/L for 24 hr; Effect: population growth rate /99% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Pseudokirchneriella subcapitata (Green algae) Conditions: freshwater, static; Concentration: 98 ug/L for 5 days (95% confidence interval: 88-108 ug/L); Effect: population abundance /97% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea, age &lt;24 hr); Conditions: freshwater, static, 21 °C; Concentration: 78000 ug/L for 24 hr; Effect: intoxication, immobilization /96-99.9% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea, age &lt;24 hr); Conditions: freshwater, static, 21 °C; Concentration: 38000 ug/L for 48 hr; Effect: intoxication, immobilization /96-99.9% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Americamysis bahia (Opossum shrimp, age &lt;24 hr) Conditions: salt water, static; Concentration: 17700 ug/L for 96 hr (95% confidence interval: 14000-22000 ug/L) /98.5% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Carassius carassius (Crucian carp, length 2-10 cm, weight 0.5-14 g); Conditions:freshwater, static, 14 °C, pH 6.8-7.6, hardness 5.0-6.0 mg/L CaCO3, dissolved oxygen 12 mg/L; Concentration: 70 mg/L for 48 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Carassius carassius (Crucian carp, length 2-10 cm, weight 0.5-14 g); Conditions:freshwater, static, 14 °C, pH 6.8-7.6, hardness 5.0-6.0 mg/L CaCO3, dissolved oxygen 12 mg/L; Concentration: 70 mg/L for 96 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cyprinodon variegatus (Sheepshead minnow) Conditions: salt water, static; Concentration: 47300 ug/L for 96 hr (95% confidence interval: 37000-73000 ug/L) /98.5% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ictalurus sp. (Bullhead, catfish, length 2-10 cm, weight 0.5-14 g); Conditions: freshwater, static, 21 °C, pH 6.8-7.6, hardness 5.0-6.0 mg/L CaCO3, dissolved oxygen 12 mg/L; Concentration: 30 mg/L for 48 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ictalurus sp. (Bullhead, catfish, length 2-10 cm, weight 0.5-14 g); Conditions: freshwater, static, 21 °C, pH 6.8-7.6, hardness 5.0-6.0 mg/L CaCO3, dissolved oxygen 12 mg/L; Concentration: 20 mg/L for 96 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill, length 2-10 cm, weight 0.5-14 g); Conditions: freshwater, static, 14 °C, pH 6.8-7.6, hardness 5.0-6.0 mg/L CaCO3, dissolved oxygen 12 mg/L; Concentration: 49 mg/L for 48 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill, length 2-10 cm, weight 0.5-14 g); Conditions: freshwater, static, 14 °C, pH 6.8-7.6, hardness 5.0-6.0 mg/L CaCO3, dissolved oxygen 12 mg/L; Concentration: 40 mg/L for 96 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Leuciscus idus (Ide, silver or golden orfe, age 4-12 months, length 2-10 cm, weight 0.5-14 g); Conditions: freshwater, static, 14 °C, pH 7.0 (6.8-7.6), hardness 6.0-7.0 mg/L CaCO3; Concentration: 64 mg/L for 48 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout, length 2-10 cm, weight 0.5-14 g); Conditions: freshwater, static, 14 °C, pH 6.8-7.6, hardness 5.0-6.0 mg/L CaCO3, dissolved oxygen 12 mg/L; Concentration: 12 mg/L for 48 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout, length 2-10 cm, weight 0.5-14 g); Conditions: freshwater, static, 14 °C, pH 6.8-7.6, hardness 5.0-6.0 mg/L CaCO3, dissolved oxygen 12 mg/L; Concentration: 12 mg/L for 96 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Poecilia reticulata (Guppy, length 2-10 cm, weight 0.5-14 g); Conditions: freshwater, static, 21 °C, pH 6.8-7.6, hardness 5.0-6.0 mg/L CaCO3, dissolved oxygen 12 mg/L; Concentration: 14 mg/L for 48 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Poecilia reticulata (Guppy, length 2-10 cm, weight 0.5-14 g); Conditions: freshwater, static, 21 °C, pH 6.8-7.6, hardness 5.0-6.0 mg/L CaCO3, dissolved oxygen 12 mg/L; Concentration: 12 mg/L for 96 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Lemna minor (Duckweed, frond); Conditions: freshwater, static, 25 °C, pH 5.5; Concentration: 2.77 umol/L for 6 days; Effect: population growth rate</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

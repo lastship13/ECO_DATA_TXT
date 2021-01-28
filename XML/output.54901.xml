@@ -1,0 +1,197 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>54901</ns0:RecordNumber>
+  <ns0:RecordTitle>(2-Methyl-3-phenylphenyl)methyl 3-(2-chloro-3,3,3-trifluoroprop-1-enyl)-2,2-dimethylcyclopropane-1-carboxylate</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Colinus virginianus (Bobwhite quail) oral 1800 mg/kg</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Colinus virginianus (Bobwhite quail) dietary 4450 mg/kg diet for 8 days</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Anas platyrhychos (Mallard duck) oral 2150 mg/kg</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Anas platyrhychos (Mallard duck) dietary 1280 mg/kg diet for 8 days</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Apis mellifera (Honey bee, worker) topical, general 0.0146 ug/bee</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia (Water flea); Concentration: 0.0016 mg/L for 48 hr /Conditions of bioassay not specified in source examined/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea) 1st instar larvae; Conditions: freshwater, static; Concentration: 1.6 ug/L for 48 hr (95% confidence interval: 1.32-1.96 ug/L); Effect: intoxication, immobilization /88.3% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea) age &lt;24 hr neonate; Conditions: freshwater, renewal, 20 °C, pH 7.8; Concentration: 3.24 ug/L for 24 hr (95% confidence interval: 2.85-3.68 ug/L); Effect: behavior change, general activity /98% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water flea) age &lt; or =24 hr neonate; Conditions: freshwater, renewal, 20 °C, pH 7.8; Concentration: 12.4 ug/L for 48 hr (95% confidence interval: 11.87-12.95 ug/L) /98% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water flea, age &lt;24 hr neonate); Conditions: freshwater, renewal, 20 °C, pH 7.8; Concentration: 3.4 ug/L for 72 hr (95% confidence interval: 2-4.6 ug/L) /90% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water flea) neonate; Conditions: freshwater, static, 21.04 °C, pH 7.92, dissolved oxygen 4.85 mg/L; Concentration: 0.86 ug/L for 48 hr (95% confidence interval: 0.7-1.06 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Hyalella azteca (Scud) age 9-14 days; Conditions: freshwater, renewal, 23 °C, pH 7.9, dissolved oxygen 4.9-8.9 mg/L; Concentration: 0.0027 ug/L for 10 days (95% confidence interval: 0.0025-0.003 ug/L) /99% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Americamysis bahia (Opossum shrimp) age &lt;24 hr; Conditions: saltwater, flow through; Concentration: 0.00397 ug/L for 96 hr (95% confidence interval: 0.0031-0.005 ug/L) /88.3% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Danio rerio (Zebra danio) weight 0.3 g, length 3.0 cm; Conditions: freshwater, renewal, 23 °C, pH 6.8-7.6; Concentration: 6.5 ug/L for 24 hr (95% confidence interval: 5.1-9.3 ug/L) /90% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Danio rerio (Zebra danio) weight 0.3 g, length 3.0 cm; Conditions: freshwater, renewal, 23 °C, pH 6.8-7.6; Concentration: 3.9 ug/L for 48 hr (95% confidence interval: 2.6-5 ug/L) /90% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Danio rerio (Zebra danio) weight 0.3 g, length 3.0 cm; Conditions: freshwater, renewal, 23 °C, pH 6.8-7.6; Concentration: 3.2 ug/L for 96 hr (95% confidence interval: 2.1-4.1 ug/L) /90% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill sunfish); Concentration: 0.00035 mg/L for 96 hr /Conditions of bioassay not specified in source examined/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout); Concentration: 0.00015 mg/L for 96 hr /Conditions of bioassay not specified in source examined/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cyprinodon variegatus (Sheepshead minnow); Conditions: saltwater, flow through; Concentration: 17.5 ug/L for 96 hr (95% confidence interval: 14.6-21.1 ug/L) /88.3% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cyprinodon variegatus (Sheepshead Minnow) juvenile, total length 1-2 cm, uncaged; Conditions: saltwater, renewal, mesocosm, 13.42-26.9 °C, pH 7.80-8.54, dissolved oxygen 4.61-13.53 mg/L; Concentration: &gt;0.2 ug/L for 28 days /97.2% cis-, 2.5% trans-isomer/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Crassostrea virginica (American oyster) embryo; Conditions: saltwater, static; Concentration: 295 ug/L for 48 hr; Effect: intoxication, immobilization /88.3% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Crassostrea virginica (American oyster) spat; Conditions: saltwater, static; Concentration: &gt;2.15 ug/L for 96 hr; Effect: intoxication, immobilization /88.3% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Mysidopsis bahia (mysid shrimp); Concentration: 0.0040 ug/L for 96 hr /Conditions of bioassay not specified in source examined/ /Bifenthrin technical/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Palaemonetes pugio (Daggerblade Grass Shrimp) adult non-ovigerous, caged; Conditions: saltwater, static, mesocosm, 13.42-26.9 °C, pH 7.80-8.54, dissolved oxygen 4.61-13.53 mg/L; Concentration: 0.059 ug/L for 96 hr (95% confidence interval: 0.05-0.068 ug/L) /97.2% cis-, 2.5% trans-isomer/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Palaemonetes pugio (Daggerblade Grass Shrimp) adult non-ovigerous, caged; Conditions: saltwater, static, mesocosm, 13.42-26.9 °C, pH 7.80-8.54, dissolved oxygen 4.61-13.53 mg/L; Concentration: 0.078 ug/L for 24 hr (95% confidence interval: 0.051-0.113 ug/L) /97.2% cis-, 2.5% trans-isomer/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Palaemonetes pugio (Daggerblade Grass Shrimp) adult non-ovigerous, uncaged; Conditions: saltwater, renewal, mesocosm, 13.42-26.9 °C, pH 7.80-8.54, dissolved oxygen 4.61-13.53 mg/L; Concentration: 0.062 ug/L for 28 days /97.2% cis-, 2.5% trans-isomer/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

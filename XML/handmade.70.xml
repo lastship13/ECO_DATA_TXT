@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf8'?>
+<Excel_XML>
+  <RECORDS>
+    <index>70</index>
+    <name>Colors</name>
+    <CAS>NaN</CAS>
+    <IUPAC>NaN</IUPAC>
+    <SMILES>NaN</SMILES>
+    <Toxicty>HaCat_LC50 : 확인 불가</Toxicty>
+  </RECORDS>
+</Excel_XML>

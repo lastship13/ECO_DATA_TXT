@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf8'?>
+<Excel_XML>
+  <RECORDS>
+    <index>75</index>
+    <name>Ethylene oxide</name>
+    <CAS>75-21-8</CAS>
+    <IUPAC>oxirane</IUPAC>
+    <SMILES>C1CO1</SMILES>
+    <Toxicty>Fatheadminnow_LC50 : 89000 ug/L  Fatheadminnow_Duration : 48 hrs  Fatheadminnow_Further_info : PubChem, 274000 ug/L for 24 hr (PubChem) ;  86000 ug/L for 24 hr (PubChem) ; 90000 ug/L for 24 hr(PubChem) ;  84000 ug/L for 96 hr (PubChem) 5 datas( 1 Day, 2 Days, 4 Days ) in Ecotox</Toxicty>
+    <Toxicty>Daphnia_LC50 : Formulation 137 (83-179) AI mg/L  Daphnia_Duration : 2 Day(s)  Daphnia_Further_info : Ecotox, 5 datas(1 day, 2 days ) in Ecotox ;  3 datas(1 day, 2 days ) in PubChem</Toxicty>
+  </RECORDS>
+</Excel_XML>

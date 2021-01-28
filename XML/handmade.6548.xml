@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf8'?>
+<Excel_XML>
+  <RECORDS>
+    <index>102</index>
+    <name>3,7-dimethyloctan-3-ol</name>
+    <CAS>78-69-3</CAS>
+    <IUPAC>3,7-dimethyloctan-3-ol</IUPAC>
+    <SMILES>CCC(C)(CCCC(C)C)O</SMILES>
+    <Toxicity>Zebrafish_LC50 : 8.9 mg/l  Zebrafish_Duration : 96 hr  Zebrafish_Further_info : ECHA.europa</Toxicity>
+    <Toxicity>Daphnia_EC50 : 14.2mg/l  Daphnia_Duration : 48 hr  Daphnia_Further_info : ECHA(OECD guideline 202); 27mg/l (German standard DIN 38412 part L11)</Toxicity>
+  </RECORDS>
+</Excel_XML>

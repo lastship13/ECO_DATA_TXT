@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>47491</ns0:RecordNumber>
+  <ns0:RecordTitle>Chlorsulfuron</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Americamysis bahia (Opossum shrimp) juvenile; Conditions: saltwater, static; Concentration: 89000 ug/L for 96 hr (95% confidence limit: 71000-136000 ug/L) /98.2% purity/[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 2-Chloro-N-[</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Anas platyrhynchos (Mallard duck) juvenile; oral via capsule &gt;5000 mg/kg[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 2-Chloro-N-[</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Anas platyrhynchos (Mallard duck) dietary (in food) &gt;5000 ppm for 8 days[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 2-Chloro-N-[</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Apis mellifera (Honey bee) adult; topical &gt;25 ug/bee for 48 hr /98.2% purity/[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 2-Chloro-N-[</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Chlorella fusca vacuolata (Green algae); Conditions: freshwater, static, 28 °C, pH 6.5; Concentration: 400 ug/L for 24 hr; Effect: inhibition of general population growth /&gt;99% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Chlorella fusca vacuolata (Green algae); Conditions: freshwater, static, 28 °C, pH 5.0; Concentration: 16 ug/L for 24 hr; Effect: inhibition of general population growth /&gt;99% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Chlorella saccharophila (Green algae); Conditions: freshwater, static, 22 °C, pH 8.2-9.0; Concentration: 54000 ug/L for 96 hr (95% confidence limit: 41500-66900 ug/L); Effect: inhibition of general population growth /95% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Colinus virginianus (Bobwhite quail) age 10-14 day; dietary &gt;5620 ppm for 8 days[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 2-Chloro-N-[</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Colinus virginianus (Bobwhite quail) age 10-14 day; oral via capsule &gt;5000 mg/kg /91.1% purity/[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 2-Chloro-N-[</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Crassostrea virginica (American oyster) embryo; Conditions: saltwater, static; Concentration: 376000 ug/L for 48 hr (95% confidence limit: 351500-402400 ug/L); Effect: intoxication, immobilization /98.2% purity/[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 2-Chloro-N-[</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cyprinodon variegatus (Sheepshead minnow) weight 0.19 g; Conditions: saltwater, flow through; Concentration: &gt;980000 ug/L for 96 hr /98.2% purity/[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 2-Chloro-N-[</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea) 1st instar; Conditions: freshwater, static; Concentration: 370000 ug/L for 48 hr (95% confidence limit: 346400-400200 ug/L); Effect: intoxication, immobilization /91% purity/[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 2-Chloro-N-[</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ictalurus punctatus (Channel catfish) juvenile; Conditions: freshwater, static; Concentration: 50000 ug/L for 96 hr /91% purity/[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 2-Chloro-N-[</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Lemna minor (Duckweed) 12 fronds; Conditions: freshwater, static, 25 °C; Concentration: 0.7 ug/L for 96 hr (95% confidence limit: 0.5-0.9 ug/L); Effect: inhibition of population growth</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill) juvenile; Conditions: freshwater, static; Concentration: &gt;300000 ug/L for 96 hr /91% purity/[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 2-Chloro-N-[</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill sunfish); Concentration: &gt;250 mg/L for 96 hr /Conditions of bioassay not specified in source examined/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout) juvenile; Conditions: freshwater, static; Concentration: &gt;250000 ug/L for 96 hr /91% purity/[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 2-Chloro-N-[</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow) juvenile; Conditions: freshwater, static; Concentration: &gt;300000 ug/L for 96 hr /91% purity/[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 2-Chloro-N-[</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Pseudanabaena galeata (Blue-green algae); Conditions: static; Concentration: 21.1 mg/L for 96 hr; Effect: inhibition of population growth</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Scenedesmus acutus (Green algae); Conditions: static; Concentration: 0.19 mg/L for 96 hr; Effect: inhibition of population growth</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Salmo trutta (Brown trout); Conditions: freshwater, static; Concentration: 38000 ug/L for 96 hr /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Americamysis bahia (Opossum Shrimp) juvenile; Conditions: saltwater, static; Concentration: 89000 ug/L for 96 hr (95% confidence interval: 71000-136000 ug/L) /98.2% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

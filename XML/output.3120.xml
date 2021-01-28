@@ -1,0 +1,337 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>3120</ns0:RecordNumber>
+  <ns0:RecordTitle>Diuron</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Anas platyrhynchus (Mallard duck) oral &gt; 2000 mg/kg</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Colinus virginianus (Northern Bobwhite quail) oral 940 mg/kg</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Anas platyrhynchus (mallard duck) subacute diet 1730 ppm</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Colinus virginianus (Bobwhite quail) subacute dietary &gt;5000 ppm</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Colinus virginianus (Bobwhite quail) age 9 days; Concentration: 1730 ppm oral for 5 days (95% confidence limit 1482-2035 ppm) /Conditions of bioassay not specified in source examined/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cyprinodon variegatus (Sheepshead minnow); Concentration: 6.7 ppm for 96 hr /Conditions of bioassay not given/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill), weight 0.8 g; Conditions: static bioassay without aeration, temperature 18 °C, pH 7.2-7.5, water hardness 40-50 mg/L as calcium carbonate, alkalinity 30-35 mg/L; Concentration: 8.2 mg/L for 96 hr (95% confidence limit 7.4-9.1 mg/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill); Concentration: 7.4 mg/L for 48 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Mugil cephalus (striped mullet); Concentration: 6.3 ppm for 96 hr /Conditions of bioassay not given/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus clarkii (Cutthroat trout); Concentration: 0.71 ppm for 96 hr /Conditions of bioassay not given/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus clarkii (Cutthroat trout) weight 3 g; Conditions: static bioassay without aeration, temperature 10 °C, pH 7.2-7.5, water hardness 40-50 mg/L as calcium carbonate,  alkalinity 30-35 mg/L; Concentration: 1.4 mg/L for 96 hr (95% confidence limit 1.1-1.9 mg/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus kisutch (Coho salmon); Concentration: 16 mg/L for 48 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow); Concentration: 14 ppm for 96 hr /Conditions of bioassay not given/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Poecilia reticulata (guppy); Concentration: 26 mg/L for 96 hr /Conditions of bioassay not given/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Rasbora heteromorpha (harlequin fish) female; Concentration: 200 mg/L for 24 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout); Concentration: 4.3 mg/L for 48 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: /Oncorhynchus mykiss/ (Rainbow trout) weight 8 g; Conditions: static bioassay without aeration, temperature 13 °C, pH 7.2-7.5, water hardness 40-50 mg/L as calcium carbonate, alkalinity 30-35 mg/L; Concentration: 4.9 mg/L for 96 hr (95% confidence limit 4.1-5.9 mg/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: /Oncorhynchus mykiss/ (Rainbow trout) weight 1.2 g; Conditions: static bioassay without aeration, temperature 13 °C, pH 7.2-7.5, water hardness 40-50 mg/L as calcium carbonate and alkalinity of 30-35 mg/L; Concentration: 16 mg/L for 96 hr (95% confidence limit: 11 - 23 mg/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: /Oncorhynchus mykiss/ (Rainbow trout); Concentration: 6.5 mg/L for 96 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Salvelinus namaycush (Lake trout), weight 2.5 g; Conditions: static bioassay without aeration, temperature 10 °C, pH 7.2-7.5, water hardness 40-50 mg/L as calcium carbonate and alkalinity of 30-35 mg/L; Concentration: 2.7 mg/L for 96 hr (95% confidence limit 2.4 - 3.0 mg/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Asellus aquaticus (waterlouse), mature; Conditions: static bioassay without aeration, pH 7.2-7.5, temperature 15 °C, water hardness 40-50 mg/L as calcium carbonate and alkalinity of 30-35 mg/L; Concentration: 15.5 mg/L for 96 hr (95% confidence limit 7.2-33.4 mg/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Gmelinoidus fasciatus (amphipod), mature; Conditions: static bioassay without aeration, temperature 21 °C, pH 7.2-7.5, water hardness 40-50 mg/L as calcium carbonate, alkalinity 30-35 mg/L; Concentration: 0.16 mg/L for 96 hr (95% confidence limit 0.13-0.19 mg/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Gammarus lacustris (freshwater shrimp); Concentration: 160 ug/L for 96 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Gammarus fasciatus (freshwater shrimp); Concentration: 700 ug/L for 96 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Simocephalus serrulatus (water flea); Concentration: 2000 ug/L for 48 hr /Conditions of bioassay not specified/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia pulex (water flea); Concentration: 1400 ug/L for 48 hr /Conditions of bioassay not specified/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (water flea); Concentration: 1400 ug/L for 24 hr /Conditions of bioassay not specified/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pteronarcys (stoneflies), second year; Conditions: static bioassay without aeration, temperature: 25 °C, pH 7.2-7.5, water hardness 40-50 mg/L as calcium carbonate and alkalinity of 30-35 mg/L; Concentration: 1.2 mg/L for 96 hr (95% confidence limit 0.9-1.7 mg/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pteronarcys californica (giant stonefly); Concentration: 1200 ug/L for 96 hr /Conditions not specified for bioassay/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Chlorella fusca var. vacuolata (Green Algae) Strain 211-15; Conditions: freshwater, static, 25 °C, pH 6.5; Concentration: 0.05 uM for 24 hr (95% confidence interval: 0.04-0.07 uM); Effect: decreased population growth rate /&gt;99.5% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Chlorella fusca var. vacuolata (Green Algae) Strain 211-15; Conditions: freshwater, static, 25 °C, pH 10.0; Concentration: 0.03 uM for 24 hr (95% confidence interval: 0.02-0.04 uM); Effect: decreased population growth rate /&gt;99.5% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Chlamydomonas reinhardtii (Green Algae) exponential growth phase, wild type strain CC-125 MT-PLUS, 550000 cells/mL; Conditions: freshwater, static, 25 °C; Concentration: 0.26 uM for 24 hr (95% confidence interval: 0.22-0.32 uM); Effect: decreased population biomass (average cell volume) /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Chlamydomonas reinhardtii (Green Algae) exponential growth phase, wild type strain CC-125 MT-PLUS, 550000 cells/mL; Conditions: freshwater, static, 25 °C; Concentration: 0.11 uM for 24 hr (95% confidence interval: 0.086-0.14 uM); Effect: decreased population abundance (cell density) /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Chlamydomonas reinhardtii (Green Algae) exponential growth phase, wild type strain CC-125 MT-PLUS, 550000 cells/mL; Conditions: freshwater, static, 25 °C; Concentration: 0.19 uM for 24 hr (95% confidence interval: 0.14-0.25 uM); Effect: population, decreased chlorophyll A concentration /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Chlamydomonas reinhardtii (Green Algae) exponential growth phase, wild type strain CC-125 MT-PLUS, 550000 cells/mL; Conditions: freshwater, static, 25 °C; Concentration: 0.20 uM for 24 hr (95% confidence interval: 0.09-0.45 uM); Effect: biochemistry, decreased reactive oxygen species /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Chlamydomonas reinhardtii (Green Algae) exponential growth phase, wild type strain CC-125 MT-PLUS, 550000 cells/mL; Conditions: freshwater, static, 25 °C; Concentration: 0.25 uM for 24 hr (95% confidence interval: 0.058-1.1 uM); Effect: population, decreased carotenoid content /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Skeletonema costatum (Diatom) CCAP 1077/3, &lt;7 day fresh culture, 1X10+4 cells/mL; Conditions: saltwater, renewal, 25 °C, pH 8.1-8.4; Concentration: 5.9 ug/L for 96 hr (95% confidence interval: 4.7-7.4 ug/L); Effect: population, decreased population growth rate /98% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Chlorella vulgaris (Green Algae); Conditions: freshwater, static; Concentration: 45 ug/L for 72 hr; Effect: population, decreased population growth rate /99.7% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Agalychnis callidryas (Red-eyed Treefrog) age 3-7 days posthatch tadpole; Conditions: freshwater, renewal, 19.1 (18.8-19.6) °C, pH 6.34 (6.13-6.54), dissolved oxygen 3.85 (1.67-6.03) mg/L; Concentration: 63336 ug/L for 8 days /80% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Lemna minor (Duckweed); Conditions: freshwater, static, 25.1 °C, pH 6.9; Concentration: 25 ug/L for 72 hr (95% confidence interval: 20.7-29.3 ug/L); Effect: growth, decreased length /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Lemna minor (Duckweed); Conditions: freshwater, static, 25.1 °C, pH 6.9; Concentration: 9.5 ug/L for 72 hr (95% confidence interval: 8.2-10.5 ug/L); Effect: population, decreased photosystem II (PSII) electron transport activity /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Lemna minor (Duckweed); Conditions: freshwater, static, 25.1 °C, pH 6.9; Concentration: 34.6 ug/L for 72 hr (95% confidence interval: 29.8-37.7 ug/L); Effect: population, decreased population growth rate /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Lemna minor (Duckweed); Conditions: freshwater, static, 24 °C, pH 6.5; Concentration: 28.3 ug/L for 7 days (95% confidence interval: 14.5-42.1 ug/L); Effect: decreased growth rate /&gt;99% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Lemna gibba (Inflated Duckweed); Conditions: freshwater, static, 25.1 °C, pH 6.9; Concentration: 14.8 ug/L for 72 hr (95% confidence interval: 10.7-18.5 ug/L); Effect: growth, decreased length /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Lemna gibba (Inflated Duckweed); Conditions: freshwater, static, 25.1 °C, pH 6.9; Concentration: 9.1 ug/L for 72 hr (95% confidence interval: 8.2-10.1 ug/L); Effect: population, decreased photosystem II (PSII) electron transport activity /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Lemna gibba (Inflated Duckweed); Conditions: freshwater, static, 25.1 °C, pH 6.9; Concentration: 29.8 ug/L for 72 hr (95% confidence interval: 24.0-34.2 ug/L); Effect: population, decreased population growth rate /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

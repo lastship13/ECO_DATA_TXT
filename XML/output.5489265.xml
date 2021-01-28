@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>5489265</ns0:RecordNumber>
+  <ns0:RecordTitle>Butylated triphenyl phosphate</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Salmo gairdneri (Rainbow trout) 13.7 mg/l/96 hr (95% confidence limits of 12.0 to 15.8 mg/l), flow through, Method; Committee on Methods for Toxicity Tests with Aquatic Organisms, EPA 660/3-75-009, 975. /Industry-Sponsored Analysis of Data/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Mysidopsis bahia 0.39 mg/l/96 hr (95% confidence interval of 0.34 to 0.44 mg/l), static, Method: OECD Guideline 202, part 1 "Daphnia sp., Acute Immobilisation Test" /Industry-Sponsored Analysis of Data/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+  </ns0:Section>
+  </ns0:Record>

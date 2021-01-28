@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf8'?>
+<Excel_XML>
+  <RECORDS>
+    <index>8</index>
+    <name>Sodium hydroxide</name>
+    <CAS>1310-73-2</CAS>
+    <IUPAC>sodium;hydroxide</IUPAC>
+    <SMILES>[OH-].[Na+]</SMILES>
+    <Toxicity>Daphnia_EC50 : 40,38 mg/L  Daphnia_Duration : 48 hrs  Daphnia_Further_info : Central Drug House (P) Ltd - Material Safety Data Sheet SDS/MSDS (https://www.cdhfinechemical.com/images/product/msds/101_1948435969_SodiumHydroxide-CASNO-1310-73-2-MSDS.pdf)</Toxicity>
+  </RECORDS>
+</Excel_XML>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf8'?>
+<Experiment_XML>
+  <RECORDS>
+    <index>7</index>
+    <name>1,2-benzisothiazol-3(2H)-one</name>
+    <CAS>2634-33-5</CAS>
+    <IUPAC>1,2-benzothiazol-3-one</IUPAC>
+    <SMILES>C1=CC=C2C(=C1)C(=O)NS2</SMILES>
+    <Toxicity>HaCat_IC50 : 1107 mg/L  HaCat_Concentration_type : formulation  HaCat_Duration : 24 hrs</Toxicity>
+    <Toxicity>Zebrafish_EC50 : 127 mg/L  Zebrafish_Organism_lifestage : embryo  Zebrafish_Concentration_type : formulation  Zebrafish_Duration : 6 days</Toxicity>
+  </RECORDS>
+</Experiment_XML>

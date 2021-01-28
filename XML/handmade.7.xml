@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf8'?>
+<Excel_XML>
+  <RECORDS>
+    <index>7</index>
+    <name>Sodium sulphate</name>
+    <CAS>7757-82-6</CAS>
+    <IUPAC>disodium;sulfate</IUPAC>
+    <SMILES>[O-]S(=O)(=O)[O-].[Na+].[Na+]</SMILES>
+    <Toxicty>Daphnia_LC50 : 2564000 ug/L  Daphnia_Duration : 48 hrs  Daphnia_Further_info : Pubchem, 8384000 ug/L (24 hrs, Pubchem), 4547000 ug/L (96 hrs, Pubchem), 1551000 ug/L (48 hrs, Pubchem), 4547 mg/L (96 hrs, Pubchem), 6800 AI mg/L (24 hrs, Ecotox), 6100 AI mg/L (48 hrs, Ecotox), 8384 AI mg/L (24 hrs, Ecotox), 2564 AI mg/L (48 hrs, Ecotox), 725 AI mg/L (72 hrs, Ecotox),  630 AI mg/L (96 hrs, Ecotox), 4547 AI  (96 hrs, Ecotox), 8384 AI mg/L (24 hrs, Ecotox), 9256.27677065 AI mg/L (48 hrs, Ecotox), 2564 AI mg/L (48 hrs, Ecotox), 6290 (5790-7070) AI mg/L (24 hrs, Ecotox), 4580 (4060-5360) AI mg/L (48 hrs, Ecotox), 5218.14 (3650-7460) AI mg/L (48 hrs, Ecotox),  8600 (8390-8770) AI mg/L (48 hrs, Ecotox), 5514 AI mg/L (4.1667 days, Ecotox), 4135 AI mg/L (4.1667 days, Ecotox), 2752 AI mg/L (4.1667 days, Ecotox), 6949 AI mg/L (1.0417 days, Ecotox), 5966 AI mg/L (2.0833 days, Ecotox), 6490 AI mg/L (1.0417 days, Ecotox), 5056 AI mg/L (2.0833 days, Ecotox), 6097 AI mg/L (1.0417 days, Ecotox), 4822 AI mg/L (2.0833 days, Ecotox), 1194 AI mg/L (48 hrs, Ecotox), 1551 AI mg/L (48 hrs, Ecotox), 3342 AI mg/L (48 hrs, Ecotox), 3203 AI mg/L (48 hrs, Ecotox), 1194 AI mg/L (48 hrs, Ecotox), 3203 AI mg/L (48 hrs, Ecotox), 3808 AI mg/L (48 hrs, Ecotox), 1563 AI mg/L (48 hrs, Ecotox), 1985 AI mg/L (48 hrs, Ecotox), 4395 AI mg/L (48 hrs, Ecotox), 5218.14 (3600-7460) AI mg/L (48 hrs, Ecotox)</Toxicty>
+    <Toxicty>Daphnia_EC50 : 4547 AI mg/L  Daphnia_Duration : 4.2 days  Daphnia_Further_info : Ecotox</Toxicty>
+  </RECORDS>
+</Excel_XML>

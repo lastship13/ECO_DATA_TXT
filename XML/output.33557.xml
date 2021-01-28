@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>33557</ns0:RecordNumber>
+  <ns0:RecordTitle>Sodium azide</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Simocephalus, first instar; Concentration: 8.4 mg/L for 96 hr at 15 °C (95% confidence limit: 6.1-12.2 mg/L) /Conditions of bioassay not specified in source examined/ /Technical material, 98%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: G fasciatus, mature; Concentration: 6.4 mg/L for 96 hr at 21 °C (95% confidence limit: 4.6-8.9 mg/L) /Conditions of bioassay not specified in source examined/ /Technical material, 98%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pteronarcys, second year class; Concentration: 8.0 mg/L for 96 hr at 15 °C (95% confidence limit: 5.7-11.0 mg/L) /Technical material, 98%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: /Oncorhynchus mykiss/ (Rainbow trout) weight 1.4 g; Concentration: 0.8-1.6 mg/L for 96 hr at 13 °C /Technical material, 98%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: /Lepomis macrochirus/ (Bluegill sunfish) weight 0.4 g; Concentration: 0.8 mg/L for 96 hr at 18 °C /Technical material, 98%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia pulex, first instar; Concentration: 4.2 mg/L for 96 hr at 15 °C (95% Confidence limit: 2.8-6.2 mg/L) /Technical material, 98%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: G fasciatus, first instar; Concentration: 5.0 mg/L for 96 hr at 21 °C (95% confidence limit: 3.7-6.8 mg/L) /Technical material, 98%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: /Lepomis macrochirus/ (Bluegill) weight 0.6 g; Concentration: 0.7 mg/L for 96 hr at 18 °C /Technical material, 98%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

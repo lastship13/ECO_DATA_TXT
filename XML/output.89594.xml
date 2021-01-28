@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>89594</ns0:RecordNumber>
+  <ns0:RecordTitle>Nicotine</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Eisenia fetida (earthworm, mature 370-450 mg) direct application using filter paper 1-10 ug/sq cm for 48 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Xenopus laevis (African clawed frog, developing mid to late blastula); Conditions: freshwater, renewal, 23-24 °C, without the metabolic activation system; Concentration: 400 ug/L for 96 hr; Effect: development, general /100% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Xenopus laevis (African clawed frog, developing mid to late blastula); Conditions: freshwater, renewal, 23-24 °C, frog larvae injected with chorionic gonadotropin to induce ovulation and amplexus; Concentration: 5800 ug/L for 96 hr; Effect: development, general /100% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Xenopus laevis (African clawed frog, developing mid to late blastula); Conditions: freshwater, renewal, 23-24 °C, without metabolic activation system; Concentration: 136000 ug/L for 96 hr /100% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Xenopus laevis (African clawed frog, developing mid to late blastula); Conditions: freshwater, renewal, 23-24 °C, frog larvae injected with chorionic gonadotropin to induce ovulation and amplexus; Concentration: 20000 ug/L for 96 hr /100% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea, age &lt;24 hr neonate); Conditions: freshwater, static, 21 °C, pH 7.6; Concentration: 0.035 mmol/L for 24 hr; Effect: intoxication, immobilization</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia pulex (Water flea, age &lt;24 hr); Conditions: freshwater, static, 20 °C; Concentration: 0.00857 mM for 24 hr; Effect: intoxication, immobilization</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia pulex (Water flea, age &lt;24 hr neonate); Conditions: freshwater, static, 20 °C, pH 7.6-8.0, hardness 160-180 mg/L CaCO3, alkalinity 110-120 mg/L CaCO3, dissolved oxgyen 60-100 mg/L; Concentration: 242 ug/L for 48 hr; Effect: intoxication, immobilization /&gt; or =97% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout, age 13-21 days fry); Conditions: freshwater, static, 12 °C; Concentration: 4000 ug/L for 96 hr /&gt; or =95% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout, new, newly or recent hatch); Conditions: freshwater, flow through, 10-11 °C, pH 8.2, hardness 140 mg/L CaCO3, conductivity 260 umhos/cm, dissolved oxygen 90% (70-100%); Concentration: 5000 ug/L for 60 days /&gt;98% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Culex pipiens molestus (Mosquito, 4 instar larvae); Conditions: freshwater, static, 18-20 °C; Concentration: 0.000938 M for 24 hr /100% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Dugesia dorotocephala (Turbellarian, flatworm, asexual, 15-18 mm); Conditions: freshwater, renewal; Concentration: (50000-75000) ug/L for 10 days</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

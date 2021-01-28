@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf8'?>
+<Excel_XML>
+  <RECORDS>
+    <index>30</index>
+    <name>Benzyl benzoate</name>
+    <CAS>120-51-4</CAS>
+    <IUPAC>benzyl benzoate</IUPAC>
+    <SMILES>C1=CC=C(C=C1)COC(=O)C2=CC=CC=C2</SMILES>
+    <Toxicity>Daphnia_LC50 : 3.09 mg/L  Daphnia_Duration : 48 hrs  Daphnia_Further_info : echa.europa.eu(https://echa.europa.eu/bg/registration-dossier/-/registered-dossier/13634/6/2/4)</Toxicity>
+    <Toxicity>Daphnia_EC50 : 3.09 mg/L  Daphnia_Duration : 48 hrs  Daphnia_Further_info : echa.europa.eu(https://echa.europa.eu/bg/registration-dossier/-/registered-dossier/13634/6/2/4)</Toxicity>
+  </RECORDS>
+</Excel_XML>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf8'?>
+<Excel_XML>
+  <RECORDS>
+    <index>5</index>
+    <name>Malic acid</name>
+    <CAS>6915-15-7</CAS>
+    <IUPAC>2-hydroxybutanedioic acid</IUPAC>
+    <SMILES>C(C(C(=O)O)O)C(=O)O</SMILES>
+    <Toxicity>Daphnia_LC50 : 1640 mg/L  Daphnia_Duration : 48 hrs  Daphnia_Further_info : Pubchem, 1411.24734 AI mg/L (48 hrs, Ecotox), 1147.70115 AI mg/L (48 hrs, Ecotox), 1802.31588 AI mg/L (48 hrs, Ecotox), 2235.89187 AI mg/L (48 hrs, Ecotox), 1266.72201 AI mg/L (48 hrs, Ecotox)</Toxicity>
+    <Toxicity>Daphnia_EC50 : (&gt; 0-&lt;500) AI mg/L  Daphnia_Duration : 10 days  Daphnia_Further_info : Ecotox</Toxicity>
+  </RECORDS>
+</Excel_XML>

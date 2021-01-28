@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>33934</ns0:RecordNumber>
+  <ns0:RecordTitle>Diisooctyl phthalate</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Pseudokirchneriella subcapitata (Green algae); Conditions: freshwater, static, 22-24 °C, pH 7.6-7.9, hardness 25-50 mg/L CaCO3, alkalinity 25-50 mg/L CaCO3; Concentration: &gt;130 ug/L for 96 hr; Effect: decreased population abundance /&gt; or =95% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Americamysis bahia (Opossum shrimp, age &lt; or =24 hr); Conditions: freshwater, static, 20 °C, pH 7.6-7.9, hardness 25-50 mg/L CaCO3, alkalinity 25-50 mg/L CaCO3; Concentration: &gt;550 ug/L for 96 hr; Effect: mortality /&gt; or =95% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea, age &lt; or =24 hr); Conditions: freshwater, static, 20 °C, pH 7.6-7.9, hardness 25-50 mg/L CaCO3, alkalinity 25-50 mg/L CaCO3; Concentration: &gt;160 ug/L for 48 hr; Effect: intoxication, immobilization /&gt; or =95% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cyprinodon variegatus (Sheepshead minnow, juvenile, length 6-17 mm); Conditions: freshwater, static, 22 °C, pH 7.6-7.9, hardness 25-50 mg/L CaCO3, alkalinity 25-50 mg/L CaCO3; Concentration: &gt;480 ug/L for 96 hr /&gt; or =95% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill, juvenile, length 29-40 mm); Conditions: freshwater, static, 22 °C, pH 7.6-7.9, hardness 25-50 mg/L CaCO3, alkalinity 25-50 mg/L CaCO3; Concentration: &gt;130 ug/L for 96 hr /&gt; or =95% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout, juvenile, length 39-62 mm); Conditions: freshwater, flow through, 22 °C, pH 7.6-7.9, hardness 25-50 mg/L CaCO3, alkalinity 25-50 mg/L CaCO3; Concentration: &gt;230 ug/L for 96 hr /&gt; or =95% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow, juvenile, length 29-40 mm); Conditions: freshwater, flow through, 22 °C, pH 7.6-7.9, hardness 25-50 mg/L CaCO3, alkalinity 25-50 mg/L CaCO3; Concentration: &gt;290 ug/L for 96 hr /&gt; or =95% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow, juvenile, length 29-40 mm); Conditions: freshwater, static, 22 °C, pH 7.6-7.9, hardness 25-50 mg/L CaCO3, alkalinity 25-50 mg/L CaCO3; Concentration: &gt;140 ug/L for 96 hr /&gt; or =95% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Paratanytarsus parthenogeneticus (Midge, age 2-3 instar); Conditions: freshwater, static, 20 °C, pH 7.6-7.9, hardness 25-50 mg/L CaCO3, alkalinity 25-50 mg/L CaCO3; Concentration: &gt;120 ug/L for 96 hr; Effect: mortality /&gt; or =95% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout, mean length 39 mm, mean wet weight 0.5g); Conditions: freshwater, flow through, 22 °C, pH 7.1-7.5, mean dissolved oxygen 9.5-9.6 mg/L, hardness 20-26 mg/L CaCO3, alkalinity 14-22 mg/L CaCO3; Concentration: &gt;0.23 mg/L for 96 hr /=100% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water flea, &lt;24 hours old and obtained form in-house stock); Conditions: static, 21 °C, pH 8.3-8.5 at initiation and 8.4-8.5 on day 2, dissolved oxygen 8.5-9.0 at initiation and 7.6-7.9 on day 2,  hardness of the dilution water 150-170 mg/L ; Concentration: &gt;0.16 mg/L for 48 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Selenastrum capricornutum (Alge); Conditions: 22+/-2 °C, pH 7.7 at initiation and 7.7-7.8 on day 6, light 4,500 lux; Concentration: &gt;1.3 mg/L for 6 days; Effect: Chlorophyll a percent change relative to control</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

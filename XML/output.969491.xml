@@ -1,0 +1,260 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>969491</ns0:RecordNumber>
+  <ns0:RecordTitle>Dieldrin</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Tubifex &amp; Limnodrilus (mixed cultures) 6700 ug/l/96 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Cypretta kawati (ostracod) 185 ug/l/24 hr; 12.3 ug/l/72 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Chironomus tentans 0.9 ug/l/24 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Pseudacris triseriata (frog, tadpoles) 100 ug/l/96 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 ANAS PLATYRHYNCHOS (MALLARD) FEMALE ORAL 381 MG/KG (95% CONFIDENCE LIMIT 141-1030 MG/KG) 6-7 MO OLD</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 PHASIANUS COLCHICUS (PHEASANT) MALE ORAL 79.0 MG/KG (95% CONFIDENCE LIMIT 33.3-187 MG/KG) 10-23 MO OLD</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 ALECTORIS CHUKAR (CHUKAR) ORAL 25.3 MG/KG (95% CONFIDENCE LIMIT 15.2-42.2 MG/KG) 8-11 MO OLD</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 PASSER DOMESTICUS (HOUSE SPARROW) FEMALE ORAL 47.6 MG/KG (95% CONFIDENCE LIMIT 34.3-66.0 MG/KG)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 BRANTA CANADENSIS (CANADA GOOSE) ORAL 50-150 MG/KG ADULT</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 DENDROCYGNA BICOLOR (FULVOUS WHISTLING DUCK) FEMALE ORAL 100-200 MG/KG</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 PERDIX PERDIX (GRAY PARTRIDGE) FEMALE ORAL 8.84 MG/KG (95% CONFIDENCE LIMIT 3.32-23.6 MG/KG) 3-10 MO OLD</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 ODOCOILEUS HEMIONUS HEMIONUS (MULE DEER) MALE ORAL 75-150 MG/KG (95% CONFIDENCE LIMIT) 8-18 MO OLD</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 SALMO CLARKI (CUTTHROAT TROUT) 6.0 UG/L/96 HR (95% CONFIDENCE LIMIT 4.6-8.0UG/L) WT 1.1 G, WATER TEMP 9 °C, STATIC BIOASSAY WITHOUT AERATION, PH 7.2-7.5, WATER HARDNESS 40-50 MG/L AS CALCIUM CARBONATE AND ALKALINITY OF 30-35 MG/L. /TECHNICAL, 85% HEOD/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 SALMO GAIRDNERI (RAINBOW TROUT) 1.2 UG/L/96 HR (95% CONFIDENCE LIMIT 0.9-1.7 UG/L) WT 1.4 G, WATER 13 °C, STATIC BIOASSAY WITHOUT AERATION, PH 7.2-7.5, WATER HARDNESS 40-50 MG/L AS CALCIUM CARBONATE AND ALKALINITY OF 30-35 MG/L. /TECHNICAL, 85% HEOD/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 CARASSIUS AURATUS (GOLDFISH) 1.8 UG/L/96 HR (95% CONFIDENCE LIMIT 1.2-2.8 UG/L) WT 1.0 G, WATER 18 °C, STATIC BIOASSAY WITHOUT AERATION, PH 7.2-7.5, WATER HARDNESS 40-50 MG/L AS CALCIUM CARBONATE AND ALKALINITY OF 30-35 MG/L. /TECHNICAL, 85% HEOD/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 PIMEPHALES PROMELAS (FATHEAD MINNOW) 3.8 UG/L/96 HR (95% CONFIDENCE LIMIT 3.1-4.6 UG/L) WT 0.6 G, WATER 18 °C, STATIC BIOASSAY WITHOUT AERATION, PH 7.2-7.5, WATER HARDNESS 40-50 MG/L AS CALCIUM CARBONATE AND ALKALINITY OF 30-35 MG/L. /TECHNICAL, 85% HEOD/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 ICTALURUS PUNCTATUS (CHANNEL CATFISH) 4.5 UG/L/96 HR (95% CONFIDENCE LIMIT 2.5-7.9 UG/L) WT 1.4 G, WATER 18 °C, STATIC BIOASSAY WITHOUT AERATION, PH 7.2-7.5, WATER HARDNESS 40-50 MG/L AS CALCIUM CARBONATE AND ALKALINITY OF 30-35 MG/L. /TECHNICAL, 85% HEOD/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 LEPOMIS MACROCHIRUS (BLUEGILL) 3.1 UG/L/96 HR (95% CONFIDENCE LIMIT 2.1-4.6 UG/L) WT 1.3 G, WATER 18 °C, STATIC BIOASSAY WITHOUT AERATION, PH 7.2-7.5, WATER HARDNESS 40-50 MG/L AS CALCIUM CARBONATE AND ALKALINITY OF 30-35 MG/L. /TECHNICAL, 85% HEOD/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 MACROPTERUS SALMOIDES (LARGEMOUTH BASS) 3.5 UG/L/96 HR (95% CONFIDENCE LIMIT 2.7-4.5 UG/L) WT 2.5 G, WATER 18 °C, STATIC BIOASSAY WITHOUT AERATION, PH 7.2-7.5, WATER HARDNESS 40-50 MG/L AS CALCIUM CARBONATE AND ALKALINITY OF 30-35 MG/L. /TECHNICAL, 85% HEOD/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 SALMO CLARKI (CUTTHROAT TROUT) 12 UG/L/96 HR (95% CONFIDENCE LIMIT 11-14 UG/L) WT 1.3 G, HARD WATER 8 °C, STATIC BIOASSAY WITHOUT AERATION, PH 7.2-7.5, WATER HARDNESS 40-50 MG/L AS CALCIUM CARBONATE AND ALKALINITY OF 30-35 MG/L. STATIC BIOASSAY WITHOUT AERATION, PH 7.2-7.5, WATER HARDNESS 40-50 MG/L AS CALCIUM CARBONATE AND ALKALINITY OF 30-35 MG/L. /PHOTO-DIELDRIN 98%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 LEPOMIS MACROCHIRUS (BLUEGILL) 11 UG/L/96 HR (95% CONFIDENCE LIMIT 9.3-13 UG/L) WT 1.4 G, WATER 18 °C, STATIC BIOASSAY WITHOUT AERATION, PH 7.2-7.5, WATER HARDNESS 40-50 MG/L AS CALCIUM CARBONATE AND ALKALINITY OF 30-35 MG/L. /PHOTO-DIELDRIN 98%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 ICTALURUS PUNCTATUS (CHANNEL CATFISH) 19 UG/L/96 HR (95% CONFIDENCE LIMIT 13-27 UG/L) WT 1.4 G, HARD WATER 18 °C, STATIC BIOASSAY WITHOUT AERATION, PH 7.2-7.5, WATER HARDNESS 40-50 MG/L AS CALCIUM CARBONATE AND ALKALINITY OF 30-35 MG/L. /PHOTO-DIELDRIN 98%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 ASELLUS 5.0 UG/L/96 HR (95% CONFIDENCE LIMIT 3.2-10.0 UG/L) MATURE, WATER TEMP 21 °C, STATIC BIOASSAY WITHOUT AERATION, PH 7.2-7.5, WATER HARDNESS 40-50 MG/L AS CALCIUM CARBONATE AND ALKALINITY OF 30-35 MG/L. /TECHNICAL MATERIAL 85% HEOD/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 GAMMARUS FASCIATUS 640 UG/L/96 HR (95% CONFIDENCE LIMIT 460-880 UG/L) MATURE, WATER TEMP 21 °C, STATIC BIOASSAY WITHOUT AERATION, PH 7.2-7.5, WATER HARDNESS 40-50 MG/L AS CALCIUM CARBONATE AND ALKALINITY OF 30-35 MG/L. /TECHNICAL, 85% HEOD/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 ORCONECTES 740 UG/L/96 HR (95% CONFIDENCE LIMIT 680-1200 UG/L) MATURE, WATER TEMP 21 °C, STATIC BIOASSAY WITHOUT AERATION, PH 7.2-7.5, WATER HARDNESS 40-50 MG/L AS CALCIUM CARBONATE AND ALKALINITY OF 30-35 MG/L. /TECHNICAL, 85% HEOD/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 PTERONARCYS 0.5 UG/L/96 HR (95% CONFIDENCE LIMIT 0.4-0.7 UG/L) 2ND YR CLASS, WATER TEMP 15 °C, STATIC BIOASSAY WITHOUT AERATION, PH 7.2-7.5, WATER HARDNESS 40-50 MG/L AS CALCIUM CARBONATE AND ALKALINITY OF 30-35 MG/L. /TECHNICAL, 85% HEOD/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 PTERONARCELLA 0.5 UG/L/96 HR (95% CONFIDENCE LIMIT 0.4-0.7 UG/L) 1ST YR CLASS, WATER TEMP 15 °C, STATIC BIOASSAY WITHOUT AERATION, PH 7.2-7.5, WATER HARDNESS 40-50 MG/L AS CALCIUM CARBONATE AND ALKALINITY OF 30-35 MG/L. /TECHNICAL/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 CLAASSEMIA 0.6 UG/L/96 HR (95% CONFIDENCE LIMIT 0.4-0.8 UG/L) 2ND YR CLASS, WATER TEMP 15 °C, STATIC BIOASSAY WITHOUT AERATION, PH 7.2-7.5, WATER HARDNESS 40-50 MG/L AS CALCIUM CARBONATE AND ALKALINITY OF 30-35 MG/L. /TECHNICAL, 85% HEOD/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 ISCHNURA 12 UG/L/96 HR (95% CONFIDENCE LIMIT) JUVENILE, WATER TEMP 24 °C, STATIC BIOASSAY WITHOUT AERATION, PH 7.2-7.5, WATER HARDNESS 40-50 MG/L AS CALCIUM CARBONATE AND ALKALINITY OF 30-35 MG/L. /TECHNICAL, 85% HEOD/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Young coturnix (Japanese quail) 60 ppm (95% confidence limit 57-63 ppm) 5 day diet</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Aedes aegypti (mosquito) late 3rd instar larvae 6 ppb/24 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 Musca /domestica/ (housefly) female 9.8 ug/fly, 3 days old</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Sphaeroides maculatus (Northern puffer) 34 ppb/96 hr, static lab bioassay (100%)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Bufo woodhousi (toad, tadpoles) 150 ug/l/96 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Goldfish 37 ug/L/96 hr, bluegill sunfish 8 ug/L/96 hr, fathead minnow 16 ug/L/96 hr, rainbow trout 10 ug/L/96 hr, coho salmon 11 ug/L/96 hr, chinook 6 ug/L/96 hr, pumpkinseed 6.7 ug/L/96 hr, channel catfish 4.5 ug/L; LC50 Mosquito fish 8 ppb for 48 hr; LC50 Bluegill sunfish 170 ppb and fathead minnow 24 ppb for 24 hr.</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf8'?>
+<Excel_XML>
+  <RECORDS>
+    <index>86</index>
+    <name>2-tert-butylcyclohexyl acetate</name>
+    <CAS>88-41-5</CAS>
+    <IUPAC>(2-tert-butylcyclohexyl) acetate</IUPAC>
+    <SMILES>CC(=O)OC1CCCCC1C(C)(C)C</SMILES>
+    <Toxicity>Zebrafish_LC50 : 5.6 mg/L  Zebrafish_Duration : 96 hr  Zebrafish_Further_info : ECHA.europa synonym : cis-2-tert-butylcyclohexyl acetate ( cas cis-2-tert-butylcyclohexyl acetate ) https://www.echa.europa.eu/web/guest/registration-dossier/-/registered-dossier/15008/6/2/1</Toxicity>
+    <Toxicity>Daphnia_EC50 : 17 mg/L  Daphnia_Duration : 48 hr  Daphnia_Further_info : ECHA.europa</Toxicity>
+  </RECORDS>
+</Excel_XML>

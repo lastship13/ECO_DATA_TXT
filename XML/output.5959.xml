@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>5959</ns0:RecordNumber>
+  <ns0:RecordTitle>Chloramphenicol</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Desmodesmus subspicatus (Green Algae) 86.71 SAG, 10+4 algae/mL; Conditions: freshwater, static, 23 °C; Concentration: 780 ug/L for 72 hr (95% confidence interval: 210-2930 ug/L); Effect: decreased population growth rate /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Desmodesmus subspicatus (Green Algae) 86.71 SAG, 10+4 algae/mL; Conditions: freshwater, static, 23 °C; Concentration: 200 ug/L for 72 hr (95% confidence interval: 150-240 ug/L); Effect: decreased population biomass /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Desmodesmus subspicatus (Green Algae) 86.71 SAG, 10+4 algae/mL; Conditions: freshwater, static, 23 °C; Concentration: 130 ug/L for 72 hr (95% confidence interval: 6-240 ug/L); Effect: decreased population, general /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Artemia franciscana (San Francisco Brine Shrimp) age ~48 hr nauplii; Conditions: saltwater, static, 25 °C; Concentration: 0.00197 M for 48 hr /formulation/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Crassostrea gigas (Pacific Oyster) newly fertilized larva; Conditions: saltwater, static, 20 °C, pH 8.06-8.08, dissolved oxygen 7.47 mg/L; Concentration: 325000 ug/L for 48 hr (95% confidence interval: 0-1976000 ug/L); Effect: decreased development /formulation/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Crassostrea gigas (Pacific Oyster) newly fertilized larva; Conditions: saltwater, static, 20 °C, pH 8.06-8.08, dissolved oxygen 7.47 mg/L; Concentration: 323000 ug/L for 48 hr (95% confidence interval: 0-2157000 ug/L) /formulation/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

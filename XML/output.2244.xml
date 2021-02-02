@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>2244</ns0:RecordNumber>
+  <ns0:RecordTitle>Aspirin</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water flea, &lt;24 hr neonate); Conditions: freshwater, static, 21 °C, pH 7.6; Concentration: 8.15 mM for 24 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia pulex (Water flea, &lt;24 hr); Conditions: freshwater, static, 20 °C, pH 7.6; Concentration: 2.00 mM for 24 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Artemia salina (Brine shrimp, age 2-3 instar larva); Conditions: saltwater, static, salinity 35 ppt; Concentration: 2120 umol/L for 24 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Streptocephalus proboscideus (Fairy shrimp, age 2-3 instar larva); Conditions: saltwater, static, 25 °C, salinity 15 ppt; Concentration: 988 umol/L for 24 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Brachionus calyciflorus (Rotifer, post-hatch); Conditions: saltwater, static, 25 °C, salinity 15 ppt; Concentration: 785 umol/L for 24 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Brachionus plicatilis (Rotifer, post-hatch); Conditions: saltwater, static, 25 °C, salinity 15 ppt; Concentration: 745 umol/L for 24 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

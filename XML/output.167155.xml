@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>167155</ns0:RecordNumber>
+  <ns0:RecordTitle>Zinc borate</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Anas platyrhynchos (Mallard duck) age 10 days; diet &gt;5620 ppm for 8 days</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Colinus virginianus (Northern Bobwhite Quail) age 5 months; oral via capsule &gt;2250 mg/kg</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water Flea) age &lt;24 hr; Conditions: freshwater, static; Concentration: 75000 ug/L for 48 hr (95% confidence interval: 50000-120000 ug/L); Effect: intoxication, immobilization /100% purity formulation/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill); Conditions: freshwater, static; Concentration: &gt;335000 ug/L for 96 hr /100% purity formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow Trout); Conditions: freshwater, static; Concentration: 2700 ug/L for 96 hr (95% confidence interval: 1800-3400 ug/L) /100% purity formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

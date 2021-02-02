@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>24611</ns0:RecordNumber>
+  <ns0:RecordTitle>Copper(II) bromide</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50 Selenastrum capricornatum (green alga) 85 ug/l/14 days /Cell volume bioassay/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50 Thalassiosira pseudonana (alga, saltwater) 5 ug/l/72 hr /Growth rate bioassay/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50 Nitschia closterium (alga, saltwater) 33 ug/l/96 hr /Growth rate bioassay/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50 Chlorella stigmatophora (alga, saltwater) 70 ug/l/21 days /Cell volume bioassay/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Corbicula manilensis (Asiatic clam) &gt; 2,600 ug/l/96 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Oncorhynchus kisutch (coho salmon) 286 ug/l/96 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC10 Salmo gairdneri (rainbow trout; embryo, larvae) 16.5 ug/l/28 days; death and deformity. /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Section>
+  </ns0:Record>

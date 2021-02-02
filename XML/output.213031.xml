@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>213031</ns0:RecordNumber>
+  <ns0:RecordTitle>Fenhexamid</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout) weight 0.8 g; Conditions: freshwater, flow through; Concentration: 1340 ug/L for 96 hr (95% confidence interval: 1010-1480 ug/L) /92.7% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill sunfish) weight 3.5 g; Conditions: freshwater, flow through; Concentration: 3420 ug/L for 96 hr (95% confidence interval: 2330-4070 ug/L) /94.64% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Colinus virginiianus (Bobwhite quail) oral &gt;2000 mg/kg</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Eisenia foetida (Redworm) &gt;1000 mg/kg dry soil for 2 weeks</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Bee contact &gt;100 ug/bee</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Americamysis bahia (Opossum shrimp); Conditions: saltwater, flow through; Concentration: 4600 ug/L for 96 hr (95% confidence interval: 3900-5500 ug/L) /95.8% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea); Conditions: freshwater, static; Concentration: &gt;18800 ug/L for 48 hr; Effect: intoxication, immobilization /95.7% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Lemna gibba (Inflated duckweed); Conditions: freshwater, static; Concentration: &gt;2300 ug/L for 14 days; Effect: decreased population abundance /97.7% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Pseudokirchneriella subcapitata (Green Algae); Conditions: freshwater, static; Concentration: 4150 ug/L for 5 days (95% confidence interval: 1130-20850 ug/L); Effect: decreased population abundance /95.7% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cyprinodon variegatus (Sheepshead minnow); Concentration: 11 mg/L for 96 hr /Conditions of bioassay not specified in source examined/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

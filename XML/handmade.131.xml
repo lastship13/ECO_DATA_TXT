@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf8'?>
+<Excel_XML>
+  <RECORDS>
+    <index>131</index>
+    <name>Pentetic acid</name>
+    <CAS>67-43-6</CAS>
+    <IUPAC>2-[bis[2-[bis(carboxymethyl)amino]ethyl]amino]acetic acid</IUPAC>
+    <SMILES>C(CN(CC(=O)O)CC(=O)O)N(CCN(CC(=O)O)CC(=O)O)CC(=O)O</SMILES>
+    <Toxicty>Daphnia_LC50 : (10-100) AI mg/L  Daphnia_Duration : 96hr  Daphnia_Further_info : Daphnia magna Water Flea	Crustaceans; Standard Test Species, Formulation (10-100) AI mg/L, Mortality</Toxicty>
+  </RECORDS>
+</Excel_XML>

@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>8846</ns0:RecordNumber>
+  <ns0:RecordTitle>Butyl acrylate</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: /Agelaius phoeniceus/ (Red-wing blackbird); Concentration: &gt;103 mg/kg bw for 18 hr /Conditions of bioassay not specified in source examined/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water flea, age &lt; or =24 hr); Conditions: freshwater, static, 20-22 °C, pH 7.6-7.7; Concentration: 230 mg/L for 24 hr /formulation/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cyprinodon variegatus (Sheepshead minnow); Conditions: flow-through, temperature 22.5-23.5 °C, pH 7.8-7.9, salinity 20-22% (parts per thousand), dissolved oxygen 6.0-7.8 mg/L; Concentration: 2.1 mg/L for 96 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout); Conditions: flow through, hardness 43-44 mg/L (as CaCO3), alkalinity 56-57 mg/L (as CaCO3), pH 7.5-7.9, conductivity 102-115 uMhos/cm, total organic carbon &lt;1 mg/L, suspended solids 0.4 mg/L; Concentration: 5.2 mg/L for 96 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow); Conditions: flow through, pH 7.62 +/- 0.12, temperature 24.6 +/- 0.4 °C, dissolved oxygen 6.71 +/- 0.67 mg/L, alkalinity 47.0 +/- 3.2 mg/L (as CaCO3), hardness 45.3 +/- 1.0 mg/L (as CaCO3); Concentration: 2.09 mg/L for 96 hr /iso-Butyl acrylate/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Leuciscus idus (Fish, fresh water); Conditions: static, total hardness approx 2.5 mmol/L, acid capacity approx 0.8 mmol/L, pH approx 8.0, temperature 19-20 °C; Concentration: 100 mg/L at 1 hr, 100 mg/L at 4 hr, 22-46 mg/L at 24 hr, approx 22 mg/L at 48 hr, approx 22 mg/L at 72 hr, approx 22 mg/L at 96 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Steelhead salmon); Conditions: flow-through; Concentration: 5.2 mg/L for 96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Desmodesmus subspicatus (algae); Conditions: static; Concentration: 3.18 mg/L for 72 hr; Effect: biomass /iso-Butyl acrylate/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Desmodesmus subspicatus (algae); Conditions: static; Concentration: 5.28 mg/L for 72 hr, Effect: cell growth /iso-Butyl acrylate/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>Threshold concentration of cell multiplication inhibition of the protozoan Uronema parduczi 21 mg/L</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

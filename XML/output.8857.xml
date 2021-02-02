@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>8857</ns0:RecordNumber>
+  <ns0:RecordTitle>Ethyl acetate</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Heteropneustes fossilis (Common Indian catfish); Conditions: /freshwater, static/; Concentration: 212.5 ppm for 96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Chlorococcales (Green Algae Order); Conditions: freshwater, static; Concentration: 4300000 ug/L for 24 hr; Effect: physiology, assimilation efficiency /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Scenedesmus subspicatus (Green Algae) exponential growth phase; Conditions: freshwater, static, 24 °C, pH 8.0-9.3; Concentration: 3300000 ug/L for 48 hr; Effect: population, decreased biomass /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Scenedesmus subspicatus (Green Algae) exponential growth phase; Conditions: freshwater, static, 24 °C, pH 8.0-9.3; Concentration: 5600000 ug/L for 48 hr; Effect: decreased population, general population changes /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water Flea); Conditions: freshwater, renewal, 25 °C, pH &gt;7; Concentration: 2306000 ug/L for 24 hr; Effect: behvior equilibrium /formulation/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oryzias latipes (Japanese Medaka); Conditions: freshwater, static, 10 °C; Concentration: 1500000 ug/L for 24 hr /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oryzias latipes (Japanese Medaka); Conditions: freshwater, static, 20 °C; Concentration: 900000 ug/L for 24 hr /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oryzias latipes (Japanese Medaka); Conditions: freshwater, static, 30 °C; Concentration: 1500000 ug/L for 24 hr /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oryzias latipes (Japanese Medaka); Conditions: freshwater, static, 10 °C; Concentration: 1500000 ug/L for 48 hr /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oryzias latipes (Japanese Medaka); Conditions: freshwater, static, 20 °C; Concentration: 900000 ug/L for 48 hr /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oryzias latipes (Japanese Medaka); Conditions: freshwater, static, 30 °C; Concentration: 1500000 ug/L for 48 hr /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow) age 29-30 days, length 18.2 mm, weight 0.106 g; Conditions: freshwater, flow through, 24.3 °C, pH 7.4, hardness 45.0 mg/L CaCO3, alkalinity 37.0 mg/L CaCO3, dissolved oxygen 6.7 mg/L; Concentration: 230000 ug/L for 96 hr (95% confidence interval: 220000-250000 ug/L) /99+% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow Trout) juvenile; Conditions: freshwater, renewal; Concentration: 425300 ug/L for 96 hr (95% confidence interval: 352000-500000 ug/L) /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

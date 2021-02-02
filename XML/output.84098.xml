@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>84098</ns0:RecordNumber>
+  <ns0:RecordTitle>Isoxaflutole</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 Bee contact &gt;100 ug/bee</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Anas platyrhynchos (Mallard duck, age 5 days) dietary &gt;4255 ppm (8 days)[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on (5-Cyclopropyl-4-isoxazolyl)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 Anas platyrhynchos (Mallard duck, age 2 wk) oral &gt;2150 mg/kg[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on (5-Cyclopropyl-4-isoxazolyl)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 Colinus virginianus (Northern bobwhite, age 26 wk) oral &gt;2150 mg/kg[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on (5-Cyclopropyl-4-isoxazolyl)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Colinus virginianus (Northern bobwhite, age 10 days) dietary &gt;4255 ppm (8 days)[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on (5-Cyclopropyl-4-isoxazolyl)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50 Anabaena flosaquae (Blue-green algae; decreased population abundance) 0.18 ppm/5 day (95% confidence interval: 0.14-0.24 ppm); static[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on (5-Cyclopropyl-4-isoxazolyl)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50 Crassostrea virginica (American or virginia oyster; intoxication, immobilization) 3.3 ppm/96 hr (95% confidence interval: 2.1-5.1 ppm); flow through[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on (5-Cyclopropyl-4-isoxazolyl)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Lepomis macrochirus (Bluegill sunfish) &gt;4.5 ppm/96 hr; flow through[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on (5-Cyclopropyl-4-isoxazolyl)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Cyprinodon variegatus (Sheepshead minnow) &gt;6.4 ppm/96 hr; flow through[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on (5-Cyclopropyl-4-isoxazolyl)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+    </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>4618</ns0:RecordNumber>
+  <ns0:RecordTitle>Oxydemeton-methyl</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 ANAS PLATYRHYNCHOS (MALLARD), MALES 4 MO OLD, ORAL 53.9 MG/KG (95% CONFIDENCE LIMIT: 38.9-74.8 MG/KG)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 PHASIANUS COLCHICUS (PHEASANT), MALES 3-4 MO OLD, ORAL 42.4 MG/KG (95% CONFIDENCE LIMIT: 30.6-58.8 MG/KG)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 ALECTORIS CHUKAR MALES &amp; FEMALES, 3-4 MO OLD, ORAL 84.7-157 MG/KG</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 PASSER DOMESTICUS,(HOUSE SPARROW) MALES, ORAL 70.8 MG/KG (95% CONFIDENCE LIMIT: 43.4-116 MG/KG)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 Calliipepla californica, males, oral 47.6 mg/kg (95% confidence limit: 34.3-66.0 mg/kg)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 Columba livia, males &amp; females, oral 14.0 mg/kg (95% confidence limit: 8.84-22.3 mg/kg</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Asellus brevicaudus, mature 1.4 mg/l/96 hr @ 15 °C. Static bioassay without aeration, pH 7.2-7.5, water hardness 40-50 mg/l as calcium carbonate and alkalinity of 30-35 mg/l.</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Grammarus fasciatus, mature 1.0 mg/L/96 hr @ 15 °C (95% confidence limit: 0.06-1.7 mg/L). Static bioassay without aeration, pH 7.2-7.5, water hardness 40-50 mg/l as calcium carbonate and alkalinity of 30-35 mg/l.</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Salmo gairdneri (rainbow trout), wt 1.1G, 6.4 mg/L/96 hr @ 15 °C (95% confidence limit: 4.4-9.2 mg/L). Static bioassay without aeration, pH 7.2-7.5, water hardness 40-50 mg/l as calcium carbonate and alkalinity of 30-35 mg/l.</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Ictalurus punctatus (channel catfish), wt 1.4 G, less than 18 mg/L/96 hr @ 18 °C. Static bioassay without aeration, pH 7.2-7.5, water hardness 40-50 mg/l as calcium carbonate and alkalinity of 30-35 mg/l.</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Lepomis macrochirus (bluegill), wt 1.0 G, 13.0 mg/L/96 hr @ 18 °C in hard water, 272 ppm CaCO3 (95% confidence limit: 10.6-16.7 mg/L). Static bioassay without aeration, pH 7.2-7.5, water hardness 40-50 mg/l as calcium carbonate and alkalinity of 30-35 mg/l.</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Micropterus salmoides (largemouth bass), wt 0.7 G, 31.l5 mg/L/96 hr @ 18 °C in hard water, 272 ppm CaCO3 (95% confidence limit: 27.4-36.2 mg/L). Static bioassay without aeration, pH 7.2-7.5, water hardness 40-50 mg/l as calcium carbonate and alkalinity of 30-35 mg/l.</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Stizostedion vitreum vitreum (walleye), wt 1.4 G, 18.0 mg/L/96 hr @ 18 °C (95% confidence limit: 15.6-20.8). Static bioassay without aeration, pH 7.2-7.5, water hardness 40-50 mg/l as calcium carbonate and alkalinity of 30-35 mg/l.</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 Northern bobwhtie quail (Colinus virginianus) 17 mg ai /kg</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Waterflea (Daphnia magna) 0.24 ppm/48 hr /94.6% ai, Conditions of bioassay not specified/ /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Pink shrimp (Penaeus duorarum) 1.2 ppm/96 hr /25% ai, Conditions of bioassay not specified/ /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Fiddler crab 8.6 ppm/96 hr /25% ai, Conditions of bioassay not specified/ /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

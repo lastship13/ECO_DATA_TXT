@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>2450</ns0:RecordNumber>
+  <ns0:RecordTitle>Bronopol</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Anas platyrhynchos (Mallard duck) oral 509.5 mg/kg /99.4% a.i./ /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Anas platyrhynchos (Mallard duck) oral &gt;10,000 ppm /in the diet/ for 8 days /100% a.i./ /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Colinus virginianus (Northern bobwhite) oral 4487.6 ppm /in the diet/ /8 days /100% a.i./ /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout); Conditions: flow through; Concentration: 41.6 ppm for 96 hr (95% confidence interval: 36-45 ppm) /100% a.i./ /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill sunfish); Conditions: flow through; Concentration: 36.1 ppm for 96 hr (95% confidence interval: 20-51 ppm) /99.7% a.i./ /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna /(Water flea)/; Conditions: static; Concentration: 1.4 mg/L for 48 hr; Effect: intoxication, immobilization /99.4% a.i./ /from table/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cyprinodon variegatus (Sheepshead minnow); Conditions: flow through; Concentration: 59.6 ppm for 96 hr (95% confidence interval: 51-70 ppm) /99.7% a.i./ /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Americamysis bahia (Opossum shrimp); Conditions: flow through; Concentration: 5.9 ppm for 96 hr (95% confidence interval: 5.1-7.3 ppm) /99.7% a.i./</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Crassostrea gigas (Pacific oyster, embryo-larvae); Conditions: static; Concentration: 0.78 ppm for 48 hr (95% confidence interval: 0.52-0.95 ppm); Effect: intoxication, immobilization</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

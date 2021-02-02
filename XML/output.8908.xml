@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>8908</ns0:RecordNumber>
+  <ns0:RecordTitle>Hexyl acetate</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Pimephales promelas (Fathead Minnow) age 30-31 days, length 19 mm, weight 0.094 g; Conditions: freshwater, flow through, 24.2 (22.5-25.2) °C, pH 7.7 (7.6-7.8), hardness 42.4 mg/L CaCO3, alkalinity 42.0 mg/L CaCO3, dissolved oxygen 84.4 (72.9-91.6) mg/L; Concentration: 5900 ug/L for 24 hr; Effect: behavior, decreased equilibrium</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Pimephales promelas (Fathead Minnow) age 30-31 days, length 19 mm, weight 0.094 g; Conditions: freshwater, flow through, 24.2 (22.5-25.2) °C, pH 7.7 (7.6-7.8), hardness 42.4 mg/L CaCO3, alkalinity 42.0 mg/L CaCO3, dissolved oxygen 84.4 (72.9-91.6) mg/L; Concentration: 4500 ug/L for 48 hr; Effect: behavior, decreased equilibrium</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead Minnow) age 30-31 days, length 19 mm, weight 0.094 g; Conditions: freshwater, flow through, 24.2 (22.5-25.2) °C, pH 7.7 (7.6-7.8), hardness 42.4 mg/L CaCO3, alkalinity 42.0 mg/L CaCO3, dissolved oxygen 84.4 (72.9-91.6) mg/L; Concentration: 6100 ug/L for 24 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead Minnow) age 30-31 days, length 19 mm, weight 0.094 g; Conditions: freshwater, flow through, 24.2 (22.5-25.2) °C, pH 7.7 (7.6-7.8), hardness 42.4 mg/L CaCO3, alkalinity 42.0 mg/L CaCO3, dissolved oxygen 84.4 (72.9-91.6) mg/L; Concentration: 4800 ug/L for 48 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead Minnow) age 30-31 days, length 19.3 mm, weight 0.094 g; Conditions: freshwater, flow through, 24.9 °C, pH 7.7, hardness 42.4 mg/L CaCO3, alkalinity 42.0 mg/L CaCO3, dissolved oxygen 7.0 mg/L; Concentration: 4000 ug/L for 96 hr (95% confidence interval: 3700-4400 ug/L) /99% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+    </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

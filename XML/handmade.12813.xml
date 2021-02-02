@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf8'?>
+<Excel_XML>
+  <RECORDS>
+    <index>98</index>
+    <name>Decan-4-olide</name>
+    <CAS>706-14-9</CAS>
+    <IUPAC>5-hexyloxolan-2-one</IUPAC>
+    <SMILES>CCCCCCC1CCC(=O)O1</SMILES>
+    <Toxicity>Fathead_minnow_LC50 : 18 (17.1-19) AI mg/L  Fathead_minnow_Duration : 96hr  Fathead_minnow_Further_info : echotox ; Age : 29 Day(s) ( Fish; Standard Test Species)</Toxicity>
+    <Toxicity>Fathead_minnow_EC50 : None  Fathead_minnow_Duration : None  Fathead_minnow_Further_info : None</Toxicity>
+  </RECORDS>
+</Excel_XML>

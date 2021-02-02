@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf8'?>
+<Excel_XML>
+  <RECORDS>
+    <index>101</index>
+    <name>Exo-1,7,7-trimethylbicyclo[2.2.1]hept-2-yl acetate</name>
+    <CAS>125-12-2</CAS>
+    <IUPAC>(1,7,7-trimethyl-2-bicyclo[2.2.1]heptanyl) acetate</IUPAC>
+    <SMILES>CC(=O)OC1CC2CCC1(C2(C)C)C</SMILES>
+    <Toxicity>Zebrafish_LC50 : 10-18 mg/l  Zebrafish_Duration : 96 hr  Zebrafish_Further_info : ECHA.europa.eu</Toxicity>
+    <Toxicity>Daphnia_LC50 : None  Daphnia_Duration : None  Daphnia_Further_info : None</Toxicity>
+    <Toxicity>Daphnia_EC50 : 19.3 mg/L  Daphnia_Duration : 48 hr  Daphnia_Further_info : ECHA.europa</Toxicity>
+  </RECORDS>
+</Excel_XML>

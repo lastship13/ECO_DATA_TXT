@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>37125</ns0:RecordNumber>
+  <ns0:RecordTitle>Sulprofos</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Goldfish (Carassius auratus) 30 mg/L/96 hr /Conditions of bioassay not specified in source examined/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Carp (Cyprinus carpio) 10 mg/L/96 hr /Conditions of bioassay not specified in source examined/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 Anas platyrhynchos (Mallard duck) eggs exposed once for 30 sec in an 18 day study period, 34 lb/acre application rate (95% confidence interval: 22-52 lb/acre)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Anas platyrhynchos (Mallard duck, 11 day old) diet 983 ppm/ 8 day (95% confidence interval: 732.5-1,320.9 ppm)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 Colinus virginianus (Northern bobwhite) oral 47 mg/kg/14 days</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Colinus virginianus (Northern bobwhite, 14 day old) diet 99 ppm/8 days</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Bufo bufo japonicus (Toad, 0.075 g) 23 mg/L/48 hr /Conditions of bioassay not specified in source examined/ /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Anguilla japonica (Japanese eel) 36 mg/L/24, 48 hr /Conditions of bioassay not specified in source examined/  /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Cipangopaludina malleata (Mud snail, 3.0 g) 10 mg/L/48 hr /Conditions of bioassay not specified/  /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50 Daphnia magna (Water flea) intoxication, immobile 0.75 ppb/48 hr; static (95% confidence interval: 0.52-1.09 ppb) /Conditions of bioassay not specified in source examined/ /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Ictalurus punctatus (Channel catfish) 2.9 ppm/96 hr; static (95% confidence interval: 1.9-4.4 ppm) /Conditions of bioassay not specified in source examined/  /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Oncorrynchus mykiss (Rainbow trout, donaldson trout) 29.7 ppm/96 hr; static (95% confidence interval: 25.4-34.9 ppm) /Conditions of bioassay not specified in source examined/  /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Misgurnus anguillicaudatus (Oriental weatherfish, 5.4 g) 13 mg/L/48 hr /Conditions of bioassay not specified in source examined/  /formulated  product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Oryzias latipes (Medaka, 0.21 g) 11 mg/L/48 hr /Conditions of bioassay not specified in source examined/ /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+    </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

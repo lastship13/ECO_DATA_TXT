@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>7475</ns0:RecordNumber>
+  <ns0:RecordTitle>4-Nitroaniline</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50 Chlorella vulgaris (Algae) 350.14 mg/L/6 hr; biomass.</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Leuciscus idus (/Orfe/) 35 mg/L/48 hr; static, freshwater.</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Danio rerio (Zebra danio, age 3 months, weight 200-350 mg); Conditions: freshwater, renewal, 26.5 °C, pH 8.6, dissolved oxygen 85%; Concentration: 908 umol/L for 96 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water flea age &lt; or =24 hr); Conditions: freshwater, static, 20-22 °C, pH 7.6-7.7, hardness 16 dH; Concentration: 24 mg/L for 24 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Danio rerio (Zebra danio); Conditions: static; Concentration: 87600 ug/L for 96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oryzias latipes (Medaka, high-eyes, length 2 cm, weight  0.2 g); Conditions: freshwater, static, 25 °C; Concentration: 68000 ug/L for 24 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oryzias latipes (Medaka, high-eyes, length 2 cm, weight  0.2 g); Conditions: freshwater, static, 25 °C; Concentration: 50000 ug/L for 48 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Pimephales promelas (Fathead minnow, age 32 days, mean length 20.3 mm, mean weight 0.107 g) 125 mg/L/96 hr (95% confidence limit: 110-142 mg/L); flow through, 24.9 °C, pH 7.5, hardness 48.3 mg/L CaCO3, alkalinity 43.5 mg/L CaCO3, dissolved oxygen 6.3 mg/L /99+% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50 Pimephales promelas (Fathead minnow, age 32 days, mean length 20.3 mm, mean weight 0.107 g) 96.9 mg/L/96 hr (95% confidence limit: 89.1-105 mg/L); flow through, 24.9 °C, pH 7.5, hardness 48.3 mg/L CaCO3, alkalinity 43.5 mg/L CaCO3, dissolved oxygen 6.3 mg/L; Effect: Affected fish lost schooling behavior, were hyperactive and overreactive to external stimuli, had increased respiration and convulsions. They also had rigid musculature and spinal column deformities along with hemorrhaging and dark coloration. Equilibrium loss was observed prior to death.  /99+% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow, weight 0.3-1 g); Conditions: freshwater, static, 22 °C, pH 7.2-7.9, hardness 40-48 mg/L CaCO3, alkalinity 30-35 mg/L CaCO3, dissolved oxygen &gt;40 %; Concentration: 106100 ug/L for 96 hr (95% confidence interval: 87100-124400 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

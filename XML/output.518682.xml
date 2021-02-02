@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>518682</ns0:RecordNumber>
+  <ns0:RecordTitle>Boric anhydride</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Carassius auratus 0.57 g/L/3 day; flow through /Tested as boric acid. Boric oxide is the anhydride of boric acid; one part of boric oxide is equivalent to 1.776 parts of boric acid in aqueous solution./</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Carassius auratus 0.15 g/L/7 day; flow through /Tested as boric acid. Boric oxide is the anhydride of boric acid; one part of boric oxide is equivalent to 1.776 parts of boric acid in aqueous solution./</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Ictalurus punctaltus 0.5 g/L/9 day; flow through /Tested as boric acid. Boric oxide is the anhydride of boric acid; one part of boric oxide is equivalent to 1.776 parts of boric acid in aqueous solution./</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Ictalurus punctatus 0.71 g/L/5 day; flow through /Tested as boric acid. Boric oxide is the anhydride of boric acid; one part of boric oxide is equivalent to 1.776 parts of boric acid in aqueous solution./</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Micropterus salmoides 0.3 g/L/8 day; flow through /Tested as boric acid. Boric oxide is the anhydride of boric acid; one part of boric oxide is equivalent to 1.776 parts of boric acid in aqueous solution./</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Salmo gairdneri 0.48 g/L/24 day; flow through /Tested as boric acid. Boric oxide is the anhydride of boric acid; one part of boric oxide is equivalent to 1.776 parts of boric acid in aqueous solution./</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Salmo gairdneri 0.32 g/L/28 day; flow through /Tested as boric acid. Boric oxide is the anhydride of boric acid; one part of boric oxide is equivalent to 1.776 parts of boric acid in aqueous solution./</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50 Daphia magna 370-490 mg/L/48 hr  /Tested as boric acid. Boric oxide is the anhydride of boric acid; one part of boric oxide is equivalent to 1.776 parts of boric acid in aqueous solution./</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

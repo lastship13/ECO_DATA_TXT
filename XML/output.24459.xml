@@ -1,0 +1,274 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>24459</ns0:RecordNumber>
+  <ns0:RecordTitle>Lead chloride</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Chlorella vulgaris (Green algae, initial concentration (2.0-3.5)x10+5 cells/40 mL); Conditions: freshwater, static, 21 °C, pH 7.0-9.5; Concentration: &gt;100 mg/L for 33 days; Effect: depressed cell division /Total lead ion/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Chlorella vulgaris (Green algae, initial concentration (2.0-3.5)x10+5 cells/40 mL); Conditions: freshwater, static, 21 °C, pH 7.0-9.5; Concentration: 32 mg/L for 33 days; Effect: decreased chlorophyll a content per cell /Total lead ion/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Ceriodaphnia dubia (Water flea, neonate &lt;24 hr old); Conditions: freshwater, static; Concentration: 140 ug/L for 60 min; Effect: decreased feeding behavior, general /Total lead ion/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea, age 12 hr); Conditions: freshwater, static, 18 °C, pH 7.74, hardness 45.3 mg/L CaCO3, alkalinity 42.3 mg/L CaCO3, dissolved oxygen: 9 mg/L; Concentration: 450 ug/L for 48 hr; Effect: intoxication, immobilization</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea, age 4 hr); Conditions: freshwater, static, 25 °C; Concentration: 1250 ug/L for 64 hr; Effect: intoxication, immobilization</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water flea); Conditions: static, pH 7.4-8.2, alkalinity 41-50 mg/L CaCO3, hardness 44-53 mg/L CaCO3; Concentration: 0.45 mg/L for 48 hr /from table/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water flea);  Conditions: static, pH 7.4 - 8.2, alkalinity 41 - 50 mg/L CaCO3, hardness 44 - 53 mg/L CaCO3; Concentration: 0.3 mg/L for 21 days /from table/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water flea, age &lt;24 hr neonate); Conditions: freshwater, static, pH 7.5-9.1; Concentration: 168 ug/L for 48 hr /100% purity finely ground dust/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Austropotamobius pallipes pallipes (Crayfish);  Conditions: flow, temp 15 - 17 °C, pH 7.0; Concentration: 2.6 mg/L for 96 hr /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Austropotamobius pallipes pallipes (Crayfish);  Conditions: flow, temp 15 - 17 °C, pH 7.0; Concentration: 1.5 mg/L for 30 days /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Austropotamobius pallipes pallipes (Crayfish);  Conditions: flow, temp 15 - 17 °C, pH 7.0 (with food source); Concentration: 0.9 mg/L for 30 days /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Carassius auratus (Goldfish) adult;  Conditions: static, temp 25 °C, pH 7.5, alkalinity 18 mg/L CaCO3, hardness 20 mg/L CaCO3; Concentration: 45.4 mg/L for 24 hr /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Carassius auratus (Goldfish) adult;  Conditions: static, temp 25 °C, pH 7.5, alkalinity 18 mg/L CaCO3, hardness 20 mg/L CaCO3; Concentration: 31.5 mg/L; 48 hr /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Carassius auratus (Goldfish) adult;  Conditions: static, temp 25 °C, pH 7.5, alkalinity 18 mg/L CaCO3, hardness 20 mg/L CaCO3; Concentration: 31.5 mg/L for 96 hr /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lebistes reticulatus (Guppy) adult;  Conditions: static, temp 25 °C, pH 7.5, alkalinity 18 mg/L CaCO3, hardness 20 mg/L CaCO3; Concentration: 24.5 mg/L for 24 hr /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lebistes reticulatus (Guppy) adult;  Conditions: static, temp 25 °C, pH 7.5, alkalinity 18 mg/L CaCO3, hardness 20 mg/L CaCO3; Concentration: 24.5 mg/L for 48 hr /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lebistes reticulatus (Guppy) adult; Conditions: static, temp 25 °C, pH 7.5, alkalinity 18 mg/L CaCO3, hardness 20 mg/L CaCO3; Concentration: 20.6 mg/L for 96 hr /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Orconectes limosus (Crayfish); Conditions: flow, temp 15-17 °C, pH 7.0; Concentration: 3.3 mg/L for 96 hr /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Orconectes limosus (Crayfish); Conditions: flow, temp 15-17 °C, pH 7.0; Concentration: 1.7 mg/L for 30 days /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Orconectes limosus (Crayfish); Conditions: flow, temp 15-17 °C, pH 7.0 (with food source); Concentration: 0.9 mg/L for 30 days /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow) adult; Conditions: static, temp 25 °C, pH 7.5, alkalinity 18 mg/L CaCO3, hardness 20 mg/L CaCO3; Concentration: 8.18 mg/L for 24 hr /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow) adult; Conditions: static, temp 25 °C, pH 8.2, alkalinity 300 mg/L CaCO3, hardness 360 mg/L CaCO3; Concentration: 482 mg/L for 24 hr /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow) adult; Conditions: static, temp 25 °C, pH 7.5, alkalinity 18 mg/L CaCO3, hardness 20 mg/L CaCO3; Concentration: 5.99 mg/L for 48 hr /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow) adult; Conditions: static, temp 25 °C, pH 8.2, alkalinity 300 mg/L CaCO3, hardness 360 mg/L CaCO3; Concentration: 482 mg/L for 48 hr /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow) adult; Conditions: static, temp 18 °C, pH 7.5, alkalinity 18 mg/L CaCO3, hardness 20 mg/L CaCO3; Concentration: 5.58 mg/L for 96 hr /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow) adult; Conditions: static, temp 25 °C, pH 8.2, alkalinity 300 mg/L CaCO3, hardness 360 mg/L CaCO3; Concentration: 482 mg/L for 96 hr /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow, age &lt;24 hr neonate); Conditions: freshwater, static, pH 7.5-9.1; Concentration: 12500 ug/L for 96 hr /100% purity finely ground dust/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill sunfish) adult; Conditions: static, temp 25 °C, pH 7.5, alkalinity 18 mg/L CaCO3, hardness 20 mg/L CaCO3; Concentration: 25.9 mg/L for 24 hr /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Lepomis macrochirus (Bluegill sunfish) adult; Conditions: static, temp 25 °C, pH 8.2, alkalinity 300 mg/L CaCO3, hardness 360 mg/L CaCO3; Concentration: 482 mg/L for 24 hr /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill sunfish) adult; Conditions: static, temp 25 °C, pH 7.5, alkalinity 18 mg/L CaCO3, hardness 20 mg/L CaCO3; Concentration: 24.5 mg/L for 48 hr /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill sunfish) adult;  Conditions: static; temp 25 °C, pH 8.2, alkalinity 300 mg/L CaCO3, hardness 360 mg/L CaCO3; Concentration: 468 mg/L for 48 hr /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill sunfish) adult; Conditions: static, temp 25 °C, alkalinity 18 mg/L CaCO3, hardness 20 mg/L CaCO3; Concentration: 23.8 mg/L for 96 hr /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill sunfish) adult; Conditions: static, temp 25 degC, pH 8.2, alkalinity 300 mg/L CaCO3, hardness 360 mg/L CaCO3; Concentration: 442 mg/L for 96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Micropterus salmoides (Largemouth bass, eggs); Conditions: freshwater, renewal, 19-22 °C, pH 7.2-7.8, hardness 93-105 mg/L CaCO3, dissolved oxygen 7.4 mg/L; Concentration: 240 ug/L for 8 days (95% confidence interval: 120-460 ug/L) /total lead ion/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout, eggs); Conditions: freshwater, renewal, 12-13 °C, pH 7.2-7.8, hardness 93-105 mg/L CaCO3, dissolved oxygen 9.4 mg/L; Concentration: 180 ug/L for 28 days (95% confidence interval: 100-320 ug/L) /total lead ion/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout, eggs); Conditions: freshwater, renewal, 12-13 °C, pH 6.9-7.8, hardness 92-110 mg/L CaCO3, dissolved oxygen 9.3-10.1 mg/L; Concentration: 220 ug/L for 28 days (95% confidence interval: 190-250 ug/L) /total lead ion/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Lemna minor (Duckweed, age 12-14 days); Conditions: freshwater, static, 18 °C, pH 5.0; Concentration: 50000 ug/L for 48 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

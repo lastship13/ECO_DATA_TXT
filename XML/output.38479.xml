@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>38479</ns0:RecordNumber>
+  <ns0:RecordTitle>Pendimethalin</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 Anas platyrhynchos (mallard duck) oral 1421 mg/kg bw (Technical, 8 days)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 Apis mellifera (Honey bee) oral &gt; 49.7 ug/bee</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Anas platyrhynchos (Mallard Duck); Concentration: &gt; 4640 ppm for 8 days</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Colinus virginianus (Bobwhite quail); concentration: 4187 ppm for 8 days Technical /Conditions of bioassay not given/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cyprinodon variegatus (Sheepshead minnow); Concentration: 0.71 ppm for 96 hr 92.2% a.i. /Conditions of bioassay not given/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ictalurus punctatus (Channel catfish); Concentration: 0.418 ppm for 96 hr 93.2% a.i. /Conditions of bioassay not given/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill sunfish); Concentration: 0.199 ppm for 96 hr 93.2% a.i. /Conditions of bioassay not given/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout); Concentration: 0.138 ppm for 96 hr 93.2% a.i. /Conditions of bioassay not given/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (fathead minnow); Concentration:  0.19 ug/L/96 hr (confidence limit 0.17-0.22 mg/l); Conditions: flow-through bioassay with measured concentrations, 25.1 °C, dissolved oxygen 7.4 mg/L, hardness 43.5 mg/L calcium carbonate, alkalinity 43.0 mg/L calcium carbonate, pH 7.8.</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (water flea); Concentration: 0.28 ppm for 48 hr /Conditions of bioassay not given/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50: Species: Pimephales promelas (fathead minnow); Concentration: 0.18 ug/L/96 hr; Conditions: flow-through bioassay with measured concentrations, 25.1 °C, dissolved oxygen 7.4 mg/L, hardness 43.5 mg/L calcium carbonate, alkalinity 43.0 mg/L calcium carbonate, pH 7.8. Endpoint: loss of equilibrium.</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (water flea); Concentration: 280 ug/L for 48 hr; Endpoint: mortality /Conditions of bioassay not given/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

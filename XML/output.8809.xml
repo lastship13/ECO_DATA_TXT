@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>8809</ns0:RecordNumber>
+  <ns0:RecordTitle>Aramite</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Coturnix japonica (Japanese quail, 14-day old) oral &gt; 5000 ppm (5 day ad libitum diet)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50 Daphnia pulex (daphnids) 0.16 mg/L for 48 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Colinus virginianus (Northern bobwhite, age 10 days) oral &gt;5000 ppm/8 days</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Phasianus colchicus (Ring-necked pheasant, age 14 days) oral &gt;5000 ppm/8 days</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Gammarus lacustris (Scud, age 2 months); Conditions: freshwater, static, 21.1 °C, pH 7.1, alkalinity 30.0 mg/L CaCO3; Concentration: 350 ug/L for 24 hr (95% confidence interval: 250-500 ug/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Gammarus lacustris (Scud, age 2 months); Conditions: freshwater, static, 21.1 °C, pH 7.1, alkalinity 30.0 mg/L CaCO3; Concentration: 100 ug/L for 48 hr (95% confidence interval: 60-160 ug/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Gammarus lacustris (Scud, age 2 months); Conditions: freshwater, static, 21.1 °C, pH 7.1, alkalinity 30.0 mg/L CaCO3; Concentration: 60 ug/L for 96 hr (95% confidence interval: 43-84 ug/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ictalurus punctatus (Channel catfish, fingerling, length 2-3 in); Conditions: freshwater, static, 25 °C; Concentration: &gt;100,000 ug/L for 24 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill, weight 0.7 g); Conditions: freshwater, static, 24 °C, pH 7.4, hardness 44 mg/L CaCO3; Concentration: 480 ug/L for 24 hr /technical, 90% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill, weight 0.7 g); Conditions: freshwater, static, 24 °C, pH 7.4, hardness 44 mg/L CaCO3; Concentration: 350 ug/L for 96 hr /technical, 90% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout, weight 0.9 g); Conditions: freshwater, static, 13 °C, pH 7.4, hardness 44 mg/L CaCO3; Concentration: 720 ug/L for 24 hr (95% confidence interval: 616-842 ug/L) /technical, 90% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout, weight 0.9 g); Conditions: freshwater, static, 13 °C, pH 7.4, hardness 44 mg/L CaCO3; Concentration: 320 ug/L for 96 hr (95% confidence interval: 265-387 ug/L) /technical, 90% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+    </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

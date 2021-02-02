@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf8'?>
+<Excel_XML>
+  <RECORDS>
+    <index>64</index>
+    <name>1,2,3-Propanetricarboxylic acid, 2-hydroxy-, hydrate (1:1)</name>
+    <CAS>5949-29-1</CAS>
+    <IUPAC>2-hydroxypropane-1,2,3-tricarboxylic acid;hydrate</IUPAC>
+    <SMILES>C(C(=O)O)C(CC(=O)O)(C(=O)O)O.O</SMILES>
+    <Toxicity>Daphnia_EC50 : ~120 mg/L  Daphnia_Duration : 72 hrs  Daphnia_Further_info : Alfa laval Safety data sheet ; https://www.alfalaval.com/contentassets/60c58d6352c34a8e8625a9bfb1a9ed25/alpacon_descalant_offshore_gb_vers14.pdf</Toxicity>
+  </RECORDS>
+</Excel_XML>

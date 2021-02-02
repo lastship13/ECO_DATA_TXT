@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>23951</ns0:RecordNumber>
+  <ns0:RecordTitle>Samarium</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Hyalella azteca (Scud, young age 1-11 days); Conditions: freshwater, static, 24-25 °C, pH 7.39 (6.44-8.52), hardness 18 mg/L, alkalinity 14 mg/L CaCO3, conductivity 66 uS/sq cm (35-235 uS/sq cm), organic carbon 1.4 mg/L (0.7-3.6 mg/L); Concentration: 74 ug/L for 7 days (95% confidence interval: 57-95 ug/L) /Technical product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Hyalella azteca (Scud, young age 1-11 days); Conditions: freshwater, static, 24-25 °C, pH 8.21 (7.23-8.83), hardness 124 mg/L, alkalinity 84 mg/L CaCO3, conductivity 345 uS/sq cm (288-958 uS/sq cm), organic carbon 1.4 mg/L (0.7-3.6 mg/L); Concentration: 846 ug/L for 7 days (95% confidence interval: 603-1188 ug/L) /Technical product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+    </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

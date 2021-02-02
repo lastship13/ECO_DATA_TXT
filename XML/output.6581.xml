@@ -1,0 +1,162 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>6581</ns0:RecordNumber>
+  <ns0:RecordTitle>Acrylic acid</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>Toxicity threshold (cell multiplication inhibition test): Bacteria (Pseudomonas putida): 41 mg/L.</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>Toxicity threshold (cell multiplication inhibition test): Algae (Microcystis aeruginosa) 0.15 mg/L.</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>Toxicity threshold (cell multiplication inhibition test): Green algae (Scenedesmus quadricauda) 18 mg/L.</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>Toxicity threshold (cell multiplication inhibition test): Protozoa (Entosiphon sulcatum) 20 mg/L.</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>Toxicity threshold (cell multiplication inhibition test): Protozoa (Uronema parduczi Chatton-Lwoff) 11 mg/L</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Chlorococcales (Green algae order); Conditions: freshwater, static; Concentration: 118 mg/L for 24 hr; Effect: physiology, assimilation efficiency /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Xenopus laevis (African clawed frog) embryo; Conditions: freshwater, renewal, pH 7.0-7.8; Concentration: 2470300 ug/L (2470.3 mg/L) for 96 hr (95% confidence interval: 2377000-2563000 ug/L (2377-2563 mg/L)); Effect: increased developmental changes (craniofacial defects, abnormal gut ceiling) /&gt; or =98% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Xenopus laevis (African clawed frog) embryo; Conditions: freshwater, renewal, pH 7.0-7.8; Concentration: 5487800 ug/L (5487.8 mg/L) for 96 hr (95% confidence interval: 5331000-5649000 ug/L (5331-5649 mg/L) /&gt; or =98% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Brachydanio rerio (Zebra fish); Conditions: semi-static, open system, measured concentration; Concentration: 222 mg/L for 96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Leuciscus idus (ide); Conditions: freshwater, static, open system, nominal concentration; Concentration: 315 mg/L for 48 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout); Conditions: flow-through; Concentration: 27 mg/L for 96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water flea) age &lt; or =24 hr; Conditions: freshwater, static, 20-22 °C, pH 7.6-7.7; Concentration: 270 mg/L for 24 hr /formulation/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Brachionus calyciflorus (Rotifer) age &lt;2 hr; Conditions: freshwater, static, 25 °C, pH 7.5; Concentration: 27.9 mg/L for 48 hr (95% confidence interval: 2.5-53 mg/L); Effect: decreased reproduction (progeny counts/numbers) /99.8% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species; Daphnia magna (water flea); Conditions: static, open system; Concentration: 765 mg/L for 24 hr; Effect: immobilization</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (water flea): Conditions: flow-through; Concentration: 95 mg/L for 48 hr; Effect: immobilization</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (water flea); Conditions: static; Concentration: 47 mg/L for 48 hr; Effect: immobilization</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Selenastrum capricornutum (freshwater algae); Conditions: static; Concentration: 0.17 mg/L for 96 hr; Effect: biomass</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Scenedesmus subspicatus (green microalgae); Conditions: static; Concentration: 0.4 mg/L for 72 hr; Effect: biomass</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Scenedesmus subspicatus (green microalgae); Conditions: static; Concentration: 0.13 mg/L for 72 hr; Effect: growth rate</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Chlorella vulgaris (green algae); Conditions: static (cell multiplication inhibition test); Concentration: 1.53 mg/L for 72 hr; Endpoint: algal biomass inhibition</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Chlorella vulgaris (green algae); Conditions: static (cell multiplication inhibition test); Concentration: 63.0 mg/L for 72 hr; Endpoint: algal growth rate inhibition</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

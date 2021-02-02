@@ -1,0 +1,610 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>25960</ns0:RecordNumber>
+  <ns0:RecordTitle>Sodium selenate</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Ankistrodesmus falcatus (Green Algae); Conditions: freshwater, static, 24 °C, pH 7.0, hardness 16-17 mg/L CaCO3, alkalinity 11-11.5 mg/L CaCO3; Concentration: 33 ug/L for 14 days; Effect: growth, general</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Microcoleus vaginatus (Blue-Green Algae); Conditions: freshwater, static, 24 °C, pH 7.0; Concentration: 8511 ug/L for 14 days; Effect: growth, general</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Pseudokirchneriella subcapitata (Green Algae); Conditions: freshwater, static, 24 °C, pH 7.0, hardness 16-17 mg/L CaCO3, alkalinity 11-11.5 mg/L CaCO3; Concentration: 277 ug/L for 14 days; Effect: growth, general</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Pseudokirchneriella subcapitata (Green Algae,~10000 cells/mL); Conditions: freshwater, static; Concentration: 199 ug/L for 96 hr; Effect: decreased population growth rate</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Pseudokirchneriella subcapitata (Green Algae,~10000 cells/mL); Conditions: freshwater, static; Concentration: 268 ug/L for 120 hr; Effect: decreased population growth rate</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Gastrophryne carolinensis (Eastern Narrow-Mouthed Toad, eggs); Conditions: freshwater, renewal, 22 °C, pH 7.4, hardness 195 mg/L CaCO3; Concentration: 90 ug/L for 7 days (95% confidence interval: 80-150 ug/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water Flea, age &lt;24 hr); Conditions: freshwater, static, 20 °C; Concentration: 5300 ug/L for 48 hr; Effect: mortality</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Gammarus pseudolimnaeus (Scud, adult, length 9.2 mm, weight 17.9 mg); Conditions: freshwater, static, 21.9 (21.4-22.3) °C, pH 6.99 (6.82-7.16), hardness 51.0 (50.7-51.3) mg/L CaCO3, alkalinity 43.7 (43.6-43.8) mg/L CaCO3, dissolved oxygen 79.2 (69.8-85.8)% saturated; Concentration: 148 ug/L for 24 hr (95% confidence interval: 123-177 ug/L); Effect: intoxication, immobilization</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Gammarus pseudolimnaeus (Scud, adult, length 9.2 mm, weight 17.9 mg); Conditions: freshwater, static, 21.9 (21.4-22.3) °C, pH 6.99 (6.82-7.16), hardness 51.0 (50.7-51.3) mg/L CaCO3, alkalinity 43.7 (43.6-43.8) mg/L CaCO3, dissolved oxygen 79.2 (69.8-85.8)% saturated; Concentration: 83 ug/L for 48 hr (95% confidence interval: 68-101 ug/L); Effect: intoxication, immobilization</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Gammarus pseudolimnaeus (Scud, adult, length 9.2 mm, weight 17.9 mg); Conditions: freshwater, static, 21.9 (21.4-22.3) °C, pH 6.99 (6.82-7.16), hardness 51.0 (50.7-51.3) mg/L CaCO3, alkalinity 43.7 (43.6-43.8) mg/L CaCO3, dissolved oxygen 79.2 (69.8-85.8)% saturated; Concentration: 57 ug/L for 96 hr (95% confidence interval: 45-71 ug/L); Effect: intoxication, immobilization</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Artemia sp. (Brine Shrimp, age &lt;24 hr larva); Conditions: saltwater, static, 25 °C, salinity 36.292 ppt, 0.05 mg/L sulfate; Concentration: 1430 ug/L for 96 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Artemia sp. (Brine Shrimp, age &lt;24 hr larva); Conditions: saltwater, static, 25 °C, salinity 36.292 ppt, 14 g/L sulfate; Concentration: 81970 ug/L for 96 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ceriodaphnia dubia (Water Flea, age &lt;24 hr neonate); Conditions: freshwater, static, 25 °C, hardness 172 mg/L CaCO3, alkalinity 110 mg/L CaCO3; Concentration: 31.6 uM for 24 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ceriodaphnia dubia (Water Flea, age &lt;24 hr neonate); Conditions: freshwater, static, 25 °C, hardness 80 mg/L CaCO3, alkalinity 76 mg/L CaCO3; Concentration: 8.24 uM for 24 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ceriodaphnia dubia (Water Flea, age &lt;24 hr neonate); Conditions: freshwater, static, 20 °C, pH 7.8, hardness 52 mg/L CaCO3, dissolved oxygen 8.4 mg/L; Concentration: 1864 ug/L for 48 hr (95% confidence interval: 1642-2109 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ceriodaphnia dubia (Water Flea, age &lt;24 hr neonate); Conditions: freshwater, static, 20 °C, pH 7.8, hardness 52 mg/L CaCO3, dissolved oxygen 8.4 mg/L; Concentration: 1969 ug/L for 48 hr (95% confidence interval: 1730-2242 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ceriodaphnia dubia (Water Flea, age &lt;24 hr neonate); Conditions: freshwater, static, 25 °C, hardness 172 mg/L CaCO3, alkalinity 110 mg/L CaCO3; Concentration: 10.2 uM for 48 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ceriodaphnia dubia (Water Flea, age &lt;24 hr neonate); Conditions: freshwater, static, 25 °C, hardness 80 mg/L CaCO3, alkalinity 76 mg/L CaCO3; Concentration: 8.24 uM for 48 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water Flea, 5th instar adult, length 3.0 mm); Conditions: freshwater, renewal, 22 °C, pH 8.4; Concentration: 1510 ug/L for 24 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water Flea, juvenile); Conditions: freshwater, renewal, 22 °C, pH 8.4; Concentration: 550 ug/L for 48 hr (95% confidence interval: 500-600 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water Flea, 5th instar adult, length 3.0 mm); Conditions: freshwater, renewal, 22 °C, pH 8.4; Concentration: 750 ug/L for 48 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water Flea, eggs and embryo); Conditions: freshwater, renewal, 22 °C, pH 8.4; Concentration: 1400 ug/L for 72 hr (95% confidence interval: 1000-1700 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water Flea, 5th instar adult, length 3.0 mm); Conditions: freshwater, renewal, 22 °C, pH 8.4; Concentration: 580 ug/L for 96 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Gammarus pseudolimnaeus (Scud, adult, length 9.2 mm, weight 17.9 mg); Conditions: freshwater, static, 21.9 (21.4-22.3) °C, pH 6.99 (6.82-7.16), hardness 51.0 (50.7-51.3) mg/L CaCO3, alkalinity 43.7 (43.6-43.8) mg/L CaCO3, dissolved oxygen 79.2 (69.8-85.8)% saturated; Concentration: 157 ug/L for 24 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Gammarus pseudolimnaeus (Scud, adult, length 9.2 mm, weight 17.9 mg); Conditions: freshwater, static, 21.9 (21.4-22.3) °C, pH 6.99 (6.82-7.16), hardness 51.0 (50.7-51.3) mg/L CaCO3, alkalinity 43.7 (43.6-43.8) mg/L CaCO3, dissolved oxygen 79.2 (69.8-85.8)% saturated; Concentration: 83 ug/L for 48 hr (95% confidence interval: 68-101 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Gammarus pseudolimnaeus (Scud, adult, length 9.2 mm, weight 17.9 mg); Conditions: freshwater, static, 21.9 (21.4-22.3) °C, pH 6.99 (6.82-7.16), hardness 51.0 (50.7-51.3) mg/L CaCO3, alkalinity 43.7 (43.6-43.8) mg/L CaCO3, dissolved oxygen 79.2 (69.8-85.8)% saturated; Concentration: 57 ug/L for 96 hr (95% confidence interval: 45-71 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Hyallela azteca (Scud, age 2 month, length 2 mm); Conditions: freshwater, renewal, 25.0 °C, pH 8.6, hardness 132.72 mg/L CaCO3, alkalinity 301.85 mg/L CaCO3, dissolved oxygen 7.67 mg/L; Concentration: 1135 ug/L for 10 days (95% confidence interval: 998-1311 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Hyallela azteca (Scud, age 2 month, length 2 mm); Conditions: freshwater, renewal, 25.0 °C, pH 8.6, hardness 132.72 mg/L CaCO3, alkalinity 301.85 mg/L CaCO3, dissolved oxygen 7.67 mg/L; Concentration: 4309 ug/L for 48 hr (95% confidence interval: 3844-4820 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Hyalella azteca (Scud, age 17-22 days, juvenile); Conditions: freshwater, flow through, 17 °C, pH 7.4-8.2, hardness 143 mg/L CaCO3, dissolved oxygen 8.1-9.6 mg/L, 125 mg/L sulfate; Concentration: 1350 ug/L for 96 hr (95% confidence interval: 990-1850 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Hyalella azteca (Scud, age 17-22 days, juvenile); Conditions: freshwater, flow through, 17 °C, pH 7.4-8.2, hardness 143 mg/L CaCO3, dissolved oxygen 8.1-9.6 mg/L, 367 mg/L sulfate; Concentration: 1540 ug/L for 96 hr (95% confidence interval: 720-3290 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Hyalella azteca (Scud, age 17-22 days, juvenile); Conditions: freshwater, flow through, 17 °C, pH 7.4-8.2, hardness 143 mg/L CaCO3, dissolved oxygen 8.1-9.6 mg/L, 40 mg/L sulfate; Concentration: 2480 ug/L for 96 hr (95% confidence interval: 1810-3390 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Hyalella azteca (Scud, age 17-22 days, juvenile); Conditions: freshwater, flow through, 17 °C, pH 7.4-8.2, hardness 143 mg/L CaCO3, dissolved oxygen 8.1-9.6 mg/L, 822 mg/L sulfate; Concentration: 3580 ug/L for 96 hr (95% confidence interval: 2390-5370 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Hyallela azteca (Scud, age 2 month, length 2 mm); Conditions: freshwater, renewal, 25.0 °C, pH 8.6, hardness 132.72 mg/L CaCO3, alkalinity 301.85 mg/L CaCO3, dissolved oxygen 7.67 mg/L; Concentration: 1868 ug/L for 96 hr (95% confidence interval: 1600-2139 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Hyalella azteca (Scud, age 7-10 days, juvenile); Conditions: freshwater, static, 20 °C, pH 7.4, hardness 52 mg/L CaCO3, dissolved oxygen 8.3 mg/L; Concentration: 1428 ug/L for 96 hr (95% confidence interval: 1188-1675 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Hyalella azteca (Scud, age 1-11 days, young organism); Conditions: freshwater, static, 24-25 °C, pH 8.21 (7.23-8.83), conductivity 345 uS/sq cm, organic carbon 1.4 mg/L (0.7-3.6 mg/L); Concentration: 371 ug/L for 7 days (95% confidence interval: 283-487 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Carassius auratus (Goldfish, eggs); Conditions: freshwater, renewal, 22.0 °C, pH 7.4, hardness 195 mg/L CaCO3, dissolved oxygen saturated; Concentration: 8780 ug/L for 7 days (95% confidence interval: 7230-10600 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Catostomus latipinnis (Flannelmouth Sucker, age 12-13 days larva); Conditions: freshwater, static, 25 °C, pH 7.4-7.9, hardness 144 mg/L CaCO3, alkalinity 103 mg/L CaCO3, dissolved oxygen &gt;72%; Concentration: 84000 ug/L for 24 hr (95% confidence interval: 69000-106000 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Catostomus latipinnis (Flannelmouth Sucker, age 12-13 days larva); Conditions: freshwater, static, 25 °C, pH 7.4-7.9, hardness 144 mg/L CaCO3, alkalinity 103 mg/L CaCO3, dissolved oxygen &gt;72%; Concentration: 52700 ug/L for 48 hr (95% confidence interval: 43000-66700 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Catostomus latipinnis (Flannelmouth Sucker, age 12-13 days larva); Conditions: freshwater, static, 25 °C, pH 7.4-7.9, hardness 144 mg/L CaCO3, alkalinity 103 mg/L CaCO3, dissolved oxygen &gt;72%; Concentration: 26900 ug/L for 96 hr (95% confidence interval: 20700-34300 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Danio rerio (Zebra Danio, larva, weight 0.25 mg); Conditions: freshwater, renewal, 26 °C; Concentration: 82000 ug/L for 96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Morone saxatilis (Striped Bass, age 24 days larva, posthatch); Conditions: saltwater, static, 17 °C, hardness 750-830 mg/L CaCO3, salinity 5 ppt, alkalinity 38.2-40.5 mg/L CaCO3, dissolved oxygen saturated; Concentration: 26300 ug/L for 96 hr (95% confidence interval: 22500-29700 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Morone saxatilis (Striped Bass, age 25 days larva, posthatch); Conditions: saltwater, static, 17 °C, hardness 750-830 mg/L CaCO3, salinity 5 ppt, alkalinity 38.2-40.5 mg/L CaCO3, dissolved oxygen saturated; Concentration: 23700 ug/L for 96 hr (95% confidence interval: 21400-26200 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Morone saxatilis (Striped Bass, age 31 days larva, posthatch); Conditions: saltwater, static, 17 °C, hardness 750-830 mg/L CaCO3, salinity 5 ppt, alkalinity 38.2-40.5 mg/L CaCO3, dissolved oxygen saturated; Concentration: 26300 ug/L for 96 hr (95% confidence interval: 23400-28700 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Morone saxatilis (Striped Bass, age 32 days larva, posthatch); Conditions: saltwater, static, 17 °C, hardness 750-830 mg/L CaCO3, salinity 5 ppt, alkalinity 38.2-40.5 mg/L CaCO3, dissolved oxygen saturated; Concentration: 29000 ug/L for 96 hr (95% confidence interval: 27100-31500 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus kisutch (Coho Salmon, Eyed egg or stage, eyed embryo); Conditions: freshwater, static, 12 °C; Concentration: &lt;1000000 ug/L for 24 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus kisutch (Coho Salmon, alevin); Conditions: freshwater, static, 12 °C; Concentration: &gt;320000 ug/L for 24 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus kisutch (Coho Salmon, fry, weight 1.7 g); Conditions: saltwater, static, 12 °C; Concentration: &gt;369000 ug/L for 24 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus kisutch (Coho Salmon, fry, weight 0.5 g); Conditions: freshwater, static, 12 °C; Concentration: 234000 ug/L for 24 hr (95% confidence interval: 171000-318000 ug/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus kisutch (Coho Salmon, fry, weight 0.31 g); Conditions: freshwater, static, 12 °C; Concentration: 511000 ug/L for 24 hr (95% confidence interval: 381000-686000 ug/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus kisutch (Coho Salmon, Eyed egg or stage, eyed embryo); Conditions: freshwater, static, 12 °C; Concentration: &gt;1000000 ug/L for 96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus kisutch (Coho Salmon, alevin); Conditions: freshwater, static, 12 °C; Concentration: &gt;320000 ug/L for 96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus kisutch (Coho Salmon, fry weight 0.31 g); Conditions: freshwater, static, 12 °C; Concentration: 114000 ug/L for 96 hr (95% confidence interval: 85000-154000 ug/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus kisutch (Coho Salmon, fry weight 0.5 g); Conditions: freshwater, static, 12 °C; Concentration: 32500 ug/L for 96 hr (95% confidence interval: 25300-41600 ug/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus kisutch (Coho Salmon, fry weight 1.7 g); Conditions: saltwater, static, 12 °C; Concentration: 39000 ug/L for 96 hr (95% confidence interval: 29000-54200 ug/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow Trout, egg); Conditions: freshwater, renewal, 13.0 °C, pH 7.4, hardness 104 mg/L CaCO3, dissolved oxygen saturated; Concentration: 4180 ug/L for 28 days (95% confidence interval: 2820-5820 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow Trout); Conditions: freshwater, flow through; Concentration: 45000 ug/L for 96 hr (95% confidence interval: 38000-54000 ug/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow Trout, juvenile, length 49.6 mm, weight 1.04 g); Conditions: freshwater, static, 12 °C, pH 6.1-7.9, soft water, dissolved oxygen &gt; or =40%; Concentration: 32300 ug/L for 96 hr (95% confidence interval: 25000-41700 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow Trout, alevin, length 20.8 mm, weight 0.10 g); Conditions: freshwater, static, 12 °C, pH 6.1-7.9, soft water, dissolved oxygen &gt; or =40%; Concentration: 470000 ug/L for 96 hr (95% confidence interval: 374000-589000 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow Trout, embryo); Conditions: freshwater, renewal, 12-14 °C, pH 7.0-7.8, hardness 90-105 mg/L CaCO3; Concentration: 5170 ug/L for 4 days posthatch (95% confidence interval: 4150-6260 ug/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oryzias latipes (Medaka); Conditions: freshwater, static, 10 °C; Concentration: 760000 ug/L for 24 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oryzias latipes (Medaka); Conditions: freshwater, static, 20 °C; Concentration: 115000 ug/L for 24 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oryzias latipes (Medaka); Conditions: freshwater, static, 30 °C; Concentration: 43000 ug/L for 24 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oryzias latipes (Medaka); Conditions: freshwater, static, 10 °C; Concentration: 300000 ug/L for 48 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oryzias latipes (Medaka); Conditions: freshwater, static, 20 °C; Concentration: 33000 ug/L for 48 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oryzias latipes (Medaka); Conditions: freshwater, static, 30 °C; Concentration: 20000 ug/L for 48 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead Minnow); Conditions: freshwater, flow through, 24.9 (24.1-25.7) °C, pH 8.1 (7.8-8.2), hardness 127 (124-128) mg/L CaCO3, alkalinity 98 (96-102) mg/L CaCO3, Conductivity 740 (567-1070) umhos/cm, dissoved oxygen 7.9 (7.2-8.3) mg/L; Concentration: 10800 ug/L for 96 hr (95% confidence interval: 9340-12400 ug/L) /100% purity technical/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead Minnow); Conditions: freshwater, flow through, 25.1 (24.2-25.9) °C, pH 8.1 (8.0-8.2), hardness 131 (128-132) mg/L CaCO3, alkalinity 103 (102-104) mg/L CaCO3, Conductivity 1633 (1526-1779) umhos/cm, dissoved oxygen 8.1 (8.0-8.2) mg/L; Concentration: 18000 ug/L for 96 hr (95% confidence interval: 14900-21600 ug/L) /100% purity technical/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead Minnow); Conditions: freshwater, flow through, 24.5 (24.0-25.3) °C, pH 8.0 (8.0-8.2), hardness 147 (140-152) mg/L CaCO3, alkalinity 105 (102-106) mg/L CaCO3, Conductivity 3008 (2670-3250) umhos/cm, dissoved oxygen 7.2 (6.3-8.1) mg/L; Concentration: 42100 ug/L for 96 hr (95% confidence interval: 34500-51400 ug/L) /100% purity technical/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead Minnow); Conditions: freshwater, flow through, 25.2 (24.0-25.9) °C, pH 8.2 (7.9-8.4), hardness 136 (124-144) mg/L CaCO3, alkalinity 98 (102-136) mg/L CaCO3, Conductivity 373 (313-422) umhos/cm, dissoved oxygen 8.0 (7.36-8.3) mg/L; Concentration: 6210 ug/L for 96 hr (95% confidence interval: 5420-7120 ug/L) /100% purity technical/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead Minnow); Conditions: freshwater, flow through, 25 °C, pH 7.9, hardness 46 mg/L CaCO3, alkalinity 43-44 mg/L CaCO3, Conductivity 93-141 umhos/cm, dissoved oxygen 7.2 mg/L; Concentration: 5500 ug/L for 96 hr (95% confidence interval: 4700-6400 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead Minnow, age &lt;24 hr embryo); Conditions: freshwater, renewal, hardness 44-49 mg/L CaCO3, alkalinity 42-45 mg/L CaCO3, dissolved oxygen &gt;50%; Concentration: 3840 ug/L for 96 hr (95% confidence interval: 2930-5040 ug/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead Minnow, age &lt; or =24 hr embryo); Conditions: freshwater, renewal, hardness 44-49 mg/L CaCO3, alkalinity 42-45 mg/L CaCO3, dissolved oxygen &gt;50%; Concentration: 690 ug/L for 96 hr (95% confidence interval: 550-850 ug/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead Minnow, age &lt; or =24 hr embryo); Conditions: freshwater, renewal, hardness 44-49 mg/L CaCO3, alkalinity 42-45 mg/L CaCO3, dissolved oxygen &gt;50%; Concentration: 3840 ug/L for 5 days (95% confidence interval: 2930-5040 ug/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead Minnow, age &lt; or =24 hr embryo); Conditions: freshwater, renewal, hardness 44-49 mg/L CaCO3, alkalinity 42-45 mg/L CaCO3, dissolved oxygen &gt;50%; Concentration: 690 ug/L for 7 days (95% confidence interval: 550-850 ug/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ptychocheilus lucius (Colorado Squawfish, age 32-40 days posthatch larva, weight 24-47 mg, length 17-20 mm); Conditions: freshwater, static, 25 °C, pH 8.06, hardness 144 mg/L CaCO3, alkalinity 82 mg/L CaCO3, conductivity 395 umhos/cm, dissolved oxygen &gt;59%; Concentration: 92000 ug/L for 24 hr (95% confidence interval: 75000-118000 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ptychocheilus lucius (Colorado Squawfish, age 32-40 days posthatch larva, weight 24-47 mg, length 17-20 mm); Conditions: freshwater, static, 25 °C, pH 8.06, hardness 144 mg/L CaCO3, alkalinity 82 mg/L CaCO3, conductivity 395 umhos/cm, dissolved oxygen &gt;59%; Concentration: 88000 ug/L for 48 hr (95% confidence interval: 72000-111000 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ptychocheilus lucius (Colorado Squawfish, age 32-40 days posthatch larva, weight 24-47 mg, length 17-20 mm); Conditions: freshwater, static, 25 °C, pH 8.06, hardness 144 mg/L CaCO3, alkalinity 82 mg/L CaCO3, conductivity 395 umhos/cm, dissolved oxygen &gt;59%; Concentration: 88000 ug/L for 96 hr (95% confidence interval: 72000-111000 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Thymallus arcticus (Arctic Grayling, alevin, length 14.3 mm, weight 0.01 g); Conditions: freshwater, static, 12 °C, pH 6.1-7.9, soft water, dissolved oxygen &gt; or =40%; Concentration: 100000 ug/L for 96 hr (95% confidence interval: 78000-126000 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Thymallus arcticus (Arctic Grayling, juvenile, length 62.4 mm, weight 1.44 g); Conditions: freshwater, static, 12 °C, pH 6.1-7.9, soft water, dissolved oxygen &gt; or =40%; Concentration: 180000 ug/L for 96 hr (95% confidence interval: 138000-235000 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Xyrauchen texanus (Razorback Sucker, age 13-23 days posthatch larva, weight 6-42 mg, length 11-20 mm); Conditions: freshwater, static, 25 °C, pH 8.06, hardness 144 mg/L CaCO3, alkalinity 82 mg/L CaCO3, conductivity 395 umhos/cm, dissolved oxygen &gt;59%; Concentration: 78000 ug/L for 24 hr (95% confidence interval: 67000-101000 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Xyrauchen texanus (Razorback Sucker, age 13-23 days posthatch larva, weight 6-42 mg, length 11-20 mm); Conditions: freshwater, static, 25 °C, pH 8.06, hardness 144 mg/L CaCO3, alkalinity 82 mg/L CaCO3, conductivity 395 umhos/cm, dissolved oxygen &gt;59%; Concentration: 18700 ug/L for 48 hr (95% confidence interval: 14700-24700 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Xyrauchen texanus (Razorback Sucker, age 13-23 days posthatch larva, weight 6-42 mg, length 11-20 mm); Conditions: freshwater, static, 25 °C, pH 8.06, hardness 144 mg/L CaCO3, alkalinity 82 mg/L CaCO3, conductivity 395 umhos/cm, dissolved oxygen &gt;59%; Concentration: 15900 ug/L for 96 hr (95% confidence interval: 12700-19500 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Xyrauchen texanus (Razorback Sucker, age 176-186 days juvenile, weight 2.0 g); Conditions: freshwater, static, 25 °C, pH 7.0-8.5, dissolved oxygen &gt;40%; Concentration: 25000 ug/L for 96 hr (95% confidence interval: 19000-35000 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Xyrauchen texanus (Razorback Sucker, age 133-139 days juvenile, weight 0.9 g); Conditions: freshwater, static, 25 °C, pH 7.0-8.5, dissolved oxygen &gt;40%; Concentration: 36000 ug/L for 96 hr (95% confidence interval: 24000-52000 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Xyrauchen texanus (Razorback Sucker, age 10-17 days swim up); Conditions: freshwater, static, 25 °C, pH 7.0-8.5, dissolved oxygen &gt;40%; Concentration: 48000 ug/L for 96 hr (95% confidence interval: 35000-60000 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

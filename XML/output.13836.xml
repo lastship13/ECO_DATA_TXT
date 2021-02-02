@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>13836</ns0:RecordNumber>
+  <ns0:RecordTitle>Chlormequat chloride</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 Anas platyrhynchos (Mallard) male oral 265 mg/kg (95% confidence limit 211-334 mg/kg) 3 mo old /sample purity 98%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 Quail oral 555 mg/kg</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 Pheasant oral 261 mg/kg</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Phasianus colchicus (ring-necked pheasant, age 10-15 days) diet &gt;5000 ppm for 8 days</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 Apis mellifera (Honey bee) oral and contact &gt;100 ug ai/bee</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Lemna gibba (Duckweed); Concentration: 2.8 mg ai/L for 96 hr; Effect: reduced frond number /Conditions of bioassay not specified in source examined/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea, age 6-24 hr); Conditions: freshwater, static; Concentration: 16700 ug/L for 48 hr (95% confidence interval: 14900-19200 ug/L); Effect: intoxication, immobilization /100% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Alburnus alburnus (Bleak, length 8 cm); Conditions: saltwater, static, 10 °C, pH 7.8, salinity 7 ppt, alkalinity 75 mg/L CaCO3, dissolved oxygen &gt;5 mg/L; Concentration: 1950000 ug/L for 96 hr (95% confidence interval: 1700000-2250000 ug/L) /460G/L Cyocel Plus/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ictalurus punctatus (Channel catfish, weight 1.5 g); Conditions: freshwater, static, 17 °C, pH 7.4, hardness 272 mg/L CaCO3; Concentration: &gt;100 mg/L for 24 hr /98.1% purity, technical material/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ictalurus punctatus (Channel catfish, weight 1.5 g); Conditions: freshwater, static, 17 °C, pH 7.4, hardness 272 mg/L CaCO3; Concentration: &gt;100 mg/L for 96 hr /98.1% purity, technical material/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill, weight 1.5 g); Conditions: freshwater, static, 17 °C, pH 7.4, hardness 272 mg/L CaCO3; Concentration: &gt;100 mg/L for 24 hr /98.1% purity, technical material/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill, weight 1.5 g); Conditions: freshwater, static, 17 °C, pH 7.4, hardness 272 mg/L CaCO3; Concentration: &gt;100 mg/L for 96 hr /98.1% purity, technical material/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout, weight 1.4 g); Conditions: freshwater, static, 12 °C, pH 7.4, hardness 272 mg/L CaCO3; Concentration: &gt;100 mg/L for 24 hr /98.1% purity, technical material/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout, weight 1.4 g); Conditions: freshwater, static, 12 °C, pH 7.4, hardness 272 mg/L CaCO3; Concentration: &gt;100 mg/L for 96 hr /98.1% purity, technical material/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Trout; Concentration: about 4500 mg/L for 96 hr /400 g/L formulated product/ /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow, weight 1.5 g); Conditions: freshwater, static, 17 °C, pH 7.4, hardness 272 mg/L CaCO3; Concentration: &gt;100 mg/L for 24 hr /98.1% purity, technical material/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow, weight 1.5 g); Conditions: freshwater, static, 17 °C, pH 7.4, hardness 272 mg/L CaCO3; Concentration: &gt;100 mg/L for 96 hr /98.1% purity, technical material/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Crassostrea virginica (American or virginia oyster, length 3-5 cm); Conditions: saltwater, renewal; Concentration: 32 mg/L for 96 hr (95% confidence interval: 9-11 mg/L); Effect: intoxication, immobilization /98% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

@@ -1,0 +1,225 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>5235</ns0:RecordNumber>
+  <ns0:RecordTitle>Sodium fluoride</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Chlorella vulgaris (Green algae); Conditions: freshwater; static; Concentration:  7000 uM for 3 day /total/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Chlorella vulgaris (Green algae); Conditions: freshwater; static; pH 6.0; Concentration:  14000 uM for 15 day /total/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Chlorella vulgaris (Green algae); Conditions: freshwater; static; pH 6.8; Concentration:  20000 uM for 15 day /total/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Ceriodaphnia dubia (Water flea); Conditions: freshwater; static; Concentration:  157.9 g/cu m (95% confidence limit: 110 to 225.1 g/cu m) for 24 hr /total/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea; age &lt;24 hr); Conditions: freshwater; static; Concentration: &gt; 120 ppm for 48 hr; Effect: intoxication, immobile /95% AI formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea); Conditions: freshwater; renewal; Concentration: = 352 mg/L for 24 hr; Effect: behavior, equilibrium /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea; age 6-24 hr neonate); Conditions: freshwater; static, pH 7.9-8.6, dissolved oxygen 90-100%, hard water; Concentration:  98000 ug/L for 48 hr; Effect: intoxication, immobile /total/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea); Conditions: freshwater; static; Concentration:  205000 ug/L for 24 hr; Effect: intoxication, immobile /total/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water flea; age &lt;24 hr neonate); Conditions: freshwater; static, mean pH 8.14, mean hardness 169.2 mg/L CaCO3, mean alkalinity 110.8 mg/L CaCO3, dissolved oxygen 95-100%; Concentration:  279000 ug/L for 48 hr /total/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water flea; age &lt;24 hr neonate); Conditions: freshwater; static, mean pH 8.0, mean hardness 173 mg/L CaCO3, dissolved oxygen 6.5-9.1 mg/L; Concentration:  340000 ug/L (95% confidence limit: 280000 to 410000 ug/L) for 48 hr /total/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water flea); Conditions: freshwater; static; Concentration:  680000 ug/L for 24 hr /total/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia pulex (Water flea); Conditions: freshwater; static; Concentration:  11.62 mM for 24 hr; Effect: intoxication, immobile /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cyprinodon variegatus (Sheepshead minnow, size 8-15 mm); Conditions: saltwater; static; Concentration: &gt; 500000 ug/L for 96 hr /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cyprinodon variegatus (Sheepshead minnow, size 8-15 mm); Conditions: saltwater; static; Concentration: &gt; 500000 ug/L for 72 hr /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cyprinodon variegatus (Sheepshead minnow, size 8-15 mm); Conditions: saltwater; static; Concentration: &gt; 500000 ug/L for 48 hr /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cyprinodon variegatus (Sheepshead minnow, size 8-15 mm); Conditions: saltwater; static; Concentration: &gt; 500000 ug/L for 24 hr /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill); Conditions: freshwater; renewal; Concentration:  830 ppm for 96 hr /95% AI formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout); Conditions: freshwater; static; Concentration:  317 ppm (95% confidence limit: 200 to 580 ppm) for 96 hr /95% AI formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout, size 58.7 mm, wt 1.8 g); Conditions: freshwater; static, pH 7.2, hardness 17 mg/L CaCO3, alkalinity 11 mg/L CaCO3; Concentration:  51000 ug/L (95% confidence limit: 38000 to 68000 ug/L) for 96 hr /total/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout, wt 118.9 mg); Conditions: freshwater; static; Concentration:  64100 ug/L (95% confidence limit: 50000 to 82200 ug/L) for 192 hr /total/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout, wt 118.9 mg); Conditions: freshwater; static; Concentration:  73400 ug/L (95% confidence limit: 55900 to 96400 ug/L) for 168 hr /total/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout, wt 118.9 mg); Conditions: freshwater; static; Concentration:  85100 ug/L (95% confidence limit: 68000 to 106500 ug/L) for 144 hr /total/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout, wt 118.9 mg); Conditions: freshwater; static; Concentration:  92400 ug/L (95% confidence limit: 73600 to 116000 ug/L) for 120 hr /total/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout, age 2 months, weight 118.9 mg); Conditions: freshwater; static, pH 7.58, hardness 22.4 mg/L CaCO3, alkalinity 37.5 mg/L CaCO3, dissolved oxygen 10.1 mg/L; Concentration:  107500 ug/L (95% confidence limit: 83700 to 138000 ug/L) for 96 hr /total/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout, size 58.7 mm, wt 1.8 g); Conditions: freshwater; static, pH 8.3, hardness 49 mg/L CaCO3, alkalinity 36 mg/L CaCO3; Concentration:  128000 ug/L (95% confidence limit: 108000 to 150000 ug/L) for 96 hr /total/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout, size 58.7 mm, wt 1.8 g); Conditions: freshwater; static, pH 8.3, hardness 182 mg/L CaCO3, alkalinity 139 mg/L CaCO3; Concentration:  140000 ug/L (95% confidence limit: 117000 to 167000 ug/L) for 96 hr /total/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout, size 58.7 mm, wt 1.8 g); Conditions: freshwater; static, pH 8.7, hardness 385 mg/L CaCO3, alkalinity 397 mg/L CaCO3; Concentration:  193000 ug/L (95% confidence limit: 167000 to 223000 ug/L) for 96 hr /total/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow); Conditions: freshwater; static, pH 7.4-7.8, hardness 10-92 mg/L CaCO3; Concentration:  180000 ug/L for 96 hr /total/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow); Conditions: freshwater; static, pH 7.5-7.7, hardness 12-256 mg/L CaCO3; Concentration:  205000 ug/L for 96 hr /total/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow); Conditions: freshwater; static, temp 15-19 °C, pH 7.5-8.0, hardness 10-44 mg/L CaCO3; Concentration:  315000 ug/L for 96 hr /total/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

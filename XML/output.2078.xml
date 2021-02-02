@@ -1,0 +1,260 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>2078</ns0:RecordNumber>
+  <ns0:RecordTitle>Alachlor</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Cyprinus carpio (Carp, 1 yr old, weight 10 g) 7.14 mg/L/48 hr at 18-20 °C, pH 6.9</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Cyprinus carpio (Carp, 1 yr old, weight 10 g) 4.60 mg/L/96 hr at 18-20 °C, pH 6.9</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 Procambarus acutus (Crayfish) 19.5 ppm in 96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Phasianus sp (Pheasant) oral greater than 10000 ppm (8 day feeding)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Anas platyrhynchos (Mallard duck, age 3 months) oral &gt;2000 mg/kg /88.5% AI formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Anas platyrhynchos (Mallard duck, age 10 days) diet &gt;5620 ppm for 8 days /95.4% AI formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Anas platyrhynchos (Mallard duck, juvenile) diet &gt;5000 ppm for 8 days /90% AI formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Colinus virginianus (Northern bobwhite) oral 1499 mg/kg (95% confidence limit: 1000-2510 mg/kg) /92.3% AI formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Colinus virginianus (Northern bobwhite) diet &gt;5000 ppm for 8 days /90% AI formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Apis mellifera (Honey bee, adult) topical &gt;36.2 ug/bee /Technical product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Chlorella vulgaris (Green algae); Conditions: freshwater; static, 25 °C; Concentration: 26 ug/L for 96 hr (95% confidence interval: 16-35 mg/L); Effect: population, decreased chlorophyll</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Lepomis macrochirus (Bluegill sunfish) 2.8 mg/L/96 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Lepomis macrochirus (Bluegill, weight 1.0 g) 4.3 mg/L/96 hr at 22 °C (95% confidence interval 3.5-5.5 mg/L). Static bioassay without aeration, pH 7.2-7.5, water hardness 40-50 mg/L as calcium carbonate and alkalinity of 30-35 mg/L. /Technical material 100%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Lepomis macrochirus (Bluegill, weight 1.0 g) 3.2 mg/L/96 hr at 22 °C (95% confidence interval 2.3-4.5 mg/L). Static bioassay without aeration, pH 7.2-7.5, water hardness 40-50 mg/L as calcium carbonate and alkalinity of 30-35 mg/L. /Liquid 43%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill, weihgt 1 g); Conditions: freshwater; static, 22 °C, pH 7.4, hardness 44 mg/L CaCO3; Concentration: 11.5 mg/L for 24 hr (95% confidence interval: 8.58-15.41 mg/L) /technical material/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Lepomis macrochirus (Bluegill, weight 2.7 g, length 60 mm) &gt;0.75 mg/L/24 and 96 hr; flow through, 21 °C, pH 7.1, dissolved oxygen 9.1-9.3 mg/L, hardness 38 mg/L CaCO3 /Technical alachlor, 91% AI/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Oncorhynchus mykiss (Rainbow trout) 1.8 mg/L/96 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Oncorhynchus mykiss (Rainbow trout, weight 0.8 g) 2.4 mg/L/96 hr at 12 °C (95% confidence interval 1.8-3.1 mg/L), static bioassay without aeration, pH 7.2-7.5, water hardness 40-50 mg/L as calcium carbonate and alkalinity of 30-35 mg/L. /Technical material 100%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Oncorhynchus mykiss (Rainbow trout, weight 0.8 g) 1.4 mg/L/96 hr at 12 °C (95% confidence interval 1.1-1.8 mg/L), static bioassay without aeration, pH 7.2-7.5, water hardness 40-50 mg/L as calcium carbonate and alkalinity of 30-35 mg/L. /Liquid 43%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout, weight 0.8 g); Conditions: freshwater; static, 12 °C, pH 7.4, hardness 44 mg/L CaCO3; Concentration: 4.3 mg/L for 24 hr (95% confidence interval: 3.61-5.11 mg/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout, fry, weight 0.8-1.0 g); Conditions: freshwater; renewal, 12 °C, pH 7.9, hardness 44 mg/L CaCO3, alkalinity 33 mg/L CaCO3, dissolved oxygen &gt;6 mg/L; Concentration: 10.6 mg/L for 24 hr (95% confidence interval: 9.5-11.7 mg/L) /43% AI Alachlor/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Oncorrhynchus mykiss (Rainbow trout, weight 1.9 g, length 48 mm) 3.4 mg/L/14 days (95% confidence interval 2.8-4.9 mg/L); flow through, 12 + or -1 °C, dissolved oxygen 8.3-9.2 mg/L, pH 7.4-7.8, hardness 42-46 mg/L CaCO3, alkalinity 52-56 mg/L CaCO3 /Technical alachlor 94.2% AI/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Oncorrhynchus mykiss (Rainbow trout, weight 0.84 g, length 47 mm) &gt;100 mg/L/96 hr; static /Oxanilic acid metabolite of alachlor, 92.4% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Oncorrhynchus mykiss (Rainbow trout, weight 0.52 g, length 41 mm) &gt;104 mg/L/96 hr; static /Sulfonic metabolite of alachlor, 91.5% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow, age 30 days); Conditions: freshwater; flow through, 23.6-25.8 °C, pH 7.5, hardness 47.6 mg/L CaCO3, alkalinity 42.2 mg/L CaCO3, dissolved oxygen 92.0-99.3%; Concentration: 9.9 mg/L for 24 hr (95% confidence interval: 9.3-10.6 mg/L) /92.6% AI formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow, age 30 days); Conditions: freshwater; flow through, 23.6-25.8 °C, pH 7.5, hardness 47.6 mg/L CaCO3, alkalinity 42.2 mg/L CaCO3, dissolved oxygen 92.0-99.3%; Concentration: 6.6 mg/L for 48 hr (95% confidence interval: 6.3-7.0 mg/L) /92.6% AI formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow, age 30 days); Conditions: freshwater; flow through, 24.9 °C, hardness 43.7 mg/L CaCO3, alkalinity 40.9 mg/L CaCO3, dissolved oxygen 8.0 mg/L; Concentration: 5.0 mg/L for 96 hr (95% confidence interval: 4.5-5.6 mg/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 Ictalurus (Catfish) 6.5 ppm in 96 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Ictalurus punctatus (Channel catfish) 2.1 mg/L/96 hr; static, 22 + or -1 °C, dissolved oxygen 3.35-9.2 mg/L, pH 6.8-7.8 /95.6% AI/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50 Daphnia magna (Water flea) 14 mg/L/24 hr (95% confidence interval: 8.6-19 mg/L); static; Effect: immobilization /Technical grade alachlor 94.64% AI/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50 Daphnia magna (Water flea) 13 mg/L/48 hr (95% confidence interval: 8.6-19 mg/L); static; Effect: immobilization /Technical grade alachlor 94.64% AI/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50 Daphnia magna (Water flea) &gt;95 mg/L/48 hr; static; Effect: immobilization /Oxanilic acid metabolite of alachlor, 92.4% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50 Daphnia magna (Water flea) &gt;104 mg/L/48 hr; static; Effect: immobilization /Sulfonic acid metabolite of alachlor, 91.5% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50 Selenastrum caprincornutum (Algae) 1.9 ug/L/120 hr (95% confidence interval: 1.5-2.4 ug/L); static; Effect: growth inhibition (based on biomass) /Sulfonic acid metabolite of alachlor, 91.5% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Eisenia foetida (Earthworm) 386.8 mg/kg soil dry weight/ 14 days (95% confidence interval: 336.8-451.5 mg/kg) /Technical alachlor, % AI not specified/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

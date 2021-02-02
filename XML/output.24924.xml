@@ -1,0 +1,463 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>24924</ns0:RecordNumber>
+  <ns0:RecordTitle>Lead nitrate</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Anas platyrynchos (Mallard duck) young; Concentration: &gt; 500 mg/L for &lt; 100 days /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Anas platyrynchos (Mallard duck) adult; Concentration: &gt; 50 mg/L for &lt; 100 days /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Coturnix japonica (Japanese quail), males or females, 14 days old; oral (5-day ad libitum in diet) &gt; 5,000 ppm; no overt signs of toxicity to 5,000 ppm; control references were dieldrin &amp; dicrotophos; corn oil diluent was added to diet at ratio of 2:98 by wt; (extreme concentrations: 1,000-5,000 ppm) /Reagent grade, 100% AI/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Ceriodaphnia dubia (Water flea, age &lt;24 hr); Conditions: freshwater, renewal, 25 °C, pH 8.2, hardness 100 mg/L CaCO3, alkalinity 97 mg/L CaCO3, dissolved oxygen &gt; or =70%); Concentration: 269 ug/L for 7 days; Effect: reduced growth, reduced number of young per female /total lead ion/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea, age &lt;24 hr 1st instar larvae); Conditions: freshwater, static, 23 °C; Concentration: 1815 ug/L for 48 hr (95% confidence interval: 1753-2003 ug/L); Effect: intoxication, immobilization /total lead ion/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea, various ages; Conditions: freshwater, flow through, 20 °C, pH 8.1, hardness ~225 mg/L CaCO3; Concentration: 1700 ug/L for 21 days (95% confidence interval: 1300-2100 ug/L); Effect: decreased population carrying capacity /&gt;99.9% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water flea, age &lt;24 hr); Conditions: freshwater, renewal, 20 °C; Concentration: 0.26854 mmol/L for 48 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water flea, age &lt;24 hr); Conditions: freshwater, static; Concentration: 150 ug/L for 48 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water flea); Concentration: 6.73 mg/L for 96 hr /Conditions of bioassay not specified/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water flea, &lt;24 hr neonate); Conditions: freshwater, renewal, 20 °C, pH 8.1, hardness ~225 mg/L CaCO3; Concentration: 1800 ug/L for 21 days (95% confidence interval: 1500-2100 ug/L) /&gt;99.9% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Gammarus pseudolimnaeus (Amphipod); Conditions: flow, temp 15 °C, pH 7.1 - 7.7, alkalinity 40 - 44 mg/L CaCO3, hardness 40 - 44 mg/L CaCO3; Concentration: 0.124 mg/L for 96 hr /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Tanytarsus dissimilis (Midge) egg/larva; Conditions: static, temp 21 - 23 °C, pH 7.5, alkalinity 43.9 mg/L CaCO3, hardness 46.8 mg/L CaCO3; Concentration: 0.258 mg/L for 10 days /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Epherella grandis (Mayfly) larva; Conditions: flow; pH 7.0 - 7.2; Concentration: 3.5 mg/L for 14 days /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pteronarcys californica (Stonefly) larva; Conditions: flow, pH 7.0 - 7.2; Concentration: &gt;19.2 mg/L for 14 days /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Crassostrea virginica (American oyster); Conditions: static, temp 25 - 27 °C, alkalinity 25 mg/L CaCO3; Concentration: 2.45 mg/L for 48 hr /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cardium edule (Cockle) adult; Conditions: static, temp 15 °C; Concentration: &gt; 500 mg/L for 48 hr  /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lamelliden marginalis (Mussel); Conditions: static, temp 28 - 32 °C, pH 7.0 - 7.3, alkalinity 7.7 - 11.7 mg/L CaCO3, hardness mg/L CaCO3; Concentration: &gt; 40 mg/L for 48 hr /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Mercenaria mercenaria (Hard clam); Conditions: static, temp 25-27 °C, alkalinity 25 mg/L CaCO3; Concentration: 0.78 mg/L for 48 hr /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Mya arenaria (Softshell clam); Conditions: static, temp 21.5-22.5 °C, pH 7.8 - 8.0, alkalinity 29 - 31 mg/L CaCO3; Concentration: &gt; 50 mg/L for 48 hr /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Mya arenaria (Softshell clam); Conditions: static, temp 21.5 - 22.5 °C, pH 7.8 - 8.0, alkalinity 29 - 31 mg/L CaCO3; Concentration: 27 mg/L for 96 hr /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Mya arenaria (Softshell clam); Conditions: static, temp 21.5 - 22.5 °C, pH 7.8 - 8.0, alkalinity 29 - 31 mg/L CaCO3; Concentration: 8.8 mg/L for 168 hr /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oziotelphusa senex senex (Freshwater crab); Conditions: temp 28 - 32 °C, pH 7.0 - 7.3, alkalinity 7.7 - 11.7 mg/L CaCO3, hardness 32 - 38 mg/L CaCO3; Concentration: &gt; 40 mg/L for 48 hr /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Scylla serrata (Crab); Conditions: static, temp 26.5 - 29.5 °C, pH 7.0 - 7.2; Concentration: &gt; 370 mg/L for 96 hr /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pandalus montagui (Pink shrimp) adult; Conditions: static, temp 15 °C; Concentration: 375 mg/L for 48 hr /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pila globosa (Snail); Conditions: static, temp 28 - 32 °C, pH 7.0 - 7.3, alkalinity 7.7 - 11.7 mg/L CaCO3, hardness 32 - 38 mg/L CaCO3; Concentration: &gt; 40 mg/L for 48 hr /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Eisenia fetida (Earthworm) direct application 2249 ug/g soil for 21 days in artificial soil (70% sand, 20% clay, pH 6.1, 10%% organic matter, 33% moisture); Effect: growth</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Eisenia fetida (Earthworm, adult &gt; or =8 wk) direct application 1940 ug/g soil for 56 days in artificial soil (70% sand, 20% clay, 10%% organic matter, 35% moisture); Effect: reproduction (progeny counts/numbers)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Eisenia fetida (Earthworm, adult &gt; or =8 wk) direct application 4480 ug/g soil for 14 days in artificial soil (70% sand, 20% clay, 10%% organic matter, 35% moisture) (95% confidence interval: 3500-6190 ug/g)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Eisenia fetida (Earthworm, adult &gt; or =8 wk) direct application 3760 ug/g soil for 56 days in artificial soil (70% sand, 20% clay, 10%% organic matter, 35% moisture) (95% confidence interval: 2900-5180 ug/g)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Rana hexadactyla (Frog, length 20 mm (15-25 mm), weight 500 mg (350-800 mg)); Conditions: freshwater, renewal, 15 °C (13-16 °C), pH 6.1, hardness 20 mg/L CaCO3 (13-80 mg/L), alkalinity 27 mg/L CaCO3 (24-40 mg/L), dissolved oxygen 6.4 mg/L (6.2-7.0 mg/L); Concentration: 100000 ug/L for 24 hr /total lead ion/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Rana hexadactyla (Frog, length 20 mm (15-25 mm), weight 500 mg (350-800 mg)); Conditions: freshwater, renewal, 15 °C (13-16 °C), pH 6.1, hardness 20 mg/L CaCO3 (13-80 mg/L), alkalinity 27 mg/L CaCO3 (24-40 mg/L), dissolved oxygen 6.4 mg/L (6.2-7.0 mg/L); Concentration: 66650 ug/L for 48 hr (95% confidence interval: 60020-74670 ug/L) /total lead ion/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Rana hexadactyla (Frog, length 20 mm (15-25 mm), weight 500 mg (350-800 mg)); Conditions: freshwater, renewal, 15 °C (13-16 °C), pH 6.1, hardness 20 mg/L CaCO3 (13-80 mg/L), alkalinity 27 mg/L CaCO3 (24-40 mg/L), dissolved oxygen 6.4 mg/L (6.2-7.0 mg/L); Concentration: 41310 ug/L for 72 hr (95% confidence interval: 37870-46540 ug/L) /total lead ion/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Rana hexadactyla (Frog, length 20 mm (15-25 mm), weight 500 mg (350-800 mg)); Conditions: freshwater, renewal, 15 °C (13-16 °C), pH 6.1, hardness 20 mg/L CaCO3 (13-80 mg/L), alkalinity 27 mg/L CaCO3 (24-40 mg/L), dissolved oxygen 6.4 mg/L (6.2-7.0 mg/L); Concentration: 33280 ug/L for 96 hr (95% confidence interval: 29740-36780 ug/L) /total lead ion/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Carassius auratus (Goldfish) 40 - 80 mm; Conditions: static, temp 19 - 25 °C, pH 6.0 - 6.9; Concentration: 6.6 mg/L for 48 hr /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Carassius auratus (Goldfish) 40 - 80 mm; Conditions: static, temp 19 - 25 °C, pH 6.0 - 6.9, hardness 50 mg/L CaCO3; Concentration: 110 mg/L for 48 hr  /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Chelon labrosus (Grey mullet) 0.3 - 3.2 g; Conditions: flow, temp 11 - 13 °C, pH 6.9 - 8.5, alkalinity 34.4 - 34.8 mg/L CaCO3; Concentration: &gt; 4.5 mg/L for 96 hr /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cyrpinus carpio (Carp, length 4-5 cm); Conditions: freshwater, renewal, 27 °C, pH 7.5, hardness 115 mg/L CaCO3, alkalinity 110-135 mg/L CaCO3, dissolved oxygen 6.5 mg/L; Concentration: 310 ug/L for 24 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cyrpinus carpio (Carp, length 4-5 cm); Conditions: freshwater, renewal, 27 °C, pH 7.5, hardness 115 mg/L CaCO3, alkalinity 110-135 mg/L CaCO3, dissolved oxygen 6.5 mg/L; Concentration: 240 ug/L for 48 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cyrpinus carpio (Carp, length 4-5 cm); Conditions: freshwater, renewal, 27 °C, pH 7.5, hardness 115 mg/L CaCO3, alkalinity 110-135 mg/L CaCO3, dissolved oxygen 6.5 mg/L; Concentration: 170 ug/L for 96 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cyrpinus carpio (Carp, juvenile length 3.5 cm); Conditions: freshwater, renewal, 20 °C, pH 7.1, dissolved oxygen 6.4 mg/L; Concentration: 440 ug/L for 96 hr /total lead ion/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cyrpinus carpio (Carp, juvenile length 3.5 cm); Conditions: freshwater, renewal, 15 °C, pH 7.1, dissolved oxygen 6.4 mg/L; Concentration: 800 ug/L for 96 hr /total lead ion/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Gambusia affinis (Mosquito fish, adult); Conditions: static, 22-24 °C, pH 7.7-8.3, alkalinity &lt;100 mg/L CaCO3; Concentration: 240 mg/L for 24 hr /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Gambusia affinis (Mosquito fish, adult); Conditions: static, 22-24 °C, pH 7.7-8.3, alkalinity &lt;100 mg/L CaCO3; Concentration: 240 mg/L for 48 hr /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Gambusia affinis (Mosquito fish, adult); Conditions: static, 22-24 °C, pH 7.7-8.3, alkalinity &lt;100 mg/L CaCO3; Concentration: 240 mg/L for 96 hr /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill, weight 5 g, length 7 cm (5-11 cm)); Conditions: freshwater, static, 20 °C, dissolved oxygen &gt;5 mg/L; Concentration: 6300 ug/L for 24 hr /chemically pure, total lead ion/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill, weight 5 g, length 7 cm (5-11 cm)); Conditions: freshwater, static, 20 °C, dissolved oxygen &gt;5 mg/L; Concentration: 6300 ug/L for 48 hr /chemically pure, total lead ion/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Menidia beryllina (Inland silverside, juvenile); Conditions: saltwater, flow through, 24 °C, salinity 30.4 ppt; Concentration: 3140 ug/L for 96 hr /total lead ion/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ophyrotrocha labronica; 1 ppm; 26 days /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout, alevin); Conditions: freshwater, static, 12 °C, soft water; Concentration: 30800 ug/L for 24 hr (95% confidence interval: 12900-73400 ug/L) /total lead ion/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout, juvenile 7-10 wk old, weight 0.60 g); Conditions: freshwater, static, 12 °C, soft water; Concentration: &lt;1700 ug/L for 96 hr /total lead ion/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout, alevin); Conditions: freshwater, static, 12 °C, soft water; Concentration: 30000 ug/L for 96 hr (95% confidence interval: 21600-36000 ug/L) /total lead ion/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout, adult); Conditions: flow through, 10.3 °C, pH 7.7, alkalinity 86-94 mg/L CaCO3, hardness 133-137 mg/L CaCO3; Concentration: 2.3 mg/L for 21 days /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout, adult); Conditions: static, 14 °C, pH 8.15, alkalinity 267 mg/L CaCO3, hardness 385 mg/L CaCO3; Concentration: 1.32 mg/L (measured) for 96 hr /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout, adult); Conditions: static, 10 °C, pH 6.85, alkalinity 30 mg/L CaCO3, hardness 32 mg/L CaCO3; Concentration: 1.17 mg/L for 96 hr /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout, adult); Conditions: static, 7 °C, pH 6.85, alkalinity 29 mg/L CaCO3, hardness 30 mg/L CaCO3; Concentration: 0.20 mg/L for 14 days /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout, juvenile); Conditions: flow through, pH 6.4-8.3, alkalinity 82-132 mg/L CaCO3; Concentration: 8.0 mg/L for 96 hr /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oryzias latipes (Medaka); Conditions: freshwater, static, 10-30 °C; Concentration: 350000 ug/L for 24 hr /total lead ion/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oryzias latipes (Medaka); Conditions: freshwater, static, 10 °C; Concentration: 340000 ug/L for 48 hr /total lead ion/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oryzias latipes (Medaka); Conditions: freshwater, static, 20 °C; Concentration: 300000 ug/L for 48 hr /total lead ion/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oryzias latipes (Medaka); Conditions: freshwater, static, 30 °C; Concentration: 205000 ug/L for 48 hr /total lead ion/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Pimephales promelas (Fathead minnow, age 30 days, weight 0.15 g); Conditions: freshwater, flow through, 25 °C, pH 7.4, hardness 43.9 mg/L CaCO3, alkalinity 42.4 mg/L CaCO3, dissolved oxygen &gt; or =70%; Concentration: 331 ug/L for 32 days; Effect: reduced growth, reduced number of young per female /total lead ion/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow, age 30 days, weight 0.15 g); Conditions: freshwater, flow through, 25 °C, pH 7.4, hardness 43.9 mg/L CaCO3, alkalinity 42.4 mg/L CaCO3, dissolved oxygen &gt; or =70%; Concentration: 2100 ug/L for 96 hr (95% confidence interval: 1100-4000 ug/L) /total lead ion/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Salvelinus fontinalis (Brook trout) adult; Conditions: flow, temp 12 °C, pH 4.1, alkalinity 42.6 mg/L CaCO3, hardness 44.3 mg/L CaCO3; Concentration: 4.1 mg/L for 96 hr /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Sarotherodon mossambicus (freshwater fish); Conditions: static, temp 38 - 32 °C, alkalinity 7.7 - 11.7 mg/L CaCO3, hardness 32 - 38 mg/L CaCO3; Concentration: &gt; 40 mg/L for 24 hr /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

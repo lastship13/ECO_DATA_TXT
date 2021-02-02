@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf8'?>
+<Excel_XML>
+  <RECORDS>
+    <index>46</index>
+    <name>Linalool</name>
+    <CAS>78-70-6</CAS>
+    <IUPAC>3,7-dimethylocta-1,6-dien-3-ol</IUPAC>
+    <SMILES>CC(=CCCC(C)(C=C)O)C</SMILES>
+    <Toxicty>Daphnia_LC50 : Formulation 28 AI mg/L  Daphnia_Duration : 2 Day(s)  Daphnia_Further_info : Ecotox, 12 Datas in Ecotox ( 1, 2, 4 Day(s) )</Toxicty>
+    <Toxicty>Daphnia_EC50 : Active ingredient 36.7 (31.9-43) AI mg/L  Daphnia_Duration : 2 Day(s)  Daphnia_Further_info : Ecotox, 59 (95% confidence limit: 53-65) mg/L for 48 hr (PubChem)</Toxicty>
+  </RECORDS>
+</Excel_XML>

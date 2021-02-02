@@ -1,0 +1,351 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>887</ns0:RecordNumber>
+  <ns0:RecordTitle>Methanol</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Chlorella fusca ssp. vacuolata (Green Algae) strain 21115; Conditions: freshwater, static, 28 °C, pH 6.9; Concentration: 0.77 umol/L for 24 hr; Effect: decreased population growth rate /100% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Chlorella pyrenoidosa (Green Algae) 65000-78000 cells/mL; Conditions: static, 25 °C; Concentration: 3.6 umol/L for 24 hr (95% confidence interval: 3.46-3.74 ug/L; Effect: general growth</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Pseudokirchneriella subcapitata (Green Algae) 15000 cells/mL; Conditions: freshwater, static, 24 °C; Concentration: 3010 ug/L for 48 hr (95% confidence interval: 1910-5570 ug/L); Effect: physiology photosynthesis /99% purity formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Pseudokirchneriella subcapitata (Green Algae) 15000 cells/mL; Conditions: freshwater, static, 24 °C; Concentration: &gt;60400 ug/L for 48 hr; Effect: population growth rate /99% purity formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (fathead minnows) 28-29 days old; Conditions: flow through ; Test conditions: Water temp= 25 °C, dissolved oxygen= 7.3 mg/L, water hardness= 43.5 mg/L calcium carbonate, alkalinity= 46.6 calcium carbonate, tank volume= 6.3 L, additions= 5.71 V/D, pH= 7.66 (0.03). Concentration 29.4 g/L for 96 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow) 28-32 day old, weight 0.126 g; Conditions: flow through, 23.3+/-1.7 °C, hardness 46.4 mg/L CaCO3, pH 7.0-8.0; Concentration: 29,700 mg/L for 24 hr /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow) 30 day old, weight 0.12 g; Conditions: flow through, 24-26 °C, hardness 45.5 mg/L CaCO3, pH 7.5; Concentration: 28,100 mg/L for 96 hr /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Artemia salina (Brine Shrimp) age 2-3 instar nauplii; Conditions: saltwater, static, 25 °C, pH 7.8, dissolved oxygen 8.5 mg/L; Concentration: 31039000 ug/L for 24 hr (95% confidence interval: 27555000-34522000 ug/L); Effect: intoxication, immobilization</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Artemia salina (Brine shrimp) age 24 hr; Conditions: seawater, static, 25 °C; Concentration: 1578.84 mg/L for 24 hr /from table/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Artemia salina (Brine shrimp) age 48 hr; Conditions: seawater, static, 25 °C; Concentration: 1101.46 mg/L for 24 hr /from table/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Artemia salina (Brine shrimp) age 72 hr; Conditions: seawater, static, 25 °C; Concentration: 900.73 mg/L for 24 hr /from table/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout) weight 0.8 g; Conditions: static, 12 °C, hardness 44 mg/L CaCO3, pH 7.4; Concentration: 19,000 mg/L for 96 hr /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout) juvenile, weight 0.813 g; Conditions: flow through, 12.7+/-1 °C, hardness 46.4 mg/L CaCO3, pH 7.0-8.0; Concentration: 20,300 mg/L for 24 hr /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout) juvenile, weight 0.813 g; Conditions: flow-through, 12.7+/-1 °C, hardness 46.4 mg/L CaCO3, pH 7.0-8.0; Concentration: 20,100 mg/L for 96 hr /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill); Conditions: flow through; Concentration: 15,400 mg/L for 96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill); Conditions: flow through; Concentration: 19,230 mg/L for 24 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill sunfish) juvenile, weight 3.07 g; Conditions: flow-through, 19.8+/-2.3 °C, hardness 46.4 mg/L CaCO3, pH 7.0-8.0; Concentration: 19,100 mg/L for 24 hr /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill sunfish) juvenile, weight 3.07 g; Conditions: flow-through, 19.8+/-2.3 °C, hardness 46.4 mg/L CaCO3, pH 7.0-8.0; Concentration: 15,400 mg/L for 96 hr /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Nitocra spinipes (Harpacticoid copepod) adult; Conditions: static, 21+/-1 °C, pH 7.9; Concentration: 12,000 mg/L for 96 hr /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Poecilia reticulata (Guppy); Conditions: semistatic; Concentration: 11.5 mg/L for 14 days</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Poecilia reticulata (Guppy) age 2-3 months; Conditions: semistatic (test solutions renewed every 24 hours), 21-23 °C, hardness 25 mg/L CaCO3; Concentration: 10,860 mg/L for 7 days /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Alburnus alburnus (Bleak) length 8 cm; Conditions: static, 10 °C, pH 7.9; Concentration: 28,000 mg/L for 96 hr /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Leuciscus idus melanotus (Golden orfe); Condtions: static; Concentration: &gt;10,000 mg/L for 48 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea); Conditions: static, 20 °C, total hardness 2.5 mmol/L CaCO3, pH 7.8-8.2; Concentration: &gt;10,000 mg/L for 24 hr; Effect: immobilization /from table/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Gammarus fasciatus (Scud); Concentration: &gt;100 mg/L for 96 hr /Conditions of bioassay not specified in source examined/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Helisoma trivolvis (aquatic mollusk); Concentration: &gt;100 mg/L for 96 hr /Conditions of bioassay not specified in source examined/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Dugesia tigrina (aquatic worm); Concentration: &gt;100 mg/L for 96 hr /Conditions of bioassay not specified in source examined/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ceriodaphnia dubia (Water flea); Concentration: 11 mg/L for 48 hr /Conditions of bioassay not specified in source examined/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lumbriculus variegatus (aquatic worm); Concentration: &gt;100 mg/L for 96 hr /Conditions of bioassay not specified in source examined/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Photobacterium posphoreum (marine bacterium); Concentration: 14,700 mg/L for 15 min; Effect: inhibition of luminescence /Conditions of bioassay not specified in source examined/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Photobacterium posphoreum (marine bacterium); Concentration: 7690 mg/L for 4 hr /Conditions of bioassay not specified in source examined/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Paramecium caudatum (Ciliate protozoan); Concentration: 44,860 mg/L for 10 min /Conditions of bioassay not specified in source examined/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia pulex (Water flea) age &lt;24 hr; Conditions: static, 22 °C, hardness 23+/-2 mg/L CaCO3; Concentration: 19,500 mg/L for 18 hr /from table/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia obtusa (Water flea) age &lt;24 hr; Conditions: static, 20+/-2 °C, hardness 250 mg/L CaCO3, pH 7.8+/-0.2; Concentration: 23,500 mg/L for 24 hr; Effect: immobilization /from table/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia obtusa (Water flea) age &lt;24 hr; Conditions: static, 20+/-2 °C, hardness 250 mg/L CaCO3, pH 7.8+/-0.2; Concentration: 22,200 mg/L for 48 hr; Effect: immobilization /from table/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Crangon crangon (Brown shrimp) adult; Conditions: seawater, static, 15 °C; Concentration: 1975 mg/L for 48 hr /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Crangon crangon (Brown shrimp) adult; Conditions: semistatic (test solutions renewed every 24 hr), 15 °C, seawater; Concentration: 1340 mg/L for 96 hr /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Crangon crangon (Brown shrimp) adult; Conditions: seawater, static 24.5 °C; Concentration: 10,000 mg/L for 24 hr /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Mytilus edulis (Mussel) length 5-7 cm; Conditions: flow-through, 15+/-0.5 °C, seawater; Concentration: 15,900 mg/L for 96 hr /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Palaemonetes kadiakensis (Glass shrimp) juvenile; Conditions: static, 23+/-2 °C; Concentration: 21,900 mg/L for 18 hr /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cardium edule (Cockle) adult; Conditions: seawater, static, 15 °C; Concentration: 7900 mg/L for 48 hr /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Hyallela azteca (Scud) juvenile; Conditions: static, 23+/-2 °C; Concentration: 19,350 mg/L for 18 hr /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Agonus cataphractus (Armed bullhead) adult; Conditions: semistatic (test solutions renewed every 24 hours), 15 °C, seawater; Concentration: 7900-26,070 mg/L for 96 hr /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Tetrahymena pyriformis (Protozoa); Concentration: 18756.34 mg/L for 48 hr; Effect: population growth inhibition test /Conditions of bioassay not specified in source examined/ /95% pure/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Anodonta imbecilis (Mussel); Condtiions: static; Concentration: 37.02 mg/L for 48 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oryzias latipes (Medaka); Conditions: static; Concentration: &gt;10,000 mg/L for 24 hr /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Oryzias latipes (Medaka) age 0.5 hr post-fertilization eggs, orange/red strain; Conditions: freshwater, static, 25 °C; Concentration: 1.16% v/v for 200 hr; Effect: development, decreased normal /&gt;99% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Oryzias latipes (Medaka) age 0.5 hr post-fertilization eggs, orange/red strain; Conditions: freshwater, static, 25 °C; Concentration: 1.84% v/v for 200 hr (95% confidence interval: 1.62-2.10% v/v); Effect: decreased hatching /&gt;99% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

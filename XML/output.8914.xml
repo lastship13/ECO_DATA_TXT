@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>8914</ns0:RecordNumber>
+  <ns0:RecordTitle>1-Nonanol</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Pimephales promelas (Fathead minnow, weight 0.12 g) 5.7 mg/L 96 hr flow-through bioassay, water hardness 45.5 mg/L CaCO3, temp: 25 +/- 1 °C, pH 7.5, dissolved oxygen &gt;60% of saturation</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Pimephales promelas (Fathead minnow, age 30-31 days, mean weight 0.124 g, mean length 20.0 mm) 5.7 mg/L/96 hr (95% confidence limit: 5.4-6.0 mg/L); flow through bioassay, temp 24.8 °C, pH 7.63, dissolved oxygen 7.2 mg/L, hardness 44.3 mg/L CaCO3, alkalinity 43.0 mg/L CaCO3 /purity 97%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Alburnus alburnus (Bleak) 18 mg/L/96 hr (95% confidence limit: 16-20 mg/L); static /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Nitocra spinipes (Harpacticoid copepod) 25 mg/L/96 hr (95% confidence limit: 21-30 mg/L); static /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50 Ceriodaphnia dubia (Water flea; intoxication, immobilization) 2.5 umol/L/48 hr (95% confidence limit: 1.5-4.3 umol/L/48 hr); static /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50 Tetrahymena pyriformis (Ciliate; growth inhibition) 24.35 mg/L/48 hr (95% confidence limit: 19.94-28.91 mg/L); static /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

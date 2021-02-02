@@ -1,0 +1,316 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>5284469</ns0:RecordNumber>
+  <ns0:RecordTitle>1,4,5,6,7,7-Hexachloro-2,2-bis(chloromethyl)-3-methylidenebicyclo[2.2.1]heptane</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 ANAS PLATYRHYNCHOS (MALLARDS) ORAL 70.7 MG/KG, 3-5 MO OLD FEMALES (95% CONFIDENCE LIMIT 37.6-133 MG/KG) /PURITY 100%= 67-69% TOTAL CHLORINE CONTENT/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 PHASIANUS COLCHICUS (PHEASANTS) ORAL 40.0 MG/KG, 3 MO OLD FEMALES (95% CONFIDENCE LIMIT 20.0-80.0 MG/KG) /PURITY 90%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 COLINUS VIRGINIANUS (BOBWHITE QUAIL) ORAL 85.5 MG/KG, 3 MO OLD MALES (95% CONFIDENCE LIMIT 59.2-123 MG/KG) /PURITY 90%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 TYMPANUCHUS PHASIANELLUS (SHARP-TAILED GROUSE) ORAL 19.9 MG/KG, 12-48 MO OLD MALES (95% CONFIDENCE LIMIT 14.1-28.2 MG/KG) /PURITY 90% &amp; 100%= 67-69% TOTAL CHLORINE CONTENT/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 DENDROCYGNA BICOLOR (FULVOUS WHISTLING DUCKS) ORAL 99.0 MG/KG, 3-6 MO OLD MALES (95% CONFIDENCE LIMIT 37.2-264 MG/KG) /PURITY 90%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 GRUS CANADENSIS (SANDHILL CRANES) ORAL 100-316 MG/KG, FEMALES /PURITY 100%= 67-69% TOTAL CHLORINE CONTENT/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 CAPRA HIRCUS (DOMESTIC GOATS) ORAL MORE THAN 160 MG/KG, MORE THAN 60 MO OLD MALES /PURITY 90%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 Eremophila alpestris (horned larks) oral 581 mg/kg, adults (95% confidence limit 139-240 mg/kg) /Purity 90%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 ODOCOILEUS HEMIONUS (MULE DEER) ORAL 139-240 MG/KG, 18 MO OLD MALES /PURITY 90%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50 SIMOCEPHALUS (DAPHNID) 19 UG/L/48 HR AT 15 °C, 1ST INSTAR (95% CONFIDENCE LIMIT 12.2-29.5 UG/L) /TECHNICAL MATERIAL, 100%/ /STATIC BIOASSAY/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50 DAPHNIA MAGNA 10 UG/L/48 HR @ 21 °C, 1ST INSTAR (95% CONFIDENCE LIMIT 6.8-14.2 UG/L), STATIC TEST /TECHNICAL MATERIAL, 100%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50 DAPHNIA PULEX 14.2 UG/L/48 HR @ 15 °C, 1ST INSTAR (95% CONFIDENCE LIMIT 10.5-19.1 UG/L), STATIC TEST /TECHNICAL MATERIAL, 100%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 GAMMARUS FASCIATUS (SCUD) 26 UG/L/96 HR @ 21 °C, MATURE (95% CONFIDENCE LIMIT 18.9-35.7 UG/L), STATIC TEST /TECHNICAL MATERIAL, 100%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 PTERONARCYS (STONE FLY) 2.3 UG/L/96 HR @ 15 °C, SECOND YR (95% CONFIDENCE LIMIT 1.3-4.0 UG/L), STATIC TEST /TECHNICAL MATERIAL, 100%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 TIPULA (CRANE FLY) 18.0 UG/L/96 HR @ 15 °C, JUVENILE (95% CONFIDENCE LIMIT 12.8-25.4 UG/L), STATIC TEST /TECHNICAL MATERIAL, 100%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 CHIRONOMUS (MIDGE) 30 UG/L/96 HR @ 15 °C, JUVENILE (95% CONFIDENCE LIMIT 16.0-56.4 UG/L), STATIC TEST /TECHNICAL MATERIAL, 100%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 CLAASSENIA (STONE FLY) 1.3 UG/L/96 HR @ 15 °C, JUVENILE (95% CONFIDENCE LIMIT 1.0-1.6 UG/L), STATIC TEST /TECHNICAL MATERIAL, 100%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 ATHERIX (SNIPE FLY) 40 UG/L/96 HR @ 15 °C, JUVENILE (95% CONFIDENCE LIMIT 27-60 UG/L), STATIC TEST /TECHNICAL MATERIAL, 100%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 ONCORHYNCHUS KISUTCH (COHO SALMON) 8 UG/L/96 HR @ 12 °C, WT 1 G (95% CONFIDENCE LIMIT 6-10 UG/L), STATIC TEST /TECHNICAL MATERIAL, 100%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 SALMO GAIRDNERI (RAINBOW TROUT) 10.6 UG/L/96 HR @ 12 °C, WT 1.4 G (95% CONFIDENCE LIMIT 7.9-12.7 UG/L), STATIC TEST /TECHNICAL MATERIAL, 100%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 SALMO TRUTTA (BROWN TROUT) 3.1 UG/L/96 HR @ 12 °C, WT 1.7 G (95% CONFIDENCE LIMIT 2.1-4.7 UG/L), STATIC TEST /TECHNICAL MATERIAL, 100%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 CARASSIUS AURATUS (GOLDFISH) 14 UG/L/96 HR @ 18 °C, WT 1 G (95% CONFIDENCE LIMIT 11-19 UG/L), STATIC TEST /TECHNICAL MATERIAL, 100%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 CYPRINUS CARPIO (CARP) 3.7 UG/L/96 HR @ 18 °C, WT 0.6 G (95% CONFIDENCE LIMIT 2.8-4.7 UG/L), STATIC TEST /TECHNICAL MATERIAL, 100%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 PIMEPHALES PROMELAS (FATHEAD MINNOW) 18 UG/L/96 HR @ 20 °C, WT 1.1 G (95% CONFIDENCE LIMIT 12-27 UG/L), STATIC TEST /TECHNICAL MATERIAL, 100%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 ICTALURUSMELAS (BLACK BULLHEAD) 5.8 UG/L/96 HR @ 24 °C, WT 0.9 G (95% CONFIDENCE LIMIT 5.1-6.6 UG/L), STATIC TEST /TECHNICAL MATERIAL, 100%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 ICTALURUS PUNCTATUS (CHANNEL CATFISH) 13.1 UG/L/96 HR @ 18 °C, WT 1.5 G (95% CONFIDENCE LIMIT 9.8-17.5 UG/L), STATIC TEST /TECHNICAL MATERIAL, 100%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 LEPOMIS CYANELLUS (GREEN SUNFISH) 13 UG/L/96 HR @ 18 °C, WT 1.1 G (95% CONFIDENCE LIMIT 8-17 UG/L), STATIC TEST /TECHNICAL MATERIAL, 100%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 MICROPTERUS SALMOIDES (LARGEMOUTH BASS) 2.0 UG/L/96 HR @ 18 °C, WT 0.9 G (95% CONFIDENCE LIMIT 1.3-3.2 UG/L), STATIC TEST /TECHNICAL MATERIAL, 100%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 PERCA FLAVESCENS (YELLOW PERCH) 12 UG/L/96 HR @ 18 °C, WT 1.4 G (95% CONFIDENCE LIMIT 9-14 UG/L), STATIC TEST /TECHNICAL MATERIAL, 100%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Gammarus fasicatus 6 ug/l/96 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Simocephalus serrulatus 10 ug/l/48 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Pteronarcella badia 3.0 ug/l/96 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Pteronarcys 2.3 ug/l/48 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Lagodon rhomboides (pinfish) 0.00053 mg/l/96 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Channel catfish 15 ug/l/9 days /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>TLm Mercenaria mercenaria 1120 ppm/48 hr static lab bioassay</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Gammarus lacustris 26 ug/l/96 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Rainbow trout fry 0.2 mg/l /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Young pike 0.1 mg/l /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Rana sphenocephala (leopard frog) 32.0-54.0 mg/kg/96 hr. /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Daphnia magna (daphnid) 10.0 mg/kg/48 hr. /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Crassostrea virginica (eastern oyster) 16.0 mg/kg/96 hr. /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Callinectes sapidus (blue crab) 824.0 mg/kg/96 hr. /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

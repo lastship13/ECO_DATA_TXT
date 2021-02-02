@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>24965</ns0:RecordNumber>
+  <ns0:RecordTitle>Cobalt sulfate</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Tetrahymena pyriformis (Ciliate) exponential growth phase (log), stratin GL 1000 cells/mL; Conditions: freshwater, static, 25 °C, pH 7; Concentration: 4890 ug/L for 1 hr; Effect: biochemistry, decreased fluorescence /&gt; or =98% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water Flea) age 12 hr neonate, fed; Conditions: freshwater, static, 20.4 °C, pH 8.35, hard water, alkalinity 234 mg/L CaCO3, dissolved oxygen 7.93 mg/L; Concentration: 7370 ug/L for 48 hr /Technical/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water Flea) age 12 hr neonate, not fed; Conditions: freshwater, static, 20.4 °C, pH 8.35, hard water, alkalinity 234 mg/L CaCO3, dissolved oxygen 7.93 mg/L; Concentration: 6830 ug/L for 48 hr (95% confidence interval: 5100-8990 ug/L) /Technical/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water Flea) organisms at different life stages, neonate-adult; Conditions: freshwater, renewal, 20.3 °C, pH 8.31, hard water, alkalinity 198 mg/L CaCO3, dissolved oxygen 7.44 mg/L; Concentration: 27 ug/L for 28 days /Technical/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water Flea) age 12 hr neonate, fed; Conditions: freshwater, static, 20.3 °C, pH 8.35, hard water, alkalinity 234 mg/L CaCO3, dissolved oxygen 7.93 mg/L; Concentration: 1860 ug/L for 96 hr (95% confidence interval: 1350-2540 ug/L) /Technical/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water Flea) age 12 hr neonate, fed; Conditions: freshwater, static, 20.4 °C, pH 8.35, hard water, alkalinity 234 mg/L CaCO3, dissolved oxygen 7.93 mg/L; Concentration: 7370 ug/L for 48 hr /Technical/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water Flea) age 12 hr neonate, not fed; Conditions: freshwater, static, 20.4 °C, pH 8.35, hard water, alkalinity 234 mg/L CaCO3, dissolved oxygen 7.93 mg/L; Concentration: 5150 ug/L for 48 hr /Technical/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead Minnow) age 8 wk juvenile, length 12-16 mm; Conditions: freshwater, flow through, 25.4 °C, pH 8.16, hard water, alkalinity 235 mg/L CaCO3, dissolved oxygen 7.02 mg/L; Concentration: 3460 ug/L for 96 hr (95% confidence interval: 2670-4570 ug/L) /Technical/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead Minnow) age 8 wk juvenile, length 12-16 mm; Conditions: freshwater, flow through, 25.4 °C, pH 8.16, hard water, alkalinity 235 mg/L CaCO3, dissolved oxygen 7.02 mg/L; Concentration: 2720 ug/L for 8 days /Technical/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

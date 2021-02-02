@@ -1,0 +1,253 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>6557</ns0:RecordNumber>
+  <ns0:RecordTitle>Isoprene</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Carassius auratus (Goldfish) length 3.8-6.4 cm, weight 1-2 g; Conditions: freshwater, static, 25 °C, pH 7.5, hardness 20 mg/L CaCO3, alkalinity 18 mg/L CaCO3, dissolved oxygen 7.8 mg/L; Concentration: 180000 ug/L for 24 hr (95% confidence interval: 150410-215410 ug/L) /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Carassius auratus (Goldfish) length 3.8-6.4 cm, weight 1-2 g; Conditions: freshwater, static, 25 °C, pH 7.5, hardness 20 mg/L CaCO3, alkalinity 18 mg/L CaCO3, dissolved oxygen 7.8 mg/L; Concentration: 180000 ug/L for 48 hr (95% confidence interval: 150410-215410 ug/L) /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Carassius auratus (Goldfish) length 3.8-6.4 cm, weight 1-2 g; Conditions: freshwater, static, 25 °C, pH 7.5, hardness 20 mg/L CaCO3, alkalinity 18 mg/L CaCO3, dissolved oxygen 7.8 mg/L; Concentration: 180000 ug/L for 96 hr (95% confidence interval: 150410-215410 ug/L) /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill) length 3.8-6.4 cm, weight 1-2 g; Conditions: freshwater, static, 25 °C, pH 7.5, hardness 20 mg/L CaCO3, alkalinity 18 mg/L CaCO3, dissolved oxygen 7.8 mg/L; Concentration: 42540 ug/L for 24 hr (95% confidence interval: 32500-50150 ug/L) /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill) length 3.8-6.4 cm, weight 1-2 g; Conditions: freshwater, static, 25 °C, pH 7.5, hardness 20 mg/L CaCO3, alkalinity 18 mg/L CaCO3, dissolved oxygen 7.8 mg/L; Concentration: 42540 ug/L for 48 hr (95% confidence interval: 32500-50150 ug/L) /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill) length 3.8-6.4 cm, weight 1-2 g; Conditions: freshwater, static, 25 °C, pH 7.5, hardness 20 mg/L CaCO3, alkalinity 18 mg/L CaCO3, dissolved oxygen 7.8 mg/L; Concentration: 42540 ug/L for 96 hr (95% confidence interval: 32500-50150 ug/L) /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow) length 3.8-6.4 cm, weight 1-2 g; Conditions: freshwater, static, 25 °C, pH 8.2, hardness 360 mg/L CaCO3, alkalinity 300 mg/L CaCO3, dissolved oxygen 7.8 mg/L; Concentration: 74830 ug/L for 24 hr (95% confidence interval: 58750-95320 ug/L) /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow) length 3.8-6.4 cm, weight 1-2 g; Conditions: freshwater, static, 25 °C, pH 7.5, hardness 20 mg/L CaCO3, alkalinity 18 mg/L CaCO3, dissolved oxygen 7.8 mg/L; Concentration: 86510 ug/L for 24 hr (95% confidence interval: 74190-97960 ug/L) /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow) age 1 day; Conditions: freshwater, static, 25 °C, pH 8.1, hardness 184 mg/L CaCO3, alkalinity 148 mg/L CaCO3, dissolved oxygen- saturated; Concentration: 75000 ug/L for 24 hr /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow) age 1 day; Conditions: freshwater, static, 25 °C, pH 8.6, hardness 168 mg/L CaCO3, alkalinity 146 mg/L CaCO3, dissolved oxygen- saturated; Concentration: 77000 ug/L for 24 hr /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow) age 1 day; Conditions: freshwater, static, 25 °C, pH 8.3, hardness 156 mg/L CaCO3, alkalinity 126 mg/L CaCO3, dissolved oxygen- saturated; Concentration: 83000 ug/L for 24 hr /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow) age 1 day; Conditions: freshwater, static, 25 °C, pH 8.1, hardness 158 mg/L CaCO3, alkalinity 130 mg/L CaCO3, dissolved oxygen- saturated; Concentration: 85000 ug/L for 24 hr /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow) age 2 days; Conditions: freshwater, static, 25 °C, pH 8.6, hardness 168 mg/L CaCO3, alkalinity 146 mg/L CaCO3, dissolved oxygen- saturated; Concentration: 75000 ug/L for 24 hr /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow) age 2 days; Conditions: freshwater, static, 25 °C, pH 8.1, hardness 158 mg/L CaCO3, alkalinity 130 mg/L CaCO3, dissolved oxygen- saturated; Concentration: 85000 ug/L for 24 hr /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow) adult; Conditions: freshwater, static, 25 °C, pH 7.5, hardness 20 mg/L CaCO3, alkalinity 20 mg/L CaCO3, dissolved oxygen- saturated; Concentration: 75000 ug/L for 24 hr /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow) adult; Conditions: freshwater, static, 25 °C, pH 8.2, hardness 352 mg/L CaCO3, alkalinity 320 mg/L CaCO3, dissolved oxygen- saturated; Concentration: 75000 ug/L for 24 hr /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow) age 10 days; Conditions: freshwater, static, 25 °C, pH 8.3, hardness 156 mg/L CaCO3, alkalinity 126 mg/L CaCO3, dissolved oxygen- saturated; Concentration: 76000 ug/L for 24 hr /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow) age 10 days; Conditions: freshwater, static, 25 °C, pH 8.1, hardness 156 mg/L CaCO3, alkalinity 130 mg/L CaCO3, dissolved oxygen- saturated; Concentration: 82000 ug/L for 24 hr /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow) length 3.8-6.4 cm, weight 1-2 g; Conditions: freshwater, static, 25 °C, pH 8.2, hardness 360 mg/L CaCO3, alkalinity 300 mg/L CaCO3, dissolved oxygen 7.8 mg/L; Concentration: 74830 ug/L for 48 hr (95% confidence interval: 58750-95320 ug/L) /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow) length 3.8-6.4 cm, weight 1-2 g; Conditions: freshwater, static, 25 °C, pH 7.5, hardness 20 mg/L CaCO3, alkalinity 18 mg/L CaCO3, dissolved oxygen 7.8 mg/L; Concentration: 86510 ug/L for 48 hr (95% confidence interval: 74190-97960 ug/L) /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow) length 3.8-6.4 cm, weight 1-2 g; Conditions: freshwater, static, 25 °C, pH 8.2, hardness 360 mg/L CaCO3, alkalinity 300 mg/L CaCO3, dissolved oxygen 7.8 mg/L; Concentration: 74830 ug/L for 96 hr (95% confidence interval: 58750-95320 ug/L) /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow) length 3.8-6.4 cm, weight 1-2 g; Conditions: freshwater, static, 25 °C, pH 7.5, hardness 20 mg/L CaCO3, alkalinity 18 mg/L CaCO3, dissolved oxygen 7.8 mg/L; Concentration: 86510 ug/L for 96 hr (95% confidence interval: 74190-97960 ug/L) /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow) age 1 day; Conditions: freshwater, static, 25 °C, pH 8.1, hardness 184 mg/L CaCO3, alkalinity 148 mg/L CaCO3, dissolved oxygen- saturated; Concentration: 75000 ug/L for 96 hr /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow) age 1 day; Conditions: freshwater, static, 25 °C, pH 8.6, hardness 168 mg/L CaCO3, alkalinity 146 mg/L CaCO3, dissolved oxygen- saturated; Concentration: 77000 ug/L for 96 hr /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow) age 1 day; Conditions: freshwater, static, 25 °C, pH 8.3, hardness 156 mg/L CaCO3, alkalinity 126 mg/L CaCO3, dissolved oxygen- saturated; Concentration: 80000 ug/L for 96 hr /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow) age 1 day; Conditions: freshwater, static, 25 °C, pH 8.1, hardness 158 mg/L CaCO3, alkalinity 130 mg/L CaCO3, dissolved oxygen- saturated; Concentration: 85000 ug/L for 96 hr /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow) age 2 day; Conditions: freshwater, static, 25 °C, pH 8.6, hardness 168 mg/L CaCO3, alkalinity 146 mg/L CaCO3, dissolved oxygen- saturated; Concentration: 75000 ug/L for 96 hr /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow) age 2 day; Conditions: freshwater, static, 25 °C, pH 8.1, hardness 158 mg/L CaCO3, alkalinity 130 mg/L CaCO3, dissolved oxygen- saturated; Concentration: 80000 ug/L for 96 hr /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow) age 10 day; Conditions: freshwater, static, 25 °C, pH 8.3, hardness 156 mg/L CaCO3, alkalinity 126 mg/L CaCO3, dissolved oxygen- saturated; Concentration: 75000 ug/L for 96 hr /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow) age 10 day; Conditions: freshwater, static, 25 °C, pH 8.1, hardness 156 mg/L CaCO3, alkalinity 130 mg/L CaCO3, dissolved oxygen- saturated; Concentration: 78000 ug/L for 96 hr /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow) adult; Conditions: freshwater, static, 25 °C, pH 8.2, hardness 352 mg/L CaCO3, alkalinity 320 mg/L CaCO3, dissolved oxygen- saturated; Concentration: 75000 ug/L for 96 hr /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Poecilia reticulata (Guppy) age 6 months, length 1.9-2.5 cm, weight 0.1-0.2 g; Conditions: freshwater, static, 25 °C, pH 7.5, hardness 20 mg/L CaCO3, alkalinity 18 mg/L CaCO3, dissolved oxygen 7.8 mg/L; Concentration: 240000 ug/L for 24 hr (95% confidence interval: 188770-305140 ug/L) /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Poecilia reticulata (Guppy) age 6 months, length 1.9-2.5 cm, weight 0.1-0.2 g; Conditions: freshwater, static, 25 °C, pH 7.5, hardness 20 mg/L CaCO3, alkalinity 18 mg/L CaCO3, dissolved oxygen 7.8 mg/L; Concentration: 240000 ug/L for 48 hr (95% confidence interval: 188770-305140 ug/L) /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Poecilia reticulata (Guppy) age 6 months, length 1.9-2.5 cm, weight 0.1-0.2 g; Conditions: freshwater, static, 25 °C, pH 7.5, hardness 20 mg/L CaCO3, alkalinity 18 mg/L CaCO3, dissolved oxygen 7.8 mg/L; Concentration: 240000 ug/L for 96 hr (95% confidence interval: 188770-305140 ug/L) /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

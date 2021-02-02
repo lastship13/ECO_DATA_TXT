@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>8058</ns0:RecordNumber>
+  <ns0:RecordTitle>Hexane</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Goldfish; Concentration: 4 mg/L for 24 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Chlamydomonas angulosa (Green Algae) age 3-4 days, exponential growth phase 5x10+4 cells/mL; Conditions: static, 19 °C, pH 6.5; Concentration: 94 mmol/cu m for 3 hr; Effect: physiology, photosynthesis /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Chlorella vulgaris (Green Algae) age 3-4 days, exponential growth phase 20x10+4 cells/mL; Conditions: static, 19 °C, pH 6.5; Concentration: 149 mmol/cu m for 3 hr; Effect: physiology, photosynthesis /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Artemia salina (Brine Shrimp) nauplii; Conditions: saltwater, static, 20 °C; Concentration: 41 mmol/cu m for 24 hr /&gt; or =97% purity formulation/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water Flea) age 4-6 days, length 1.5 mm; Conditions: freshwater, static, 23 °C, pH 6-7, dissolved oxygen 5-9 mg/L; Concentration: 45 mmol/cu m for 48 hr (95% confidence interval: 30-66 mmol/cu m); Effect: intoxication, immobilization /&gt; or =97% purity formulation/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water Flea) age &lt; or =24 hr; Conditions: freshwater, static, 20-22 °C, pH 7.6-7.7; Concentration: 50000 ug/L for 24 hr /formulation/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oreochromis mossambicus (Mozambique Tilapia) length 99 mm, weight 10 g; Conditions: freshwater, static, 27.8 °C; Concentration: 113000 ug/L for 96 hr /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oryzias latipes (Japanese Medaka); Conditions: freshwater, static, 10, 20, 30 °C; Concentration: &gt;1000000 ug/L for 24 hr /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oryzias latipes (Japanese Medaka); Conditions: freshwater, static, 10, 20, 30 °C; Concentration: &gt;1000000 ug/L for 48 hr /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead Minnow) age 31 days, length 20.4 mm, weight 0.123 g; Conditions: freshwater, flow through, 25.6 °C, pH 7.4, hardness 44.7 mg/L CaCO3, alkalinity 43.9 mg/L CaCO3, dissolved oxygen 7.5 mg/L; Concentration: 2500 ug/L for 96 hr (95% confidence interval: 2100-2980 ug/L) /99+% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

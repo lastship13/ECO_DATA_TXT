@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>6511</ns0:RecordNumber>
+  <ns0:RecordTitle>Tetraethyllead</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill, weight 5 g, length 7 (5-11) cm); Conditions: freshwater, static, 20 °C, pH 6.9-7.5, hardness 84.0-163 mg/L CaCO3, alkalinity 33.0-81.0 mg/L CaCO3, dissolved oxygen &gt;5 mg/L; Concentration: 2000 ug/L for 24 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill, weight 5 g, length 7 (5-11) cm); Conditions: freshwater, static, 20 °C, pH 6.9-7.5, hardness 84.0-163 mg/L CaCO3, alkalinity 33.0-81.0 mg/L CaCO3, dissolved oxygen &gt;5 mg/L; Concentration: 1400 ug/L for 48 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Lepomis macrochirus (bluegill) 0.2 mg/L/96 hr /Conditions of bioassay not specified in source examined/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 Anas platyrhynchos (mallard duck), male, 3 to 4 months, oral 107 mg/kg (95% confidence limit, 44.5 to 258 mg/kg) /Commercially pure/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 Coturnix japonica (japanese quail), male, 3 to 4 months (may have been in breeding condition), oral 24.6 mg/kg (95% confidence limit, 14.7 to 41.3 mg/kg) /Commercially pure/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Morome labrax (sea bass, larval stages) 0.06 mg/L/48 hr; Conditions: semistatic, dark, closed system.</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Menidia beryllina (inland silverside) 2.0 mg/L/24 hr /Conditions of bioassay not specified in source examined/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Menidia beryllina (inland silverside) 1.4 mg/L/48 hr /Conditions of bioassay not specified in source examined/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Artemia salina (Brine shrimp, age 24 hr); Conditions: saltwater, static, 20 °C; Concentration: 85 ug/L for 48 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Dicentrarchus labrax (Sea bass, length 6 mm); Conditions: saltwater, static, 20 °C; Concentration: 65 ug/L for 48 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Crangon crangon (Common shrimp, length 4.8 cm, weight 1.1 g); Conditions: saltwater, flow through, 15 °C salinity 34.9 ppt; Concentration: 20 ug/L for 96 hr /98% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pleuronectes platessa (Plaice, sand dab, length 5.2 cm, weight 2.8 g); Conditions: saltwater, flow through, 15 °C salinity 34.9 ppt; Concentration: 230 ug/L for 96 hr /98% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Mytilus edulis (Common bay mussel, length 6.4 cm, weight 28.5 g); Conditions: saltwater, flow through, 15 °C salinity 34.9 ppt; Concentration: 100 ug/L for 96 hr /98% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50 Dunaliella tertiolecta (green algae) 0.1 mg/L/48 hr; Conditions: lighted, closed system; Effect: reduction of photosynthesis activity</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50 Dunaliella tertiolecta (green algae) 300 ug/L/48 hr; Conditions: closed system, 20 °C; Effect: reduction of photosynthesis activity /Antiknock cmpd TEL-CB: 61.49% TEL, 17.86% 1,2-dibromethane, 18.81% 1,2-dichlorethane/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50 Phaeodactylum tricornutum (marine diatom) 0.06 mg/L/6 hr; Effect: photosynthesis activity /Conditions of bioassay not specified in source examined/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50 Phaeodactylum tricornutum (marine diatom) 0.1 mg/L/6 hr; Effect: photosynthesis activity /Conditions of bioassay not specified in source examined/ /Purity 98%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

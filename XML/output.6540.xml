@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>6540</ns0:RecordNumber>
+  <ns0:RecordTitle>Tris(2-butoxyethyl) phosphate</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (fathead minnow); Conditions: flow-through bioassay with measured concentrations, 26.2 °C, dissolved oxygen 7.6 mg/L, hardness 45.4 mg/L calcium carbonate, alkalinity 43.9 mg/l calcium carbonate, and pH 7.84; Concentration: 11.2 mg/L for 96 hr (confidence limit: 10.4-12.0 mg/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Pimephales promelas (fathead minnow); Conditions: flow-through bioassay with measured concentrations, 26.2 °C, dissolved oxygen 7.6 mg/L, hardness 45.4 mg/L calcium carbonate, alkalinity 43.9 mg/L calcium carbonate, and pH 7.84; Concentration: 10.7 mg/L for 96 hr (confidence limit: 10.3-11.1 mg/L); Effect: loss of equilibrium</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oryzias latipes (Japanese Medaka); Conditions: freshwater, static, 20 °C; Concentration: 27000 ug/L for 24 hr /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oryzias latipes (Japanese Medaka); Conditions: freshwater, static, 10 °C; Concentration: 44000 ug/L for 24 hr /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oryzias latipes (Japanese Medaka); Conditions: freshwater, static, 30 °C; Concentration: 6800 ug/L for 24 hr /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oryzias latipes (Japanese Medaka); Conditions: freshwater, static, 20 °C; Concentration: 27000 ug/L for 48 hr /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oryzias latipes (Japanese Medaka); Conditions: freshwater, static, 10 °C; Concentration: 44000 ug/L for 48 hr /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oryzias latipes (Japanese Medaka); Conditions: freshwater, static, 30 °C; Concentration: 6800 ug/L for 48 hr /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

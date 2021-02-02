@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf8'?>
+<Experiment_XML>
+  <RECORDS>
+    <index>11</index>
+    <name>Benzalkonium chloride</name>
+    <CAS>63449-41-2</CAS>
+    <IUPAC>benzyl-dodecyl-dimethylazanium;chloride</IUPAC>
+    <SMILES>CCCCCCCCCC[N+](C)(C)CC1=CC=CC=C1.[Cl-]</SMILES>
+    <Toxicity>HaCat_Concentration_type : formulation  HaCat_Duration : 24 hrs  HaCat_Exposure_type : static</Toxicity>
+    <Toxicity>Zebrafish_Organism_lifestage : embryo  Zebrafish_Concentration_type : formulation  Zebrafish_Duration : 6 days  Zebrafish_Exposure_type : static</Toxicity>
+  </RECORDS>
+</Experiment_XML>

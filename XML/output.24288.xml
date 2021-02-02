@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>24288</ns0:RecordNumber>
+  <ns0:RecordTitle>Cobalt chloride (CoCl2)</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Chlorella pyrenoidosa (Green Algae); Conditions: freshwater, static, 24 °C, pH 6.8; Concentration: 520 ug/L for 24 hr; Effect: population, decreased population growth rate /total Co ion/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Chlorella pyrenoidosa (Green Algae); Conditions: freshwater, flow through, 24 °C, pH 6.3-6.5; Concentration: 98 ug/L for 24 hr; Effect: population, decreased population growth rate /total Co ion/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Artemia salina (Brine Shrimp) 2-3 instar Nauplii; Conditions: saltwater, static, 25 °C, pH 7.8, dissolved oxygen 8.5 mg/L; Concentration: 2815000 ug/L for 24 hr (95% confidence interval: 2450000-3180000 ug/L); Effect: intoxication, immobilization /total Co ion/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia pulex (water flea) adult; Conditions: freshwater, static, 25 °C, pH 8.2, hardness 142 mg/L CaCO3, dissolved oxygen 8.5-8.9 mg/L; Concentration: 9720 ug/L for 48 hr (95% confidence interval: 7940-11890 ug/L) /&gt;99% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ceriodaphnia dubia (Water Flea) age &lt;24 hr neonate; Conditions: freshwater, static, 20 °C, pH 8.2, hardness 142 mg/L CaCO3, dissolved oxygen 8.5-8.9 mg/L; Concentration: 1670 ug/L for 48 hr /&gt;99% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Danio rerio (Zebra Danio) age &lt;24 hr juvenile wild type; Conditions: freshwater, renewal, pH 8.2, hardness 142 mg/L CaCO3, dissolved oxygen 8.5-8.9 mg/L; Concentration: &gt;10000 ug/L for 48 hr /&gt;99% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Lemna minor (Duckweed); Conditions: freshwater, static, 25 °C; Concentration: 557 ug/L for 7 days (95% confidence interval: 331-1032 ug/L); Effect: growth, decreased growth rate /total Co ion/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Lemna minor (Duckweed); Conditions: freshwater, static, 25 °C; Concentration: 163 ug/L for 7 days (95% confidence interval: 152-175 ug/L); Effect: biochemistry, decreased chlorophyll /total Co ion/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Lemna minor (Duckweed); Conditions: freshwater, static, 25 °C; Concentration: 205 ug/L for 7 days (95% confidence interval: 154-277 ug/L); Effect: biochemistry, decreased carotenoid content /total Co ion/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Lemna minor (Duckweed); Conditions: freshwater, static, 25 °C; Concentration: 542 ug/L for 7 days (95% confidence interval: 249-1201 ug/L); Effect: growth, decreased dry weight /total Co ion/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Lemna minor (Duckweed); Conditions: freshwater, static, 25 °C; Concentration: 212 ug/L for 7 days (95% confidence interval: 136-239 ug/L); Effect: growth, decreased weight /total Co ion/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

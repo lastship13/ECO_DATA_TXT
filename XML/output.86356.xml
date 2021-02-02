@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>86356</ns0:RecordNumber>
+  <ns0:RecordTitle>Fenazaquin</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Colinus virginianus (Northern Bobwhite Quail, age approximately 18 weeks, 208 g initial bw range 201-208 g) gavage, 1747 mg/kg bw for 19 days (95% confidence interval: 1508-2176 mg/kg)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Colinus virginianus (Bobwhite quail) diet &gt;5204 ppm for 5 days /98.4% a.i./</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Anas platyrhynchos (Mallard duck) oral &gt;2000 mg a.i./kg bw /98.4% a.i./</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Anas platyrhynchos (Mallard duck) diet &gt;5030 ppm for 5 days /98.4% a.i./</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Apis mellifera (Honey bee) contact 1.1 ug a.i./bee /98.4% a.i./</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout); Conditions: freshwater, flow through; Concentration: 3.9  ug/L for 96 hr (95% confidence interval: 3.0-5.4 ug/L) /98% ai technical/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill sunfish); Conditions: freshwater, flow through; Concentration: 34.1  ug/L for 96 hr (95% confidence interval: 28.8-40.4 ug/L) /98% ai technical/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout); Conditions: freshwater, semi-static; Concentration: 735  ug a.i./L for 96 hr (95% confidence interval: 571-942 ug a.i./L) /Fenazaquin propionic acid metabolite 4-(2-(4-(1,1-dimethyl ethanoic acid)phenyl)ethoxy)quinazoline), 89.7% ai/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout); Conditions: freshwater, semi-static; Concentration: 13300 ug a.i./L for 96 hr (95% confidence interval: 8800-20000 ug a.i./L) /2-(4-tert-butylphenyl)ethanol degradate, 88.9% ai/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout); Conditions: freshwater, flow through; Concentration: 0.041 mg a.i./L for 96 hr (95% confidence interval: 0.033-0.052 mg a.i./L) /EF1127 SC emulsifiable concentrate formulation, 203 g a.i./L/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout); Conditions: freshwater, flow through; Concentration: 0.13 mg product/L for 21 days (95% confidence interval: 0.028-0.29 mg product/L) /EF1127 SC emulsifiable concentrate formulation, 203 g a.i./L/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water flea); Conditions: freshwater, static; Concentration: 5.6 ug/L for 48 hr (95% confidence interval: 5.0-6.3 ug/L) /98% ai technical/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Crassostrea virginica (Eastern oyster); Conditions: saltwater, flow through; Concentration: 3.9 ug a.i./L for 96 hr (95% confidence interval: 0.91-17 ug a.i./L); Effect: shell deposition, reduction in shell growth /97.5% a.i. technical/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

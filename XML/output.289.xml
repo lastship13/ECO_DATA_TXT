@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>289</ns0:RecordNumber>
+  <ns0:RecordTitle>Catechol</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Pimephales promelas (Fathead minnow); Conditions: flow through bioassay with measured concentrations, 25.6 °C, dissolved oxygen 6.4 mg/L, hardness 46.0 mg/L calcium carbonate, alkalinity 40.2 mg/L calcium carbonate, and pH 7.7; Concentration: 9.00 mg/L for 96 hr (confidence limit: 8.47-9.65 mg/L); Effect: loss of equilibrium</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow); Conditions: flow through bioassay with measured concentrations, 25.6 °C, dissolved oxygen 6.4 mg/L, hardness 46.0 mg/L calcium carbonate, alkalinity 40.2 mg/L calcium carbonate, and pH 7.7; Concentration: 9.22 mg/L for 96 hr (confidence limit: 8.62-9.87 mg/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Crangon septemspinosa (Bay shrimp); Conditions: renewal; Concentration: &gt;44 mg/L for 96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Elodea canadensis (Broad waterweed); Conditions: renewal; Concentration: 0.00025 mol/L for &lt; or =9 days; Effect: decreased population growth</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Lemna minor (Duckweed); Conditions: renewal; Concentration: 0.00012 mol/L for &lt; or =12 days; Effect: decreased population growth</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout); Conditions: flow through; Concentration: 8.9 mg/L for 96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Chlorella vulgaris (Algae); Concentration: &gt;50 mg/L for 10 day; Effect: decreased biomass /Conditions of bioassay not specified in source examined/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Lemna minor (/Duckweed/); Concentration: 13.2 mg/L for 12 days; Effect: decreased biomass /Conditions of bioassay not specified in source examined; 24 °C/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

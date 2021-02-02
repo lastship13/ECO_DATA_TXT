@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf8'?>
+<Excel_XML>
+  <RECORDS>
+    <index>56</index>
+    <name>Glycerol</name>
+    <CAS>56-81-5</CAS>
+    <IUPAC>propane-1,2,3-triol</IUPAC>
+    <SMILES>C(C(CO)O)O</SMILES>
+    <Toxicity>Daphnia_LC50 : Formulation &gt; 10000 AI mg/L  Daphnia_Duration : 2 Day(s)  Daphnia_Further_info : Ecotox</Toxicity>
+    <Toxicity>Daphnia_EC50 : Formulation 15126.554475 AI mg/L  Daphnia_Duration : 7 Day(s)  Daphnia_Further_info : Ecoto,</Toxicity>
+  </RECORDS>
+</Excel_XML>

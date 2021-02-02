@@ -1,0 +1,260 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>3352</ns0:RecordNumber>
+  <ns0:RecordTitle>Fipronil</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species; Anas platyrhynchos (Mallard duck) oral &gt;2150 mg/kg</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Anas platyrhynchos (Mallard Duck) age 2 days; diet &gt;5000 ppm for 22 days /95% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Anas platyrhynchos (Mallard Duck) age 26 weeks; oral via capsule 420 mg/kg (95% confidence interval: 298-581 mg/kg)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Phasianus colchicus (Pheasant) oral 31 mg/kg</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Colinus virginianus (Northern Bobwhite Quail) age 14 days; diet 48 ppm for 22 days (95% confidence interval: 38.7-59.5 ppm) /95% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Colinus virginianus (Northern Bobwhite Quail) age 20 weeks; oral via capsule 5 mg/kg for 21 days (95% confidence interval: 2.44-12 mg/kg) /98.6% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Colinus virginianus (Northern Bobwhite Quail) age 35 weeks; oral via capsule 1065 mg/kg for 21 days (95% confidence interval: 700-1400 mg/kg)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Colinus virginianus (Northern Bobwhite Quail) age 44 weeks; oral via capsule 11.3 mg/kg for 21 days (95% confidence interval: 9.2-13.9 mg/kg) /96% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Columba livia (Rock Dove) age 1 yr; oral via capsule &gt;500 mg/kg for 14 days</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Passer domesticus (House Sparrow) oral via capsule 1000 mg/kg for 14 days (95% confidence interval: 742-1691 mg/kg) /96.7% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Apis mellifera (Honey Bee) newly or recent hatch; topical 1.06 ng/bee for 24 hr (95% confidence interval: 0.97-1.15 ng/bee) /95% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Apis mellifera (Honey Bee) newly or recent hatch; food 1.27 ng/uL for 24 hr (95% confidence interval: 1.13-1.41 ng/uL) /95% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Apis mellifera (Honey Bee) adult age approx 23 days, African-derived foragers; food 0.19 ug/bee</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Apis mellifera (Honey Bee) adult age approx 23 days, African-derived foragers; topical 0.009 ug/bee</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Melipona scutellaris (Stingless Bee) foragers, from 3 different colonies; food 0.011 ng/uL diet for 48 hr /95% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Eisenia andrei (Earthworm) adult; direct application &gt;10 mg/kg dry soil for 48 hr; Effect: chemical avoidance</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Eisenia andrei (Earthworm) adult; direct application &gt;1000 mg/kg dry soil for 48 hr; Effect: reproduction, decreased progeny counts</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Eisenia andrei (Earthworm) adult; direct application &gt;1000 mg/kg dry soil for 14 days</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Scenedesmus acutus var. acutus (Green Algae) Exponential growth phase 5000 cells/mL; Conditions: freshwater, static, 25 °C; Concentration: 540 ug/L for 72 hr (95% confidence interval: 270-1120 ug/L); Effect: population, decreased abundance /&gt;95.5% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Anabaena flosaquae (Blue-Green Algae); Conditions: freshwater, static; Concentration: &gt;170 ug/L for 5 days; Effect: population abundance /96.1% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Navicula pelliculosa (Diatom); Conditions: freshwater, static; Concentration: &gt;120 ug/L for 5 days; Effect: population abundance /96.1% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Pseudokirchneriella subcapitata (Green Algae); Conditions: freshwater, static; Concentration: 140 ug/L for 5 days; Effect: population abundance /96.1% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Pseudokirchneriella subcapitata (Green Algae); Conditions: freshwater, static; Concentration: 76 ug/L for 5 days (95% confidence interval: 61-96 ug/L); Effect: population abundance</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Skeletonema costatum (Diatom); Conditions: saltwater, static; Concentration: &gt;140 ug/L for 5 days; Effect: population abundance /96.1% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Japanese carp 0.34 mg/L for 96 hr /Conditions of bioassay not specified/.</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oryzias latipes (Japanese Medaka) age &lt;120 days posthatch, length 18.8 mm; Conditions: freshwater, static, 25 °C; Concentration: 94.2 ug/L for 96 hr (95% confidence interval: 82.9-107.1 ug/L) /98.9% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Palaemonetes pugio (Daggerblade Grass Shrimp) adult; Conditions: saltwater, renewal, 25 °C, salinity 20.0%; Concentration: 0.32 ug/L for 96 hr /100% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Palaemonetes pugio (Daggerblade Grass Shrimp) larvae; Conditions: saltwater, renewal, 25 °C, salinity 20.0%; Concentration: 0.68 ug/L for 96 hr /100% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Palaemonetes pugio (Daggerblade Grass Shrimp) embryo; Conditions: saltwater, renewal, 27 °C, salinity 20.0%; Concentration: 0.68 ug/L for 96 hr /100% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Palaemonetes pugio (Daggerblade Grass Shrimp); Conditions: saltwater, static, 28.5-31.1 °C, pH 7.7-8.1, salinity 20.4-22.8 ppt; Concentration: 0.357 ug/L for 28 days /100% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Procambarus clarkii (Red swamp crayfish); Conditions: under conditions without carrier solvents in water of similar pH, alkalinity, and hardness as observed in south Louisiana crayfish culture ponds; Concentration: 14.3 ug/L for 96 hr (95% confidence interval  5.1-23.4 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Procambarus zonangulus (White river crayfish); Conditions: under conditions without carrier solvents in water of similar pH, alkalinity, and hardness as observed in south Louisiana crayfish culture ponds; Concentration: 19.5 ug/L for 96 hr (95% confidence interval 11.1-27.9 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Crayfish; Conditions: under conditions without carrier solvents in water of similar pH, alkalinity, and hardness as observed in south Louisiana crayfish culture ponds; Concentration: 11.2 ug/L for 96 hr (95% confidence interval 9.2-13.2 ug/L) /Fipronil sulfone/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Crayfish; Conditions: under conditions without  carrier solvents in water of similar pH, alkalinity, and hardness as observed in south Louisiana crayfish culture ponds; Concentration: 15.5 ug/L for 96 hr (95% confidence interval 13-18 ug/L) /Fipronil sulfide/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Crayfish; Conditions: under conditions without  carrier solvents in water of similar pH, alkalinity, and hardness as observed in south Louisiana crayfish culture ponds; Concentration: 68.6 ug/L for 96 hr (95% confidence interval 46-95.2 ug/L) /Desulfinyl fipronil/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

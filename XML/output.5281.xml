@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>5281</ns0:RecordNumber>
+  <ns0:RecordTitle>Stearic acid</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill) length 40-50 mm; Conditions: freshwater, static, 22 °C; Concentration: 4500 ug/L for 24 hr /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill) length 20-30 mm; Conditions: freshwater, static, 22 °C; Concentration: 4330 ug/L for 48, 72 hr /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill) length 20-30 mm; Conditions: freshwater, static, 22 °C; Concentration: 4250 ug/L for 96 hr /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Gambusia affinis (Western Mosquitofish) length 20-30 mm; Conditions: freshwater, static, 22 °C; Concentration: 8900 ug/L for 24, 48, 72, 96 hr /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oryzias latipes (Red killifish); Concentration: 125 mg/L /Sodium salt; conditions of bioassay not specified/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow Trout) juvenile, length 24.4 mm, weight 146 mg; Conditions: freshwater, flow through, 15.2 °C, pH 7.1-7.4, hardness 290 mg/L CaCO3, dissolved oxygen &gt;75%; Concentration: 5200 ug/L for 12 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow Trout) juvenile, length 24.4 mm, weight 146 mg; Conditions: freshwater, flow through, 15.2 °C, pH 7.1-7.4, hardness 290 mg/L CaCO3, dissolved oxygen &gt;75%; Concentration: 3350 ug/L for 24 hr (95% confidence interval: 2900-3800 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow Trout) juvenile, length 24.4 mm, weight 146 mg; Conditions: freshwater, flow through, 15.2 °C, pH 7.1-7.4, hardness 290 mg/L CaCO3, dissolved oxygen &gt;75%; Concentration: 2800 ug/L for 48 hr (95% confidence interval: 2400-3200 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow Trout) juvenile, length 24.4 mm, weight 146 mg; Conditions: freshwater, flow through, 15.2 °C, pH 7.1-7.4, hardness 290 mg/L CaCO3, dissolved oxygen &gt;75%; Concentration: 2450 ug/L for 96 hr (95% confidence interval: 2300-2700 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

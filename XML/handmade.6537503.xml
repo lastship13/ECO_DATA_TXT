@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf8'?>
+<Excel_XML>
+  <RECORDS>
+    <index>94</index>
+    <name>Oxydipropanol</name>
+    <CAS>25265-71-8</CAS>
+    <IUPAC>1-(1-hydroxypropoxy)propan-1-ol</IUPAC>
+    <SMILES>CCC(O)OC(CC)O</SMILES>
+    <Toxicity>Daphnia_EC50 : &gt; 100 mg/l  Daphnia_Duration : 48 hr  Daphnia_Further_info : ECHA.europa</Toxicity>
+  </RECORDS>
+</Excel_XML>

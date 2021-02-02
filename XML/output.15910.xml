@@ -1,0 +1,407 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>15910</ns0:RecordNumber>
+  <ns0:RecordTitle>Chlorothalonil</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Anas platyrhynchos (Mallard duck) 8 days old; dietary 2000 ppm for 9 days (95% confidence limit: 1499-2678 ppm)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Anas platyrhynchos (Mallard duck) juveniles; dietary &gt;10000 ppm for 8 days /96% AI formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Anas platyrhynchos (Mallard duck) 14 days old; oral &gt;4640 mg/kg /96% AI formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Coturnix coturnix japonica (Japanese quail) oral &gt;2000 mg/kg /98.6% chlorothalonil/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Colinus virginianus (Bobwhite quail) 14 day old; dietary &gt;10000 ppm for 8 days /96% Ai formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: /Oncorhynchus mykiss/ (Rainbow trout); Concentration: 76 ug/L for 96 hr /Technical chlorothalonil; conditions of bioassay not specified/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout); Conditions: flow through; Concentration: 40.2 ug/L for 24 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout) weight 1.4 g; Conditions: static; Concentration: 152 ppb for 48 hr (95% confidence limit: 134-173 ppb) /75% AI formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout) juveniles; Conditions: static; Concentration: 250 ppb for 96 hr /technical product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout) weight 0.76 g; Conditions: static; Concentration: 103 ppb for 96 hr (95% confidence limit: 98-108 ppb) /75% AI formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout) juvenile; Conditions: static; Concentration: 47 ppb for 96 hr (95% confidence limit: 32-68 ppb) /96% AI formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout); Concentration: 60 ppb for 96 hr (33 ppb as extrapolated for technical chlorothalonil) /Bravo 720, 54% AI/ /from table/ /Conditions of bioassay not specified in source examined/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout) weight 6-11 g; Conditions: flow through, 14 °C, 80% oxygen, acetone solvent; Concentration: 19.0 ug/L for 48 hr /&gt;99% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout) weight 6-11 g; Conditions: flow through, 14 °C, 80% oxygen, acetone solvent; Concentration: 17.1 ug/L for 96 hr /&gt;99% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout) weight 6-11 g; Conditions: flow-through, 16 °C, 53% oxygen, acetone solvent; Concentration: 18.8 ug/L for 48 hr /&gt;99% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout) weight 6-11 g; Conditions: flow-through, 53% oxygen, 16 °C, acetone solvent; Concentration: 10.5 ug/L for 96 hr /&gt;99% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ictalurus punctatus (Channel catfish) weight 40-80 g; Conditions: semi-static, hardness 30 mg CaCO3/L, pH 7.0-7.2, 5.0-6.0 mg/L oxygen, 23 °C, acetone solvent; Concentration: 62 ug/L for 48 hr /99% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ictalurus punctatus (Channel catfish); Conditions: static bioassay; Concentration: 52 ug/L for 96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ictalurus punctatus (Channel catfish) juvenile; Conditions: static; Concentration: 43.0 ppb for 96 hr (95% confidence limit: 26-70 ppb) /96% AI formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ictalurus punctatus (Channel catfish); Conditions: static; Concentration: 430 ppb for 96 hr /technical product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Mytilus edulis (blue mussels); Concentration: 5.9 mg/L for 96 hr /Bravo 500; conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Mya arenaria (Soft-shell clam); Concentration: 35 mg/L for 96 hr /Conditions of bioassay not specified in source examined/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill sunfish) size 35+ mm; Conditions: static; Concentration: 167 ppb for 24 hr /75% AI formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill sunfish) weight 0.9 g; Conditions: static; Concentration: 84.0 ppb for 96 hr (95% confidence limit: 71-99 ppb) /99.7% AI formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill sunfish) weight 0.39 g; Conditions: static; Concentration: 51 ppb for 96 hr (95% confidence limit: 45-57 ppb) /98% AI formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill sunfish) weight 0.39 g; Conditions: flow through; Concentration: 26.3 ppb for 96 hr (95% confidence limit: 22.1-32.0 ppb) /54% AI formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill); Conditions: static, 22 °C, acetone solvent; Concentration: 62 ug/L for 96 hr /96% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cyprinus carpio (Carp); Conditions: static; Concentration: 110 ug/L for 48 hr /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Apis mellifera (Honey bee) adult; topical 181.29 ug/bee</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cancer magister (Dungeness crab); Conditions: static; Concentration: 140 ppb for 96 hr /75% AI formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Anguilla japonica (Japanese eel); Concentration: 110 ug/L for 24 hr /formulated product/ /Conditions of bioassay not specified in source examined/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Anguilla japonica (Japanese eel); Concentration: 38 ug/L for 48 hr /formulated product/ /Conditions of bioassay not specified in source examined/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Bufo bufo japonicus (Toad); Conditions: static; Concentration: 160 ug/L for 48 hr /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Carassius auratus (Goldfish); Conditions: static; Concentration: 170 ug/L for 48 hr /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cloeon dipterum (Mayfly); Conditions: static; Concentration: 1800 ug/L for 48 hr /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Chlorella pyrenoidosa (Green algae); Conditions: static; Concentration: 0.1003 mg/L for 96 hr; Effect: population growth inhibiiton /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Scenedesmus acutus (Green algae); Conditions: static; Concentration: 8.0693 mg/L for 96 hr; Effect: population growth inhibiiton /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Crassostrea virginica (American oyster); Conditions: static; Concentration: 26 ppb for 96 hr; Effect: intoxication, immobilization /technical product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Crassostrea virginica (American oyster); Conditions: flow through; Concentration: 3.6 ppb for 96 hr (95% confidence limit: 2.9-4.3 ppb); Effect: intoxication, immobilization /technical product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Cyprinodon variegatus (Sheepshead minnow) 3-7 day old; Conditions: static; Concentration: 32 ppb for 96 hr (95% confidence limit: 30-36 ppb) /technical product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea) age &lt;24 hr; Conditions: static; Concentration: 70 ppb for 48 hr (95% confidence limit: 34.2-143 ppb); Effect: intoxication, immobilization) /96% AI formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea) 1st instar; Conditions: flow through; Concentration: 180 ppb for 48 hr (95% confidence limit: 160-200 ppb); Effect:  intoxication, immobilization /54% AI formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Galaxias auratus (Golden galaxias) weight 7-11g; Conditions: flow through, 75% oxygen, 13 °C, acetone solvent; Concentration: 46.6 ug/L for 48 hr /99% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Galaxias auratus (Golden galaxias) weight 7-11 g; Conditions: flow through, 75% oxygen, 13 °C, acetone solvent; Concentration:  29.2 ug/L for 96 hr /99% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Galaxias maculatus (Common jollytail); Conditions: flow through; Concentration: 23.7 ug/L for 24 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Galaxias maculatus (Common jollytail) weight 7-10 g; Conditions: flow through, 75% oxygen, 16 °C, acetone solvent; Concentration: 18.2 ug/L for 48 hr /99% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Galaxias maculatus (Common jollytail) weight 7-10 g; Conditions: flow through, 75% oxygen, 16 °C, acetone solvent; Concentration: 16.3 ug/L for 96 hr /99% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Galaxias truttaceous (Spotted mountain galaxias) weight 8-20 g; Conditions: flow through, 75% oxygen, 16 °C, acetone solvent; Concentration: 25.8 ug/L for 48 hr /99% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Galaxias truttaceous (Spotted mountain galaxias) weight 8-20 g; Conditions: flow through, 75% oxygen, 16 °C, acetone solvent; Concentration: 18.9 ug/L for 96 hr /99% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Paratya australiensis (Shrimp); Conditions: flow through, 12-15 °C; Concentration: 16.0 ug/L for 4 days (95% confidence limit: 14.4-17.9 ug/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Paratya australiensis (Shrimp); Conditions: flow through, 12-15 °C; Concentration: 10.9 ug/L for 7 days (95% confidence limit: 9.0-13.1 ug/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Penaeus duorarum (Northern pink shrimp) juveniles; Conditions: static; Concentration: 165 ppb for 96 hr (95% confidence limit: 100-270 ppb) /technical product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pseudaphritis urvillii (Blennie); Conditions: flow through, 12-15 °C; Concentration: &gt;8.2 ug/L for 10 days</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Pseudokirchneriella subcapitata (Green algae); Conditions: static; Concentration: 190 ppb/120 hr (95% confidence limit: 180-210 ppb); Effect: decreased population abundance /97.9% AI formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Gasterosteus aculeatus (Three spine stickleback) weight 0.3 g; Conditions: static, pH 7.7-8.0, 9.2-9.5 mg/L oxygen, 9-10 °C; Concentration: &lt;73 ug/L for 96 hr /Bravo 500 formulation/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Leiosfomus xanthurus (Spot); Conditions: flow through, brackish water (salinity 22 ppt), 11 °C; Concentration: 32 ug/L for 48 hr /technical/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

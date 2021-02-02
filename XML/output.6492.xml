@@ -1,0 +1,344 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>6492</ns0:RecordNumber>
+  <ns0:RecordTitle>Dicyclopentadiene</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cyprinus carpio (carp); Concentration: 62.2 mg/L for 96 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Tetrahymena pyriformis (ciliate protozoan); Concentration: 5.3 mg/L for 24 hr; Effect: inhibition of cell multiplication /Conditions of bioassay not specified in source examined/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia pulex (Water flea); Conditions: freshwater; static; Concentration: 4200 ug/L for 48 hr; Effect: intoxication, immobile /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea); Concentration: 8.6 mg/L/24 hr; Conditions: not specified; Effect: immobilization.</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea); Concentration: 8.0 mg/L/48 hr; Conditions: not specified; Effect: immobilization.</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water flea); Conditions: freshwater, static; Concentration: 11600 ug/L (95% confidence limit: 9210-14200 ug/L) for 24 hr /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water flea); Conditions: freshwater, static; Concentration: 10500 ug/L (95% confidence limit: 8400-13200 ug/L) for 48 hr /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (water flea); Concentration: 4.0 mg/L/21 days; Conditions: semi-static, open-system; Effect: reproduction rate.</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ictalurus punctatus (Channel catfish); Conditions: freshwater, static; Concentration: 21700 ug/L (95% confidence limit: 18400-25500 ug/L) for 24 hr /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ictalurus punctatus (Channel catfish); Conditions: freshwater, static; Concentration: 20000 ug/L (95% confidence limit: 17200-23300 ug/L) for 48 hr /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ictalurus punctatus (Channel catfish); Conditions: freshwater, static; Concentration: 15700 ug/L (95% confidence limit: 13800 to 18000 ug/L) for 96 hr /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow) weight 1.4 g, length 36 mm; Conditions: freshwater, static, pH 6.9-7.3, hardness 35 mg/L CaCO3, dissolved oxygen 3.8-8.8 mg/L; Concentration: 31100 ug/L (95% confidence limit: 23000 to 42000 ug/L) for 96 hr /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow) age 30 day fry; Conditions: freshwater, static, pH 6.9-7.3, hardness 35 mg/L CaCO3, dissolved oxygen 3.3-8.9 mg/L; Concentration: 86300 ug/L (95% confidence limit: 74000 to 101000 ug/L) for 96 hr /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow) age 7 day fry; Conditions: freshwater, static, pH 6.9-7.3, hardness 35 mg/L CaCO3, dissolved oxygen 3.3-8.9 mg/L; Concentration: 12000 ug/L (95% confidence limit: 10000-14200 ug/L) for 96 hr /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow) age 7 day fry; Conditions: freshwater, static, pH 6.9-7.3, hardness 35 mg/L CaCO3, dissolved oxygen 3.3-8.9 mg/L; Concentration: 12700 ug/L (95% confidence limit: 10600-15300 ug/L) for 48 hr /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow) age 60 day fry; Conditions: freshwater, static, pH 6.9-7.3, hardness 35 mg/L CaCO3, dissolved oxygen 3.3-8.9 mg/L; Concentration: 103000 ug/L (95% confidence limit: 62500-171000 ug/L) for 96 hr /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow) eggs; Conditions: freshwater, static, pH 6.9-7.3, hardness 35 mg/L CaCO3, dissolved oxygen 3.3-8.9 mg/L; Concentration: 2390000 ug/L (95% confidence limit: 1920000-2960000 ug/L) for 6 days /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow) eggs; Conditions: freshwater, static, pH 6.9-7.3, hardness 35 mg/L CaCO3, dissolved oxygen 3.3-8.9 mg/L; Concentration: 2550000 ug/L (95% confidence limit: 2040000-3180000 ug/L) for 48 hr /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow) weight 1.4 g, length 36 mm; Conditions: freshwater, static, pH 6.9-7.3, hardness 35 mg/L CaCO3, dissolved oxygen 3.8-.8.8 mg/L; Concentration: 32000 ug/L (95% confidence limit: 23700-43200 ug/L) for 24 hr /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill) weight 1.1 g, length 31 mm; Conditions: freshwater, static, pH 6.9-7.3, hardness 35 mg/L CaCO3, dissolved oxygen 3.8-8.8 mg/L; Concentration: 25900 ug/L (95% confidence limit: 22400-29900 ug/L) for 24 hr /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill) weight 1.0 g, length 30 mm; Conditions: freshwater, static, pH 6.9-7.4, hardness 100 mg/L CaCO3, dissolved oxygen 3.4-8.9 mg/L; Concentration: 33000 ug/L (95% confidence limit: 28700-37900 ug/L) for 24 hr /95% formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill) weight 1.0 g, length 30 mm; Conditions: freshwater, static, pH 6.9-7.4, hardness 35 mg/L CaCO3, dissolved oxygen 3.4-8.9 mg/L; Concentration: 34800 ug/L (95% confidence limit: 28800-42000 ug/L) for 96 hr /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill) weight 1.0 g, length 30 mm; Conditions: freshwater, static, pH 6.9-7.4, hardness 35 mg/L CaCO3, dissolved oxygen 3.4-8.9 mg/L; Concentration: 35100 ug/L (95% confidence limit: 29100-42300 ug/L) for 48 hr /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill) weight 1.0 g, length 30 mm; Conditions: freshwater, static, pH 6.1-6.4, hardness 35 mg/L CaCO3, dissolved oxygen 3.4-8.9 mg/L; Concentration: 27800 ug/L (95% confidence limit: 23800-32400 ug/L) for 96 hr /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill) weight 1.0 g, length 30 mm; Conditions: freshwater, static, pH 6.1-6.4, hardness 35 mg/L CaCO3, dissolved oxygen 3.4-8.9 mg/L; Concentration: 30700 ug/L (95% confidence limit: 23100-40900 ug/L) for 48 hr /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill) weight 1.0 g, length 30 mm; Conditions: freshwater, static, pH 6.1-6.4, hardness 35 mg/L CaCO3, dissolved oxygen 3.4-8.9 mg/L; Concentration: 62800 ug/L (95% confidence limit: 51700-76300 ug/L) for 24 hr /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill) weight 1.0 g, length 30 mm; Conditions: freshwater, static, pH 6.9-7.4, hardness 250 mg/L CaCO3, dissolved oxygen 3.4-8.9 mg/L; Concentration: 14200 ug/L (95% confidence limit: 11500-17600 ug/L) for 96 hr /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill) weight 1.0 g, length 30 mm; Conditions: freshwater, static, pH 6.9-7.4, hardness 250 mg/L CaCO3, dissolved oxygen 3.4-8.9 mg/L; Concentration: 17800 ug/L (95% confidence limit: 13300-23800 ug/L) for 48 hr /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill) weight 1.1 g, length 31 mm; Conditions: freshwater, static, pH 6.7-7.4, hardness 35 mg/L CaCO3, dissolved oxygen 2.7-8.8  mg/L; Concentration: 34600 ug/L (95% confidence limit: 28200-42400 ug/L) for 48 hr /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill) weight 1.1 g, length 31 mm; Conditions: freshwater, static, pH 6.7-7.4, hardness 35 mg/L CaCO3, dissolved oxygen 2.7-8.8 mg/L; Concentration: 30800 ug/L (95% confidence limit: 22800-41700 ug/L) for 24 hr /95% formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill) weight 1.0 g, length 30 mm; Conditions: freshwater, static, pH 7.5-8.3, hardness 35 mg/L CaCO3, dissolved oxygen 3.4-8.9 mg/L; Concentration: 24200 ug/L (95% confidence limit: 19300-30400 ug/L) for 96 hr /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill) weight 1.0 g, length 30 mm; Conditions: freshwater, static, pH 7.5-8.3, hardness 35 mg/L CaCO3, dissolved oxygen 3.4-8.9 mg/L; Concentration: 31100 ug/L (95% confidence limit: 23000-42000 ug/L) for 48 hr /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill) weight 1.0 g, length 30 mm; Conditions: freshwater, static, pH 7.5-8.3, hardness 35 mg/L CaCO3, dissolved oxygen 3.4-8.9 mg/L; Concentration: 31500 ug/L (95% confidence limit: 23500-42500 ug/L) for 24 hr /95% formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill) weight 1.1 g, length 31 mm; Conditions: freshwater, static, pH 6.7-7.4, hardness 35 mg/L CaCO3, dissolved oxygen 2.7-8.8 mg/L; Concentration: 25700 ug/L (95% confidence limit: 20000-33100 ug/L) for 96 hr /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill) weight 1.0 g, length 30 mm; Conditions: freshwater, static, pH 6.9-7.4, hardness 35 mg/L CaCO3, dissolved oxygen 3.4-8.9 mg/L; Concentration: 35500 ug/L (95% confidence limit: 29500-42600 ug/L) for 24 hr /95% formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill) weight 1.1 g, length 31 mm; Conditions: freshwater, static, pH 6.9-7.3, hardness 35 mg/L CaCO3, dissolved oxygen 3.8-8.8 mg/L; Concentration: 24600 ug/L (95% confidence limit: 21700-27900 ug/L) for 48 hr /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill) weight 1.1 g, length 31 mm; Conditions: freshwater, static, pH 6.9-7.3, hardness 35 mg/L CaCO3, dissolved oxygen 3.8-8.8 mg/L; Concentration: 23300 ug/L (95% confidence limit: 17600-30100 ug/L) for 96 hr /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout, donaldson trout); Conditions: freshwater, static; Concentration: 15900 ug/L (95% confidence limit: 13000-19500 ug/L) for 96 hr /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout, donaldson trout); Conditions: freshwater, static; Concentration: 15900 ug/L (95% confidence limit: 13000-19500 ug/L) for 48 hr /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout, donaldson trout); Conditions: freshwater, static; Concentration: 23700 ug/L (95% confidence limit: 19300-29200 ug/L) for 24 hr /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Chironomus tentans (Midge); Conditions: freshwater, static; Concentration: 153000 ug/L (95% confidence limit: 130000-180000 ug/L) for 24 hr /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Chironomus tentans (Midge); Conditions: freshwater, static; Concentration: 120000 ug/L (95% confidence limit: 97800-148000 ug/L) for 48 hr /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oryzias latipes (Medaka) high-eyes; Conditions: freshwater, static; Concentration: 1400 ug/L for 48 hr /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oryzias latipes (Medaka); Conditions: semi-static, open-system; Concentration: 11.0 mg/L for 24 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oryzias latipes (Medaka); Conditions: semi-static, open-system; Concentration: 6.7 mg/L for 48 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oryzias latipes (Medaka); Conditions: semi-static, open-system; Concentration: 6.7 mg/L for 72 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oryzias latipes (Medaka); Conditions: semi-static, open-system; Concentration: 4.3 mg/L for 96 hr (95% confidence level: 3.1-5.8 mg/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

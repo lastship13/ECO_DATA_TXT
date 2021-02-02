@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf8'?>
+<Excel_XML>
+  <RECORDS>
+    <index>66</index>
+    <name>2-benzylideneheptanal</name>
+    <CAS>122-40-7</CAS>
+    <IUPAC>(2Z)-2-benzylideneheptanal</IUPAC>
+    <SMILES>CCCCCC(=CC1=CC=CC=C1)C=O</SMILES>
+    <Toxicity>Zebrafish_Further_info : 0.91 mg/L for fish; not specified; Using ECOSAR version 1.1, predicted LC50 for short term toxicity to fish : 1.344 mg/l  Daphnia_LC50 : None  Daphnia_Duration : None</Toxicity>
+    <Toxicity>Daphnia_EC50 : 0.28 mg/L  Daphnia_Duration : 48 hrs  Daphnia_Further_info : ECHA</Toxicity>
+  </RECORDS>
+</Excel_XML>

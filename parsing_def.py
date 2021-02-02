@@ -38,4 +38,18 @@ def word_tox_list(word, toxlist):
         if word in tox[1].lower() : wordlist.append(tox)
     return wordlist
 
+def count_cid(toxlist):
+    cid_list = []
+    for tox in toxlist:
+        if tox[0] not in cid_list : cid_list.append(tox[0])
+
+    return len(cid_list)
+
+def mk_cid_list(toxlist):
+    cid_list = []
+    for tox in toxlist:
+        if tox[0] not in cid_list : cid_list.append(tox[0])
+
+    return cid_list
+
 

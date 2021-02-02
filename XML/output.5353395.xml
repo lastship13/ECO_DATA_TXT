@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>5353395</ns0:RecordNumber>
+  <ns0:RecordTitle>[(Z)-(2-Methyl-2-methylsulfanylpropylidene)amino] N-methylcarbamate</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Phasianus colchicus (ring-necked pheasant) age 10 days; oral &gt;300 ppm in 5-day diet ad libitum (no mortality to 300 ppm) /Technical material, 99.0%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Anas platyrhynchos (mallard duck) age 10 days; oral &lt;1000 ppm in 5-day diet ad libitum (70% mortality at 1000 ppm) /Technical material, 99.0%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Anas platyrhynchos (mallard duck) age 5 days; oral 594 ppm in 5-day diet ad libitum (95% confidence limit 507-695 ppm) /Technical material, 99.0%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Coturnix japonica (Japanese quail) age 14 days; oral 381 ppm in 5-day diet ad libitum (95% confidence limit 317-453 ppm) /Technical material, 99.0%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Paramecium multimicronucleatum; Conditions: static; Concentration: 145 ppm for 9 hr; 122 ppm for 13 hr; 104 ppm for 17 hr; 93 ppm for 24 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow); Conditions: flow through bioassay; Concentration: 1370 ug/L for 96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Anas platyrhynchos (mallard duck) 3-4 month old females; oral 3.40 mg/kg (95% confidence limit 2.70-4.28 mg/kg)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Callipepla californica (California quail) 10 month old males; oral 2.58 mg/kg (95% confidence limit 1.96-3.40 mg/kg)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Callipepla californica (California quail) 10 month old females; oral 4.67 mg/kg (95% confidence limit 3.32-6.56 mg/kg)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Phasianus colchicus (pheasant) 3-4 month old females; oral 5.34 mg/kg (95% confidence limit 3.85-7.40 mg/kg)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Coturnix japonica (Japanese quail) oral 387 ppm in 5 day diet ad libitum (95% confidence limit 336-445 ppm) /Technical grade, 99% active ingredient/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>Flow-through early-life stage toxicity tests were conducted with aldicarb... to determine /aldicarb/ effect on the survival and growth of fathead minnow (Pimephales promelas). Concn of 78 ug/l did not affect survival and growth. However, 156 ug/l /was/ lethal to larvae-juveniles exposed for 30 days posthatch. The maximum acceptable toxicant concn (MATC) of aldicarb for the fathead minnow is estimated to be between 78-156 ug/l.</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: /Oryzias latipes/ (Japanese medaka); Concentration: 0.5 mg/L for 96 hr /Conditions of bioassay not specified./</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea) 1st instar; Conditions: freshwater, static; Concentration: 410.7 ug/L for 48 hr (95% confidence interval: 338.3-498.6 ug/L); Effect: intoxication, immobilization /100% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea) neonate; Conditions: freshwater, static; Concentration: 95 ug/L for 24 hr; Effect: enzyme change, cholinesterase /formulation/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea) neonate; Conditions: freshwater, static; Concentration: 227.6 ug/L for 24 hr (95% confidence interval: 212.9-243.4 ug/L); Effect: intoxication, immobilization /formulation/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water flea) age &lt;24 hr; Conditions: freshwater, static, 20 °C; Concentration: 583 ug/L for 48 hr /15% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water flea) age &lt;24 hr new, newly, or recent ; Conditions: freshwater, static, 20 °C; Concentration: 740 ug/L for 48 hr (95% confidence interval: 670-810 ug/L) /&gt;95% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water flea) age &lt;24 hr new, newly, or recent ; Conditions: freshwater, static, 27 °C; Concentration: 75 ug/L for 48 hr (95% confidence interval: 54-89 ug/L) /&gt;95% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

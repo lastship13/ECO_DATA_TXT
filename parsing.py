@@ -67,7 +67,7 @@ chsidx = [ 0, 6, 23, 37, 38, 43, 44, 45, 46 ]
 for id in chsidx : colors[id] = 'tab:red'
 
 print( [sdict[id] for id in chsidx] )
-#print(sdict[:50])
+print(sdict[:50])
 plt.bar(x_index,y[:60], color=colors)
 plt.show()
 

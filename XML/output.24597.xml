@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>24597</ns0:RecordNumber>
+  <ns0:RecordTitle>Potassium chromate</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Cladoceran) 19.2 and 7.39 ug/L as chromium for 48 and 96 hr, respectively; Both with a water hardness of 50 mg/L as calcium carbonate. Effect: immobilization.</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Physa heterostropha (snail); Conditions: static, water hardness as 171 mg/L as calcium carbonate; Concentration: 31,600 ug/L as chromium, unmeasured</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Chlorella vulgaris (Green Algae) Exponential Growth Phase, 5x10+4 cells/mL; Conditions: freshwater, static, 20 °C; Concentration: 548 ug/L for 96 hr; Effect: growth, increased whole organism size</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Chlorella vulgaris (Green Algae) Exponential Growth Phase, 5x10+4 cells/mL; Conditions: freshwater, static, 20 °C; Concentration: 414 ug/L for 96 hr; Effect: growth, increased whole organism volume</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Chlorella vulgaris (Green Algae) Exponential Growth Phase, 5x10+4 cells/mL; Conditions: freshwater, static, 20 °C; Concentration: 451 ug/L for 96 hr; Effect: population, decreased chlorophyll A concentration</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ceriodaphnia dubia (Water Flea) age &lt;24 hr neonate; Conditions: freshwater, static, 25 °C, pH 7.96-8.18, hardness 65.8-73.2 mg/L CaCO3, alkalinity 45.5-56.2 mg/L CaCO3; Concentration: 200 ug/L for 24 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ceriodaphnia dubia (Water Flea) age &lt;24 hr neonate; Conditions: freshwater, static, 25 °C, pH 7.96-8.18, hardness 65.8-73.2 mg/L CaCO3, alkalinity 45.5-56.2 mg/L CaCO3; Concentration: 150 ug/L for 48 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Danio rerio (Zebra danio) embryo 48 hr postfertilization, wild-type; Conditions: freshwater, static, 28 °C; Concentration: 1995000 ug/L for 48 hr; Effect: behavior, decreased swimming</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Danio rerio (Zebra danio) embryo 48 hr postfertilization, wild-type; Conditions: freshwater, static, 28 °C; Concentration: 4680000 ug/L for 48 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Poecilia reticulata (Guppy) age 1-4 months; Conditions: freshwater, renewal, 23-26 °C, pH 8.2-8.7; Concentration: 0.000342 mol/L for 7 days</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

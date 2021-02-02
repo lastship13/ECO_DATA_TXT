@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf8'?>
+<Excel_XML>
+  <RECORDS>
+    <index>73</index>
+    <name>Phenol, p-nonyl</name>
+    <CAS>104-40-5</CAS>
+    <IUPAC>4-nonylphenol</IUPAC>
+    <SMILES>CCCCCCCCCC1=CC=C(C=C1)O</SMILES>
+    <Toxicity>Zebrafish_EC50 : 1121 nM  Zebrafish_Duration : 3 Weeks  Zebrafish_Further_info : PubChem, 1337 nM 3 weeks (PubChem)</Toxicity>
+    <Toxicity>Medaka_LC50 : 850 ug/L  Medaka_Duration : 72 hrs  Medaka_Further_info : PubChem, 130 ug/L for 72 hr(PubChem); 870 ug/L for 72 hr(PubChem); 130 ug/L for 3 days(PubChem)</Toxicity>
+    <Toxicity>Medaka_EC50 : 18.9 ug/L  Medaka_Duration : 103 days  Medaka_Further_info : PubChem</Toxicity>
+    <Toxicity>Fathead_minnow_LC50 :  128 ug/L  Fathead_minnow_Duration : 96 hrs  Fathead_minnow_Further_info : PubChem</Toxicity>
+    <Toxicity>Fathead_minnow_EC50 : 206 ug/L  Fathead_minnow_Duration : 24hr, 48hr, 72hr, 96 hr  Fathead_minnow_Further_info : PubChem</Toxicity>
+    <Toxicity>Daphnia_LC50 : 0.19 (0.1-0.56) AI mg/L  Daphnia_Duration : 2 Day(s)  Daphnia_Further_info : Ecotox, 21 datas(1,2,21 days) in Ecotox</Toxicity>
+    <Toxicity>Daphnia_EC50 : 234 ug/L  Daphnia_Duration : 48 hr  Daphnia_Further_info : PubChem</Toxicity>
+  </RECORDS>
+</Excel_XML>

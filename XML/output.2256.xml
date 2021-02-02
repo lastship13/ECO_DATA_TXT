@@ -1,0 +1,771 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>2256</ns0:RecordNumber>
+  <ns0:RecordTitle>Atrazine</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Colinis virginianus (Bobwhite quail) age 9 days oral &gt;5,000 ppm (No mortality to 5,000 ppm)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Coturnix japonica (Japanese quail) age 7 days oral &gt;5,000 ppm (5 day diet)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Phasianus colchicus (Ring-necked pheasant) age 10 days oral &gt;5,000 ppm (No mortality to 5,000 ppm)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Anas platyrhynchos (Mallard duck) age 10 days oral &gt;5,000 ppm (30% @ 5,000 ppm)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Anas platyrhynchos (mallards) age 6 months, female oral &gt;2000 mg/kg /80% wettable powder/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Colinis virginianus (bobwhite quail) diet 5760 mg/kg for 8 days /80% wettable powder formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Anas platyrhynchos (mallard ducks) diet 19,650 mg/kg for 8 days /80% wettable powder formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: (Pheasant) 3 month old male oral &gt;2000 mg/kg /80% wettable powder/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Coturnix japonica (Japanese Quail) oral via capsule 4237 mg/kg (95% confidence interval: 3373-5323 mg/kg)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Eisenia foetida (earthworm); Concentration: 78 mg/kg soil for 14 days</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Eisenia fetida (Earthworm) mature, weight 200-350 g direct application in natural soil (83.5% sand, 5% clay, pH 7, and 10% organic matter, 60% moisture) 272.8 mg/kg soil for 14 days (95% confidence interval: 265.4-330.0 mg/kg)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lumbricus terrestris (Earthworm) mature, weight 3000-4200 mg direct application in natural soil (84.7% sand, 12.1% silt, 3.2% clay, pH 6.1, and 1.0% organic matter, 35% moisture) 925.9 mg/kg soil for 14 days (95% confidence interval: 879.6-1036.0 mg/kg)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Eisenia fetida (Earthworm) adult, weight 150-700 mg dipped or soaked filter paper 2.9 ug/sq cm for 96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Apis mellifera (Bee) contact &gt;100 ug/bee</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Apis mellifera (Bee) oral &gt;97 ug/bee</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Anabaena inaequalis (Blue-Green Algae), 6.5x 10+4 cells/mL; Condtions: freshwater, static; Concentration: 55000 ug/L for 2 hr; Effect: physiology, nitrogen fixation /&gt;95% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Anabaena inaequalis (Blue-Green Algae), 6.5x 10+4 cells/mL; Condtions: freshwater, static; Concentration: 280 ug/L for 2 hr; Effect: population, photosynthesis</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Anabaena inaequalis (Blue-Green Algae), 6.5x 10+4 cells/mL; Condtions: static; Concentration: 55000 ug/L for 5 hr; Effect: physiology, nitrogen fixation /&gt;95% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Anabaena inaequalis (Blue-Green Algae), 6.5x 10+4 cells/mL; Condtions: static; Concentration: 300 ug/L for 3 hr; Effect: physiology, photosynthesis /&gt;95% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Anabaena variabilis (Blue-green algae); Conditions: static; Concentration: 1500 ug/L for 14 days; Effect: population growth inhibition</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Chlorella pyrenoidosa (Green algae); Conditions: static; Concentration: 500 ug/L for 14 days; Effect: population growth inhibition</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Chlorella vulgaris (Green Algae), exponential growth phase 10000000 cells/mL; Conditions: freshwater, static; Concentration: 172 ug/L for 96 hr; Effect: population abundance /98% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Chlorella vulgaris (Green Algae), exponential growth phase 10000000 cells/mL, strain Leman; Condtions: freshwater, static; Concentration: 4.3 ug/L for 96 hr; Effect: population abundance /98% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Chlorella vulgaris (Green Algae), exponential growth phase; Condtions: freshwater, static, 23 °C; Concentration: 103 ug/L for 1 hr (95% confidence interval: 79-130 ug/L); Effect: population, decreased photosynthesis /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Chlorella vulgaris (Green Algae), 100000 cells/mL; Condtions: freshwater, static, 24 °C; Concentration: 25 ug/L for 11 days; Effect: growth, general /99.9% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Chlorella vulgaris (Green Algae), 20000 cells/mL; Condtions: freshwater, static, 25 °C; Concentration: 94 ug/L for 96 hr (95% confidence interval: 75-109 ug/L) ; Effect: population decreased chlorophyll /92.2% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Chlorella vulgaris (Green Algae), 8x 10+5 cells/mL; Condtions: freshwater, static, 25 °C; Concentration: 413.2 ug/L for 96 hr; Effect: population decreased population growth rate /38% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Pseudokirchneriella subcapitata (Green Algae), initial cell density was 15,000; Condtions: freshwater, static, 24 °C, pH 7.5; Concentration: 78.4 ug/L for 48 hr; Effect: growth, cell density /100% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Pseudokirchneriella subcapitata (Green Algae), initial cell density was 15,000; Condtions: freshwater, static, 24 °C, pH 7.5; Concentration: 89.9 ug/L for 48 hr; Effect: physiology, photosynthesis, change in dissolved oxygen production /100% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Pseudokirchneriella subcapitata (Green Algae); Condtions: freshwater, static, 24 °C; Concentration: 130 ug/L for 72 hr (95% confidence interval: 84-201 ug/L); Effect: population, decreased abundance /100% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Pseudokirchneriella subcapitata (Green Algae) exponential growth phase CCAP 278/4, 10x10+4 cells/mL; Condtions: freshwater, static, 23 °C; Concentration: 222 ug/L for 30 min; Effect: physiology, decreased respiration, oxygen evoilution /Technical/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Pseudokirchneriella subcapitata (Green Algae) NIES-35, 1x10+4 cells/mL; Condtions: freshwater, static, 25 °C; Concentration: 110 ug/L for 72 hr (95% confidence interval: 110-120 ug/L); Effect: population, decreased abundance, cell number-area /98% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Pseudokirchneriella subcapitata (Green Algae) 0.3x10+4 cells/mL, strain 1648; Condtions: freshwater, static, 24 °C pH 7.2-7.5, conductivity 80 umhos/cm; Concentration: 260 ug/L for 24 hr (95% confidence interval: 61-1400 ug/L); Effect: population, decreased abundance /97.1% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Pseudokirchneriella subcapitata (Green Algae) 0.3x10+4 cells/mL, strain 1648; Condtions: freshwater, static, 24-25 °C pH 7.2-7.5, conductivity 80 umhos/cm; Concentration: 49 ug/L for 48 hr (95% confidence interval: 3.9-480 ug/L); Effect: population, decreased abundance /97.1% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Pseudokirchneriella subcapitata (Green Algae) 0.3x10+4 cells/mL, strain 1648; Condtions: freshwater, static, 24-25 °C pH 7.2-7.5, conductivity 80 umhos/cm; Concentration: 27 ug/L for 72 hr (95% confidence interval: 9.6-70 ug/L); Effect: population, decreased abundance /97.1% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Pseudokirchneriella subcapitata (Green Algae) 0.3x10+4 cells/mL, strain 1648; Condtions: freshwater, static, 24-25 °C pH 7.2-7.5, conductivity 80 umhos/cm; Concentration: 41 ug/L for 96 hr (95% confidence interval: 18-90 ug/L); Effect: population, decreased abundance /97.1% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Pseudokirchneriella subcapitata (Green Algae) 0.3x10+4 cells/mL, strain 1648; Condtions: freshwater, static, 24-25 °C pH 7.2-7.5, conductivity 80 umhos/cm; Concentration: 55 ug/L for 120 hr (95% confidence interval: 27-110 ug/L); Effect: population, decreased abundance /97.1% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Pseudokirchneriella subcapitata (Green Algae); Condtions: freshwater, static, 20 °C; Concentration: 147 ug/L for 96 hr (95% confidence interval: 125-173 ug/L); Effect: population, decreased chlorophyll A concentration /formulation/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Pseudokirchneriella subcapitata (Green Algae) 20000 cells/mL; Condtions: freshwater, static, 25 °C; Concentration: 117 ug/L for 96 hr (95% confidence interval: 96-138 ug/L); Effect: population, decreased chlorophyll /92.2% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Pseudokirchneriella subcapitata (Green Algae) exponential growth phase 5x10+4 cells/mL; Condtions: freshwater, static, 24 °C; Concentration: 128.2 ug/L for 96 hr (95% confidence interval: 118.9-138.2 ug/L); Effect: population, decreased growth rate /99.1% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Pseudokirchneriella subcapitata (Green Algae) 20000 cells/mL; Condtions: freshwater, static, 25 °C; Concentration: 235 ug/L for 96 hr (95% confidence interval: 189-281 ug/L); Effect: population, decreased fluorescence</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Pseudokirchneriella subcapitata (Green Algae) 20000 cells/mL; Condtions: freshwater, renewal, 24 °C; Concentration: 92.9 ug/L for 72 hr; Effect: population, decreased population growth rate /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Pseudokirchneriella subcapitata (Green Algae) age 5 days, 1x10+4 cells/mL; Condtions: freshwater, static, 22 °C; Concentration: 200 ug/L for 96 hr; Effect: population, decreased population growth rate</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Pseudokirchneriella subcapitata (Green Algae) 1x10+4 cells/mL, axenic; Condtions: freshwater, static, 15.5 °C, low light; Concentration: 159 ug/L for 96 hr; Effect: population, decreased population growth rate /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Pseudokirchneriella subcapitata (Green Algae) 1x10+4 cells/mL, axenic; Condtions: freshwater, static, 15.5 °C, high light; Concentration: 300 ug/L for 96 hr; Effect: population, decreased population growth rate /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pseudokirchneriella subcapitata (Green Algae) exponential growth phase; Condtions: freshwater, static, 24 °C; Concentration: 26 ug/L for 96 hr (95% confidence interval: 23-27 ug/L) /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pseudokirchneriella subcapitata (Green Algae) ~120000 cells/mL; Condtions: freshwater, static, 25 °C; Concentration: 1600 ug/L for 96 hr (95% confidence interval: 1100-2300 ug/L) /98% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Chlorococcum (Green algae) and Oscillatoria (Blue-green algae); Conditions: static; Concentration: 60 ug/L for 14 days; Effect: population growth inhibition</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Scenedesmus acutus (Green algae); Conditions: static; Concentration: 300 ug/L for 14 days; Effect: population growth inhibition</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Scenedesmus quadricauda (Green algae); Conditions: static; Concentration: 8 ug/L for 14 days; Effect: population growth inhibition</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Zostera marina (Eelgrass) single shoot; Conditions: flow through system; Concentration: 343 ug/L for 21 days /97.2% Technical product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Xenopus laevis (African Clawed Frog) embryo; Condtions: freshwater, renewal, 23 °C, pH 7.0; Concentration: 24500 ug/L for 96 hr /100% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Xenopus laevis (African Clawed Frog) embryo; Condtions: freshwater, renewal, 23 °C, pH 7.0; Concentration: 4100 ug/L for 96 hr; Effect: development, deformation /100% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Xenopus laevis (African Clawed Frog) &gt; or =8 to &lt; or = 11 stage embryo, blastulae, gastulae; Condtions: freshwater, renewal, 24-26 °C, pH 8.10, hardness 143.0 mg/L CaCO3, alkalinity 313.3 mg/L CaCO3; Concentration: &lt;8000 ug/L for 96 hr; Effect: development, increased abnormalities /40.8% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Xenopus laevis (African Clawed Frog) &gt; or =8 to &lt; or = 11 stage embryo, blastulae, gastulae; Condtions: freshwater, renewal, 24-26 °C, pH 8.10, hardness 143.0 mg/L CaCO3, alkalinity 313.3 mg/L CaCO3; Concentration: 126000 ug/L for 96 hr /40.8% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Rana catesbeiana (Bullfrog) embryo; Condtions: freshwater, flow through, 19-22 °C, pH 7.0-7.8, hardness 50-200 mg/L CaCO3; Concentration: 410 ug/L for 96 hr (95% confidence interval: 270-590 ug/L) /80% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Ceriodaphnia dubia (Water Flea) age &lt;24 hr neonate; Condtions: freshwater, static, 25 °C, pH 7.3-8.2, hardness 32-41 mg/L CaCO3, conductivity 71-76 umhos/cm; Concentration: 24000 ug/L for 24 hr (95% confidence interval: 22000-27000 ug/L); Effect: intoxication, immobilization /formulation/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Ceriodaphnia dubia (Water Flea) age &lt;24 hr neonate; Condtions: freshwater, static, 25 °C, pH 7.0-9.9, hardness 19-308 mg/L CaCO3, conductivity 93-120 umhos/cm; Concentration: 29000 ug/L for 24 hr (95% confidence interval: 24000-34000 ug/L); Effect: intoxication, immobilization /formulation/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Ceriodaphnia dubia (Water Flea) age &lt;24 hr neonate; Condtions: freshwater, static, 25 °C, pH 7.0-9.9, hardness 19-308 mg/L CaCO3, conductivity 93-120 umhos/cm; Concentration: 20000 ug/L for 48 hr (95% confidence interval: 17000-23000 ug/L); Effect: intoxication, immobilization /formulation/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Ceriodaphnia dubia (Water Flea) age &lt;24 hr neonate; Condtions: freshwater, static, 25 °C, pH 7.3-8.2, hardness 32-41 mg/L CaCO3, conductivity 71-76 umhos/cm; Concentration: 4600 ug/L for 48 hr (95% confidence interval: 3000-7000 ug/L); Effect: intoxication, immobilization /formulation/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ceriodaphnia dubia (Water Flea) age &lt;12 hr neonate; Condtions: freshwater, static, 25 °C, pH 8.18, hardness 57.07 mg/L CaCO3, alkalinity 81.0 mg/L CaCO3; Concentration: &gt;30000 ug/L for 48 hr /&gt;99% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water Flea); Condtions: freshwater, flow through; Concentration: 49000 ug/L for 48 hr; Effect: intoxication, immobilization /80% purity, wettable powder formulation/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water Flea) 1st instar larva; Condtions: freshwater, static; Concentration: 115000 ug/L for 48 hr (95% confidence interval: 76000-184000 ug/L); Effect: intoxication, immobilization</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water Flea) age &lt;24 hr; Condtions: freshwater, static; Concentration: 6900 ug/L for 48 hr (95% confidence interval: 5200-8100 ug/L); Effect: intoxication, immobilization /94% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water Flea) age &lt;24 hr juvenile; Condtions: freshwater, static, 20 °C, pH 7.5-8.0, hardness 160-180 mg/L CaCO3, conductivity 580 uS/cm; Concentration: 35500 ug/L for 48 hr (95% confidence interval: 26300-44700 ug/L); Effect: intoxication, immobilization /97.4% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water Flea) age &lt;24 hr 1st instar; Condtions: freshwater, static, 20 °C, hardness 40-50 mg/L CaCO3; Concentration: 9400 ug/L for 48 hr (95% confidence interval: 3900-20500 ug/L) /97.3% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Americamysis bahia (Opossum Shrimp) age &lt;24 hr; Condtions: saltwater, flow through; Concentration: 5400 ug/L for 96 hr (95% confidence interval: 4500-7400 ug/L) /97.1% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Americamysis bahia (Opossum Shrimp); Condtions: saltwater, flow through; Concentration: 1000 ug/L for 96 hr (95% confidence interval: 650-3100 ug/L) /97.4% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Danio rerio (Zebra Danio) age 6 hr postfertilization embryo; Condtions: freshwater, renewal; Concentration: 440 uM for 96 hr; Effect: increased abnormal development /100% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Danio rerio (Zebra Danio) fertilized eggs; Condtions: freshwater, flow through, 27 °C, pH 8, dissolved oxygen 6 mg/L; Concentration: 1200 ug/L for 35 days /98% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cyprinus carpio (Common Carp) weight 4.3 g; Condtions: freshwater, renewal, 20 °C, pH 7.0-7.5, hardness 141-223 mg/L CaCO3, dissolved oxygen 7.5-11.5 mg/L; Concentration: 41000 ug/L for 24 hr (95% confidence interval: 36200-45000 ug/L) /93.7% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cyprinus carpio (Common Carp) weight 4.3 g; Condtions: freshwater, renewal, 20 °C, pH 7.0-7.5, hardness 141-223 mg/L CaCO3, dissolved oxygen 7.5-11.5 mg/L; Concentration: 41000 ug/L for 48 hr (95% confidence interval: 37500-44100 ug/L) /93.7% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cyprinus carpio (Common Carp) weight 4.3 g; Condtions: freshwater, renewal, 20 °C, pH 7.0-7.5, hardness 141-223 mg/L CaCO3, dissolved oxygen 7.5-11.5 mg/L; Concentration: 18800 ug/L for 96 hr (95% confidence interval: 15700-20200 ug/L) /93.7% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cyprinus carpio (carp); Concentration: 76 mg/L for 96 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ictalurus punctatus (Channel Catfish) fry weight 0.9-1.1 g; Condtions: freshwater, renewal, 22 °C, pH 7.9, hardness 44 mg/L CaCO3, alkalinity 33 mg/L CaCO3, dissolved oxygen &gt;6 mg/L; Concentration: 51300 ug/L for 24 hr (95% confidence interval: 44600-59000 ug/L) /40.8% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ictalurus punctatus (Channel Catfish) fry weight 0.9-1.1 g; Condtions: freshwater, renewal, 22 °C, pH 7.9, hardness 44 mg/L CaCO3, alkalinity 33 mg/L CaCO3, dissolved oxygen &gt;6 mg/L; Concentration: 23800 ug/L for 96 hr (95% confidence interval: 22300-25500 ug/L) /40.8% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill) weight 0.6 g; Condtions: freshwater, static, 22 °C, pH 7.1, hardness 43 mg/L CaCO3; Concentration: 48000 ug/L for 24 hr (95% confidence interval: 42000-55000 ug/L) /43% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill) weight 0.6 g; Condtions: freshwater, static, 22 °C, pH 7.1, hardness 43 mg/L CaCO3; Concentration: 42000 ug/L for 96 hr (95% confidence interval: 36000-49000 ug/L) /43% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill) juvenile; Condtions: freshwater, static; Concentration: 24000 ug/L for 96 hr (95% confidence interval: 0-32000 ug/L) /98.8% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill); Condtions: freshwater, static; Concentration: 54510 ug/L for 96 hr /100% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill); Condtions: freshwater, static; Concentration: 6700 ug/L for 96 hr (95% confidence interval: 5400-8400 ug/L) /94% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill); Condtions: freshwater, static; Concentration: 69000 ug/L for 96 hr /15% purity granules/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis machrochirus (bluegill); Concentration: 16.0 mg/L for 96 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow Trout) fry, weight 0.8-1.0 g; Condtions: freshwater, renewal, 12 °C, pH 7.9, hardness 44 mg/L CaCO3, alkalinity 33 mg/L CaCO3, dissolved oxygen &gt;6 mg/L; Concentration: 31600 ug/L for 24 hr (95% confidence interval: 28200-35400 ug/L) /40.8% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow Trout) juvenile, weight 1.1-2.5 g, length 45-60 mm; Condtions: freshwater, flow through, 12-15 °C; Concentration: &gt;340 ug/L for 10 days /&gt; or =98% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow Trout); Condtions: freshwater, static; Concentration: 23800 ug/L for 48 hr (95% confidence interval: 20200-28000 ug/L) /50% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (rainbow trout); Concentration: 4.5-11.0 mg/L for 96 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow Trout) fry, weight 0.8-1.0 g; Condtions: freshwater, renewal, 12 °C, pH 7.9, hardness 44 mg/L CaCO3, alkalinity 33 mg/L CaCO3, dissolved oxygen &gt;6 mg/L; Concentration: 20500 ug/L for 96 hr (95% confidence interval: 18300-22900 ug/L) /40.8% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow Trout) fry, weight 0.7 g; Condtions: freshwater, static, 12 °C, pH 7.3, hardness 40 mg/L CaCO3; Concentration: 24000 ug/L for 96 hr (95% confidence interval: 18000-32000 ug/L) /43% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow Trout); Condtions: freshwater, static; Concentration: 4500 ug/L for 96 hr (95% confidence interval: 3000-6750 ug/L) /98.8% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow Trout) embryo; Condtions: freshwater, flow through, 12-14 °C, pH 7.0-7.8, hardness 50-200 mg/L CaCO3; Concentration: 870 ug/L for 4 days posthatch (95% confidence interval: 630-1150 ug/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead Minnow); Condtions: freshwater, renewal; Concentration: 15000 ug/L for 96 hr (95% confidence interval: 11000-20000 ug/L) /94% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lebistes cyanellus (guppies); Concentration: 4.3 mg/L for 96 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Acartia tonsa; Conditions: static, 20 + or -1 °C, seawater 20% salinity; Concentration: 0.094 mg/L for 96 hr (95% confidence limits: 0.052-0.167 mg/L) /97.4% active ingredient/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Mysidopsis bahia (Mysid shrimp); Conditions: flow through, seawater; Concentration: 1.0 mg/L for 96 hr (95% confidence limits: 0.65-3.1 mg/L) /97.4% active ingredient/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cyprindon variegatus (Sheepshead minnow); Conditions: flow through, seawater; Concentration: &gt;16 mg/L for 96 hr /97.4% active ingredient/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Palaemonetes pugio (Grass shrimp); Conditions: static, 22 + or -1 °C, not aerated, seawater 26% salinity; Concentration: 9.0 mg/L for 96 hr (95% confidence limits: 5.3-16 mg/L) /97.4% active ingredient/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Penaeus duorarum (Northern pink shrimp); Conditions: static, 22 + or -1 °C, not aerated, seawater 26% salinity; Concentration: 6.9 mg/L for 96 hr (95% confidence limits: 4.1-12 mg/L) /97.4% active ingredient/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Uca pugilator (Fiddler crab); Conditions: static, 22 + or -1 °C, not aerated, seawater 26% salinity; Concentration: &gt;29 mg/L for 96 hr /97.4% active ingredient/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Leiostomus xanthurus (Spot); Conditions: static, 22 + or -1 °C, not aerated, seawater 12% salinity; Concentration: 8.5 mg/L for 96 hr (95% confidence limits: 6.0-12 mg/L) /97.4% active ingredient/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Crassostrea virginica (Eastern oyster) embryos; Conditions: static, 20 + or -1 °C; static, not aerated, seawater 16% salinity; Concentration: &gt;30 mg/L for 48 hr; Effect: reduction in normal embryo development (those which developed to the fully-shelled, straight hinged veliger stage within 48 hr) /97.4% active ingredient/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Lemna minor (Duckweed); Condtions: freshwater, static; Concentration: 0.131 umol/L for 24 hr; Effect: population, decreased chlorophyll /&gt;99% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Lemna minor (Duckweed); Condtions: freshwater, static, 25 °C, pH 5.5; Concentration: 0.723 umol/L for 3 days; Effect: population, population growth rate /100% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Lemna minor (Duckweed); Condtions: freshwater, renewal, 25 °C; Concentration: 60 ug/L for 10 days (95% confidence interval: 48-70 ug/L); Effect: decreased growth, fresh weight /98% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Lemna minor (Duckweed); Condtions: freshwater, renewal, 25 °C; Concentration: 56 ug/L for 10 days (95% confidence interval: 45-67 ug/L); Effect: population, decreased abundance, frond number /98% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Lemna minor (Duckweed) frond; Condtions: freshwater, static, 25 °C; Concentration: 92 ug/L for 96 hr (95% confidence interval: 80-104 ug/L); Effect: population, decreased abundance, frond count /92.2% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Lemna minor (Duckweed) 12 fronds; Condtions: freshwater, static, 25 °C; Concentration: 153 ug/L for 96 hr (95% confidence interval: 89-217 ug/L); Effect: population, decreased frond count</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>The emergent hydrophyte Iris pseudacorus was constantly exposed over a 35-day period to atrazine in the laboratory. It could survive at an atrazine level up to 32 mg/L. Its relative growth rates were inhibited significantly when exposure dosage reached at or exceeded 2 mg/L (p &lt; 0.05). No observed effect concentration and lowest observed effect concentration for growth were 1 and 2 mg/L, respectively.</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

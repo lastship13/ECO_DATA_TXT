@@ -1,0 +1,197 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>14814</ns0:RecordNumber>
+  <ns0:RecordTitle>Vanadium pentoxide</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna /(Water flea)/; Concentration: 2.387 mg/L for 48 hr /Conditions of bioassay not specified in source examined/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia similis (Water Flea) age 6-24 hr; Conditions: freshwater, static, 20 °C; Concentration: 1400 ug/L for 48 hr; Effect: intoxication, immobilization /98% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Carassius auratus (Goldfish) length 3-5 cm, weight 0.3-2.9 g; Conditions: freshwater, static, 22.5 °C, pH 6.0-6.5, hardness 35 mg/L as CaCO3, dissolved oxygen 4 mg/L; Concentration: 4520 ug/L for 6 days (95% confidence interval: 2880-7286 ug/L) /total vanadium ion/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Carassius auratus (Goldfish) eggs; Conditions: freshwater, renewal, 22 °C, pH 7.4, hardness 195 mg/L CaCO3; Concentration: 4600 ug/L for 7 days (95% confidence interval: 510-9100 ug/L) /total vanadium ion/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Gastrophryne carolinensis (Eastern Narrow-mouthed toad) eggs; Conditions: freshwater, renewal, 22 °C, pH 7.4, hardness 195 mg/L CaCO3; Concentration: 250 ug/L for 7 days (95% confidence interval: 130-440 ug/L) /total vanadium ion/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Jordanella floridae (Flagfish) adult, weight, 0.130 g; Conditions: freshwater, renewal, 24 °C, pH 8.17, hardness 275 mg/L CaCO3, dissolved oxygen 8.4 mg/L; Concentration: 11200 mg/L for 96 hr /total vanadium ion/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Jordanella floridae (Flagfish) larvae; Conditions: renewal, very hard water; Concentration: 1.13-1.88 mg/L for 28 days (larger larvae more resistant)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout) eyed eggs; Conditions: renewal; Concentration: 118 mg/L for 96 hr; effects on embryonic survival and hatching</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Poecilia reticulata (Guppy) length 1.5-2.5 cm, weight 0.1-0.5 g; Conditions: freshwater, static, 22.5 °C, pH 6.0-6.5, hardness 35 mg/L CaCO3, dissolved oxygen 4 mg/L; Concentration: 588 ug/L for 6 days (95% confidence interval: 480-706 ug/L) /total vanadium ion/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Salvelinus fontinalis (Brook trout) yearling, weight 18 g; Conditions: freshwater, flow through, 17 °C, pH 6.5-8.0, hardness 35.4 mg/L CaCO3, alkalinity 19.0 mg/L CaCO3, dissolved oxygen 6.8 mg/L; Concentration: 20 mg/L for 7 hr (95% confidence interval: 15-25 mg/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Salvelinus fontinalis (Brook trout) yearling, weight 18 g; Conditions: freshwater, flow through, 17 °C, pH 6.5-8.0, hardness 35.4 mg/L CaCO3, alkalinity 19.0 mg/L CaCO3, dissolved oxygen 6.8 mg/L; Concentration: 17 mg/L for 11 hr (95% confidence interval: 15-18 mg/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Salvelinus fontinalis (Brook trout) yearling, weight 18 g; Conditions: freshwater, flow through, 17 °C, pH 6.5-8.0, hardness 35.4 mg/L CaCO3, alkalinity 19.0 mg/L CaCO3, dissolved oxygen 6.8 mg/L; Concentration: 11 mg/L for 48 hr (95% confidence interval: 8-14 mg/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Salvelinus fontinalis (Brook trout) yearling, weight 18 g; Conditions: freshwater, flow through, 17 °C, pH 6.5-8.0, hardness 35.4 mg/L CaCO3, alkalinity 19.0 mg/L CaCO3, dissolved oxygen 6.8 mg/L; Concentration: 20 mg/L for 60 hr (95% confidence interval: 16-22 mg/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Salvelinus fontinalis (Brook trout) yearling, weight 18 g; Conditions: freshwater, flow through, 17 °C, pH 6.5-8.0, hardness 35.4 mg/L CaCO3, alkalinity 19.0 mg/L CaCO3, dissolved oxygen 6.8 mg/L; Concentration: 14 mg/L for 108 hr (95% confidence interval: 9-19 mg/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Salvelinus fontinalis (Brook trout) yearling, weight 18 g; Conditions: freshwater, flow through, 17 °C, pH 6.5-8.0, hardness 35.4 mg/L CaCO3, alkalinity 19.0 mg/L CaCO3, dissolved oxygen 6.8 mg/L; Concentration: 7 mg/L for 120 hr (95% confidence interval: 4.7-9.2 mg/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Salvelinus fontinalis (Brook trout) yearling, weight 18 g; Conditions: freshwater, flow through, 17 °C, pH 6.5-8.0, hardness 35.4 mg/L CaCO3, alkalinity 19.0 mg/L CaCO3, dissolved oxygen 6.8 mg/L; Concentration: 5 mg/L for 178 hr (95% confidence interval: 4.1-6.3 mg/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Salvelinus fontinalis (Brook trout) yearling, weight 18 g; Conditions: freshwater, flow through, 17 °C, pH 6.5-8.0, hardness 35.4 mg/L CaCO3, alkalinity 19.0 mg/L CaCO3, dissolved oxygen 6.8 mg/L; Concentration: 4 mg/L/240 hr (95% confidence interval: 3.3-5.5 mg/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Salvelinus fontinalis (Brook trout) alevin; Conditions: freshwater, static, 9.0 °C (7.1-10.5 °C), pH 6.5-7.9, hardness 37 mg/L CaCO3, dissolved oxygen 11.0 mg/L; Concentration: 14 mg/L for 120 hr (95% confidence interval: 12-17 mg/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Salvelinus fontinalis (Brook trout) alevin; Conditions: freshwater, static, 9.0 °C (7.1-10.5 °C), pH 6.5-7.9, hardness 37 mg/L CaCO3, dissolved oxygen 11.0 mg/L; Concentration: 14 mg/L for 144 hr (95% confidence interval: 12-16 mg/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Salvelinus fontinalis (Brook trout) alevin; Conditions: freshwater, static, 9.0 °C (7.1-10.5 °C), pH 6.5-7.9, hardness 37 mg/L CaCO3, dissolved oxygen 11.0 mg/L; Concentration: 13 mg/L for 168 hr (95% confidence interval: 12-14 mg/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Salvelinus fontinalis (Brook trout) alevin; Conditions: freshwater, static, 9.0 °C (7.1-10.5 °C), pH 6.5-7.9, hardness 37 mg/L CaCO3, dissolved oxygen 11.0 mg/L; Concentration: 12 mg/L for 192 hr (95% confidence interval: 10-14 mg/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Salvelinus fontinalis (Brook trout) alevin; Conditions: freshwater, static, 9.0 °C (7.1-10.5 °C), pH 6.5-7.9, hardness 37 mg/L CaCO3, dissolved oxygen 11.0 mg/L; Concentration: 11 mg/L for 216 hr (95% confidence interval: 10-13 mg/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Salvelinus fontinalis (Brook trout) yearling, weight 18 g; Conditions: freshwater, flow through, 17.0 °C, pH 6.5-8.0, hardness 35.4 mg/L CaCO3, alkalinity 19.0 mg/L CaCO3,  dissolved oxygen 6.8 mg/L; Concentration: 4 mg/L for 240 hr (95% confidence interval: 3.3-5.5 mg/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Salvelinus fontinalis (Brook trout) alevin; Conditions: freshwater, static, 9.0 °C (7.1-10.5 °C), pH 6.5-7.9, hardness 37 mg/L CaCO3, dissolved oxygen 11.0 mg/L; Concentration: 7 mg/L for 399 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Salvelinus fontinalis (Brook trout) alevin; Conditions: freshwater, static, 9.0 °C (7.1-10.5 °C), pH 6.5-7.9, hardness 37 mg/L CaCO3, dissolved oxygen 11.0 mg/L; Concentration: 6 mg/L for 456 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Salvelinus fontinalis (Brook trout) alevin; Conditions: freshwater, static, 9.0 °C (7.1-10.5 °C), pH 6.5-7.9, hardness 37 mg/L CaCO3, dissolved oxygen 11.0 mg/L; Concentration: 2 mg/L for 672 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

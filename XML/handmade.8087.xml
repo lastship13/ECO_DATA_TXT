@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf8'?>
+<Excel_XML>
+  <RECORDS>
+    <index>134</index>
+    <name>1,1'-oxydipropan-2-ol</name>
+    <CAS>110-98-5</CAS>
+    <IUPAC>1-(2-hydroxypropoxy)propan-2-ol</IUPAC>
+    <SMILES>CC(COCC(C)O)O</SMILES>
+    <Toxicity>Fathead_minnow_LC50 : &gt; 100 mg/l  Fathead_minnow_Duration : 72 hr  Fathead_minnow_Further_info : JR Simplot Company ; Safety Data Sheet</Toxicity>
+  </RECORDS>
+</Excel_XML>

@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>17596</ns0:RecordNumber>
+  <ns0:RecordTitle>Octogen</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow) 7-day old fry; Conditions: freshwater, static, 25 °C, pH 7.1, hardness 35 mg/L CaCO3; Concentration: 15 mg/L for 96 hr (95% confidence interval: 8.8-26 mg/L) /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout) weight 0.9 g, length 43 mm; Conditions: freshwater, static, 10 °C, pH 7.1, hardness 35 mg/L CaCO3, dissolved oxygen 4.0-9.0 mg/L; Concentration: &gt;32 mg/L for 24, 48, 96 hr /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ictalurus punctatus (Channel catfish) weight 1.2 g, length 57 mm; Conditions: freshwater, static, 20 °C, pH 7.1, hardness 35 mg/L CaCO3, dissolved oxygen 4.0-9.0 mg/L; Concentration: &gt;32 mg/L for 24, 48, 96 hr /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill) weight 1 g, length 35 mm; Conditions: freshwater, static, 20 °C, pH 7.1, hardness 35 mg/L CaCO3, dissolved oxygen 4.0-9.0 mg/L; Concentration: &gt;32 mg/L for 24, 48, 96 hr /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Gammarus fasciatus (Scud) Conditions: freshwater, static, 20 °C, pH 7.1, hardness 35 mg/L CaCO3, dissolved oxygen 8.0-8.2 mg/L; Concentration: &gt;32 mg/L for 24, 48 hr; Effect: intoxication, immobilization /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea) age 0-24 hr; Conditions: freshwater, static, 20 °C, pH 7.1, hardness 35 mg/L CaCO3, dissolved oxygen 8.0-8.2; Concentration: &gt;32 mg/L for 24, 48 hr; Effect: intoxication, immobilization /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Eisenia andrei (Earthworm) adult; direct application (artificial soil: 70% sand, 20% clay, 10% organic matter, 75% moisture) 361 mg/kg dry soil; Effect: population, decreased biomass /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Eisenia andrei (Earthworm) adult; direct application (artificial soil: 70% sand, 20% clay, 10% organic matter, 75% moisture) &lt;280 mg/kg dry soil; Effect: reproduction, decreased progeny counts /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

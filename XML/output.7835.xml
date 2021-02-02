@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>7835</ns0:RecordNumber>
+  <ns0:RecordTitle>Epichlorohydrin</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>Minimum inhibitory concentration; Species: Microcystis aeruginosa (Blue algae); Conditions: static, 27 °C, pH 7.0; Concentration: 6.0 mg/L for 8 days; Effect: cell multiplication /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>Minimum inhibitory concentration; Species: Scenedesmus quadricauda (Green algae); Conditions: static, 27 °C, pH 7.0; Concentration: 5.4 mg/L for 8 days; Effect: cell multiplication /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>Minimum inhibitory concentration; Species: Pseudomonas putida (Bacteria); Conditions: static, 25 °C, pH 7.0; Concentration: 55 mg/L for 16 hr; Effect: cell multiplication /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>Minimum inhibitory concentration; Species: Entosiphon sulcatum (Protozoa); Conditions: static, 25 °C, pH 6.9; Concentration: 35 mg/L for 72 hr; Effect: cell multiplication /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>Minimum inhibitory concentration; Species: Chilomonas paramecium (Protozoa); Conditions: static, 25 °C, pH 7.0; Concentration: 29 mg/L for 72 hr; Effect: cell multiplication /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>Minimum inhibitory concentration; Species: Uronema parduczi (Protozoa); Conditions: static, 25 °C, pH 7.0; Concentration: 29 mg/L for 72 hr; Effect: cell multiplication /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water flea); Conditions: static, 20-22 °C, pH 7.6-7.7, oxygen saturated; Concentration: 30 mg/L for 24 hr /from table/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water flea, neonate); Conditions: freshwater, static, 19.8-20.9 °C, pH 7.7-9.9, dissolved oxygen &gt;90%; Concentration: 33400 ug/L for 24 hr (95% confidence interval: 30700-37000 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water flea, neonate); Conditions: freshwater, static, 19.8-20.9 °C, pH 7.7-9.9, dissolved oxygen &gt;90%; Concentration: 21000 ug/L for 48 hr (95% confidence interval: 19400-22800 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Carassius auratus (Goldfish, weight 3.3 g); Conditions: freshwater, static, 20 °C, pH 7.0, dissolved oxygen &gt;4.0 mg/L; Concentration: 23000 ug/L for 24 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Danio rerio (Zebra danio); Conditions: static; Concentration: 30500 ug/L for 96 hr /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill, length 33-75 mm); Conditions: freshwater, static, 23 °C, pH 7.6-7.9, hardness 55 mg/L CaCO3; Concentration: 35000 ug/L for 96 hr /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Leuciscus idus (Golden orfe); Conditions: static, pH 7.5; Concentration: 24 mg/L for 48 hr /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Menidia beryllina (Inland silverside, length 40-100 mm); Conditions: saltwater, static, 20 °C, pH 7.6-7.9, hardness 55 mg/L CaCO3; Concentration: 18000 ug/L for 96 hr /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow, age 30-35 days,:juvenile, weight 76.8 mg, length 14.9 mm); Conditions: freshwater, static, 21-23 °C, pH 7.2-8.5, hardness 96-125 mg/L CaCO3, dissolved oxygen &lt;40%; Concentration: 10600 ug/L for 96 hr (95% confidence interval: 9100-12300 ug/L) /formulation/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow, age 10-15 days fry,:weight 11.6 mg, length 9.5 mm); Conditions: freshwater, static, 21-23 °C, pH 7.2-8.5, hardness 96-125 mg/L CaCO3, dissolved oxygen &lt;40%; Concentration: 12700 ug/L for 96 hr (95% confidence interval: 11500-14200 ug/L) /formulation/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow, age 65-94 days, weight 391 mg, length 28 mm); Conditions: freshwater, static, 21-23 °C, pH 7.2-8.5, hardness 96-125 mg/L CaCO3, dissolved oxygen &lt;40%; Concentration: 13200 ug/L for 96 hr (95% confidence interval: 9600-18600 ug/L) /formulation/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Rasbora heteromorpha (Harlequin fish); Conditions: flow through, 20 °C, pH 7.2, hardness 20 mg/L CaCO3; Concentration: 36 mg/L for 48 hr /from table/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

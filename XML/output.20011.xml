@@ -1,0 +1,162 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>20011</ns0:RecordNumber>
+  <ns0:RecordTitle>N-(3-Chloroallyl)hexaminium chloride</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Anas platyrhynchos (Mallard duck) oral &gt;2510 mg/kg (67.5% a.i.) /Dowicil CTAC; contains the two active ingredients Dowicil75 and Dowicil150/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Anas platyrhynchos (Mallard duck) oral 1440 mg/kg (95% a.i.) /Dowicil CTAC; contains the two active ingredients Dowicil75 and Dowicil150/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Anas platyrhynchos (Mallard duck) dietary &gt;5620 ppm (67.5% a.i.) /Dowicil CTAC; contains the two active ingredients Dowicil75 and Dowicil150/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Anas platyrhynchos (Mallard duck) dietary &gt;5627 ppm (95% a.i.) /Dowicil CTAC; contains the two active ingredients Dowicil75 and Dowicil150/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Colinus virginianus (Bobwhite quail) dietary 3223 ppm (67.5% a.i.) /Dowicil CTAC; contains the two active ingredients Dowicil75 and Dowicil150/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Colinus virginianus (Bobwhite quail) dietary 2645 ppm (95% a.i.) /Dowicil CTAC; contains the two active ingredients Dowicil75 and Dowicil150/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Colinus virginianus (Northern Bobwhite Quail) age 23 wk; oral via capsule 1440 mg/kg (95% confidence interval: 810-2250 mg/kg)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill); Concentration: 59 ppm for 96 hr (67.5% a.i.) /Dowicil CTAC; contains the two active ingredients Dowicil75 and Dowicil150/ /Conditions of bioassay not specified/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill); Concentration: 148 ppm for 96 hr (91% a.i.) /Dowicil CTAC; contains the two active ingredients Dowicil75 and Dowicil150/ /Conditions of bioassay not specified/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill); Conditions: freshwater, static; Concentration: 27600 ug/L for 48 hr (95% confidence interval: 24600-31000 ug/L) /90% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Uca pugilator (Fiddler Crab) adult; Conditions: saltwater, static; Concentration: 560000 ug/L /67.5% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water Flea); Conditions: freshwater, static; Concentration: 27000 ug/L for 48 hr (95% confidence interval: 25000-30000 ug/L); Effect: intoxication, immobilization /67.5% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water Flea) age &lt;24 hr; Conditions: freshwater, static; Concentration: 40000 ug/L for 48 hr (95% confidence interval: 36000-44000 ug/L); Effect: intoxication, immobilization /94% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Penaeus duorarum (Northern Pink Shrimp) adult; Conditions: saltwater, static; Concentration: 182000 ug/L for 96 hr (95% confidence interval: 92000-358000 ug/L) /67.5% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Menidia beryllina (Inland Silverside) juvenile; Conditions: saltwater, flow through; Concentration: 34000 ug/L for 96 hr (95% confidence interval: 29000-39000 ug/L) /89.2% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead Minnow); Conditions: freshwater, static; Concentration: 29000 ug/L for 96 hr (95% confidence interval: 26000-32000 ug/L) /67.5% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead Minnow); Conditions: freshwater, static; Concentration: 34000 ug/L for 96 hr (95% confidence interval: 32000-36000 ug/L) /94% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout); Concentration: &gt;144 ppm for 96 hr (91% a.i.) /Dowicil CTAC; contains the two active ingredients Dowicil75 and Dowicil150/ /Conditions of bioassay not specified/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow Trout); Conditions: freshwater, static; Concentration: 20500 ug/L for 96 hr (95% confidence interval: 18000-23000 ug/L) /90% purity formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Crassostrea virginica (American Or Virginia Oyster) spat; Conditions: saltwater, flow through; Concentration: 11000 ug/L for 96 hr; Effect: intoxication, immobilization /89.2% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Crassostrea virginica (American Or Virginia Oyster) embryo-larvae; Conditions: saltwater, static; Concentration: &gt;180000 ug/L for 48 hr (95% confidence interval: 180000-320000 ug/L); Effect: intoxication, immobilization /67.5% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

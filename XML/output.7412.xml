@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>7412</ns0:RecordNumber>
+  <ns0:RecordTitle>Benzoyl chloride</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Palaemonetes pugio (grass shrimp); Conditions: static, synthetic salt water of the following quality was used: 25 +/- 1 g/L salinity, 30,000-40,000 microsiemens/cm conductivity, pH 8.3-8.7, temperature= 22 +/- 1 °C; Concentration: 180 mg/L for 96 hr (95% confidence interval: 139.0-233.0 mg/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (fathead minnow) length 3.2-4.2 cm; Conditions: freshwater, static, 22 °C, pH 7.2-7.9, hardness 40-48 mg/L CaCO3, alkalinity 30-35 mg/L CaCO3; Concentration: 42600 ug/L for 24 hr (95% confidence interval: 35400-57400 ug/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (fathead minnow) length 3.2-4.2 cm; Conditions: freshwater, static, 22 °C, pH 7.2-7.9, hardness 40-48 mg/L CaCO3, alkalinity 30-35 mg/L CaCO3; Concentration: 34700 ug/L for 48 hr (95% confidence interval: 28500-45300 ug/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (fathead minnow) length 3.2-4.2 cm; Conditions: freshwater, static, 22 °C, pH 7.2-7.9, hardness 40-48 mg/L CaCO3, alkalinity 30-35 mg/L CaCO3; Concentration: 34700 ug/L for 96 hr (95% confidence interval: 28500-45300 ug/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

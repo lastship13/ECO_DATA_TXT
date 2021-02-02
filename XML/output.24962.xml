@@ -1,0 +1,239 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>24962</ns0:RecordNumber>
+  <ns0:RecordTitle>Cadmium sulfate</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cloeon dipterum (mayfly); Concentration: 70,600 ug/L for 72 hr at 10 °C; 28,600 ug/L for 72 hr at 15 °C; 6990 ug/L for 72 hr at 25 °C; 930 ug/L for 72 hr at 30 °C /Conditions of bioassay not specified in source examined/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Acanthocyclops viridis (copepod); Concentration: 0.5 ug/L for 72 hr /Conditions of bioassay not specified in source examined/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Idotea baltica (isopod); Concentration: 10,000 ug/L for 5 days (3 g/kg salinity) /Conditions of bioassay not specified in source examined/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Idotea baltica (isopod); Concentration: 10,000 ug/L for 3 days (21 g/kg salinity) /Conditions of bioassay not specified in source examined/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Eisenia fetida (Earthworm) adult, 300-500 mg, multiple environmental routes 26 ug/sq cm using filter paper (95% confidence interval: 17-39 ug/sq cm) for 48 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Pseudokirchneriella subcapitata (green algae); Conditions: freshwater, static, 24 °C, pH 7.0, hardness 16-17 mg/L CaCO3, alkalinity 11-11.5 mg/L CaCO3; Concentration: 19 ug/L for 14 days; Effect: growth, general /reagent grade/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (cladoceran) 3-5 days old; Concentration: 224 ug/L for 72 hr at 10 &amp; 15 °C; 12 ug/L for 72 hr at 25 °C; 0.1 ug/L for 72 hr at 30 °C; Daphnia magna (cladoceran, adult); Concentration: 479 ug/L for 72 hr at 10 °C; 187 ug/L for 72 hr at 15 °C; 10.2 ug/L for 72 hr at 25 °C; 2.4 ug/L for 72 hr at 30 °C /Conditions of bioassay not specified in source examined/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea) age 8-9 days, adult female , clone F; Conditions: freshwater, renewal, 20 °C; Concentration: 6.11 ug/L for ~ 3 days; Effect: growth, decreased biomass</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea) age 8-9 days, adult female , clone F; Conditions: freshwater, renewal, 20 °C; Concentration: 1.52 ug/L for ~ 3 days (95% confidence interval: 1.26-1.88 ug/L); Effect: population, decreased progeny biomass</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea) age 8-9 days, adult female, clone F; Conditions: freshwater, renewal, 20 °C; Concentration: 0.87 ug/L for ~ 7 days (95% confidence interval: 0.71-1.12 ug/L); Effect: population, decreased progeny biomass</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water flea) age 8-9 days, adult female, clone F; Conditions: freshwater, renewal, 20 °C; Concentration: 3.34 ug/L for ~ 3 days (95% confidence interval: 1.81-6.22 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water flea) age 8-9 days, adult female, clone F; Conditions: freshwater, renewal, 20 °C; Concentration: 2.47 ug/L for ~ 7 days (95% confidence interval: 1.32-4.48 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water flea) age &lt;24 hr neonate; Conditions: freshwater, static, pH 7.5-9.1; Concentration: 27 ug/L for 48 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water flea) age &lt;24 hr, neonate; Conditions: freshwater, static, 20 °C, pH 7.8-8.2; Concentration: 309 ug/L for 24 hr (95% confidence interval: 182-532 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water flea) age &lt;24 hr, neonate; Conditions: freshwater, static, 20 °C, pH 7.8-8.2; Concentration: 40 ug/L for 72 hr (95% confidence interval: 15-101 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water flea); Conditions: freshwater, static, 15 °C (14-17 °C), pH 7.6 (7.4-7.8), hardness 240 mg/L CaCO3 (235-260 mg/L CaCO3), alkalinity 400 mg/L CaCO3 (390-415 mg/L CaCO3), dissolved oxygen 5.6 mg/L (5.2-6.5 mg/L); Concentration: 5300 ug/L for 24 hr (95% confidence interval: 3930-7160 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water flea); Conditions: freshwater, static, 15 °C (14-17 °C), pH 7.6 (7.4-7.8), hardness 240 mg/L CaCO3 (235-260 mg/L CaCO3), alkalinity 400 mg/L CaCO3 (390-415 mg/L CaCO3), dissolved oxygen 5.6 mg/L (5.2-6.5 mg/L); Concentration: 1500 ug/L for 48 hr (95% confidence interval: 1070-2100 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water flea) age &lt;24 hr neonate; Conditions: freshwater, static, pH 7.5-9.1; Concentration: 27 ug/L for 48 hr /dissolved/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water flea) age &lt;24 hr neonate; Conditions: freshwater, static, pH 7.5-9.1; Concentration: 3830 ug/L for 48 hr  /total Cd ion/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Danio rerio (Zebra Danio) juvenile, weight 0.25 g; Conditions: freshwater, static, 25 °C, pH 7.3-8.5, hardness 100 mg/L CaCO3; Concentration: 2400 ug/L for 24 hr (95% confidence interval: 1800-3200 ug/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Danio rerio (Zebra Danio) juvenile, weight 0.25 g; Conditions: freshwater, static, 25 °C, pH 7.3-8.5, hardness 100 mg/L CaCO3; Concentration: 1700 ug/L for 96 hr (95% confidence interval: 1000-3200 ug/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Gambusia affinis (Western Mosquitofish); Conditions: freshwater, renewal; Concentration: 7260 ug/L for 48 hr (95% confidence interval: 5320-9020 ug/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill) length 10.3 (9.8-10.8) cm; Conditions: freshwater, flow through, 16.1-28.9 °C, pH 7.7 (7.3-8.4), hardness 207 mg/L CaCO3 (191-224 mg/L CaCO3), alkalinity 152 mg/L CaCO3 (138-178 mg/L CaCO3), dissolved oxygen 6.6 mg/L (2.6-10.6 mg/L); Concentration: 21100 ug/L for 96 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow Trout) length 136 mm; Conditions: freshwater, flow through, 12 °C, pH 6.84, hardness 31 mg/L CaCO3, alkalinity 2.7 mg/L CaCO3, dissolved oxygen 6.4 mg/L; Concentration: 3.0 ug/L for 96 hr (95% confidence interval: 2.3-3.8 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead Minnow) age &lt;24 hr neonate; Conditions: freshwater, static, pH 7.5-9.1; Concentration: 72 ug/L for 96 hr /dissolved/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead Minnow) age &lt;24 hr neonate; Conditions: freshwater, static, pH 7.5-9.1; Concentration: 272 ug/L for 96 hr /total Cd ion/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead Minnow) age &lt;24 hr neonate; Conditions: freshwater, static, pH 7.5-9.1; Concentration: 298 ug/L for 96 hr /dissolved/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead Minnow) age &lt;24 hr neonate; Conditions: freshwater, static, pH 7.5-9.1; Concentration: 72 ug/L for 96 hr /dissolved/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead Minnow) age &lt;24 hr neonate; Conditions: freshwater, static, pH 7.5-9.1; Concentration: 243 ug/L for 96 hr /total Cd ion/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Lemna minor (Duckweed); Conditions: freshwater, static, 24 °C, pH 5.5; Concentration: 3.5 umol/L for 10 days; Effect: decreased growth, number of leaves</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Lemna minor (Duckweed); Conditions: freshwater, static, 24 °C, pH 5.5; Concentration: 4800 nmol/g for 10 days; Effect: decreased growth, number of leaves</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Lemna minor (Duckweed); Conditions: freshwater, static, 24 °C, pH 5.5; Concentration: 1.9 uM for 7 days; Effect: decreased growth, number of leaves</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

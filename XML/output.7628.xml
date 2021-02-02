@@ -1,0 +1,337 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>7628</ns0:RecordNumber>
+  <ns0:RecordTitle>Boric acid</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout); Concentration: 100 ppm for 96 hr (soft water); exposure was initiated subsequent to fertilization and maintained through 4 days posthatching /Conditions of bioassay not specified in source examined/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout); Concentration: 79 ppm for 96 hr (hard water); exposure was initiated subsequent to fertilization and maintained through 4 days posthatching /Conditions of bioassay not specified in source examined/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ictalurus punctatus (Channel catfish); Concentration: 155 ppm for 96 hr (soft water); exposure was initiated subsequent to fertilization and maintained through 4 days posthatching /Conditions of bioassay not specified in source examined/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ictalurus punctatus (Channel catfish); Concentration: 22 ppm for 96 hr (hard water); exposure was initiated subsequent to fertilization and maintained through 4 days posthatching /Conditions of bioassay not specified in source examined/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ictalurus punctatus (Channel catfish); Conditions: flow through; Concentration: 1.26 g/L for 5 days; 0.89 g/L for 9 days</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Carassius auratus (Goldfish); Concentration: 46 ppm for 96 hr (soft water); exposure was initiated subsequent to fertilization and maintained through 4 days posthatching /Conditions of bioassay not specified in source examined/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Carassius auratus (Goldfish); Concentration: 75 ppm for 96 hr (hard water); exposure was initiated subsequent to fertilization and maintained through 4 days posthatching /Conditions of bioassay not specified in source examined/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Carassius auratus (Goldfish); Conditions: flow through; Concentration: 1.02 g/L for 3 days; 0.26 g/Lfor 7 days</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water flea); Conditions: static bioassay; Concentration: 133 (115-153) mg/L for 48 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Anas platyrhynchos (Mallard duck) 1 day old dietary &gt;5620 ppm for 8 days</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Colinus virginianus (Northern bobwhite) 1 day old dietary &gt;5620 ppm for 8 days</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Colinus virginianus (Northern bobwhite) oral &gt;2510 mg/kg/14 days</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Apis mellifera (Honey bee) worker topical &gt;362.58 ug/bee for 48 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Catostomus latipinnis (Flannelmouth sucker); Conditions: static; Concentration: 1000 mg/L for 24 hr (95% confidence interval: 746-3510 mg/L) /technical product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Catostomus latipinnis (Flannelmouth sucker); Conditions: static; Concentration: 337 mg/L for 48 hr (95% confidence interval: 276-434 mg/L) /technical product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Catostomus latipinnis (Flannelmouth sucker); Conditions: static; Concentration: 225 mg/L for 72 hr (95% confidence interval: 174-275 mg/L) /technical product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Catostomus latipinnis (Flannelmouth sucker); Conditions: static; Concentration: 125 mg/L for 96 hr (95% confidence interval: 102-162 mg/L) /technical product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Ceriodaphnia dubia (Water flea); Conditions: static; Concentration: 180.6 g/L for 24 hr (95% confidence interval: 101.1-232.2 g/L); Effect: intoxication, immobilization /technical product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Ceriodaphnia pulchella (Water flea); Conditions; static; Concentration: 101.2 g/L for 24 hr (95% confidence interval: 71.2-150.9 g/L); Effect: intoxication, immobilization /technical product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia carinata (Water flea); Conditions: static; Concentration: 267.7 g/L for 24 hr (95% confidence interval: 191.4-376.1 g/L); Effect: intoxication, immobilization /technical product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea); Conditions: static; Concentration: 319.8 g/L for 24 hr (95% confidence interval: 264.3-496.7 g/L); Effect: intoxication, immobilization /technical product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Elodea canadensis (Waterweed); Conditions: static; Concentration: 5 mg B/L for 28 days</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Myriophyllum alterniflorum (Watermilfoil); Conditions: static; Concentration: 5 mg B/L for 28 days</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ranunculus penicillatus (Buttercup); Conditions: static; Concentration: 10 mg B/L for 28 days</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Gambusia affinis (Western mosquitofish); Conditions: static; Concentration: 18,000 ppm for 24 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Gambusia affinis (Western mosquitofish); Conditions: static; Concentration: 10,500 ppm for 48 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Gambusia affinis (Western mosquitofish); Conditions: static; Concentration: 5,600 ppm for 96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill); Conditions: static; Concentration: &gt;1021 ppm for 96 hr /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus kisutch (Coho salmon); Conditions: static; Concentration: &gt;10 mg/L for 24 hr /technical product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus kisutch (Coho salmon); Conditions: static; Concentration: 447 mg/L for 96 hr (95% confidence interval: 356-561 mg/L) /technical product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus tshawytscha (Chinook salmon); Conditions: static; Concentration: &gt;1 g/L for 24 hr /technical product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Simocephalus vetulus (Water flea); Conditions: static; Concentration: 123.4 g/L for 24 hr (95% confidence interval: 33.6-196.5 g/L); Effect: intoxication, immobilization /technical product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Spriostomum ambiguum (Protozoa); Conditions: static, 25 °C, total hardness 2.8 mg CaCO3, pH 7.4 +/-0.2; Concentration: 752 ppm for 24 hr; Effect: deformations</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Spriostomum ambiguum (Protozoa); Conditions: static, 25 °C, total hardness 2.8 mg CaCO3, pH 7.4 +/-0.2; Concentration: 364 ppm for 48 hr; Effect: deformations</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Spriostomum ambiguum (Protozoa); Conditions: static, 25 °C, total hardness 2.8 mg CaCO3, pH 7.4 +/-0.2; Concentration: 5825 ppm for 24 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Spriostomum ambiguum (Protozoa); Conditions: static, 25 °C, total hardness 2.8 mg CaCO3, pH 7.4 +/-0.2; Concentration: 4871 ppm for 48 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ptychocheilus lucius (Colorado squawfish) swimup fry 17-31 day; Conditions: static, 25 +/-1 °C, pH 7.0-8.5; Concentration: 279 mg/L as boron for 96 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ptychocheilus lucius (Colorado squawfish) juvenile 99-115 day; Condtions: static, 25 +/-1 °C, pH 7.0-8.5; Concentration: &gt;100 mg/L as boron for 96 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ptychocheilus lucius (Colorado squawfish) juvenile 193-207 day; Conditions: static, 25 +/-1 °C, pH 7.0-8.5; Concentration: 527 mg/L as boron for 96 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Xyrauchen texanus (Razorback sucker) swimup fry 10-17 day; Conditions: static, 25 +/-1 °C, pH 7.0-8.5; Concentration: 233 mg/L as boron for 96 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Xyrauchen texanus (Razorback sucker) juvenile 133-139 day; Conditions: static, 25 +/-1 °C, pH 7.0-8.5; Concentration: 279 mg/L as boron for 96 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Xyrauchen texanus (Razorback sucker) juvenile 176-178 day; Conditions: static, 25 +/-1 °C, pH 7.0-8.5; Concentration: &gt;100 mg/L as boron for 96 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Gila elegans (Bonytail) swimup fry 11-18 day; Conditions: static, 25 +/-1 °C, pH 7.0-8.5; Concentration: 280 mg/L as boron for 96 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Gila elegans (Bonytail) juvenile 138-145 day; Condtions: static, 25 +/-1 °C, pH 7.0-8.5; Concentration: &gt;100 mg/L as boron for 96 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Gila elegans (Bonytail) juvenile 220-234 day; Conditions: static, 25 +/-1 °C, pH 7.0-8.5; Concentration: 553 mg/L as boron for 96 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna; Conditions: static renewal procedure, with batchwise replacement of test and control solutions at regular intervals (Monday, Wednesday, and Friday), 20 +/-  1 °C, pH 8.1 +/- 0.1, conductivity was 290 +/- 31 umhos/cm, hardness was 148 +/- 7 mg/L as CaCO3, and alkalinity was 58 +/- 5 mg/L as CaCO3; Concentration: 52.2 mg/L for 21 days, as boron (95% confidence interval, 42.6-66.7 mg/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

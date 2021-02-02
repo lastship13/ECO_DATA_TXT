@@ -1,0 +1,358 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>38037</ns0:RecordNumber>
+  <ns0:RecordTitle>Aroclor 1016</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Bufo americanus (American toad, tadpole); Conditions: static, 20-24 °C, pH 7.6-8.1, hardness 90-115 mg/L; Concentration: 7.16 ug/L (95% Confidence Levels: 5.39-9.34 mg/L); Exposure was initiated 2-6 hr after spawning and continued to 4 days post-hatching. Hatching times varied between 3 and 4 days, therefore, exposure varied between 7 and 8 days.</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Bufo fowleri (Fowler's toad, tadpole); Conditions: static, 20-24 °C, pH 7.6-8.1, hardness 90-115 mg/L; Concentration: 27.72 ug/L (95% Confidence Levels: 21.77-35.08 mg/L); Exposure was initiated 2-6 hr after spawning and continued to 4 days post-hatching. Hatching times varied between 3 and 4 days, therefore, exposure varied between 7 and 8 days.</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Rana pipiens (Leopard frog, tadpole); Conditions: static, 20-24 °C, pH 7.6-8.1, hardness 90-115 mg/L; Concentration: 6.19 ug/L (95% Confidence Levels: 4.95-7.69 mg/L); Exposure was initiated 2-6 hr after spawning and continued to 4 days post-hatching. Hatching times varied between 3 and 4 days, therefore, exposure varied between 7 and 8 days.</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Rana pipiens (Leopard frog, tadpole); Conditions: static, 20-24 °C, pH 7.6-8.1, hardness 90-115 mg/L; Concentration: 1.03 ug/L (95% Confidence Levels: 0.83-1.27 mg/L); Exposure was initiated 2-6 hr after spawning and continued to 4 days post-hatching. Hatching times varied between 3 and 4 days, therefore, exposure varied between 7 and 8 days.</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Catostomus catostomus (longnose sucker); Conditions: flow-through, 12 °C, pH 7.5, hardness 314 mg/L; Concentration: 0.33 mg/L for 96 hr (95% Confidence Levels: 0.22-0.49 mg/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Catostomus commersoni (white sucker, 1.9 g); Conditions: static, 12 °C; Concentration: 435 ug/L for 96 hr (95% confidence limits: 325-582 ug/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ictalurus punctatus (channel catfish, 0.60 g); Conditions: static, 20 °C, pH 7.4, hardness 40 mg/L; Concentration: &gt;100 mg/L for 96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ictalurus punctatus (channel catfish, yolk-sac); Conditions: static, 25 °C, pH 7.4, hardness 272 mg/L; Concentration: 0.44 mg/L for 96 hr (95% Confidence Limits: 0.34-0.56 mg/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ictalurus punctatus (channel catfish, age yolk sac fry); Conditions: freshwater, static, 25 °C, pH 7.4, hardness 272 mg/L CaCO3; Concentration: 830 ug/L (660-1050 ug/L) for 24 hr /100% pure, technical product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ictalurus punctatus (channel catfish, age yolk sac fry); Conditions: freshwater, static, 25 °C, pH 7.4, hardness 272 mg/L CaCO3; Concentration: 440 ug/L (340-560 ug/L) for 96 hr /100% pure, technical product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ictalurus punctatus (channel catfish, 0.6 g); Conditions: freshwater, static, 20 °C, pH 7.4, hardness 40 mg/L CaCO3; Concentration: &gt;100000 ug/L for 96 hr /100% pure, technical product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ictalurus punctatus (channel catfish, 0.8 g); Conditions: freshwater, static, 20 °C, pH 7.4, hardness 40 mg/L CaCO3; Concentration: &gt;100000 ug/L for 96 hr /100% pure, technical product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ictalurus punctatus (channel catfish, embryo to larva); Conditions: freshwater, renewal, 29-31 °C, pH 7.6-8.1, hardness 90-115 mg/L CaCO3, dissolved oxygen saturated; Concentration: 11.16 ug/L (9.93-12.97 ug/L) for 96 hr /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (bluegill sunfish, 1.80 g); Conditions: flow-through, 20 °C, pH 7.4, hardness 272 mg/L; Concentration: 0.46 mg/L for 96 hr (95% Confidence Limits: 0.39-0.54 mg/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (bluegill sunfish, 0.90 g); Conditions: static, 12 °C, pH 7.4, hardness 44 mg/L; Concentration: 0.60 mg/L for 96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (bluegill, 1.8 g); Conditions: freshwater, flow through, 20 °C, pH 7.4, hardness 272 mg/L CaCO3; Concentration: 460 ug/L (390-540 ug/L) for 96 hr /100% pure, technical product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (bluegill, 0.9 g); Conditions: freshwater, static, 12 °C, pH 7.4, hardness 44 mg/L CaCO3; Concentration: &gt;1200 ug/L for 24 hr /100% pure, technical product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (bluegill, 0.9 g); Conditions: freshwater, static, 12 °C, pH 7.4, hardness 44 mg/L CaCO3; Concentration: 600 ug/L for 96 hr /100% pure, technical product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (rainbow trout, age yolk sac fry); Conditions: freshwater, flow through, 12 °C, pH 7.6, hardness 314 mg/L CaCO3; Concentration: &gt;500 ug/L for 24 hr /100% pure, technical product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (rainbow trout, age yolk sac fry); Conditions: freshwater, flow through, 12 °C, pH 7.6, hardness 314 mg/L CaCO3; Concentration: 440 ug/L (366-527 ug/L) for 96 hr /100% pure, technical product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (rainbow trout, 2.5 g); Conditions: freshwater, flow through, 10 °C, pH 7.4, hardness 272 mg/L CaCO3; Concentration: &gt;500 ug/L for 24 hr /100% pure, technical product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (rainbow trout, 2.5 g); Conditions: freshwater, flow through, 10 °C, pH 7.4, hardness 272 mg/L CaCO3; Concentration: 615 ug/L (421-898 ug/L) for 96 hr /100% pure, technical product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (rainbow trout, 0.5 g); Conditions: freshwater, static, 12 °C, pH 7.4, hardness 44 mg/L CaCO3; Concentration: 800 ug/L (467-1370 ug/L) for 24 hr /100% pure, technical product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (rainbow trout, 0.5 g); Conditions: freshwater, static, 12 °C, pH 7.4, hardness 44 mg/L CaCO3; Concentration: 135 ug/L (114-159 ug/L) for 96 hr /100% pure, technical product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (rainbow trout, embryo to larva); Conditions: freshwater, renewal, 13.5-14.3 °C, pH 7.6-8.1, hardness 90-115 mg/L CaCO3, dissolved oxygen saturated; Concentration: 1.08 ug/L (0.70-1.56 ug/L) for 96 hr /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Perca flavescens (yellow perch, 0.8 g); Conditions: static, 12 °C; Concentration: 240 ug/L for 96 hr (95% confidence limits: 153-376 ug/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (fathead minnow); Concentration: 28 ug/L for 30 days /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pteronarcells (Salmonflies, naiad); Conditions: static, 10 °C; Concentration: 610 ug/L for 96 hr (95% confidence limits: 424-878 ug/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Salmo gairdneri (rainbow trout, 5.6 g), Conditions: static, 12 °C; Concentration: 135 ug/L for 96 hr (95% confidence limits: 114-159 ug/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Salmo gairdneri (Rainbow trout), 0.50 g; Conditions: static, 12 °C, pH 7.4, hardness 44 mg/L; Concentration: 0.14 mg/L for 96 hr (95% Confidence Limits: 0.11-0.16 mg/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Salmo gairdneri (Rainbow trout), 2.50 g; Conditions: flow-through, 10 °C, pH 7.4, hardness 272 mg/L; Concentration: 0.62 mg/L for 96 hr (95% Confidence Limits: 0.42-0.90 mg/L) /Aroclor 1016/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Salmo gairdneri (Rainbow trout), fry; Conditions: flow-through, 12 °C, pH 7.6, hardness 314 mg/L; Concentration: 0.44 mg/L for 96 hr (95% Confidence Limits: 0.37-0.53 mg/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Salmo salar (Atlantic salmon, 5.6 g); Conditions: static, 12 °C; Concentration: 134 ug/L for 96 hr (95% confidence limits: 113-159 ug/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Salmo trutta (brown trout, 4.6 g), Conditions: static, 12 °C; Concentration: 138 ug/L for 96 hr (95% confidence limits: 109-175 ug/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Salvelinus fontinalis (brook trout), 3.0 g; Conditions: flow-through, 12 °C, pH 7.6, hardness 314 mg/L; Concentration: &gt; 0.80 mg/L for 96 hr /Aroclor 1016/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Salvelinus namaycush (lake trout, yolk sac fry); Conditions: static, 10 °C; Concentration: 890 ug/L for 96 hr (95% confidence limits: 686-1,154 ug/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Salvelinus namaycush (lake trout, swim-up fry); Conditions: static, 10 °C; Concentration: 480 ug/L for 96 hr (95% confidence limits: 386-596 ug/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Palaemonetes pugio (grass shrimp), 1 day; Conditions: static, 25 °C, salinity 25%; Concentration: 0.15 mg/L for 96 hr /Aroclor 1016/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Palaemonetes pugio (grass shrimp), 3 days; Conditions: static, 25 °C, salinity 25%; Concentration: 0.021 mg/L for 96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Palaemonetes pugio (grass shrimp), 6 days; Conditions: static, 25 °C, salinity 25%; Concentration: 0.017 mg/L for 96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Palaemonetes pugio (grass shrimp), 9 days; Conditions: static, 25 °C, salinity 25%; Concentration: 0.019 mg/L for 96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Palaemonetes pugio (grass shrimp), 12 days; Conditions: static, 25 °C, salinity 25%; Concentration: 0.021 mg/L for 96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Palaemonetes pugio (grass shrimp), 15 days; Conditions: static, 25 °C, salinity 25%; Concentration: 0.024 mg/L for 96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Palaemonetes pugio (grass shrimp), 18 days; Conditions: static, 25 °C, salinity 25%; Concentration: 0.037 mg/L for 96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Palaemonetes pugio (grass shrimp), 30 days; Conditions: static, 25 °C, salinity 25%; Concentration: 0.044 mg/L for 96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Palaemonetes pugio (grass shrimp), adult; Conditions: static, 25 °C, salinity 25%; Concentration: 0.052 mg/L for 96 hr (95% Confidence Interval 0.046-0.057 mg/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Palaemonetes pugio (grass shrimp), adult; Conditions: flow-through, 30 °C, salinity 28%; Concentration: 0.012 mg/L for 96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Penaeus aztecus (Brown shrimp), adult; Conditions: flow-through, 30 °C, salinity 29%; Concentration: 0.01 mg/L for 96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pteronarcella badia (stonefly), first year; Conditions: static, 10 °C, pH 7.2, hardness 170 mg/L; Concentration: 0.61 mg/L for 96 hr (95% Confidence Interval: 0.42-0.88)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

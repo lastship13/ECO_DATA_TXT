@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf8'?>
+<Excel_XML>
+  <RECORDS>
+    <index>88</index>
+    <name>Formic acid</name>
+    <CAS>64-18-6</CAS>
+    <IUPAC>formic acid</IUPAC>
+    <SMILES>C(=O)O</SMILES>
+    <Toxicity>Daphnia_EC50 : 151.2 (138-165.6) AI mg/L  Daphnia_Duration : 48hr  Daphnia_Further_info : echotox, Larva, Age : 	&lt;24 Hour(s), *24hr : 679 AI mg/L *24hr : 68 AI mg/L *</Toxicity>
+  </RECORDS>
+</Excel_XML>

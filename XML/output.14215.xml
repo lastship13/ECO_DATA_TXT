@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>14215</ns0:RecordNumber>
+  <ns0:RecordTitle>Pebulate</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Anas platyrhynchos (Mallard duck, age 10 days) diet 5206 ppm for 8 days</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 Anas platyrhynchos (Mallard duck, age 14 months) oral &gt;2000 mg/kg for 14 days</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Colinus virginianus (Northern bobwhite, age 10 days) diet &gt;5200 ppm for 8 days</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Anabaena flosaquae (Blue-green algae); Conditions: freshwater, static; Concentration: 8200 ug/L/5 days (95% confidence interval: 7200-9300 ug/L); Effect: population abundance /95.5% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Navicula pelliculosa (Diatom); Conditions: freshwater, static; Concentration: 2850 ug/L/4 days (95% confidence interval: 2140-4000 ug/L); Effect: population abundance /95.5% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Pseudokirchneriella subcapitata (Green algae); Conditions: freshwater, static; Concentration: 230 ug/L/4 days (95% confidence interval: 150-350 ug/L); Effect: population abundance /95.5% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Skeletonema costatum (Diatom); Conditions: saltwater, static; Concentration: 260 ug/L/4 days (95% confidence interval: 240-280 ug/L); Effect: population abundance /95.5% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea, age &lt;24 hr); Conditions: freshwater, static; Concentration: 6830 ug/L/48 hr (95% confidence interval: 5450-8650 ug/L); Effect: intoxication, immobilization /95.9% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Gammarus fasciatus (Scud, immature organism); Conditions: freshwater; static, 15 °C, pH 7.4, hardness 272 mg/L CaCO3; Concentration: 20500 ug/L (95% confidence limit: 14700 to 28600 ug/L) for 24 hr /95.6% purity, technical material/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Gammarus fasciatus (Scud, immature organism); Conditions: freshwater; static, 15 °C, pH 7.4, hardness 272 mg/L CaCO3; Concentration: 10000 ug/L (95% confidence limit: 7440 to 13400 ug/L) for 96 hr /95.6% purity, technical material/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Lepomis macrochirus (Bluegill); Conditions: freshwater, static; Concentration: 6300 ug/L/96 hr (95% confidence interval: 5200-8300 ug/L); Effect: intoxication, immobilization /95.9% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill); Conditions: freshwater, static; Concentration: 7900 ug/L/96 hr (95% confidence interval: 5990-10410 ug/L) /77.3% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Gambusia affinis (Western mosquitofish); Conditions: freshwater, static; Concentration: 10000 ug/L/96 hr /77.5% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout); Conditions: freshwater, static; Concentration: 7400 ug/L/96 hr (95% confidence interval: 6000-9300 ug/L) /95.9% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Lemna gibba (Inflated duckweed); Conditions: freshwater, static; Concentration: 1800 ug/L/5 days (95% confidence interval: 1500-2200 ug/L); Effect: population abundance /95.5% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

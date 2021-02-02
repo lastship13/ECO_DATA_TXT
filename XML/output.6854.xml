@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>6854</ns0:RecordNumber>
+  <ns0:RecordTitle>Carbazole</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water flea) neonate &lt;24 hr; Conditions: freshwater, renewal, 21.2 (21-21.4) °C, pH 8.31 (8.1-8.6), hardness 159.6 (113-200) mg/L CaCO3, alkalinity 102.3 (81-117) mg/L CaCO3, dissolved oxygen 96.1 (93.5-113) mg/L; Concentration: 3350 ug/L for 48 hr (95% confidence interval: 2300-4880 ug/L) /98.9% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead Minnow) age 30 days, length 17 mm, weight 0.043-0.125 g; Conditions: freshwater, static, 22.6 (22-23) °C, pH 7.23 (6.82-7.51), hardness 53.9 (51.9-55.9) mg/L CaCO3, alkalinity 44 (43-45) mg/L CaCO3, dissolved oxygen 75.6% (62.2-85.1%); Concentration: &lt;1500 ug/L for 96 hr /98.9% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead Minnow) age 30 days, length 17 mm, weight 0.043-0.125 g; Conditions: freshwater, flow through, 23.2 (21-24.4) °C, pH 7.06 (6.84-7.35), hardness 48.9 (47.9-49.9) mg/L CaCO3, alkalinity 42.5 (42-43) mg/L CaCO3, dissolved oxygen 78.1% (68.9-83.2%); Concentration: 930 ug/L for 96 hr /98.9% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

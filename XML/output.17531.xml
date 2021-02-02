@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>17531</ns0:RecordNumber>
+  <ns0:RecordTitle>Azinphos-ethyl</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water Flea) 1st instar larvae; Conditions: freshwater, static, 21 °C, pH 7.1, hardness 44 mg/L CaCO3; Concentration: 4 ug/L for 48 hr (95% confidence interval: 3-5.3 ug/L); Effect: intoxication, immobilization /88% purity technical material/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Simocephalus (Water Flea), first instar; Conditions: Static bioassay without aeration, 15 °C, pH 7.2-7.5, water hardness 40-50 mg/L as calcium carbonate and alkalinity of 30-35 mg/L; Concentration: 4.2 ug/L for 48 hr (95% confidence limit 2.9-6.1 ug/L); Effect: immobilization /Technical, 88%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia pulex (Water Flea), first instar; Conditions: Static bioassay without aeration, 15 °C, pH 7.2-7.5, water hardness 40-50 mg/L as calcium carbonate and alkalinity of 30-35 mg/L; Concentration: 3.2 ug/L for 48 hr (95% confidence limit 1.8-5.8 ug/L); Effect: immobilization /Technical, 88%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pteronarcys(Stonefly), second year class; Conditions: Static bioassay without aeration, 15 °C, pH 7.2-7.5, water hardness 40-50 mg/L as calcium carbonate and alkalinity of 30-35 mg/L; Concentration: 1.5 ug/L for 96 hr (95% confidence limit 0.8-2.7 ug/l) /Technical, 88%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (rainbow trout) weight 1.4 g; Conditions: Static bioassay without aeration, 13 °C, pH 7.2-7.5, water hardness 40-50 mg/L as calcium carbonate and alkalinity of 30-35 mg/L; Concentration: 20 ug/L for 96 hr (95% confidence limit 17-22 ug/L) /Technical, 88%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill) weight 0.8 g; Conditions: freshwater, static, 24 °C, pH 7.1, hardness 44 mg/L CaCO3; Concentration: 3.7 ug/L for 24 hr (95% confidence interval: 3.2-4.3 ug/L) /88% purity technical material/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (bluegill) weight 0.8 g; Conditions: Static bioassay without aeration, 24 °C, pH 7.2-7.5, water hardness 40-50 mg/L as calcium carbonate and alkalinity of 30-35 mg/L; Concentration: 1.1 ug/L for 96 hr (95% confidence limit 0.9-1.2 ug/L) /Technical, 88%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: /Leuciscus idus/ (Golden orfe); Concentration: 0.03 mg/L for 96 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: /Poecilia reticulata/ (Guppy); Concentration: 0.01-0.1 mg/L for 96 hr /Conditions of bioassay not specified in source examined/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Brachionus plicatilis (Rotifer) neonate; Conditions: saltwater, static, 25 °C; Concentration: 5200 ug/L for 24 hr /&gt; or =95% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

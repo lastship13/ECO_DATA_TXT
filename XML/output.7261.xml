@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>7261</ns0:RecordNumber>
+  <ns0:RecordTitle>2,4-Diaminotoluene</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Pseudokirchneriella subcapitata (Green Alga) exponential growth phase; Conditions: freshwater, static, 25 °C, pH 6.0-7.5; Concentration: 78.1 ug/L for 96 hr (95% confidence interval: 60-100.7 ug/L); Effect: decreased population abundance /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water Flea) age &lt;24 hr, Lake Langedam strain; Conditions: freshwater, static, 20 °C, pH 7.8-8.0, hardness 250 mg/L CaCO3, dissolved oxygen 94-99%; Concentration: 12000 ug/L for 24 hr; Effect: intoxication, immobilization /98% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water Flea) age &lt;24 hr, Lake Langedam strain; Conditions: freshwater, renewal, 20 °C, pH 7.8-8.0, hardness 250 mg/L CaCO3, dissolved oxygen 94-99%; Concentration: 1600 ug/L for 48 hr; Effect: intoxication, immobilization /98% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oryzias latipes (Japanese Medaka) age 28-43 days juvenile, weight 18-71 mg; Conditions: freshwater, flow through, 25 °C, pH 7.88, hardness 45.8 (38.0-52.0) mg/L CaCO3, alkalinity 45.9 (35.0-58.5) mg/L CaCO3, dissolved oxygen 6.8 mg/L; Concentration: 912000 ug/L for 96 hr (95% confidence interval: 797000-1040000 ug/L) /98% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (fathead minnow); Conditions: flow through bioassay with measured concentrations, 24.2 °C, dissolved oxygen 6.5 mg/L, hardness 46.3 mg/L calcium carbonate, alkalinity 123 mg/L calcium carbonate, and pH 7.6; Concentration: 1420 mg/L for 96 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Pimephales promelas (fathead minnow); Conditions: flow through bioassay with measured concentrations, 24.2 °C, dissolved oxygen 6.5 mg/L, hardness 46.3 mg/L calcium carbonate, alkalinity 123 mg/L calcium carbonate, pH 7.6; Concentration: 1360 mg/L for 96 hr (confidence limit 1290-1440 mg/L); Effect: loss of equilibrium</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

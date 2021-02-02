@@ -1,0 +1,295 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>1486</ns0:RecordNumber>
+  <ns0:RecordTitle>2,4-Dichlorophenoxyacetic acid</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Anas platyrhynchos (Mallard Duck) age 10 days; dietary (chemical incorporated into food) &gt;5620 ppm for 8 days</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Anas platyrhynchos (Mallard duck) female 3-5 month old; oral &gt;1000 mg/kg /Technical grade acid (&gt;99%)/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Anas platyrhynchos (mallard) male 4 month old; oral &gt;2000 mg/kg /Technical grade acid (&gt;99%)/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Colinus virginianus (Northern Bobwhite Quail) age 10 days; dietary (chemical incorporated into food) &gt;5620 ppm for 8 days</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Coturnix japonica (Japanese quail) male 2 month old; oral 668 mg/kg (95% confidence limit: 530-842 mg/kg) /Technical grade acid (&gt;99%)/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Coturnix japonica (Japanese quail) male and female 14 days old; oral &gt;5000 ppm /Technical grade acid, 75%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Apis mellifera (Honey bee) topical, general &gt;18.13 ug/bee</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Phasianus colchicus (Pheasant) female 3-4 months old; oral 472 mg/kg (95% confidence limti: 340-654 mg/kg) /Technical grade acid (&gt;99%)/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Columba livia (rock dove) male and female; oral 668 mg/kg (95% confidence limit 530-842 mg/kg) /Technical grade acid (&gt; 99%)/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Alectoris chukar (chukar) male and female 4 month old; oral 200-400 mg/kg /Technical grade acid (&gt;99%)/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Odocoileus hemionus hemionus (Mule Deer) male and female, 8-11 month old; oral 400-800 mg/kg /Technical grade acid (&gt;99%)/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Salvelinus namaycush (lake trout) weight 0.3 g; Conditions: static bioassay at 10 °C, without aeration, pH 7.2-7.5, water hardness 40-50 mg/L as calcium carbonate and alkalinity of 30-35 mg/L; Concentration: 45 mg/L for 96 hr (95% confidence limit 35-56 mg/L) /2,4-D acid, granular 100%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Salmo clarki (cutthroat trout) weight 0.3 g; Conditions: static bioassay at 10 °C, without aeration, pH 7.2-7.5, water hardness 40-50 mg/L as calcium carbonate and alkalinity of 30-35 mg/L; Concentration: 64 mg/L for 96 hr (95% confidence limit 57-72 mg/L) /2,4-D acid, granular 100%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (bluegill fish); Concentration: 0.9 ppm for 48 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: /Oncorhynchus mykiss/ (rainbow trout); Concentration: 1.1 ppm for 48 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Morone saxatilis (striped bass); Conditions: static bioassay; Concentration: 70.1 mg/L for 96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis gibbosus (pumpkinseed fish); Conditions: static bioassay; Concentration: 95 mg/L for 96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Morone americana (white perch); Conditions: staic bioassay; Concentration: 40 mg/L for 96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Anguilla rostrata (American eel); Conditions: static bioassay; Concentration: 300 mg/L for 96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cyprinus carpio (carp); Conditions: static bioassay; Concentration: 96.5 mg/L for 96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lebistes reticulatus (guppy); Conditions: static bioassay; Concentration: 70.7 mg/L for 96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Alburnus alburnus (bleak) embryo; Concentration: 159 mg/L for 12 hr /Conditions of bioassay not specified; sodium salt/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Alburnus alburnus (bleak) embryo; Concentration: 129 mg/L for 24 hr /Conditions of bioassay not specified; sodium salt/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Alburnus alburnus (bleak) embryo; Concentration: 64 mg/L for 36 hr /Conditions of bioassay not specified; sodium salt/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Alburnus alburnus (bleak) embryo; Concentration: 13 mg/L for 48 hr /Conditions of bioassay not specified; sodium salt/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lebistes reticulatis (guppy); Concentration: 3758.4 mg/L for 24 hr /Conditions of bioassay not specified; SRP: Unspecified salt or ester of 2,4-D/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (water flea); Concentration: 363-389 mg/L for 48 hr /Conditions of bioassay not specified, SRP: Unspecified salt or ester of 2,4-D/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow Trout) weight 0.28 g; Conditions: freshwater, static; Concentration: &gt;100000 ug/L for 96 hr /80% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow Trout) weight 0.34 g; Conditions: freshwater, static; Concentration: 358000 ug/L for 96 hr (95% confidence interval: 320000-400000 ug/L) /98.7% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pseudokirchneriella subcapitata (Green Algae); Conditions: freshwater, static; Concentration: 20700 ug/L for 5 days /96.1% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water Flea) age 1st instar; Conditions: freshwater, static; Concentration: 25000 ug/L for 48 hr (95% confidence interval: 17600-32600 ug/L); Effect: intoxication, immobilization /98.7% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ceriodaphnia dubia (Water Flea); Conditions: freshwater, static, 22 °C, pH 8.2-8.3, hardness 162-178 mg/L CaCO3, alkalinity 107-114 mg/L CaCO3, dissolved oxygen 7.8-8.1 mg/L; Concentration: 272500 ug/L for 24 hr /formulation/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water Flea); Conditions: freshwater, static, 22 °C, pH 8.2-8.3, hardness 162-178 mg/L CaCO3, alkalinity 107-114 mg/L CaCO3, dissolved oxygen 7.8-8.1 mg/L; Concentration: 415700 ug/L for 24 hr /formulation/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water Flea) age &lt;24 hr; Conditions: freshwater, renewal, 20 °C; Concentration: &gt;10000 ug/L for 1, 2, or 8 days /formulation/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow Trout) weight 3.6-4.6 g; Conditions: freshwater, static; Concentration: 362380 ug/L for 24 hr /98% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Danio rerio (Zebra Danio) embryo 6 hr postfertilization; Conditions: freshwater, renewal; Concentration: 73 uM for 96 hr; Effect: increase abnormal development /100% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Danio rerio (Zebra Danio) embryo 6 hr postfertilization; Conditions: freshwater, renewal; Concentration: 132 uM for 96 hr /100% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill) weight 0.15 g; Conditions: freshwater, static; Concentration: 263000 ug/L for 96 hr (95% confidence interval: 220000-302000 ug/L) /98.7% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Menidia beryllina (Inland Silverside); Conditions: saltwater, flow through; Concentration: 175000 ug/L for 96 hr (95% confidence interval: 128000-217000 ug/L) /96.1% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead Minnow) weight 0.14 g; Conditions: freshwater, static; Concentration: 320000 ug/L for 96 hr (95% confidence interval: 299000-343000 ug/L) /98.7% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

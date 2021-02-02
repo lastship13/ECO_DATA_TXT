@@ -1,0 +1,253 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>43079</ns0:RecordNumber>
+  <ns0:RecordTitle>Fluridone</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 /Colinus virginianus/ (Bobwhite quail) oral &gt;2000 mg/kg</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 /Colinus virginianus/ (Bobwhite quail) dietary &gt;5000 mg/kg/8 days</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 /Anas platyrhynchos/ (Mallard duck) dietary &gt;5000 mg/kg/8 days</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 /Oncorhynchus mykiss/ (Rainbow Trout) 11.7 mg/L/ 96 hr /Conditions of bioassay not specified in source examined/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 /Lepomis macrochirus/ (bluegill) 2.1 mg/L/ 96 hr /Conditions of bioassay not specified in source examined/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 Apis mellifera (Honey bee) topical &gt;362.58 ug/bee/48 hr[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 1-Methyl-3-phenyl-5-</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50 Anabaena cylindrica (Blue-green algae; nitrogen fixation) 3.3 mg/L/24 hr (95% confidence interval: 2.1-5.1 mg/L); static /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50 Anabaena cylindrica (Blue-green algae; nitrogen fixation) 5.6 mg/L/96 hr (95% confidence interval: 4.9-6.4 mg/L); static /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50 Anabaena cylindrica (Blue-green algae; nitrogen fixation) 70.2 mg/L/4 hr (95% confidence interval: 31.2-158.3 mg/L); static /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Callinectes sapidus (Blue crab) 50 ppm/96 hr; flow through /formulated product/[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 1-Methyl-3-phenyl-5-</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Callinectes sapidus (Blue crab) 71.0 ppm/96 hr; static /formulated product/[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 1-Methyl-3-phenyl-5-</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50 Chironomus plumosus (Midge; intoxication, immobilization) 1.3 mg/L/48 hr; static /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50 Crassostrea virginica (American or virginia oyster; intoxication, immobilization) 16.5 ppm/48 hr (95% confidence interval: 15.7-18.1 ppm); flow through /formulated product/[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 1-Methyl-3-phenyl-5-</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50 Crassostrea virginica (American or virginia oyster; intoxication, immobilization) 13 ppm/48 hr (95% confidence interval: 3-61 ppm); static /formulated product/[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 1-Methyl-3-phenyl-5-</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Cyprinodon variegatus (Sheepshead minnow) 10.9 ppm/96 hr (95% confidence interval: 8-16 ppm); flow through /formulated product/[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 1-Methyl-3-phenyl-5-</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Cyprinodon variegatus (Sheepshead minnow) 35 ppm/96 hr (95% confidence interval: 20-154 ppm); static /formulated product/[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 1-Methyl-3-phenyl-5-</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50 Daphnia magna (Water flea; intoxication, immobilization) 3.6 ppm/48 hr (95% confidence interval: 3.2-4.0 ppm); static /formulated product/[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 1-Methyl-3-phenyl-5-</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Cypria sp. (Ostracod) 13.0 mg/L/48 hr; static</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Alonella sp. (Water flea) 13.0 mg/L/48 hr; static</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Diaptomus sp. (Calanoid copepod) 12.0 mg/L/48 hr; static</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Eucyclops sp. (Cyclopoid copepod) 8.0 mg/L/48 hr; static</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Stizostedion vitreum (Walleye, 8-12 day old) 3.6 mg/L/24 hr (95% confidence interval: 3.2-4.1 mg/L); static, temp 15.6 + or -0.5 °C, pH 7.71 (7.1-8.0), alkalinity 114 mg/L CaCO3 (98-130 mg/L), hardness 132 mg/L CaCO3 (122-138 mg/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Stizostedion vitreum (Walleye, 8-12 day old) 2.8 mg/L/48 hr (95% confidence interval: 2.4-3.1 mg/L); static, temp 15.6 + or -0.5 °C, pH 7.71 (7.1-8.0), alkalinity 114 mg/L CaCO3 (98-130 mg/L), hardness 132 mg/L CaCO3 (122-138 mg/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Stizostedion vitreum (Walleye, 8-12 day old) 2.3 mg/L/72 hr (95% confidence interval: 2.0-2.6 mg/L); static, temp 15.6 + or -0.5 °C, pH 7.71 (7.1-8.0), alkalinity 114 mg/L CaCO3 (98-130 mg/L), hardness 132 mg/L CaCO3 (122-138 mg/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Stizostedion vitreum (Walleye, 8-12 day old) 1.8 mg/L/96 hr (95% confidence interval: 1.4-2.0 mg/L); static, temp 15.6 + or -0.5 °C, pH 7.71 (7.1-8.0), alkalinity 114 mg/L CaCO3 (98-130 mg/L), hardness 132 mg/L CaCO3 (122-138 mg/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Micropterus dolomieu (Smallmouth bass, 4-8 day old) 19 mg/L/24 hr (95% confidence interval: 17-21 mg/L); static, temp 17.2 + or -0.5 °C, pH 7.2, hardness 81 mg/L CaCO3</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Micropterus dolomieu (Smallmouth bass, 4-8 day old) 11 mg/L/48 hr (95% confidence interval: 9.7-13 mg/L); static, temp 17.2 + or -0.5 °C, pH 7.2, hardness 81 mg/L CaCO3</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Micropterus dolomieu (Smallmouth bass, 4-8 day old) 9.5 mg/L/72 hr (95% confidence interval: 8.5-11 mg/L); static, temp 17.2 + or -0.5 °C, pH 7.2, hardness 81 mg/L CaCO3</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Micropterus dolomieu (Smallmouth bass, 4-8 day old) 7.6 mg/L/96 hr (95% confidence interval: 6.9-8.7 mg/L); static, temp 17.2 + or -0.5 °C, pH 7.2, hardness 81 mg/L CaCO3</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Micropterus salmoides (Largemouth bass, 10-14 day old) 16 mg/L/24 hr; static, temp 17.2 + or -0.5 °C, pH 7.4 (7.1-7.8), alkalinity 53 mg/L CaCO3 (38-69 mg/L), hardness 65 mg/L CaCO3 (46-81 mg/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Micropterus salmoides (Largemouth bass, 10-14 day old) 16 mg/L/48 hr; static, temp 17.2 + or -0.5 °C, pH 7.4 (7.1-7.8), alkalinity 53 mg/L CaCO3 (38-69 mg/L), hardness 65 mg/L CaCO3 (46-81 mg/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Micropterus salmoides (Largemouth bass, 10-14 day old) 14 mg/L/72 hr (95% confidence interval: 13-16 mg/L); static, temp 17.2 + or -0.5 °C, pH 7.4 (7.1-7.8), alkalinity 53 mg/L CaCO3 (38-69 mg/L), hardness 65 mg/L CaCO3 (46-81 mg/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Micropterus salmoides (Largemouth bass, 10-14 day old) 13 mg/L/96 hr (95% confidence interval: 12-15 mg/L); static, temp 17.2 + or -0.5 °C, pH 7.4 (7.1-7.8), alkalinity 53 mg/L CaCO3 (38-69 mg/L), hardness 65 mg/L CaCO3 (46-81 mg/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50 Lemna paucicostata (Duckweed; growth inhibition) 0.096 uM/7 days; static, pH 5.5</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

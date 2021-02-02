@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>7070</ns0:RecordNumber>
+  <ns0:RecordTitle>3,3'-Dichlorobenzidine</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water Flea) age &lt;24 hr neonate; Conditions: freshwater, renewal, 22.3. (22-22.6 °C), pH 8.43 (8.33-8.61), hardness 170 (163-183) mg/L CaCO3, alkalinity 108 (88-131) mg/L CaCO3, dissolved oxygen 98.4% (94.8-100.8%); Concentration: 1050 ug/L for 48 hr (95% confidence interval: 810-1360 ug/L) /98% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead Minnow) age 30 days, length 20 mm, weight 0.103 g; Conditions: freshwater, flow through, 22 (21.7-22.5) °C, pH 7.24 (6.76-7.54), hardness 51.6 (50.9-51.9) mg/L CaCO3, alkalinity 43 (36-46) mg/L CaCO3, dissolved oxygen 83.1% (73.7-88.5%); Concentration: 2080 ug/L for 96 hr /98% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead Minnow) age 30 days, length 20 mm, weight 0.103 g; Conditions: freshwater, flow through, 21.5 (20.7-22) °C, pH 6.83 (6.55-7.11), hardness 50.9 (50.1-52.7) mg/L CaCO3, alkalinity 49.6 (46.4-51.2) mg/L CaCO3, dissolved oxygen 81.2% (74.3-85.4%); Concentration: 1770 ug/L for 96 hr (95% confidence interval: 1640-1920 ug/L) /98% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead Minnow) age 30 days, length 15 mm, weight 0.053 g; Conditions: freshwater, static, 22.3 (21.8-22.7) °C, pH 6.67 (6.45-6.77), hardness 49 (47.9-49.9) mg/L CaCO3, alkalinity 49.7 (48.4-51.2) mg/L CaCO3, dissolved oxygen 76.7% (67.3-84%); Concentration: 1050 ug/L for 96 hr (95% confidence interval: 820-1340 ug/L) /98% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead Minnow) age 30 days, length 15 mm, weight 0.053 g; Conditions: freshwater, static, 22 (21.7-22.5) °C, pH 7.24 (6.76-7.54), hardness 51.6 (50.9-51.9) mg/L CaCO3, alkalinity 43 (36-46) mg/L CaCO3, dissolved oxygen 76.7% (67.3-84%); Concentration: 2770 ug/L for 96 hr /98% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead Minnow) age 30 days, length 15 mm, weight 0.053 g; Conditions: freshwater, static, 22 (21.7-22.5) °C, pH 7.24 (6.76-7.54), hardness 51.6 (50.9-51.9) mg/L CaCO3, alkalinity 43 (36-46) mg/L CaCO3, dissolved oxygen 83.1% (73.7-88.5%); Concentration: 3240 ug/L for 96 hr /98% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+    </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf8'?>
+<Experiment_XML>
+  <RECORDS>
+    <index>4</index>
+    <name>Toluene</name>
+    <CAS>108-88-3</CAS>
+    <IUPAC>toluene</IUPAC>
+    <SMILES>CC1=CC=CC=C1</SMILES>
+    <Toxicity>HaCat_IC50 : 343 mg/L  HaCat_Concentration_type : formulation  HaCat_Duration : 24 hrs</Toxicity>
+    <Toxicity>Zebrafish_EC50 : 83.1 mg/L  Zebrafish_Organism_lifestage : embryo  Zebrafish_Concentration_type : formulation  Zebrafish_Duration : 6 days</Toxicity>
+  </RECORDS>
+</Experiment_XML>

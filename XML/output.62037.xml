@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>62037</ns0:RecordNumber>
+  <ns0:RecordTitle>Dichlorprop-butotyl</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Colinus virginianus (Northern Bobwhite Quail) age 14 days; diet &gt;10000 ppm for 8 days /100% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Colinus virginianus (Northern Bobwhite Quail) diet &gt;10000 ppm for 8 days /59.1% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Colinus virginianus (Northern Bobwhite Quail) age 18 weeks; oral via capsule 1517 mg/kg (95% confidence interval: 810-2250 mg/kg) /95.3% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Anas platyrhynchos (Mallard Duck) diet &gt;10000 ppm for 8 days /59.1% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Apis mellifera (Honey Bee) adult; topical, general &gt;25 ug/bee /95.3% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water Flea); Conditions: freshwater, static; Concentration: 6.25 ug/L for 48 hr (95% confidence interval: 4.91-8.44 ug/L); Effect: intoxication, immobilization /63.7% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water Flea) age &lt;24 hr; Conditions: freshwater, static; Concentration: 252000 ug/L for 48 hr (95% confidence interval: 216000-318000 ug/L); Effect: intoxication, immobilization /Technical grade/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill) weight 0.38 g; Conditions: freshwater, static; Concentration: 833 ug/L for 96 hr (95% confidence interval: 560-1800 ug/L) /59.1% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow Trout) weight 0.35 g; Conditions: freshwater, static; Concentration: 2700 ug/L for 96 hr (95% confidence interval: 1800-5600 ug/L) /59.1% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow Trout) weight 0.35 g; Conditions: freshwater, static; Concentration: 1490 ug/L for 96 hr (95% confidence interval: 1280-1730 ug/L) /63.7% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow Trout) age 3.5 months, length 4.2 cm, weight 0.7 g; Conditions: freshwater, static, 14 °C, pH 8.1, hardness 63.9 mg/L CaCO3, alkalinity 86 mg/L CaCO3; Concentration: 1800 ug/L for 24 hr /95% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow Trout) age 3.5 months, length 4.2 cm, weight 0.7 g; Conditions: freshwater, static, 14 °C, pH 7.5, hardness 30.2 mg/L CaCO3, alkalinity 43.4 mg/L CaCO3; Concentration: 1400 ug/L for 24 hr /95% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow Trout) age 3.5 months, length 4.2 cm, weight 0.7 g; Conditions: freshwater, static, 14 °C, pH 6.1, hardness 4.2 mg/L CaCO3, alkalinity 1.6 mg/L CaCO3; Concentration: 900 ug/L for 24 hr /95% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow Trout) age 3.5 months, length 4.2 cm, weight 0.7 g; Conditions: freshwater, static, 14 °C, pH 6.1, hardness 4.2 mg/L CaCO3, alkalinity 1.6 mg/L CaCO3; Concentration: 900 ug/L for 96 hr /95% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow Trout) age 3.5 months, length 4.2 cm, weight 0.7 g; Conditions: freshwater, static, 14 °C, pH 8.1, hardness 63.9 mg/L CaCO3, alkalinity 86 mg/L CaCO3; Concentration: 1800 ug/L for 96 hr /95% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow Trout) age 3.5 months, length 4.2 cm, weight 0.7 g; Conditions: freshwater, static, 14 °C, pH 7.5, hardness 30.2 mg/L CaCO3, alkalinity 43.4 mg/L CaCO3; Concentration: 1400 ug/L for 96 hr /95% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+    </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

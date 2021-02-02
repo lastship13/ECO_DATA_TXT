@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>443495</ns0:RecordNumber>
+  <ns0:RecordTitle>Sodium arsenite</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 MALLARD DUCKS ORAL 323 MG/KG, 3-4 MO OLD FEMALES, (95% CONFIDENCE LIMIT 149-699)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50 DAPHNIA PULEX 3.0 MG/L/48 HOURS, 2ND YEAR CLASS, AT 15 °C (95% CONFIDENCE LIMIT 2.2-4.1)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 PTERONARCYS 38 MG/L/96 HOURS AT 12 °C (95% CONFIDENCE LIMIT 14-39) 2ND YEAR CLASS. STATIC BIOASSAY WITHOUT AERATION, pH 7.2-7.5, WATER HARDNESS 40-50 MG/L AS CaCO3 AND ALKALINITY OF 30-35 MG/L.</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 RAINBOW TROUT 23 MG/L/96 HOURS AT 12 °C (95% CONFIDENCE LIMIT 14-39) 2.6G. STATIC BIOASSAY WITHOUT AERATION, pH 7.2-7.5, WATER HARDNESS 40-50 MG/L AS CaCO3 AND ALKALINITY OF 30-35 mg/l.</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 BLUEGILL 30 MG/L/96 HOURS AT 24 °C (95% CONFIDENCE LIMIT 1-42) 1.0 G. STATIC BIOASSAY WITHOUT AERATION, pH 7.2-7.5, WATER HARDNESS 40-50 MG/L AS CaCO3 AND ALKALINITY OF 30-35 MG/L.</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50 Daphnia magna (cladoceran) 3,770 ug/l/26 hr; toxic effect: immobilization.</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50 Salmo gairdneri (embryo, larva) 550 ug/l/28 days; toxic effect: death and deformity</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Salvelinus fontinalis 10,440 ug/l/262 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Carassius auratus 18,618 ug/l/336 hr. /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Notropis hudsonius (spottail shiner) 27,000 ug/l/72 hr. /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Pimephales promelas (fathead minnow, juvenile) 10,556 ug/l/336 hr. /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Lepomis macrochirus (bluegill, juvenile) 18,328 ug/l/336 hr; (bluegill, fingerling) 290 ug/l/48 hr (pelletized). /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50 Micropterus salmoides (largemouth bass, embryo, larva) 42,100 ug/l/8 day, toxic effect: death and deformity</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50 Gastrophyrne carolinensis (narrow-mouthed toad, embryo, larva) 40 ug/l/7 day, toxic effect: death and deformity</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Nereis diversicolor (polychaete worm) &gt; 14,500 ug/l/192 hr.</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

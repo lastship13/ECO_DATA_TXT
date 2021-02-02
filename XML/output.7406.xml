@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>7406</ns0:RecordNumber>
+  <ns0:RecordTitle>Cumene</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water flea); Concentration: 0.6 ppm for 48 hr /Conditions of bioassay not specified/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Agelaius phoeniceus (red-winged blackbird) oral 98 mg/kg</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (fathead minnow); Conditions: flow-through bioassay with measured concentrations, 25.4 °C, dissolved oxygen 6.6 mg/L, hardness 44.3 mg/L calcium carbonate, alkalinity 42.1 mg/L calcium carbonate, and pH 7.58; Concentration: 6.32 mg/L for 96 hr (confidence limit 6.04-6.61 mg/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Pimephales promelas (fathead minnow); Condtions: flow-through bioassay with measured concentrations, 25.4 °C, dissolved oxygen 6.6 mg/L, hardness 44.3 mg/L calcium carbonate, alkalinity 42.1 mg/L calcium carbonate, and pH 7.58; Concentration: 6.32 mg/L for 96 hr (confidence limit 6.04-6.61 mg/L); Effect: loss of equilibrium. Affected fish lost schooling behavior and swam in a corkscrew/spiral pattern. They were hyperactive and darkly colored, had increased respiration, and lost equilibrium prior to death.</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Pseudokirchneriella subcapitata (Green Algae); Conditions: freshwater, static; Concentration: 2600 ug/L for 72 hr; Effect: growth, general</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Artemia sp. (Brine Shrimp) age 2-3 instar nauplii; Conditions: freshwater, static, 20-22 °C, pH 8.4-8.5, dissolved oxygen 7.0-7.2 mg/L; Concentration: 7400 ug/L for 48 hr (95% confidence interval: 3550-11290 ug/L); Effect: intoxication, immobilization</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Artemia sp. (Brine Shrimp) age 2-3 instar nauplii; Conditions: freshwater, static, 20-22 °C, pH 8.4-8.5, dissolved oxygen 7.0-7.2 mg/L; Concentration: 7400 ug/L for 48 hr (95% confidence interval: 3550-11290 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Artemia salina (Brine Shrimp) nauplii; Conditions: saltwater, static, 20 °C; Concentration: 114 mmol/cu m for 24 hr /&gt; or = 97% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water Flea); Conditions: freshwater, static; Concentration: 1400 ug/L for 24 hr; Effect: intoxication, immobilization</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water Flea) age &lt; or =24 hr neonate; Conditions: freshwater, static, 22-23 °C, pH 7.8-8.2, dissolved oxygen 8.0-9.5 mg/L; Concentration: 10600 ug/L for 48 hr (95% confidence interval: 7900-14100 ug/L); Effect: intoxication, immobilization /formulation/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water Flea) age &lt; or =24 hr; Conditions: freshwater, static, 20-22 °C, pH 7.6-7.7, dissolved oxygen- saturated; Concentration: 95000 ug/L for 24 hr /formulation/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water Flea) age &lt; or =24 hr neonate; Conditions: freshwater, static, 22-23 °C, pH 7.8-8.2, dissolved oxygen 8.0-9.5 mg/L; Concentration: 20300 ug/L for 48 hr (95% confidence interval: 7900-45100 ug/L) /formulation/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Poecilia reticulata (Guppy); Conditions: freshwater, renewal, 21 °C, dissolved oxygen &gt; or =80%; Concentration: 5100 ug/L for 96 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow Trout); Conditions: freshwater, renewal, 12 °C, dissolved oxygen &gt; or =80%; Concentration: 2700 ug/L for 96 hr</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

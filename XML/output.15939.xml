@@ -1,0 +1,309 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>15939</ns0:RecordNumber>
+  <ns0:RecordTitle>Paraquat</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Anas platyrhynchos (Mallard) oral 199 mg/kg (95% confidence limit 144-276 mg/kg)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Anas platyrhynchos (Mallard) percutaneous 600 mg/kg (95% confidence limit 424-848 mg/kg)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Coturnix japonica (Japanese quail) juvenile 14 days post-hatch; diet 948 ppm for 5 days (95% confidence interval: 768-1168 ppm)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Drosophila melanogaster (Fruit fly) age 5 days, wild type Oregon-R-strain; environmental exposure route 20 mM for 48 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Helix aspersa (Brown gardensnail) age 6-8 wk, weight 3 g (2-3 g); diet (artificial soil media) 352 mg/kg for 10 days (95% confidence interval: 291-426 mg/kg); Effect: general morphological changes (increased drooping eyestalk, edema)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Helix aspersa (Brown gardensnail) age 6-8 wk, weight 3 g (2-3 g); diet (artificial soil media) 659 mg/kg for 10 days (95% confidence interval: 539-806 mg/kg)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lumbricus terrestris (Earthworm) mature, weight 3000-4200 mg; direct application (natural soil media: 84.7% sand, 12.1% silt, 3.2% clay, pH 6.1, and 1.0% organic matter, 35% moisture) &gt;1000 mg/kg soil for 14 days</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Eisenia fetida (Earthworm) mature, weight 200-350 g; direct application (artificial soil media: 83.5% sand, 5% clay, pH 7, and 10% organic matter, 60% moisture) &gt;1000 mg/kg soil for 14 days</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50: Species: Chlamydomonas eugametos (Green algae) 1X10+5 cells/mL; Conditions: freshwater, static, 18 °C; Concentration: 0.28 uM for 96 hr; Effect: decreased population growth rate /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50: Species: Chlorella pyrenoidosa (Green algae); Conditions: freshwater, static, 25 °C; Concentration: 0.1 ug/L for 96 hr; Effect: decreased population growth rate /20% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Chlorella vulgaris (Green algae) 8X10+5 cells/mL; Conditions: freshwater, static, 25 °C; Concentration: 0.2 ug/L for 96 hr; Effect: decreased population growth rate /20% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Pseudokirchneriella subcapitata (Green algae); Conditions: freshwater, static; Concentration: 1.16 uM for 48 hr; Effect: decreased population growth rate /100% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>IC50; Species: Pseudokirchneriella subcapitata (Green algae) free cell culture; Conditions: freshwater, (exposure type not given), 26 °C, pH 7; Concentration: 1.8 mg/L for 3.5-4 days; Inhibited effect: biochemistry, decreased chlorophyll /99% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>IC50; Species: Pseudokirchneriella subcapitata (Green algae) immobilized cells; Conditions: freshwater, (exposure type not given), 26 °C, pH 7; Concentration: 7.8 mg/L for 3.5-4 days; Inhibited effect: biochemistry, decreased chlorophyll /99% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Dunaliella tertiolecta (Green algae) log growth phase, axenic, Woods Hole culture; Conditions: saltwater, static, 20 °C, pH 7.9-8.1, salinity 30 ppt; Concentration: 2500000 ug/L for 1.5 hr; Effect: physiology, photosynthesis /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Isochrysis galbana (Haptophyte) log growth phase, axenic, Woods Hole culture; Conditions: saltwater, static, 20 °C, pH 7.9-8.1, salinity 30 ppt; Concentration: 5000000 ug/L for 1.5 hr; Effect: physiology, photosynthesis /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Phaeodactylum tricornutum (Diatom) log growth phase, axenic, Woods Hole culture; Conditions: saltwater, static, 20 °C, pH 7.9-8.1, salinity 30 ppt; Concentration: 3500000 ug/L for 1.5 hr; Effect: physiology, photosynthesis /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Xenopus laevis (African clawed frog) larvae; Conditions: freshwater, renewal, 24 °C; Concentration: 180 ug/L for 96 hr (95% confidence interval: 160-200 ug/L); Effect: abnormal development (malformations adjusted for DMSO control) /99% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Xenopus laevis (African clawed frog) larvae; Conditions: freshwater, renewal, 24 °C; Concentration: 10000 ug/L for 24 hr /99% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Xenopus laevis (African clawed frog) larvae; Conditions: freshwater, renewal, 24 °C; Concentration: 14550 ug/L for 48 hr (95% confidence interval: 9800-21600 ug/L) /99% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Xenopus laevis (African clawed frog) larvae; Conditions: freshwater, renewal, 24 °C; Concentration: 3300 ug/L for 72 hr (95% confidence interval: 2300-4550 ug/L) /99% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Xenopus laevis (African clawed frog) larvae; Conditions: freshwater, renewal, 24 °C; Concentration: 670 ug/L for 96 hr (95% confidence interval: 570-810 ug/L) /99% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea) age &lt;24 hr; Conditions: freshwater, static, 20 °C, pH 7.8, hardness 95.8 mg/L CaCO3, alkalinity 189.3 mg/L CaCO3, dissolved oxygen 8.4 mg/L; Concentration: 16470 ug/L for 24 hr (95% confidence interval: 14400-19300 ug/L); Effect: intoxication, immobilization /Osaquat, 27.6% AI/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea) age &lt;24 hr neonate; Conditions: freshwater, static, 21 °C, pH 7.6; Concentration: 0.0627 mM for 24 hr; Effect: intoxication, immobilization</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea) age &lt;24 hr; Conditions: freshwater, static, 20 °C, pH 7.8, hardness 95.8 mg/L CaCO3, alkalinity 189.3 mg/L CaCO3, dissolved oxygen 8.4 mg/L; Concentration: 4550 ug/L for 48 hr (95% confidence interval: 4100-5100 ug/L); Effect: intoxication, immobilization /Osaquat, 27.6% AI/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea) age 24 hr larvae; Conditions: freshwater, static, 23 °C; Concentration: 1800 ug/L for 48 hr; Effect: intoxication, immobilization /20% Paraquat, 10% Lissapol/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea) adult; Conditions: freshwater, static, 23 °C; Concentration: 3200 ug/L for 48 hr; Effect: intoxication, immobilization /20% Paraquat, 10% Lissapol/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water flea) age 24 hr, larvae; Conditions: freshwater, static, 23 °C; Concentration: 2800 ug/L for 48 hr /formulation, 200 g/L paraquat/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water flea) adult; Conditions: freshwater, static, 23 °C; Concentration: 3700 ug/L for 48 hr /formulation, 200 g/L paraquat/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia pulex (Water flea) 1st instar; Conditions: static without aeration, 16 °C, pH 7.2-7.5, hardness 40-50 mg/L as CaCO3, alkalinity 30-35 mg/L CaCO3; Concentration: 4.0 mg/L for 48 hr (95% confidence interval: 2.7-6.0 mg/L) Soluble concentrate, 2 lb (cation)/gal. /Paraquat dichloride/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Danio rerio (Zebra danio); Conditions: freshwater, static, 25 °C; Concentration: 7500 ug/L for 96 hr; Effect: intoxication, immobilization</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Danio rerio (Zebra danio); Conditions: freshwater, static, 25 °C; Concentration: 48500 ug/L for 96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Poecillia reticulate (Guppy); Conditions: freshwater, static, 25 °C; Concentration: 15000 ug/L for 96 hr; Effect: intoxication, immobilization</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Poecilia reticulata (Guppy); Conditions: freshwater, static, 25 °C; Concentration: 22000 ug/L for 96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Simocephalus serrulatus (water flea) 1st instar; Conditions: static without aeration, 16 °C, pH 7.2-7.5, hardness 40-50 mg/L CaCO3, alkalinity 30-35 mg/L; Concentration: 3.7 mg/L for 48 hr (95% confidence interval 2.8-4.8 mg/L) Soluble concentrate, 2 lb (cation)/gal. /Paraquat dichloride/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>IC50; Species: Artemia salina (Brine shrimp) nauplii; Conditions: saltwater, static; Concentration: 5.6 mM for 24 hr (95% confidence interval: 4.8-6.5 mM); Effect: increased mortality /formulation/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Gammarus fasciatus (freshwater shrimp) mature; Conditions: static bioassay without aeration, 21 °C, pH 7.2-7.5, water hardness 40-50 mg/L as calcium carbonate and alkalinity of 30-35 mg/L; Concentration: 11 mg/L for 96 hr (95% confidence interval: 8.1-15 mg/L). Soluble concentrate, 2 lb (cation)/gal /Paraquat dichloride/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pteronarcys (Stonefly) second year class; Conditions: static bioassay without aeration, 16 °C, pH 7.2-7.5, water hardness 40-50 mg/L as calcium carbonate and alkalinity of 30-35 mg/L; Concentration: &gt;100 mg/L for 96 hr. Soluble concentrate, 2 lb (cation)/gal. /Paraquat dichloride/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ictalurus punctatus (Channel catfish) weight 1.4 g; Conditions: static bioassay without aeration, 18 °C, pH 7.2-7.5, water hardness 40-50 mg/L as calcium carbonate and alkalinity of 30-35 mg/L; Concentration: &gt;100 mg/L for 96 hr /Technical material 42% (cation)/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout) weight 0.5 g; Conditions: static bioassay without aeration, 13 °C, pH 7.2-7.5, water hardness 40-50 mg/L as calcium carbonate and alkalinity of 30-35 mg/L;  Concentration: 15 mg/L for 96 hr (95% confidence interval: 11-19 mg/L). Soluble concentrate, 2 lb (cation)/gal. /Paraquat dichloride/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill) weight 0.9 g; Conditions: static bioassay without aeration, 24 °C, pH 7.2-7.5, water hardness 40-50 mg/L as calcium carbonate and alkalinity of 30-35 mg/L; Concentration: 13.0 mg/L for 96 hr (95% confidence interval 8.5-19.0 mg/L). Soluble concentrate, 2 lb (cation)/gal. /Paraquat dichloride/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Poecilia mexicana (Shortfin molly); Conditions: static bioassay; Concentration: 12.53 mg/L for 24 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

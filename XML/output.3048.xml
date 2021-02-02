@@ -1,0 +1,323 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>3048</ns0:RecordNumber>
+  <ns0:RecordTitle>Hexadrin</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50 SIMOCEPHALUS SERRULATUS LIZATION 45 UG/L/48 HR @ 21 °C (95% CONFIDENCE LIMIT 35-58 UG/L), FIRST INSTAR STATIC BIOASSAY WITHOUT AERATION, PH 7.2-7.5, WATER HARDNESS 40-50 MG/L AS CALCIUM CARBONATE AND ALKALINITY OF 30-35 MG/L. UG/L), FIRST INSTAR STATIC BIOASSAY WITHOUT AERATION, PH 7.2-7.5, WATER HARDNESS 40-50 MG/L AS CALCIUM CARBONATE AND ALKALINITY OF 30-35 MG/L. $o /TECHNICAL MATERIAL, 99%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50 DAPHNIA MAGNA (DAPHNID) 4.2 UG/L/48 HR @ 21 °C, FIRST INSTAR STATIC BIOASSAY WITHOUT AERATION, PH 7.2-7.5, WATER HARDNESS 40-50 MG/L AS CALCIUM CARBONATE AND ALKALINITY OF 30-35 MG/L. /TECHNICAL MATERIAL, 99%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50 DAPHNIA PULEX (DAPHNID) 20 UG/L/48 HR @ 15 °C (95% CONFIDENCE LIMIT 13-30 UG/L), FIRST INSTAR STATIC BIOASSAY WITHOUT AERATION, PH 7.2-7.5, WATER HARDNESS 40-50 MG/L AS CALCIUM CARBONATE AND ALKALINITY OF 30-35 MG/L. /TECHNICAL MATERIAL, 99%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50 CYPRIDOPSIS VIUDA (SEED SHRIMP) 1.8 UG/L/48 HR @ 21 °C, MATURE STATIC BIOASSAY WITHOUT AERATION, PH 7.2-7.5, WATER HARDNESS 40-50 MG/L AS CALCIUM CARBONATE AND ALKALINITY OF 30-35 MG/L. /TECHNICAL MATERIAL, 99%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 ASELLUS BREVICAUDUS (SOWBUG) 1.5 UG/L/96 HR @ 15 °C (95% CONFIDENCE LIMIT 0.9-3.7 UG/L), MATURE. STATIC BIOASSAY WITHOUT AERATION, PH 7.2-7.5, WATER HARDNESS 40-50 MG/L AS CALCIUM CARBONATE AND ALKALINITY OF 30-35 MG/L. /TECHNICAL MATERIAL, 99%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 GAMMARUS LACUSTRIS (SCUD) 3.0 UG/L/96 HR @ 21 °C (95% CONFIDENCE LIMIT 2.0-4.5 UG/L), MATURE. STATIC BIOASSAY WITHOUT AERATION, PH 7.2-7.5, WATER HARDNESS 40-50 MG/L AS CALCIUM CARBONATE AND ALKALINITY OF 30-35 MG/L. /TECHNICAL MATERIAL, 99%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 GAMMARUS FASCIATUS (SCUD) 4.3 UG/L/96 HR @ 21 °C (95% CONFIDENCE LIMIT 3.5-5.2 UG/L), MATURE. STATIC BIOASSAY WITHOUT AERATION, PH 7.2-7.5, WATER HARDNESS 40-50 MG/L AS CALCIUM CARBONATE AND ALKALINITY OF 30-35 MG/L. /TECHNICAL MATERIAL, 99%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 ORCONECTES NAIS (CRAYFISH) 3.2 UG/L/96 HR @ 21 °C (95% CONFIDENCE LIMIT 1.6-7.5 UG/L), EARLY INSTAR. STATIC BIOASSAY WITHOUT AERATION, PH 7.2-7.5, WATER HARDNESS 40-50 MG/L AS CALCIUM CARBONATE AND ALKALINITY OF 30-35 MG/L. /TECHNICAL MATERIAL, 99%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 PALAEMONETES KADIAKENSIS (GLASS SHRIMP) 3.2 UG/L/96 HR @ 21 °C (95% CONFIDENCE LIMIT 1.8-5.8 UG/L), MATURE. STATIC BIOASSAY WITHOUT AERATION, PH 7.2-7.5, WATER HARDNESS 40-50 MG/L AS CALCIUM CARBONATE AND ALKALINITY OF 30-35 MG/L. /TECHNICAL MATERIAL, 99%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 PTERONARCELLA BADIA (STONE FLY) 0.54 UG/L/96 HR @ 15 °C (95% CONFIDENCE LIMIT 0.40-0.72 UG/L), NAIAD. STATIC BIOASSAY WITHOUT AERATION, PH 7.2-7.5, WATER HARDNESS 40-50 MG/L AS CALCIUM CARBONATE AND ALKALINITY OF 30-35 MG/L. /TECHNICAL MATERIAL, 99%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 PTERONARCYS CALIFORNICA (STONE FLY) 0.25 UG/L/96 HR @ 15 °C (95% CONFIDENCE LIMIT 0.20-0.31 UG/L), 2ND YR CLASS. STATIC BIOASSAY WITHOUT AERATION, PH 7.2-7.5, WATER HARDNESS 40-50 MG/L AS CALCIUM CARBONATE AND ALKALINITY OF 30-35 MG/L. /TECHNICAL MATERIAL, 99%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 CLAASSENIA SABULOSA (STONE FLY) 0.08 UG/L/96 HR @ 15 °C (95% CONFIDENCE LIMIT 0.06-0.09 UG/L), 2ND YEAR CLASS. STATIC BIOASSAY WITHOUT AERATION, PH 7.2-7.5, WATER HARDNESS 40-50 MG/L AS CALCIUM CARBONATE AND ALKALINITY OF 30-35 MG/L. /TECHNICAL MATERIAL, 99%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 ACRONEURIA (STONE FLY) LESS THAN 0.18 UG/L/96 HR @ 15 °C, 2ND YEAR CLASS. STATIC BIOASSAY WITHOUT AERATION, PH 7.2-7.5, WATER HARDNESS 40-50 MG/L AS CALCIUM CARBONATE AND ALKALINITY OF 30-35 MG/L. /TECHNICAL MATERIAL, 99%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 HEXAGENIA BILINEATA (MAYFLY) 62 UG/L/96 HR @ 15 °C (95% CONFIDENCE LIMIT 41-95 UG/L), FIRST INSTAR. STATIC BIOASSAY WITHOUT AERATION, PH 7.2-7.5, WATER HARDNESS 40-50 MG/L AS CALCIUM CARBONATE AND ALKALINITY OF 30-35 MG/L. /TECHNICAL MATERIAL, 99%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 BAETIS (MAYFLY) 0.90 UG/L/96 HR @ 15 °C, (95% CONFIDENCE LIMIT 0.57-1.4 UG/L), JUVENILE. STATIC BIOASSAY WITHOUT AERATION, PH 7.2-7.5, WATER HARDNESS 40-50 MG/L AS CALCIUM CARBONATE AND ALKALINITY OF 30-35 MG/L. /TECHNICAL MATERIAL, 99%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 ISCHNURA VENTICALIS (DAMSELFLY) 2.4 UG/L/96 HR @ 21 °C (95% CONFIDENCE LIMIT 1.5-3.8 UG/L), JUVENILE. STATIC BIOASSAY WITHOUT AERATION, PH 7.2-7.5, WATER HARDNESS 40-50 MG/L AS CALCIUM CARBONATE AND ALKALINITY OF 30-35 MG/L. /TECHNICAL MATERIAL, 99%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 TIPULA (CRANE FLY) 12 UG/L/96 HR @ 15 °C (95% CONFIDENCE LIMIT 7.3-18 UG/L), JUVENILE. STATIC BIOASSAY WITHOUT AERATION, PH 7.2-7.5, WATER HARDNESS 40-50 MG/L AS CALCIUM CARBONATE AND ALKALINITY OF 30-35 MG/L. /TECHNICAL MATERIAL, 99%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 ATHERIX (SNIPE FLY) 4.6 UG/L/96 HR @ 15 °C (95% CONFIDENCE LIMIT 3.1-6.8UG/L), JUVENILE. STATIC BIOASSAY WITHOUT AERATION, PH 7.2-7.5, WATER HARDNESS 40-50 MG/L AS CALCIUM CARBONATE AND ALKALINITY OF 30-35 MG/L. /TECHNICAL MATERIAL, 99%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 SALMO GAIRDNERI (RAINBOW TROUT) 0.75 UG/L/96 HR @ 13 °C (95% CONFIDENCE LIMIT 0.64-0.88 UG/L), WT 1.0 G. STATIC BIOASSAY WITHOUT AERATION, PH 7.2-7.5, WATER HARDNESS 40-50 MG/L AS CALCIUM CARBONATE AND ALKALINITY OF 30-35 MG/L. /TECHNICAL MATERIAL, 99%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 CARASSIUS AURATUS (GOLDFISH) 0.44 UG/L/96 HR @ 12 °C (95% CONFIDENCE LIMIT 0.29-0.66 UG/L), FINGERLING /TECHNICAL MATERIAL, 99%/ /FLOW-THROUGH TOXICITY TEST/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 CYPRINUS CARPIO (CARP) 0.32 UG/L/96 HR @ 12 °C (95% CONFIDENCE LIMIT 0.25-0.41 UG/L), FINGERLING /TECHNICAL MATERIAL, 99%/ /FLOW-THROUGH TOXICITY TEST/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 PIMEPHALES PROMELA (FATHEAD MINNOW) 1.8 UG/L/96 HR @ 18 °C (95% CONFIDENCE LIMIT 1.0-3.0 UG/L), WT 1.2 G. STATIC BIOASSAY WITHOUT AERATION, PH 7.2-7.5, WATER HARDNESS 40-50 MG/L AS CALCIUM CARBONATE AND ALKALINITY OF 30-35 MG/L. /TECHNICAL MATERIAL, 99%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 ICTALURUS MELAS (BLACK BULLHEAD) 1.1 UG/L/96 HR @ 24 °C (95% CONFIDENCE LIMIT 1.0-1.3 UG/L), WT 1.5 G. STATIC BIOASSAY WITHOUT AERATION, PH 7.2-7.5, WATER HARDNESS 40-50 MG/L AS CALCIUM CARBONATE AND ALKALINITY OF 30-35 MG/L. /TECHNICAL MATERIAL, 99%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 ICTALURUS PUNCTATUS (CHANNEL CATFISH) 0.32 UG/L/96 HR @ 24 °C (95% CONFIDENCE LIMIT 0.29-0.35 UG/L), WT 1.4 G. STATIC BIOASSAY WITHOUT AERATION, PH 7.2-7.5, WATER HARDNESS 40-50 MG/L AS CALCIUM CARBONATE AND ALKALINITY OF 30-35 MG/L. /TECHNICAL MATERIAL, 99%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 GAMBUSIA AFFINIS (MOSQUITOFISH) 1.1 UG/L/96 HR @ 17 °C (95% CONFIDENCE LIMIT 0.4-3.4 UG/L), WT 0.6 G. STATIC BIOASSAY WITHOUT AERATION, PH 7.2-7.5, WATER HARDNESS 40-50 MG/L AS CALCIUM CARBONATE AND ALKALINITY OF 30-35 MG/L. /TECHNICAL MATERIAL, 99%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 LEPOMIS MACROCHIRUS (BLUEGILL) 0.61 UG/L/96 HR @ 18 °C (95% CONFIDENCE LIMIT 0.50-0.74 UG/L), WT 1.5 G. STATIC BIOASSAY WITHOUT AERATION, PH 7.2-7.5, WATER HARDNESS 40-50 MG/L AS CALCIUM CARBONATE AND ALKALINITY OF 30-35 MG/L. /TECHNICAL MATERIAL, 99%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 MICROPTERUS SALMOIDES (LARGEMOUTH BASS) 0.31 UG/L/96 HR @ 18 °C (95% CONFIDENCE LIMIT 0.25-0.39 UG/L), WT 2.5 G. STATIC BIOASSAY WITHOUT AERATION, PH 7.2-7.5, WATER HARDNESS 40-50 MG/L AS CALCIUM CARBONATE AND ALKALINITY OF 30-35 MG/L. /TECHNICAL MATERIAL, 99%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 PERCA FLAVESCENS (YELLOW PERCH) 0.15 UG/L/96 HR @ 12 °C (95% CONFIDENCE LIMIT 0.12-0.18 UG/L) FINGERLING /TECHNICAL MATERIAL, 99%/ /FLOW-THROUGH TOXICITY TEST/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 BOBWHITE QUAIL ORAL 14 PPM (95% CONFIDENCE LIMIT 11-24 PPM), AGE 17 DAYS</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 JAPANESE QUAIL ORAL 18 PPM (95% CONFIDENCE LIMIT 15-20 PPM), AGE 14 DAYS</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 RING NECKED PHEASANT ORAL 14 PPM (95% CONFIDENCE LIMIT 11-17 PPM), AGE 22 DAYS</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 MALLARD ORAL 22 PPM (95% CONFIDENCE LIMIT 17-31 PPM), AGE 8 DAYS</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 MALLARD ORAL 18 PPM (95% CONFIDENCE LIMIT 15-21 PPM), AGE 5 DAYS</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Ophiocephalus punctatus (fish) 0.033 ppm/96 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Eupera singleyi 60 ug/l/72 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 Anas platyrhynchos (Mallard) female oral 5.64 mg/kg (95% Confidence limit 2.71-11.7 mg/kg) 12 mo old</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 Tympanuchus phasianellus (Sharp-tailed grouse) female oral 1.06 mg/kg (95% Confidence limit)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 Callipepla Californica (California quail) female oral 1.19 mg/kg (95% Confidence limit 0.857-1.65 mg/kg) 9-10 mo old</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 Pheasant male oral 1.78 mg/kg (95% Confidence limit 1.12-2.83 mg/kg) 3-4 mo old</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 Columba livia (Rock dove) oral 2.0-5.0 mg/kg</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 Odocoileus Hemionus hemionus (Mule deer) female oral 6.25-12.5 mg/kg, 10 mo old</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Pagurus longicarpus (Hermit crab) 12 ppb/96 hr, static lab bioassay</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Coturonix 17 ppm (95% confidence interval 25-20 ppm)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Bullhead fish 0.010 ug/L/28 hr LC50 Bluegill sunfish 0.6 ug/L/96 hr, fathead minnow 1.0 ug/L/96 hr , rainbow trout 0.6 ug/L/96 hr, coho salmon 0.5 ug/L/96 hr and chinook 1.2 ug/L/96 hr.</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

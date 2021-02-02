@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>30773</ns0:RecordNumber>
+  <ns0:RecordTitle>Cyanazine</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Rasbora heteromorpha (Harlequin fish) 10 mg/l/48 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Cyprinodon variegatus (Sheepshead minnow) 18 mg/l/48 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Gammarus fasciatus 2.0 mg/l/96 hr @ 15 °C, mature. Static bioassay without aeration, pH 7.2-7.5, water hardness 40-50 mg/l as calcium carbonate and alkalinity of 30-35 mg/l. /Technical material 100%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Pimephales promelas (Fathead minnow) 16.3 mg/l/96 hr @ 18 °C (95% confidence interval 14.2-18.0 mg/l), wt 0.9 g. Static bioassay without aeration, pH 7.2-7.5, water hardness 40-50 mg/l as calcium carbonate and alkalinity of 30-35 mg/l. /Technical material 100%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Ictaturus punctatus (Channel catfish)17.4 mg/l/96 hr @ 18 °C (95% confidence interval 12.2-24.8 mg/l), wt 1.6 g. Static bioassay without aeration, pH 7.2-7.5, water hardness 40-50 mg/l as calcium carbonate and alkalinity of 30-35 mg/l. /Technical material 100%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Pimephales promelas (Fathead minnow) 17.5 mg/l/96 hr @ 18 °C (95% confidence interval 15.7-19.7 mg/l), wt 1.2 g. Static bioassay without aeration, pH 7.2-7.5, water hardness 40-50 mg/l as calcium carbonate and alkalinity of 30-35 mg/l. /Bladex dispersible liquid, 4 lb/gal)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Ictalurus punctatus (Channel catfish) 11.3 mg/l/96 hr @ 18 °C (95% confidence interval 9.9-12.9 mg/l), wt 1.6 g. Static bioassay without aeration, pH 7.2-7.5, water hardness 40-50 mg/l as calcium carbonate and alkalinity of 30-35 mg/l. (Bladex dispersible liquid, 4 lb/gal/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Salmo gairdneri (Rainbow trout) 9.0 mg/l/96 hr @ 13 °C (95% confidence interval 5.6-14.6 mg/l), wt 1.0 g. Static bioassay without aeration, pH 7.2-7.5, water hardness 40-50 mg/l as calcium carbonate and alkalinity of 30-35 mg/l. /Bladex wettable powder, 80%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Pimephales promelas (Fathead minnow) 21.3 mg/l/96 hr @ 18 °C (95% confidence interval 16.5-27.4 mg/l), wt 1.2 g. Static bioassay without aeration, pH 7.2-7.5, water hardness 40-50 mg/l as calcium carbonate and alkalinity of 30-35 mg/l. /Bladex wettable powder, 80%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Ictalurus punctatus (Channel catfish) 10.4 mg/l/96 hr @ 18 °C (95% confidence interval 7.7-14.0 mg/l), wt 1.6 g. Static bioassay without aeration, pH 7.2-7.5, water hardness 40-50 mg/l as calcium carbonate and alkalinity of 30-35 mg/l. /Bladex wettable powder, 80%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Lepomis macrochirus (Bluegill) 22.5 mg/l/96 hr @ 18 °C, wt 1.1 g. Staticbioassay without aeration, pH 7.2-7.5, water hardness 40-50 mg/l as calcium carbonate and alkalinity of 30-35 mg/l. /Bladex wettable powder, 80%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Sheepshead minnow 18 mg/L/48 hr and harlequin fish 10 mg/L/48 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+    </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

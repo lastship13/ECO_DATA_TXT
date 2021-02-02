@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf8'?>
+<Excel_XML>
+  <RECORDS>
+    <index>155</index>
+    <name>Hydrogen peroxide</name>
+    <CAS>7722-84-1</CAS>
+    <IUPAC>hydrogen peroxide</IUPAC>
+    <SMILES>OO</SMILES>
+    <Toxicty>HepG2_Further_info : Oxidative stress reduces cell viability and contributes to disease processes. Flavonoids including anthocyanins and proanthocyanidins reportedly induce intracellular antioxidant defense systems. Thus, in this study, we examined the antioxidant effects of a commercial extract from black soybean seed coats (BE), which are rich in anthocyanin and proanthocyanidin, and investigated the associated intracellular mechanisms in HepG2 cells. HepG2 cells treated with hydrogen peroxide (HPO) showed 60% viability, whereas pretreatment with BE-containing media for 2 hr ameliorated HPO-mediated cell death by up to 90%. Pretreatment with BE for 2 hr partially blocked HPO-mediated activation of extracellular-signal-regulated kinase (ERK) in HepG2 cells, and that for 1 hr led to a 20% increase in intracellular total protein phosphatase (PP) activity, which is known to deactivate protein kinases. These results indicate that BE prevents HPO-mediated cell damage by inhibiting ERK signaling, potentially via PPs.</Toxicty>
+  </RECORDS>
+</Excel_XML>

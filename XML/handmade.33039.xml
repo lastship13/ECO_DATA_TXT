@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf8'?>
+<Excel_XML>
+  <RECORDS>
+    <index>82</index>
+    <name>α-Amylase; Amylopsin, Buclamase</name>
+    <CAS>9000-90-2</CAS>
+    <IUPAC>alpha-amylase IUBMB 3.2.1.1</IUPAC>
+    <SMILES>CC1=CN(C(=O)NC1=O)[C@H]2C[C@@H]([C@H](O2)CO)F</SMILES>
+    <Toxicity>Daphnia_EC50 : 2000 mg/L (212 mg active enzyme protein/L)  Daphnia_Duration : 48hr  Daphnia_Further_info : ECHA </Toxicity>
+  </RECORDS>
+</Excel_XML>

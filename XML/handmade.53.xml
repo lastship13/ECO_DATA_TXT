@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf8'?>
+<Excel_XML>
+  <RECORDS>
+    <index>53</index>
+    <name>Sodium laurate</name>
+    <CAS>629-25-4</CAS>
+    <IUPAC>sodium;dodecanoate</IUPAC>
+    <SMILES>CCCCCCCCCCCC(=O)[O-].[Na+]</SMILES>
+    <Toxicty>Zebrafish_LC50 : Active ingredient &gt; 10 AI mg/L  Zebrafish_Duration : 4 Day(s)  Zebrafish_Further_info : Ecotox, Active ingredient 20 AI mg/L 4 Days(Ecotox) 8, 15, 28 Days data exists(Ecotox)</Toxicty>
+    <Toxicty>Daphnia_EC50 : Formulation 12 AI mg/L  Daphnia_Duration : 1 Day(s)  Daphnia_Further_info : Ecotox</Toxicty>
+  </RECORDS>
+</Excel_XML>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf8'?>
+<Excel_XML>
+  <RECORDS>
+    <index>10</index>
+    <name>Dimethylalkyl(C=10~16) amines, N-oxides</name>
+    <CAS>70592-80-2</CAS>
+    <IUPAC>N,N-dimethyltridecan-1-amine oxide</IUPAC>
+    <SMILES>CCCCCCCCCCCCC[N+](C)(C)[O-]</SMILES>
+    <Toxicity>Daphnia_LC50 : formulation 1.01 (0.85-1.21) AI mg/L  Daphnia_Duration : 4 days  Daphnia_Further_info : Ecotox, formulation 0.96 (0.9-1.03) AI mg/L (21 days, Ecotox)</Toxicity>
+  </RECORDS>
+</Excel_XML>

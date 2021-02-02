@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf8'?>
+<Experiment_XML>
+  <RECORDS>
+    <index>3</index>
+    <name>Methylcyclohexane</name>
+    <CAS>108-87-2</CAS>
+    <IUPAC>methylcyclohexane</IUPAC>
+    <SMILES>CC1CCCCC1</SMILES>
+    <Toxicity>HaCat_IC50 : 1557 mg/L  HaCat_Concentration_type : formulation  HaCat_Duration : 24 hrs</Toxicity>
+    <Toxicity>Zebrafish_EC50 : &gt;1000 mg/L  Zebrafish_Organism_lifestage : embryo  Zebrafish_Concentration_type : formulation  Zebrafish_Duration : 6 days</Toxicity>
+  </RECORDS>
+</Experiment_XML>

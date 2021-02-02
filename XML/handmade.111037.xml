@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf8'?>
+<Excel_XML>
+  <RECORDS>
+    <index>120</index>
+    <name>Terpineol, acetate</name>
+    <CAS>8007-35-0</CAS>
+    <IUPAC>2-(4-methylcyclohex-3-en-1-yl)propan-2-yl acetate</IUPAC>
+    <SMILES>CC1=CCC(CC1)C(C)(C)OC(=O)C</SMILES>
+    <Toxicity>Fathead_minnow_LC50 : &gt; 11 mg/L  Fathead_minnow_Duration : 96 hr  Fathead_minnow_Further_info : Vigon International, Inc SAFETY DATA SHEET</Toxicity>
+    <Toxicity>Daphnia_EC50 : &gt; 10 mg/L  Daphnia_Duration : 48 hr  Daphnia_Further_info : Vigon International, Inc SAFETY DATA SHEET</Toxicity>
+  </RECORDS>
+</Excel_XML>

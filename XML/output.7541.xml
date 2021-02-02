@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>7541</ns0:RecordNumber>
+  <ns0:RecordTitle>Anilazine</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Gammarus fasciatus (scuds) 0.27 ug/l/96 hr at 15 °C, mature (95% confidence limit 0.21-0.35 ug/l). Static bioassay without aeration, pH 7.2-7.5, water hardness 40-50 mg/l as calcium carbonate and alkalinity of 30-35 mg/l. /Technical material, 95.5%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Salmo gairdneri (rainbow trout) 140 ug/l/96 hr at 13 °C, wt 1.5 g (95% confidence limit 122-161 ug/l). Static bioassay without aeration, pH 7.2-7.5, water hardness 40-50 mg/l as calcium carbonate and alkalinity of 30-35 mg/l. /Technical material, 95.5%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Ictalurus punctatus (channel catfish) 240 ug/l/96 hr at 18 °C, wt 0.7 g (95% confidence limit 110-550 ug/l). Static bioassay without aeration, pH 7.2-7.5, water hardness 40-50 mg/l as calcium carbonate and alkalinity of 30-35 mg/l. /Technical material, 95.5%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Lepomis macrochirus (bluegill) 320 ug/l/96 hr at 18 °C, wt 1.1 g (95% confidence limit 142-735 ug/l). Static bioassay without aeration, pH 7.2-7.5, water hardness 40-50 mg/l as calcium carbonate and alkalinity of 30-35 mg/l. /Technical material, 95.5%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Lepomis microlophus (redear sunfish) less than 140 ug/l/96 hr at 18 °C, wt 2.5 g. Static bioassay without aeration, pH 7.2-7.5, water hardness 40-50 mg/l as calcium carbonate and alkalinity of 30-35 mg/l. /Technical material, 95.5%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 Anas platyrhynchos (mallard duck) oral above 2000 mg/kg, male, 3-4 months old</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 oral Agelaius phoeniceus (redwinged blackbird) 100 mg/kg; avian repellency value: R50 = 40.0 mg/kg; repellency toxicity index (hazard factor) = -0.4.</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

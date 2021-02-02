@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf8'?>
+<Excel_XML>
+  <RECORDS>
+    <index>47</index>
+    <name>2-(4-tert-butylbenzyl)propionaldehyde</name>
+    <CAS>80-54-6</CAS>
+    <IUPAC>3-(4-tert-Butylphenyl)-2-methylpropanal</IUPAC>
+    <SMILES>CC(CC1=CC=C(C=C1)C(C)(C)C)C=O</SMILES>
+    <Toxicity>Zebrafish_LC50 : 2.04 mg/L  Zebrafish_Duration : ?  Zebrafish_Further_info : echa.europa (https://echa.europa.eu/pt/registration-dossier/-/registered-dossier/13572/6/2/1)</Toxicity>
+    <Toxicity>Daphnia_EC50 : 29.16 mg/L  Daphnia_Duration : ?  Daphnia_Further_info : echa.europa (https://echa.europa.eu/pt/registration-dossier/-/registered-dossier/13572/6/2/1)</Toxicity>
+  </RECORDS>
+</Excel_XML>

@@ -1,0 +1,232 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>5993</ns0:RecordNumber>
+  <ns0:RecordTitle>Chlordane</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 BOBWHITE QUAIL ORAL 331 PPM IN 5 DAY DIET (95% CONFIDENCE LIMIT 197-497 PPM)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 JAPANESE QUAIL ORAL 350 PPM IN 5 DAY DIET (95% CONFIDENCE LIMIT 305-403 PPM)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 RING-NECKED PHEASANT ORAL 430 PPM IN 5 DAY DIET (95% CONFIDENCE LIMIT 366-505 PPM)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 MALLARD ORAL 858 PPM IN 5 DAY DIET (95% CONFIDENCE LIMIT 629-1241 PPM)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Simocephalus serrulatus 20 ug/l/48 hr (95% confidence limit 12-32 ug/l) @ 15 °C, first instar. Static bioassay without aeration, pH 7.2-7.5, water hardness 40-50 mg/l as calcium carbonate and alkalinity of 30-35 mg/l.</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Daphnia pulex 24 ug/l/48 hr (95% Confidence limit 20-28 ug/l) @ 15 °C, first instar. Static bioassay without aeration, pH 7.2-7.5, water hardness 40-50 mg/l as calcium carbonate and alkalinity of 30-35 mg/l.</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Gammarus fasciatus 40 ug/l/96 hr (95% Confidence limit 21-60 ug/l) @ 21 °C, mature. Static bioassay without aeration, pH 7.2-7.5, water hardness 40-50 mg/l as calcium carbonate and alkalinity of 30-35 mg/l.</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Pteronarcys californica 15 ug/l/96 hr (95% confidence limit 9-24 ug/l) @ 15 °C, second yr class. Static bioassay without aeration, pH 7.2-7.5, water hardness 40-50 mg/l as calcium carbonate and alkalinity of 30-35 mg/l.</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Coho salmon 14 ug/l/96 hr (95% confidence limit 11-17 ug/l) @ 12 °C, wt 0.6 g. Static bioassay without aeration, pH 7.2-7.5, water hardness 40-50 mg/l as calcium carbonate and alkalinity of 30-35 mg/l.</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Cutthroat trout 27 ug/l/96 hr (95% confidence limit 24-31 ug/l) @ 12 °C, wt 1.0 g. Static bioassay without aeration, pH 7.2-7.5, water hardness 40-50 mg/l as calcium carbonate and alkalinity of 30-35 mg/l.</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Rainbow trout 42 ug/l/96 hr (95% confidence limit 37-48 ug/l) @ 12 °C, wt 1.0 g. Static bioassay without aeration, pH 7.2-7.5, water hardness 40-50 mg/l as calcium carbonate and alkalinity of 30-35 mg/l.</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Brown trout 11.1 ug/l/96 hr (95% confidence limit 9.3-13.1 ug/l) @ 12 °C, wt 0.6 g. Static bioassay without aeration, pH 7.2-7.5, water hardness 40-50 mg/l as calcium carbonate and alkalinity of 30-35 mg/l.</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Fathead minnow 115 ug/l/96 hr (95% confidence limit 62-214 ug/l) @ 17 °C, wt 0.7 g. Static bioassay without aeration, pH 7.2-7.5, water hardness 40-50 mg/l as calcium carbonate and alkalinity of 30-35 mg/l.</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Planarian 1-5 ppm/10 days /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Ictalurus punctatus (channel catfish) 500 ug/l/96 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Cyprinus carpio (carp) 1160 ug/l/48 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Mugil curema (white mullet) 5.5 ug/l/48 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Palaemonetes kadiakensis (freshwater shrimp) 13.6 ug/l/24 hr; 2.5 ug/l/24 hr. /Technical chlordane/ /Conditions of bioassay not specified/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Chironomus plumosus (midge, larva) 10 ug/l/24 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Palaemonetes kadiakensis (decapod) 4.0 ug/l/96 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Gammarus lacustris 26 ug/l/96 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Tubifex tubifex (tubificid worm) 10,000 ug/l/24 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Lebistes reticulatus 0.341 mg/l/96 hr /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 Mallard (female) oral 1200 mg/kg (95% confidence limit 954-1510 mg/kg)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Rainbow trout 29 ug/l/96 hr (diet with 23% proteins; 47 ug/l/96 hr (diet with 45% proteins). /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>Crassostrea virginica (eastern oyster) 10 ug/l/24 hr; Toxic effect: growth affected.</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 Apis mellifera (Honeybee) dermal 6.0 ug/g</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 Gryllus pennsylvanicus (Common field cricket; larvae age: 24-48 hr) 0.89 ppm in soil/20 hr; natural soil: 76.31% sand, 13.21% silt, 10.48% clay, pH 7.2, and 1.44% organic matter, 8.6% moisture</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Lepomis macrochirus (Bluegill) 56 ppb/96 hr (95% confidence interval: 42-74 ppb); static</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Hyalella azteca (Scud) 61.1 ug/L/48 hr; static</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Heteropneustes fossilis (Indian catfish) 560 ug/L/24 hr; 480 ug/L/48 hr; 450 ug/L/72 hr; 420 ug/L/96 hr; static</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf8'?>
+<Excel_XML>
+  <RECORDS>
+    <index>148</index>
+    <name>7-hydroxycitronellal</name>
+    <CAS>107-75-5</CAS>
+    <IUPAC>7-hydroxy-3,7-dimethyloctanal</IUPAC>
+    <SMILES>CC(CCCC(C)(C)O)CC=O</SMILES>
+    <Toxicity>Daphnia_EC50 : 410 mg/L  Daphnia_Duration : 48 hr  Daphnia_Further_info : ECHA ; European Chemicals Agency</Toxicity>
+  </RECORDS>
+</Excel_XML>

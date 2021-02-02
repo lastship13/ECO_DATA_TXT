@@ -1,0 +1,253 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>14915</ns0:RecordNumber>
+  <ns0:RecordTitle>Chromium trioxide</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: /Oncorhynchus mykiss/ (rainbow trout) embryo larva; Concentration: 190 ug/L as chromium for 28 days, with a water hardness of 101 mg/L as calcium carbonate; Effect: death and deformity /Conditions of bioassay not specified/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Carassius auratus (goldfish) embryo larva; Concentration: 660 ug/L as chromium for 7 days, with a water hardness of 195 mg/L as calcium carbonate; Effect: death and deformity /Conditions of bioassay not specified/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ophryotrocha diadema (polychaete worm); Conditions: static; Concentration: 7,500 ug/L as chromium and Ctendrilus seratus (polychaete worm) 4,300 ug/L as chromium.</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Capitella captata (polychaete worm); Conditions: static; Concentration: 8,000 ug/L as chromium (larval) and 5,000 ug/L as chromium (adult); unmeasured method</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>Selected ranked Species Mean Acute Values for saltwater species are as follows: Nassarius obsoletus (mud snail) 105,000 ug/l, Fundulus heteroclitus (mummichog) 74,010 ug/l, Menidia menidia (Atlantic silverside) 15,280 ug/l, Crassostrea gigas (Pacific oyster) 4,538 ug/l, Mytilus edulis (blue mussel) 4,469 ug/l, Mysidopsis bahia (mysid shrimp) 2,030 ug/l, and Nereis virens (polychaete worm) 2,000 ug/l. The saltwater Final Acute Value of 2,158 ug/l for chromium(6+) was calculated from the Genus Mean Acute Values. /Hexavalent chromium/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>Toxic threshold, Daphnia magna 0.016-0.7 ppm /Cr(VI)/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Anabaena doliolum (Blue-Green Algae); Conditions: freshwater, static, 26 °C; Concentration: 40000 ug/L for 2 weeks</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Rana cyanophlyctis (Skipping Frog); Conditions: freshwater, renewal, hardness 100 mg/L CaCO3; Concentration: 230000 ug/L for 24 hr (95% confidence interval: 169900-315100 ug/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Rana cyanophlyctis (Skipping Frog); Conditions: freshwater, renewal, hardness 10 mg/L CaCO3; Concentration: 135000 ug/L for 24 hr (95% confidence interval: 125900-144700 ug/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Rana cyanophlyctis (Skipping Frog); Conditions: freshwater, renewal, pH 10; Concentration: 280000 ug/L for 24 hr (95% confidence interval: 256900-309200 ug/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Rana cyanophlyctis (Skipping Frog); Conditions: freshwater, renewal, pH 4.0; Concentration: 125000 ug/L for 24 hr (95% confidence interval: 115900-134700 ug/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Rana cyanophlyctis (Skipping Frog); Conditions: freshwater, renewal, hardness 300 mg/L CaCO3; Concentration: 155000 ug/L for 96 hr (95% confidence interval: 137800-174400 ug/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Rana cyanophlyctis (Skipping Frog); Conditions: freshwater, renewal, hardness 100 mg/L CaCO3; Concentration: 105000 ug/L for 96 hr (95% confidence interval: 72900-151100 ug/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ceriodaphnia dubia (Water Flea) age &lt;24 hr neonate; Conditions: freshwater, static, pH 7.8-8.1, hardness 90-100 mg/L CaCO3, alkalinity 64-70 mg/L, dissolved oxygen 7-8 mg/L; Concentration: 145 ug/L for 48 hr (95% confidence interval: 135-154 ug/L) /98% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Micropterus salmoides (Largemouth Bass) eggs; Conditions: freshwater, renewal, 19-22 °C, pH 7.2-7.8, hardness 93-105 mg/L CaCO3, dissolved oxygen 7.4 mg/L; Concentration: 1170 ug/L for 8 days (95% confidence interval: 850-1580 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Colisa fasciata (Giant Gourami) adult, weight 5.23 g, length 5.41 cm; Conditions: freshwater, static; Concentration: 83000 ug/L for 24 hr (95% confidence interval: 74580-92360 ug/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Colisa fasciata (Giant Gourami) adult, weight 5.23 g, length 5.41 cm; Conditions: freshwater, static; Concentration: 72000 ug/L for 48 hr (95% confidence interval: 63550-81570 ug/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Colisa fasciata (Giant Gourami) adult, weight 5.23 g, length 5.41 cm; Conditions: freshwater, static; Concentration: 66000 ug/L for 72 hr (95% confidence interval: 57540-75700 ug/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Colisa fasciata (Giant Gourami) adult, weight 5.23 g, length 5.41 cm; Conditions: freshwater, static; Concentration: 60000 ug/L for 96 hr (95% confidence interval: 52860-68100 ug/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Mystus vittatus (Striped Catfish) adult, weight 8 g, length 9 cm; Conditions: freshwater, renewal, 26 °C, pH 7.3-7.5, hardness 174-190 mg/L CaCO3, alkalinity 160-165 mg/L CaCO3, dissolved oxygen 6.8-7.7 mg/L; Concentration: 82790 ug/L for 24 hr (95% confidence interval: 78360-85330 ug/L) /99% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Mystus vittatus (Striped Catfish) adult, weight 8 g, length 9 cm; Conditions: freshwater, renewal, 26 °C, pH 7.3-7.5, hardness 174-190 mg/L CaCO3, alkalinity 160-165 mg/L CaCO3, dissolved oxygen 6.8-7.7 mg/L; Concentration: 72110 ug/L for 48 hr (95% confidence interval: 69980-76260 ug/L) /99% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Mystus vittatus (Striped Catfish) adult, weight 8 g, length 9 cm; Conditions: freshwater, renewal, 26 °C, pH 7.3-7.5, hardness 174-190 mg/L CaCO3, alkalinity 160-165 mg/L CaCO3, dissolved oxygen 6.8-7.7 mg/L; Concentration: 61670 ug/L for 96 hr (95% confidence interval: 58430-65830 ug/L) /99% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oryzias latipes (Japanese Medaka); Conditions: freshwater, static, 20 °C; Concentration: 140000 ug/L for 24 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oryzias latipes (Japanese Medaka); Conditions: freshwater, static, 30 °C; Concentration: 210000 ug/L for 24 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oryzias latipes (Japanese Medaka); Conditions: freshwater, static, 10 °C; Concentration: 110000 ug/L for 24 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oryzias latipes (Japanese Medaka); Conditions: freshwater, static, 30 °C; Concentration: 210000 ug/L for 48 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oryzias latipes (Japanese Medaka); Conditions: freshwater, static, 10 °C; Concentration: 70000 ug/L for 48 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oryzias latipes (Japanese Medaka); Conditions: freshwater, static, 20 °C; Concentration: 140000 ug/L for 48 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead Minnow) age &lt;1 wk larva; Conditions: freshwater, renewal, pH 7.8-8.1, hardness 90-100 mg/L CaCO3, alkalinity 64-70 mg/L, dissolved oxygen 7-8 mg/L; Concentration: 22464 ug/L for 48 hr (95% confidence interval: 19803-24945 ug/L) /98% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead Minnow) age &lt;1 wk larva; Conditions: freshwater, renewal, pH 7.8-8.1, hardness 90-100 mg/L CaCO3, alkalinity 64-70 mg/L, dissolved oxygen 7-8 mg/L; Concentration: 22464 ug/L for 48 hr (95% confidence interval: 19803-24945 ug/L) /98% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Gambusia affinis (Western Mosquitofish) weight 0.125 g, length 2.61 cm; Conditions: freshwater, renewal, 26 °C, pH 7.10, hardness 220 mg/L CaCO3, dissolved oxygen 8 mg/L; Concentration: 151954.2 ug/L for 96 hr (95% confidence interval: 123598.4-180310.1 ug/L) /&gt;99% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Tetrahymena pyriformis (Ciliate) Exponential Growth Phase (Log), strain GL, 1000 cells/mL; Conditions: freshwater, static, 25 °C, pH 7; Concentration: 18250 ug/L for 1 hr; Effect: biochemistry, decreased fluorescence /&gt; or =98% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Mytilus edulis (Common Bay Mussel, Blue Mussel); Conditions: saltwater, static; Concentration: 3900 ug/L for 7 days; Effect: growth, decreased limb/ body part regeneration</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Mytilus edulis (Common Bay Mussel, Blue Mussel); Conditions: saltwater, static; Concentration: 5000 ug/L for 7 days</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

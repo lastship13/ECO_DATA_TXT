@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf8'?>
+<Excel_XML>
+  <RECORDS>
+    <index>25</index>
+    <name>Tetrasodium ethylenediaminetetraacetate</name>
+    <CAS>64-02-8</CAS>
+    <IUPAC>tetrasodium;2-[2-[bis(carboxylatomethyl)amino]ethyl-(carboxylatomethyl)amino]acetate</IUPAC>
+    <SMILES>C(CN(CC(=O)[O-])CC(=O)[O-])N(CC(=O)[O-])CC(=O)[O-].[Na+].[Na+].[Na+].[Na+]</SMILES>
+    <Toxicity>Daphnia_EC50 : 140 mg/L  Daphnia_Duration : ?  Daphnia_Further_info : echa.europa.eu(https://echa.europa.eu/registration-dossier/-/registered-dossier/15231/6/4/1)</Toxicity>
+  </RECORDS>
+</Excel_XML>

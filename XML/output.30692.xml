@@ -1,0 +1,183 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>30692</ns0:RecordNumber>
+  <ns0:RecordTitle>2-(Thiocyanomethylthio)benzothiazole</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: /Lepomis macrochirus/ (Bluegill sunfish); Concentration: 0.047 ppm for 96 hr /60% formulation (Busan 72)/ /Conditions of bioassay not specified/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: /Oncorhynchus mykiss/ (Rainbow trout); Concentration: 0.029 ppm for 96 hr /60% formulation (Busan 72)/ /Conditions of bioassay not specified/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: /Colinus virginianus/ (Bobwhite quail);  &gt;10,000 ppm/ 96 hr /60% formulation (Busan 72)/ /Conditions of bioassay not specified/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Duck oral 1310 mg/kg</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Pseudokirchneriella subcapitata (Green Algae); Conditions: freshwater, static, 25 °C; Concentration: 39 ug/L for 30 hr; Effect: population abundance /100% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Pseudokirchneriella subcapitata (Green Algae); Conditions: freshwater, static; Concentration: 430 ug/L for 72 hr; Effect: population growth rate /&gt;98% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Pseudokirchneriella subcapitata (Green Algae) 10+6 cells/mL; Conditions: freshwater, static, 25 °C; Concentration: 433 ug/L for 72 hr; Effect: decreased population growth rate /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ceriodaphnia dubia (Water Flea) age &lt;24 hr neonate; Conditions: freshwater, static, 24.1-25.0 °C, pH 7.35-8.35, hardness 85-100 mg/L CaCO3, alkalinity 70-85 mg/L CaCO3; Concentration: 15.3 ug/L for 48 hr /99.4% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ceriodaphnia dubia (Water Flea) age &lt;24 hr neonate; Conditions: freshwater, renewal, 24.1-25.0 °C, pH 7.35-8.35, hardness 85-100 mg/L CaCO3, alkalinity 70-85 mg/L CaCO3; Concentration: 5.6 ug/L for 7 days /99.4% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water Flea) age &lt;24 hr; Conditions: freshwater, flow through; Concentration: 23 ug/L for 48 hr (95% confidence interval: 20-26 ug/L); Effect: intoxication, immobilization /80% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water Flea) age &lt;24 hr; Conditions: freshwater, static; Concentration: 23 ug/L for 48 hr (95% confidence interval: 13-36 ug/L); Effect: intoxication, immobilization /90% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Americamysis bahia (Opossum Shrimp) age 24 hr; Conditions: saltwater, static; Concentration: 20.3 ug/L for 96 hr (95% confidence interval: 17-25 ug/L) /90% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cyprinodon variegatus (Sheepshead Minnow) weight 0.47 g; Conditions: saltwater, static; Concentration: 60 ug/L for 96 hr (95% confidence interval: 36-100 ug/L) /80% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ictalurus punctatus (Channel Catfish) weight 0.8-1.2 g; Conditions: freshwater, renewal, 17 °C, pH 7.7, hardness 40 mg/L CaCO3, alkalinity 30 mg/L CaCO3; Concentration: 49 ug/L for 48 hr (95% confidence interval: 37-65 ug/L) /30% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill) weight 1.6 g; Conditions: freshwater, flow through; Concentration: 8.7 ug/L for 96 hr (95% confidence interval: 36-100 ug/L) /80% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill) weight 0.23 g; Conditions: freshwater, static; Concentration: 32 ug/L for 96 hr (95% confidence interval: 16-45 ug/L) /90% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus kisutch (Silver Salmon) juvenile, weight 5.3 g, length 7.3 cm; Conditions: freshwater, flow through, 13.4 °C, pH 6.1-6.7, hardness 5.2-6.0 mg/L CaCO3, dissolved oxygen &gt;95%; Concentration: 10.3 ug/L for 96 hr /30% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus kisutch (Silver Salmon) juvenile, weight 5.3 g, length 7.3 cm; Conditions: freshwater, flow through, 12.6 °C, pH 6.1-6.7, hardness 5.2-6.0 mg/L CaCO3, dissolved oxygen &gt;95%; Concentration: 11.4 ug/L for 96 hr /30% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow Trout) weight 0.76 g; Conditions: freshwater, flow through; Concentration: 20.12 ug/L for 96 hr (95% confidence interval: 17.77-22.91 ug/L) /80.4% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow Trout) weight 1.4 g; Conditions: freshwater, static; Concentration: 29 ug/L for 96 hr (95% confidence interval: 21-40 ug/L) /75% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow Trout) weight 1.0 g; Conditions: freshwater, static; Concentration: 45 ug/L for 96 hr (95% confidence interval: 27-75 ug/L)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow Trout) weight 0.8-1.2 g; Conditions: freshwater, static, 17 °C, pH 7.7, hardness 40 mg/L CaCO3, alkalinity 30 mg/L CaCO3; Concentration: 21 ug/L for 48 hr (95% confidence interval: 18-26 ug/L) /30% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus tshawytscha (Chinook Salmon) juvenile, weight 5.3 g, length 7.3 cm; Conditions: freshwater, flow through, 12.6 °C, pH 6.1-6.7, hardness 5.2-6.0 mg/L CaCO3, dissolved oxygen &gt;95%; Concentration: 11.5 ug/L for 96 hr /30% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus tshawytscha (Chinook Salmon) juvenile, weight 5.3 g, length 7.3 cm; Conditions: freshwater, flow through, 13.4 °C, pH 6.1-6.7, hardness 5.2-6.0 mg/L CaCO3, dissolved oxygen &gt;95%; Concentration: 7.3 ug/L for 96 hr /30% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

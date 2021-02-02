@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>24870</ns0:RecordNumber>
+  <ns0:RecordTitle>Chlorine dioxide</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow) juvenile; Conditions: flow through; Concentration: 0.02 mg/L for 96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow) adult- 1 yr old; Conditions: flow through; Concentration: 0.17 mg/L for 96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill) young of the year; Conditions: flow through; Concentration: 0.15 mg/L for 96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Carcinus maenas (Green or Europeon shore crab); Conditions: renewal; Concentration: 500 mg/L for 48 hr /technical product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cerastoderma edule (Cockle); Conditions: renewal; Concentration: &gt;500 mg/L for 48 hr /technical product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Crangon crangon (Common shrimp); Conditions: renewal; Concentration: &gt;500 mg/L for 48 hr /technical product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pandalus montagui (Aesop shrimp); Conditions: renewal; Concentration: &gt;500 mg/L for 48 hr /technical product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow Trout) age 7 days larva; Conditions: freshwater, renewal, 10 °C, pH 8.0, alkalinity 244 mg/L HCO3, dissolved oxygen 8-10 mg/L; Concentration: 1600 ug/L for 20 days (95% confidence interval: 1500-1700 ug/L) /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow Trout) age 7 days larva; Conditions: freshwater, renewal, 10 °C, pH 8.0, alkalinity 244 mg/L HCO3, dissolved oxygen 8-10 mg/L; Concentration: 2200 ug/L for 96 hr (95% confidence interval: 2100-2400 ug/L) /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow Trout) age 7 days larva; Conditions: freshwater, renewal, 10 °C, pH 8.0, alkalinity 244 mg/L HCO3, dissolved oxygen 8-10 mg/L; Concentration: 2000 ug/L for 10 days (95% confidence interval: 1900-2200 ug/L) /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow Trout) age 1 yr adult, length 133 mm; Conditions: freshwater, renewal, 12 °C, pH 8.0, alkalinity 244 mg/L HCO3, dissolved oxygen 8-10 mg/L; Concentration: 8300 ug/L for 96 hr (95% confidence interval: 7600-9200 ug/L) /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Salmo salar (Atlantic salmon); Concentration: 1807.5 mg/L for 24 hr /Conditions of bioassay not specified in source examined/ /technical product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Salmo trutta (Brown trout); Concentration: 10,000 mg/L for 48 hr /Conditions of bioassay not specified in source examined/ /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Rasbora heteromorpha Duncker (Harlequin fish); Conditions: flow through; Concentration: 9600 mg/L for 24 hr /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia pulex (Water flea); Conditions: static; Concentration: 1.8 ppm for 48 hr (95% confidence interval: 0.9-2.7 ppm); Effect: immobilization</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Procambarus clarkii (Red swamp crayfish); Conditions: static; Concentration: 610 ppm for 48 hr (95% confidence interval: 503-774 ppm)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

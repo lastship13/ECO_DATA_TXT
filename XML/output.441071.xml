@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>441071</ns0:RecordNumber>
+  <ns0:RecordTitle>Strychnine</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: /Anas platyrhynchos/ (Mallard duck) 6 month old males and females; oral 2.27 mg/kg (95% confidence limit: 1.26-4.11 mg/kg) /98% Strychnine alkaloid, NF/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: /Phasianus colchicus/ (Pheasant) 12-24 month old males in breeding condition; oral 24.7 mg/kg (95% confidence limit: 14.4-42.2 mg/kg) /98% Strychnine alkaloid, NF/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: /Phasianus colchicus/ (Pheasant) 2 month old males; oral (admin into esophagus by ball-tipped intubation needles) 8.48 mg/kg (95% confidence limit: 4.41-16.3 mg/kg) /Strychnine sulfate, USP/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Chukar, 5-7 month old females and males; oral 16.0 mg/kg (95% confidence limit: 8.0-32.0 mg/kg) /98% Strychnine alkaloid, NF/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: /Coturnix japonica/ (Japanese quail) 2 month old females some of which were laying eggs; oral 22.6 mg/kg (95% confidence limit: 11.9-42.9 mg/kg) /98% Strychnine alkaloid, NF/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: /Columba livia/ (Rock dove) males and females; oral 21.3 mg/kg (95% confidence limit: 16.9-26.9 mg/kg) /98% Strychnine alkaloid, NF/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: /Zenaida macroura/ (Mourning dove) females and males; oral (admin into esophagus with ball-tipped intubation needles) &gt;5.12 mg/kg /Strychnine sulfate, USP/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: /Passer domesticus/ (House sparrow) males; oral 4.18 mg/kg (95% confidence limit: 3.18-5.50 mg/kg) /98% Strychnine alkaloid, NF/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: /Aquila chrysaetos/ (Golden eagle) oral 5.0-10.0 mg/kg /Strychnine sulfate, USP/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Mule deer, 8-11 month old females; oral 17.0-24.0 mg/kg /98% Strychnine alkaloid, NF/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Bullfrog, males; oral 2.21 mg/kg (95% confidence limit: 1.56-3.12 mg/kg) /98% Strychnine alkaloid, NF/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (bluegill sunfish); Conditions: freshwater, static bioassay, 23 °C, mild aeration after 24 hr; Concentration: 0.87 ppm for 96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Menidia beryllina; Conditions: saltwarer, static bioassay, 23 °C, mild aeration after 24 hr; Concentration: 0.95 ppm for 96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: /Anas platyrhynchos/ (Mallard duckling) age 36 hr; oral 2.62 mg/kg (95% confidence limit 1.94-3.55 mg/kg) /98% Strychnine alkaloid, NF/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: /Anas platyrhynchos/ (Mallard duckling) oral 2.00 mg/kg (95% confidence limit 1.51-2.65 mg/kg) /98% Strychnine alkaloid, NF/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: /Anas platyrhynchos/ (Mallard) 1 month old; oral 5.88 mg/kg (95% confidence limit 3.23-10.7 mg/kg) /98% Strychnine alkaloid, NF/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

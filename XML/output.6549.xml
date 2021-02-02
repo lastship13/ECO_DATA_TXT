@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>6549</ns0:RecordNumber>
+  <ns0:RecordTitle>Linalool</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout) juvenile, average length 63 mm (57-72 mm), weight 2.12 g (1.51-2.75 g); Conditions: static, 180 mg CaCO3/L hardness, 14 + or - 0.5 °C; Concentration: 27.8 mg/L for 96 hr (95% confidence limit: 22.9-33.7 mg/L) /dl-Linalool purity 97.8%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow Trout); Conditions: freshwater, static; Concentration: 28800 ug/L for 96 hr (95% confidence interval: 25700-31900 ug/L) /100% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Leuciscus idus (Golden orfe) average length 6.0 (5.5-7.1) cm, weight 1.8 (1.2-2.8) g); Conditions: static, 21 °C; Concentration: 22-46 mg/L for 96 hr /97.7% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (water flea); Conditions: static, 21 + or - 1 °C; Concentration: 59 (95% confidence limit: 53-65) mg/L for 48 hr;  Effect: immobilization /dl-Linalool purity 97.8%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water Flea); Conditions: freshwater, static; Concentration: 36700 ug/L for 48 hr (95% confidence interval: 31900-43000 ug/L); Effect: intoxication, immobilization /100% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Scenedesmus subspicatus (green alga); Concentration: 88.3 mg/L for 96 hr; Effect: biomass /Conditions of bioassay not specified in source examined/ /Emulsified using Tween80 concentration one-tenth of the linalool/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Scenedesmus subspicatus (green alga); Concentration: 156.7 mg/L for 96 hr; Effect: growth rate /Conditions of bioassay not specified in source examined/ /Emulsified using Tween80 concentration one-tenth of the linalool/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Pseudomonas putida (soil bacterium); Concentration: 1000 mg/L for 30 min; Effect: oxygen consumption /Conditions of bioassay not specified in source examined/ /Tween 80 as an emulsifier/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

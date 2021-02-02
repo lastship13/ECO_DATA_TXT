@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>50516</ns0:RecordNumber>
+  <ns0:RecordTitle>Fluvalinate</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: /Colinus virginianus/ (Bobwhite quail) oral &gt;2510 mg/kg</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: /Colinus virginianus/ (Bobwhite quail) dietary &gt;5620 mg/kg diet/8 day</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: /Anas platyrhynchos/ (Mallard duck) dietary &gt;5620 mg/kg diet/8 day</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Americamysis bahia (Opossum Shrimp) juvenile; Conditions: saltwater; flow-through; Concentration:  0.11 ug/L for 96 hr (95% confidence interval: 0.09-0.14 ug/L) /22% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Americamysis bahia (Opossum Shrimp) age 3 days; Conditions: saltwater; static; Concentration: 0.021 ug/L for 96 hr (95% confidence interval: 0.017-0.028 ug/L) /93.1% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Cyprinodon variegatus (Sheepshead minnow); Conditions: saltwater; flow-through; Concentration:  24.7 ug/L (95% confidence limit: 22.5 to 34.8 ug/L) for 4 day; Effect: intoxication, immobile /22.3% AI formulated product/[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on N-</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cyprinus carpio (common carp); Conditions: freshwater; static; Concentration:  4.8 ug/L (95% confidence limit: 3.4 to 6.6 ug/L) for 4 day /93.1% AI formulated product/[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on N-</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cyprinus carpio (common carp); Conditions: freshwater; /Conditions of bioassay not specified; Concentration:  13 ug/L for 4 day /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cyprinus carpio (common carp); Conditions: freshwater; /Conditions of bioassay not specified; Concentration:  80 ug/L (95% confidence limit: 60 to 100 ug/L) for 2 day /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea); Conditions: freshwater; static; Concentration:  0.4 ug/L for 2 day; Effect: intoxication, immobile /93.2% AI formulated product/[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on N-</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea); Conditions: freshwater; flow-through; Concentration:  1 ug/L (95% confidence limit: 0.89 to 1.2 ug/L) for 2 day; Effect: intoxication, immobile /93.1% AI formulated product/[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on N-</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea); Conditions: Freshwater; static; Concentration: 74 ug/L (95% confidence limit: 61 to 89 ug/L) for 2 day; Effect: intoxication, immobile /93.1% AI formulated product/[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on N-</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea); Conditions: freshwater; static; Concentration:  325 ug/L (95% confidence limit: 249 to 522 ug/L) for 2 day; Effect: intoxication, immobile /24.9% AI formulated product/[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on N-</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Gambusia affinis (Western mosquitofish); Conditions: freshwater; /Conditions of bioassay not specified; Concentration:  2.2 ug/L (95% confidence limit: 1.6 to 3.1 ug/L) for 2 day /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill); Conditions: freshwater; flow-through; Concentration:  0.66 ug/L (95% confidence limit: 0.47 to 0.93 ug/L) for 14 day /93.2% AI formulated product/[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on N-</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill); Conditions: freshwater; static; Concentration:  0.9 ug/L (95% confidence limit: 0.7 to 1.1 ug/L) for 4 day /93.1% AI formulated product/[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on N-</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill); Conditions: freshwater; static; Concentration:  2.1 ug/L (95% confidence limit: 1.4 to 3.1 ug/L) for 4 day /24.9% AI formulated product/[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on N-</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill); Conditions: freshwater; static; Concentration:  2.6 ug/L (95% confidence limit: 1.7 to 6.3 ug/L) for 4 day /93% AI formulated product/[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on N-</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill); Conditions: freshwater; static; Concentration:  2.7 ug/L for 4 day /93.2% AI formulated product/[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on N-</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout); Conditions: freshwater; static; Concentration:  2.9 ug/L (95% confidence limit: 2.3 to 3.6 ug/L) for 4 day /93.1% AI formulated product/[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on N-</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout); Conditions: freshwater; static; Concentration:  8.8 ug/L for 4 day /24.9% AI formulated product/[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on N-</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Apis mellifera (Honey bee) contact 0.2 ug/bee /Tau-fluvalinate/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

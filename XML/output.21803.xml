@@ -1,0 +1,239 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>21803</ns0:RecordNumber>
+  <ns0:RecordTitle>Chlorpyrifos-methyl</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Callipepla californica (California Quail) age 9-11 months; oral via capsule 334 mg/kg bw (95% confidence interval: 265-421 mg/kg bw)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Anas platyrhynchos (Mallard Duck) age 9 days; diet &gt;5620 ppm for 8 days</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Anas platyrhynchos (Mallard Duck) juvenile; diet &lt;5000 ppm for 8 days (95% confidence interval: 2500-5000 ppm)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Anas platyrhynchos (Mallard Duck) oral via capsule &gt;1590 mg/kg</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Anas platyrhynchos (Mallard Duck) age 36 hr; oral via capsule 145 mg/kg (95% confidence interval: 55.8-377 mg/kg)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Anas platyrhynchos (Mallard Duck) age 7 days; oral via capsule 29.4 mg/kg (95% confidence interval: 18.6-46.7 mg/kg)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Anas platyrhynchos (Mallard Duck) age 30 days; oral via capsule 50.4 mg/kg (95% confidence interval: 32.5-78.1 mg/kg)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Anas platyrhynchos (Mallard Duck) age 6 months; oral via capsule 83.3 mg/kg (95% confidence interval: 44.0-158 mg/kg)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Colinus virginianus (Northern Bobwhite Quail) diet 1835 ppm for 8 days (95% confidence interval: 1550-2180 ppm)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Coturnix japonica (Japanese Quail) age 5-7 days; diet &gt;5000 ppm for 8 days</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Phasianus colchicus (Ring-Necked Pheasant) diet 4168 ppm for 8 days (95% confidence interval: 3685-4712 ppm)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Apis mellifera (Honey bee) adult; topical, general 0.38 ug/bee</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Procambarus sp. (Crayfish); Conditions: freshwater, static; Concentration: 3.5 ug/L for 36 hr (95% confidence interval: 0.2-20 ug/L) /98% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea) 1st instar larvae; Conditions: freshwater, static; Concentration: 1.11 ug/L for 48 hr (95% confidence interval: 0.72-1.735 ug/L); Effect: intoxication, immobilization /95% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea) age &lt;24 hr neonate; Conditions: freshwater, static, 21 °C, pH 7.4-7.9, dissolved oxygen &gt; or =7.8 mg/L; Concentration: 0.79 ug/L for 48 hr (95% confidence interval: 0.67-0.94 ug/L); Effect: intoxication, immobilization /100% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Penaeus aztecus (Brown Shrimp); Conditions: saltwater, static; Concentration: 0.68 ug/L for 48 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Penaeus duorarum (Northern Pink Shrimp); Conditions: saltwater, static; Concentration: 0.028 ug/L for 48 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Rasbora heteromorpha (Harlequinfish, Red Rasbora); Conditions: freshwater, static; Concentration: 15670 ug/L for 96 hr (95% confidence interval: 10680-22740 ug/L) /10% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Rasbora heteromorpha (Harlequinfish, Red Rasbora); Conditions: freshwater, static; Concentration: 2610 ug/L for 96 hr (95% confidence interval: 1970-2274 ug/L) /22% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill); Conditions: freshwater, static; Concentration: 880 ug/L for 96 hr (95% confidence interval: 880-970 ug/L) /96% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead Minnow) weight 0.9 g; Conditions: freshwater, static, 18 °C, pH 7.1, hardness 44 mg/L CaCO3; Concentration: 712 ug/L for 24 hr (95% confidence interval: 559-907 ug/L) /98% purity technical material/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead Minnow) weight 0.9 g; Conditions: freshwater, static, 18 °C, pH 7.1, hardness 44 mg/L CaCO3; Concentration: 678 ug/L for 96 hr (95% confidence interval: 542-846 ug/L) /98% purity technical material/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Salvelinus fontinalis (Brook Trout) weight 1.15 g; Conditions: freshwater, static, 12 °C, pH 7.5, hardness 40 mg/L CaCO3; Concentration: 400 ug/L for 24 hr (95% confidence interval: 280-570 ug/L) /96% purity technical material/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Salvelinus fontinalis (Brook Trout) weight 1.15 g; Conditions: freshwater, static, 12 °C, pH 7.5, hardness 40 mg/L CaCO3; Concentration: 100 ug/L for 96 hr (95% confidence interval: 65-150 ug/L) /61% purity technical material/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Salvelinus fontinalis (Brook Trout) weight 1.15 g; Conditions: freshwater, static, 12 °C, pH 7.5, hardness 40 mg/L CaCO3; Concentration: 200 ug/L for 96 hr (95% confidence interval: 140-280 ug/L) /96% purity technical material/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Poecilia reticulata (Guppy) adult; Conditions: freshwater, static, 22 °C, dissolved oxygen 6.3-6.6 mg/L; Concentration: 1790 ug/L for 96 hr (95% confidence interval: 1470-2100 ug/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow Trout) weight 1.4 g; Conditions: freshwater, static, 13 °C, pH 7.4, hardness 272 mg/L CaCO3; Concentration: 151 ug/L for 24 hr (95% confidence interval: 113-201 ug/L) /98% purity technical material/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow Trout) weight 1.4 g; Conditions: freshwater, static, 13 °C, pH 7.4, hardness 44 mg/L CaCO3; Concentration: 567 ug/L for 24 hr (95% confidence interval: 464-684 ug/L) /98% purity technical material/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow Trout) weight 1.4 g; Conditions: freshwater, static, 13 °C, pH 7.4, hardness 272 mg/L CaCO3; Concentration: 120 ug/L for 96 hr (95% confidence interval: 91-159 ug/L) /98% purity technical material/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow Trout) weight 1.4 g; Conditions: freshwater, static, 13 °C, pH 7.1, hardness 44 mg/L CaCO3; Concentration: 301 ug/L for 96 hr (95% confidence interval: 233-389 ug/L) /98% purity technical material/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow Trout); Conditions: freshwater, static; Concentration: 12.6 ug/L for 96 hr (95% confidence interval: 10.7-15.0 ug/L) /98% purity formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Crassostrea virginica (American or Virginia Oyster); Conditions: saltwater, static; Concentration: 320 ug/L for 96 hr; Effect: intoxicaiton, immobilization</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

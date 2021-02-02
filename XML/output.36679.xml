@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>36679</ns0:RecordNumber>
+  <ns0:RecordTitle>Isoproturon</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Desmodesmus subspicatus (Green Algae) 10000 cells/mL, CCAP 276/22; Conditions: freshwater, static, 23 °C; Concentration: 27 ug/L for 72 hr; Effect: population, decreased abundance /99.9% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Parachlorella kessleri (Green Algae) 10000 cells/mL; Conditions: freshwater, static, 23 °C; Concentration: 54 ug/L for 72 hr; Effect: population, decreased abundance /99.9% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Desmodesmus subspicatus (Green Algae) exponential growth phase (log), inoculated with 10000 cells/mL; Conditions: freshwater, static, 23 °C, pH 8; Concentration: 149 ug/L for 72 hr; Effect: population, decreased population growth rate</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Chlorella pyrenoidosa (Green Algae) 60000 cells/mL; Conditions: freshwater, static, 25 °C; Concentration: 5 ug/L for 96 hr; Effect: population, decreased population growth rate /95% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Chlorella vulgaris (Green Algae) 8x10+5 cells/mL; Conditions: freshwater, static, 25 °C; Concentration: 22.4 ug/L for 96 hr; Effect: population, decreased population growth rate /95% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Chlorella vulgaris (Green Algae) 2000-10000 cells/mL; Conditions: freshwater, static, 21 °C; Concentration: 117.93 ug/L for 72 hr (95% confidence interval: 105.47-139.38 ug/L); Effect: population, decreased population growth rate /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Pseudokirchneriella subcapitata (Green Algae) 2000-10000 cells/mL; Conditions: freshwater, static, 21 °C; Concentration: 141.89 ug/L for 72 hr (95% confidence interval: 108.98-165.91 ug/L); Effect: population, decreased population growth rate /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Pseudokirchneriella subcapitata (Green Algae) 50000 cells/mL; Conditions: freshwater, static, 25 °C; Concentration: 13.6 ug/L for 96 hr; Effect: population, decreased abundance /95% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Scenedesmus acutus var. acutus (Green Algae) 4x10+5 cells/mL; Conditions: freshwater, static, 25 °C; Concentration: 23.9 ug/L for 96 hr; Effect: population, decreased population growth rate /95% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Scenedesmus subspicatus (Green Algae) 1x10+4 cells/mL; Conditions: freshwater, renewal, 25 °C; Concentration: 21 ug/L for 96 days (95% confidence interval: 15-27 ug/L); Effect: population, decreased abundance /98% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Pseudokirchneriella subcapitata (Green Algae) 10000 cells/mL, CCAP 278/4; Conditions: freshwater, static, 23 °C; Concentration: 41 ug/L for 72 hr; Effect: population, decreased abundance /99.9% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Lemna minor (Duckweed); Conditions: freshwater, renewal, 25 °C; Concentration: 31 ug/L for 10 days (95% confidence interval: 29-34 ug/L ; Effect: biochemistry, decreased chlorophyll /98% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Lemna minor (Duckweed); Conditions: freshwater, renewal, 25 °C; Concentration: 40 ug/L for 10 days (95% confidence interval: 37-43 ug/L; Effect: population, decreased abundance /98% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Lemna minor (Duckweed); Conditions: freshwater, renewal, 25 °C; Concentration: 33 ug/L for 10 days (95% confidence interval: 30-35 ug/L; Effect: decreased growth /98% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Lemna minor (Duckweed) 3 frond colonies; Conditions: freshwater, renewal, 20 °C; Concentration: &gt;100 ug/L for 42 days; Effect: decreased population growth</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Lemna minor (Duckweed); Conditions: freshwater, static; Concentration: 0.468 umol/L for 24 hr; Effect: decreased population abundance /&gt;99% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Lemna minor (Duckweed); Conditions: freshwater, static; Concentration: 0.164 umol/L for 24 hr; Effect: population, decreased chlorophyll /&gt;99% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Crassostrea gigas (Pacific Oyster) Egg; Conditions: saltwater, renewal, 24 °C; Concentration: 370 ug/L for 9 days</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

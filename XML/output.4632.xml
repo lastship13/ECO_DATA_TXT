@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>4632</ns0:RecordNumber>
+  <ns0:RecordTitle>Oxybenzone</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Isochrysis galbana (Haptophyte) exponential growth phase, 7000 cells/mL; Conditions: saltwater, static, 20 °C, pH 8; Concentration: 13.87 ug/L for 72 hr (95% confidence interval: 0-41.69 ug/L); Effect: decreased population growth rate /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Acropora cervicornis (Staghorn Coral ) larva; Conditions: saltwater, static, 22 °C; Concentration: 9 ug/L for 4 hr (95% confidence interval: 5.4-14.5 ug/L) /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Mytilus galloprovincialis (Mediterranean Mussel) egg; Conditions: saltwater, static, 20 °C; Concentration: 3472.59 ug/L for 48 hr (95% confidence interval: 3359.65-3585.52 ug/L); Effect: decreased normal development /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Dugesia japonica (Flatworm) body length 0.7 cm; Conditions: fresh, static, 25 °C; Concentration: 2200 ug/L for 24 hr /&gt;99% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Dugesia japonica (Flatworm) body length 0.7 cm; Conditions: fresh, static, 25 °C; Concentration: 900 ug/L for 48 hr (95% confidence interval: 800-1000 ug/L) /&gt;99% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Dugesia japonica (Flatworm) body length 0.7 cm; Conditions: fresh, static, 25 °C; Concentration: 700 ug/L for 72 hr (95% confidence interval: 600-700 ug/L) /&gt;99% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Dugesia japonica (Flatworm) body length 0.7 cm; Conditions: fresh, static, 25 °C; Concentration: 500 ug/L for 72 hr (95% confidence interval: 400-600 ug/L) /&gt;99% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

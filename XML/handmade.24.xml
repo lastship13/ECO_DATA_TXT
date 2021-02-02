@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf8'?>
+<Excel_XML>
+  <RECORDS>
+    <index>24</index>
+    <name>(2-methoxymethylethoxy)propanol</name>
+    <CAS>34590-94-8</CAS>
+    <IUPAC>1-(3-methoxypropoxy)propan-1-ol</IUPAC>
+    <SMILES>CCC(O)OCCCOC</SMILES>
+    <Toxicty>Daphnia_LC50 : 625 AI mg/L  Daphnia_Duration : 24 hrs  Daphnia_Further_info : Ecotox</Toxicty>
+    <Toxicty>Daphnia_EC50 : 610 (570-640) AI mg/L  Daphnia_Duration : 24 hrs  Daphnia_Further_info : Ecotox, 1033 AI mg/L (24 hrs, Ecotox)</Toxicty>
+  </RECORDS>
+</Excel_XML>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf8'?>
+<Excel_XML>
+  <RECORDS>
+    <index>166</index>
+    <name>Orthophosphoric acid</name>
+    <CAS>7664-38-2</CAS>
+    <IUPAC>phosphoric acid</IUPAC>
+    <SMILES>OP(=O)(O)O</SMILES>
+    <Toxicty>Daphnia_EC50 : 105 (72-121) AI mg/L  Daphnia_Duration : 48hr  Daphnia_Further_info : echotox ; Age : &lt;24 Hour(s)</Toxicty>
+  </RECORDS>
+</Excel_XML>

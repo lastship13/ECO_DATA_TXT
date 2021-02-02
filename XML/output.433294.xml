@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>433294</ns0:RecordNumber>
+  <ns0:RecordTitle>Lithium chloride</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow trout,Donaldson trout); Conditions:  fresh water, temperature 12 to 13 °C, pH 6.9 to 7.8, hardness 92 to 110 mg/L CaCO3, dissolved oxygen 9.3 to 10.1 mg/L; renewal; Concentration:  9280 ug/L (95% confidence limit: 6680 to 12300ug/L) for 28 days /total/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow); Conditions:  fresh water; flow through, temperature 24.5 to 25 °C, pH 7.2 to 7.5, hardness 56 to 70 mg/L CaCO3, conductivity 160 to 270 umhos/cm, dissolved oxygen 6.8 to 8.6 mg/L; Concentration:  8700 ug/L (95% confidence limit: 5400 to 15000ug/L) for 26 days /total/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow); Conditions:  fresh water; flow through, temperature 24.5 to 25 °C, pH 7.2 to 7.5, hardness 56 to 70 mg/L CaCO3, conductivity 160 to 270 umhos/cm, dissolved oxygen 6.8 to 8.6 mg/L; Concentration:  1200 ug/L for 26 days /total/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Pimephales promelas (Fathead minnow); Conditions:  fresh water; flow through, temperature 24.5 to 25 °C, pH 7.2 to 7.5, hardness 56 to 70 mg/L CaCO3, conductivity 160 to 270 umhos/cm, dissolved oxygen 6.8 to 8.6 mg/L; Concentration:  6400 ug/L (95% confidence limit: 5680 to 7360ug/L) for 26 days Effect: development normal; normal /total/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Pimephales promelas (Fathead minnow); Conditions:  fresh water; flow through, temperature 24.5 to 25 °C, pH 7.2 to 7.5, hardness 56 to 70 mg/L CaCO3, conductivity 160 to 270 umhos/cm, dissolved oxygen 6.8 to 8.6 mg/L; Concentration:  1000 ug/L for 26 days Effect: development normal; normal /total/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>91699</ns0:RecordNumber>
+  <ns0:RecordTitle>Triflumizole</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Colinus virginianus (Northern Bobwhite Quail) age 14 days; dietary &gt;5620 ppm for 8 days[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 1-[(1E)-1-[</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Colinus virginianus (Northern Bobwhite Quail) age 34 wk; oral via capsule &gt;2510 mg/kg[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 1-[(1E)-1-[</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Anas platyrhynchos (Mallard Duck) age 9 days; dietary &gt;5620 ppm for 8 days[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 1-[(1E)-1-[</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Apis mellifera (Honey Bee) adult; topical, general &gt;160 ug/bee[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 1-[(1E)-1-[</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Pseudokirchneriella subcapitata (Green Algae); Conditions: freshwater, static; Concentration: 630 ug/L for 96 hr (95% confidence interval: 318-1020 ug/L); Effect: decreased population abundance /98.6% purity/[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 1-[(1E)-1-[</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Pseudokirchneriella subcapitata (Green Algae); Conditions: freshwater, static; Concentration: 140 ug/L for 96 hr (95% confidence interval: 130-150 ug/L); Effect: decreased population abundance /50.5% purity/[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 1-[(1E)-1-[</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Anabaena flosaquae (Blue-Green Algae); Conditions: freshwater, static; Concentration: 3000 ug/L for 96 hr (95% confidence interval: 2600-3400 ug/L); Effect: decreased population abundance /99.2% purity/[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 1-[(1E)-1-[</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Navicula pelliculosa (Diatom); Conditions: freshwater, static; Concentration: 130 ug/L for 96 hr (95% confidence interval: 120-150 ug/L); Effect: decreased population abundance /99.2% purity/[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 1-[(1E)-1-[</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Skeletonema costatum (Diatom); Conditions: saltwater, static; Concentration: 480 ug/L for 96 hr (95% confidence interval: 360-650 ug/L); Effect: decreased population abundance /99.2% purity/[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 1-[(1E)-1-[</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia carinata (Water Flea) age &lt;24 hr; Conditions: freshwater, static; Concentration: 1400 ug/L for 48 hr (95% confidence interval: 1200-1700 ug/L); Effect: intoxication, immobilization /98.7% purity/[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 1-[(1E)-1-[</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Americamysis bahia (Opossum Shrimp) age &lt;24 hr; Conditions: saltwater, flow through; Concentration: 600 ug/L for 96 hr (95% confidence interval: 490-750 ug/L) /99.2% purity/[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 1-[(1E)-1-[</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cyprinodon variegatus (Sheepshead Minnow) weight 0.33 g; Conditions: saltwater, flow through; Concentration: 1400 ug/L for 96 hr (95% confidence interval: 1100-1700 ug/L) /99.2% purity/[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 1-[(1E)-1-[</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill) weight 0.15 g; Conditions: freshwater, static; Concentration: 480 ug/L for 96 hr (95% confidence interval: 390-650 ug/L) /99.9% purity/[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 1-[(1E)-1-[</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill) weight 0.41 g; Conditions: freshwater, static; Concentration: 1200 ug/L for 96 hr (95% confidence interval: 800-1600 ug/L) /98.8% purity/[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 1-[(1E)-1-[</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cyprinus carpio (Common Carp) weight 1.6 g; Conditions: freshwater, static; Concentration: 890 ug/L for 96 hr (95% confidence interval: 750-1080 ug/L) /98.7% purity/[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 1-[(1E)-1-[</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow Trout) weight 0.5 g; Conditions: freshwater, static; Concentration: 580 ug/L for 96 hr (95% confidence interval: 400-800 ug/L) /98.8% purity/[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 1-[(1E)-1-[</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Crassostrea virginica (American Or Virginia Oyster) spat; Conditions: saltwater, fllow through; Concentration: 720 ug/L for 96 hr (95% confidence interval: 650-800 ug/L); Effect: intoxication, immobilization /99.2% purity/[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 1-[(1E)-1-[</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

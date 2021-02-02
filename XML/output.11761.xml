@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>11761</ns0:RecordNumber>
+  <ns0:RecordTitle>2,3-Dinitrotoluene</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Mysidopsis bahia (mysid shrimp); Concentration: static, unmeasured; Concentration: 590 ug/L for 96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Selenastrum capricornutum (alga); Conditions: static, unmeasured; Concentration: 1370 ug/L for 96 hr; Effect: Cell numbers</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Selenastrum capricornutum (alga); Conditions: static, unmeasured; Concentration: 1620 ug/L for 96 hr; Effect: Chlorophyll a</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Skeletonema costatum (alga); Conditions: static, unmeasured; Concentration: 370 ug/L for 96 hr; Effect: Cell numbers</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Skeletonema costatum (alga); Conditions: static, unmeasured; Concentration: 400 ug/L for 96 hr; Effect: Chlorophyll a</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea); Conditions: static; Concentration: 1.49 umol/L for 48 hr; Effect: immobilization</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea); Conditions: semi-static; Concentration: 0.99 umol/L for 21 days; Effect: immobilization</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Chlorella pyrenoidosa; Concentration: 0.70 umol/L for 96 hr /Conditions of bioassay not specified in source examined/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Photobacterium phosphoreum; Concentration: 1.52 umol/L for 15 min; Effect: bioluminescence</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water flea) age &lt; or =24 hr; Conditions: freshwater, static, 20-22 °C, pH 7.6-7.7; Concentration: 3200 ug/L for 24 hr /formulation/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water Flea) age &lt; or =24 hr; Conditions: freshwater, static, 22 °C, pH 7.4-9.4, dissolved oxygen 6.5-9.1 mg/L; Concentration: &gt;2800 ug/L for 24 hr /&gt; or = 80% purity formulation/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water Flea) age &lt; or =24 hr; Conditions: freshwater, static, 22 °C, pH 7.4-9.4, dissolved oxygen 6.5-9.1 mg/L; Concentration: 660 ug/L for 48 hr (95% confidence interval: 420-1100 ug/L) /&gt; or = 80% purity formulation/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cyprinodon variegatus (Sheepshead Minnow) age 14-28 days posthatch, juvenile, length 8-15 mm; Conditions: saltwater, static, 25-31 °C; Concentration: 7500 ug/L for 24 hr /&gt; or = 80% purity formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cyprinodon variegatus (Sheepshead Minnow) age 14-28 days posthatch, juvenile, length 8-15 mm; Conditions: saltwater, static, 25-31 °C; Concentration: 5000 ug/L for 48 hr (95% confidence interval: 4400-5500 ug/L) /&gt; or = 80% purity formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cyprinodon variegatus (Sheepshead Minnow) age 14-28 days posthatch, juvenile, length 8-15 mm; Conditions: saltwater, static, 25-31 °C; Concentration: 2900 ug/L for 72 hr (95% confidence interval: 1800-6400 ug/L) /&gt; or = 80% purity formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cyprinodon variegatus (Sheepshead Minnow) age 14-28 days posthatch, juvenile, length 8-15 mm; Conditions: saltwater, static, 25-31 °C; Concentration: 2300 ug/L for 96 hr (95% confidence interval: 1400-3400 ug/L) /&gt; or = 80% purity formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cyprinodon variegatus (sheepshead minnow); Conditions: static, unmeasured; Concentration: 2280 ug/L for 96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill) young of year , weight 0.32-1.2 g; Conditions: freshwater, static, 21-23 °C, pH 6.5-7.9, dissolved oxygen 0.3-9.7 mg/L; Concentration: 1600 ug/L for 24 hr /&gt; or = 80% purity formulation/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (bluegill); Conditions: Static, unmeasured; Concentration: 330 ug/Lfor 96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

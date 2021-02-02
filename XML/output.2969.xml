@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>2969</ns0:RecordNumber>
+  <ns0:RecordTitle>Decanoic acid</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Xenopus laevis (African clawed frog, embryo); Conditions: freshwater, renewal, pH 7.0-7.8; Concentration: 24000 ug/L for 96 hr (23000-25000 ug/L) /&gt; or =98% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Xenopus laevis (African clawed frog, embryo); Conditions: freshwater, renewal, pH 7.0-7.8; Concentration: 7500 ug/L for 96 hr (7000-9000 ug/L); Effect: increased developmental changes, general (craniofacial defects, abnormal gut coiling) /&gt; or =98% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Oryzias latipes (Red Killifish) 31 mg/L/96 hr /In seawater; other conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Oryzias latipes (Red Killifish) 20 mg/L/96 hr /In freshwater; other conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Oryzias latipes (red killifish) 54 mg/L/96 hr; Conditions: semistatic, freshwater (renewal every 24 hr), 25 + / - 2 °C, pH 7.2 /Sodium salt/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Oryzias latipes (red killifish) 31 mg/L/48 hr; Conditions: seawater test, salinity 30 ppt, 25 + / - 2 °C, pH 8.2</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Leuciscus idus (golden orfe) 95 mg/L/48 hr /Conditions of bioassay not specified in source examined/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50 Nitzschia closterium (marine diatom) 0.002 mmol (0.3 mg)/L/72 hr; Conditions: natural seawater; Effect: cell growth measured spectrophotometrically</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50 Bacillus subtilis (bacterium) 0.25 mmol (43.1 mg)/L/60 min; Conditions: complex medium, 37 °C, ethanol as solvent (final concn &lt; 1%); Effect: inhibition of rate of duplication</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50 Methanothrix sp (bacterium) 5.9 mmol (1016 mg)/L/24 hr; Conditions: Upflow anaerobic sludge bed rector (predominant methanogen in sludge: Methanothrix), 30 °C, pH 7; Effect: inhibition of acetoclastic methanogenic activity</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

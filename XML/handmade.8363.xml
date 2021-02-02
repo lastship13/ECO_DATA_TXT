@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf8'?>
+<Excel_XML>
+  <RECORDS>
+    <index>150</index>
+    <name>Benzyl salicylate</name>
+    <CAS>118-58-1</CAS>
+    <IUPAC>benzyl 2-hydroxybenzoate</IUPAC>
+    <SMILES>C1=CC=C(C=C1)COC(=O)C2=CC=CC=C2O</SMILES>
+    <Toxicity>Zebrafish_LC50 : 1.03 mg/L  Zebrafish_Duration : 96 hr  Zebrafish_Further_info : ECHA ; European Chemicals Agency</Toxicity>
+    <Toxicity>Daphnia_EC50 : 1.16 mg/L  Daphnia_Duration : 48 hr  Daphnia_Further_info : ECHA ; European Chemicals Agency</Toxicity>
+  </RECORDS>
+</Excel_XML>

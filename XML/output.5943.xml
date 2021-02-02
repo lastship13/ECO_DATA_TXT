@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>5943</ns0:RecordNumber>
+  <ns0:RecordTitle>Carbon tetrachloride</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lepomis macrochirus (Bluegill); Conditions: static (unmeasured); Concentration: 125,000 ug/L for 96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: /Lepomis macrochirus/ (Bluegill); Concentration: 27 mg/L for 96 hr (95% confidence limit: 23-33 mg/L) and 38 mg/L for 24 hr at 21-23 °C /Conditions of bioassay not specified in source examined/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Menidia beryllina (tidewater silverside); Conditions: /static, unmeasured bioassay/; Concentration: 150,000 ug/L for 96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Pseudokirchneriella subcapitata (Green Algae) 15000 cells/mL; Conditions: freshwater, static, 24 °C; Concentration: 23590 ug/L for 48 hr; Effect: decreased population growth rate</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>Toxicity Threshold (Cell Multiplication Inhibition Test) Entosiphon sulcatum (protozoa) 770 mg/L</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>Toxicity Threshold (Cell Multiplication Inhibition Test) Uronema parduczi Chatton-Lwoff (protozoa) 616 mg/L</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>Toxicity Threshold (Cell Multiplication Inhibition Test) Scenedesmus quadricauda (green algae) &gt;600 mg/L</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>Toxicity Threshold (Cell Multiplication Inhibition Test) Pseudomonas putida (bacteria) 30 mg/L</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Menidia beryllina; Conditions: static bioassay in synthetic seawater at 23 °C, mild aeration applied after 24 hr; Concentration: 150 ppm for 96 hr</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Poecilia reticulata (Guppy); Concentration: 67 ppm for 14 days /Conditions of bioassay not specified/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (fathead minnow); Conditions: flow-through bioassay with measured concentrations, 21.7 °C, dissolved oxygen 7.1 mg/l, hardness 49.2 mg/l calcium carbonate, alkalinity 39.6 mg/l calcium carbonate and pH 6.8; Concentration: 41.4 mg/L for 96 hr (confidence limit 36.3 - 47.3 mg/L)</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Pimephales promelas (fathead minnow); Conditions: flow-through bioassay with measured concentrations, 21.7 °C, dissolved oxygen 7.1 mg/l, hardness 49.2 mg/l calcium carbonate , alkalinity 39.6 mg/l calcium carbonate, and pH 6.8; Concentration: 20.8 mg/L for 96 hr (confidence limit 18.3 - 23.7 mg/L); Effect: loss of equillibrium</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (rainbow trout); Conditions: flow throudh, 13 °C, pH 9.2, hardness 104 mg calcium carbonate/L; the organisms were exposed from fertilization until 4 days after hatching; Concentration: 1.97 mg/L for 27 days /From table/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (fathead minnow); Conditions: flow through, 20 °C, pH 6.4, hardness 96 mg calcium carbonate/L; the organisms were exposed from 2-8 hr post spawning to 4 days after hatching; Concentration: 4.0 mg/L for 9 days /From table/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Rana catesbeiana (bullfrog); Conditions: flow through, 21 °C, pH 8, hardness 108 mg calcium carbonate/L; the organisms were exposed from 2-8 hr post spawning to 4 days after hatching; Concentration: 0.9 mg/L for 8 days /From table/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Rana palustris (pickerel frog); Conditions: flow through, 22 °C, pH 7.7, hardness 104 mg calcium carbonate/L; the organisms were exposed from 2-8 hr post spawning to 4 days after hatching; Concentration: 2.4 mg/L for 8 days /From table/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Ambystoma gracile (northwestern salamander); Conditions: flow through, 19 °C, pH 7.7, hardness 96 mg calcium carbonate/L; Concentration: 1.98 mg/L for 9.5 days; the organisms were exposed from fertilization until 4 days after hatching /From table/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Xenopus laevis (African clawed toad); Conditions: flow through, 19 °C, pH 7.7, hardness 96 mg calcium carbonate/L; the organisms were exposed from fertilization until 4 days after hatching; Concentration: 22.4 mg/L for 6 days /From table/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Bufo fowleri (Fowler's toad); Conditions: flow through, 22 °C, pH 7.7, hardness 104 mg calcium carbonate/L; the organisms were exposed from 2-8 hr post spawning to 4 days after hatching; Concentration: 2.8 mg/L for 7 days /From table/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

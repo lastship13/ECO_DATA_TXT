@@ -1,0 +1,176 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>2328</ns0:RecordNumber>
+  <ns0:RecordTitle>Bentazone</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Colinus virginianus (Northern Bobwhite Quail) juvenile; dietary &gt;10000 ppm for 8 days /42% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Eisenia fetida (Earthworm) adult, sexually mature; dermal, filter paper 3.27 kg/ha for 48 hr (95% confidence interval: 2.50-4.28 kg/ha)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Nostoc muscorum (Blue-Green Algae) Axenic clonal stock; Conditions: freshwater, static, 28 °C; Concentration: 1 mM for 72 hr; Effect: physiology, decreased photosynthesis</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Nostoc muscorum (Blue-Green Algae) Axenic clonal stock; Conditions: freshwater, static, 28 °C; Concentration: 6.8 mM for 72 hr; Effect: biochemistry, decreased phycobiliproteins</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Nostoc muscorum (Blue-Green Algae) Axenic clonal stock; Conditions: freshwater, static, 28 °C; Concentration: 4.3 mM for 72 hr; Effect: biochemistry, decreased carotenoid content</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Nostoc muscorum (Blue-Green Algae) Axenic clonal stock; Conditions: freshwater, static, 28 °C; Concentration: 2 mM for 72 hr; Effect: physiology, decreased repiration</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Nostoc muscorum (Blue-Green Algae) Axenic clonal stock; Conditions: freshwater, static, 28 °C; Concentration: 2.2 mM for 72 hr; Effect: biochemistry, decreased carbohydrate</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Chlorella fusca (Green Algae); Conditions: freshwater, static; Concentration: 42500 ug/L for 24 hr; Effect: population changes, general /98-99% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Pseudokirchneriella subcapitata (Green Algae); Conditions: freshwater, static, 22 °C, pH 8; Concentration: 13600 ug/L for 7 days; Effect: population, decreased population growth rate /&gt;90% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Pseudokirchneriella subcapitata (Green Algae); Conditions: freshwater, static, 22 °C, pH 8; Concentration: 42400 ug/L for 7 days; Effect: population, decreased population growth rate /&gt;90% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Pseudokirchneriella subcapitata (Green Algae); Conditions: freshwater, static; Concentration: 4500 ug/L for 5 days (95% confidence interval: 2790-7550 ug/L); Effect: population abundance /53% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Anabaena flosaquae (Blue-Green Algae); Conditions: freshwater, static; Concentration: 10130 ug/L for 5 days (95% confidence interval: 9220-11130 ug/L); Effect: population abundance /53% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Skeletonema costatum (Diatom); Conditions: saltwater, static; Concentration: 10100 ug/L for 5 days (95% confidence interval: 7680-13260 ug/L); Effect: population abundance /53% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Americamysis bahia (Opossum Shrimp) age &lt;24 hr; Conditions: saltwater, flow through; Concentration: &gt;132500 ug/L for 96 hr /53% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oncorhynchus mykiss (Rainbow Trout); Conditions: freshwater, static; Concentration: &gt;100000 ug/L for 96 hr /97% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Gambusia affinis (Western Mosquitofish) weight 0.321 g, length 3.08 cm, males and females; Conditions: freshwater, static, 20 °C, pH 7.8, hardness 15 mg/L CaCO3, dissolved oxygen 8.0 mg/L; Concentration: 4418000 ug/L for 24 hr (95% confidence interval: 4249000-4600000 ug/L) /42% Bentazon sodium salt/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Gambusia affinis (Western Mosquitofish) weight 0.321 g, length 3.08 cm, males and females; Conditions: freshwater, static, 20 °C, pH 7.8, hardness 15 mg/L CaCO3, dissolved oxygen 8.0 mg/L; Concentration: 3874000 ug/L for 96 hr (95% confidence interval: 3709000-4039000 ug/L) /42% Bentazon sodium salt/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Lemna minor (Duckweed); Conditions: freshwater, static, 24 °C, pH 5; Concentration: 2560 ug/L for 7 days; Effect: decreased relative growth rate /&gt;90% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Lemna minor (Duckweed); Conditions: freshwater, static, 24 °C, pH 5; Concentration: 2940 ug/L for 48 hr; Effect: decreased relative growth rate /&gt;90% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Lemna gibba (Inflated Duckweed); Conditions: freshwater, static; Concentration: 5350 ug/L for 14 days (95% confidence interval: 4850-5900 ug/L); Effect: population abundance /53% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Chironomus riparius (Midge) 4 instar; Conditions: freshwater, static, 20 °C, pH 6.62, dissolved oxygen 9.20 mg/L; Concentration: 62300 ug/L for 48 hr (95% confidence interval: 54300-70900 ug/L) /&gt;95% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Crassostrea virginica (American Or Virginia Oyster) Spat; Conditions: saltwater, flow through; Concentration: 109000 ug/L for 96 hr; Effect: intoxication, immobilization /53% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Mercenaria mercenaria (Northern Quahog Or Hard Clam) embryo; Conditions: saltwater, static; Concentration: 20000 ug/L for 48 hr (95% confidence interval: 8100-32000 ug/L) /94% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

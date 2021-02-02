@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf8'?>
+<Excel_XML>
+  <RECORDS>
+    <index>124</index>
+    <name>2,6-dimethyloct-7-en-2-ol</name>
+    <CAS>18479-58-8</CAS>
+    <IUPAC>2,6-dimethyloct-7-en-2-ol</IUPAC>
+    <SMILES>CC(CCCC(C)(C)O)C=C</SMILES>
+    <Toxicity>Daphnia_EC50 : 38 mg/L  Daphnia_Duration : 48 hr  Daphnia_Further_info : ECHA ; European Chemicals Agency</Toxicity>
+  </RECORDS>
+</Excel_XML>

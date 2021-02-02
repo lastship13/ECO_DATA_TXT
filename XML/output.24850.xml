@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>24850</ns0:RecordNumber>
+  <ns0:RecordTitle>Aluminum sulfate</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50 Aphanizomenon flos-aquae (Blue-green algae; decreased nitrogen fixation ability) &gt;25 mg/L/1.5 hr and 22 hr; static /technical product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50 Asellus aquaticus (Aquatic sowbug; intoxication/immobilization) 6570 ug/L/48 hr (95% confidence interval: 5050-7760 ug/L); renewal /technical product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50 Asellus aquaticus (Aquatic sowbug; intoxication/immobilization) 4370 ug/L/72 hr (95% confidence interval: 870-5390 ug/L); renewal /technical product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50 Crangonyx pseudogracilis (Amphipod; intoxication/immobilization) 12800 ug/L/48 hr (95% confidence interval: 11800-14000 ug/L); renewal /technical product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50 Crangonyx pseudogracilis (Amphipod; intoxication/immobilization) 9190 ug/L/96 hr (95% confidence interval: 8470-9960 ug/L); renewal /technical product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50 Arctopsyche ladogensis (Cadisfly larvae; morphological abnormalities in the anal papillae) 938-1089 ug/L/96 hr; static, pH 5.0 /technical product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50 Hydropsyche angustipennis (Cadisfly larvae; morphological abnormalities in the anal papillae) 2265-2637 ug/L/96 hr; static, pH 5.0 /technical product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50 Hydropsyche siltalai (Cadisfly larvae; morphological abnormalities in the anal papillae) 1219-1543 ug/L/96 hr; static, pH 5.0 /technical product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Dreissena polymorpha (Zebra mussel) 130.5 mg/L/24 hr (95% confidence interval: 113.1-148 mg/L); static /technical product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Dreissena polymorpha (Zebra mussel) 76.1 mg/L/3 hr (95% confidence interval: 66.5-85.7 mg/L); static, during flocculation process /technical product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Oncorhynchus mykiss (Rainbow trout) 91 ug/L/144 hr; renewal (soft, acidic water) /technical product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Perca fluviatilis (Perch) 661 ug/L/120 hr (95% confidence interval: 414-2189 ug/L); static</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Perca fluviatilis (Perch) 454 ug/L/144 hr (95% confidence interval: 273-789 ug/L); static</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Pimephales promelas (Fathead minnow) 19.3 mg/L/192 hr (95% confidence interval: 12.8-34.6 mg/L); flow-through</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Pimephales promelas (Fathead minnow) 33.9 mg/L/96 hr (95% confidence interval: 26.7-49.4 mg/L); flow-through</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Rutilus rutilus (Roach) ~100 ug/L/10 days; renewal /technical product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Salmo salar (Atlantic salmon) 2.9 uM/96 hr (95% confidence interval: 2.5-3.2 uM); flow-through /technical product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Stizostedion lucioperca (Pikeperch) &gt;100-&lt;200 ug/L/10 days; renewal /technical product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Gambusia affinis (Mosquitofish) 69 mg/L/48 hr; 37 mg/L/96 hr; static</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Salvelinus fontinalis (Brook trout) 4-4.4 mg/L/24 hr; 3.6 mg/L/96 hr; static</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Carassius auratus (Goldfish) about 100 mg/L/96 hr; static</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Fundulus heteroclitus (Mummichog) about 2.2 mg/L/36 hr; about 1.1 mg/L/120 hr /Conditions of bioassay not specified in source examined/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

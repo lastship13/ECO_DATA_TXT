@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf8'?>
+<Excel_XML>
+  <RECORDS>
+    <index>74</index>
+    <name>1,4-Dioxane</name>
+    <CAS>123-91-1</CAS>
+    <IUPAC>1,4-dioxane</IUPAC>
+    <SMILES>C1COCCO1</SMILES>
+    <Toxicity>Medaka_LC50 : 10,500 mg/L  Medaka_Duration : 48 hrs  Medaka_Further_info : PubChem</Toxicity>
+    <Toxicity>Fathead_minnow_LC50 : Active ingredient 9850 AI mg/L  Fathead_minnow_Duration : 4 Day(s)  Fathead_minnow_Further_info : Ecotox</Toxicity>
+    <Toxicity>Daphnia_LC50 : Formulation 1.5 (1.3-1.7) AI mg/L  Daphnia_Duration : 2 Day(s)  Daphnia_Further_info : Ecotox, 4700 AI mg/L 1 Day(s) in Ecotox</Toxicity>
+    <Toxicity>Daphnia_EC50 : 4,700 mg/L   Daphnia_Duration : 24 hrs  Daphnia_Further_info : PubChem</Toxicity>
+  </RECORDS>
+</Excel_XML>

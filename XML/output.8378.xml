@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>8378</ns0:RecordNumber>
+  <ns0:RecordTitle>Neomycin</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Moina macrocopa (Water Flea) &lt;24 hr neonate; Conditions: freshwater, renewal, 21 °C; Concentration: 750 ug/L for 21 days (95% confidence interval: 390-1080 ug/L) /97-99% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water Flea) &lt;24 hr neonate; Conditions: freshwater, renewal, 21 °C; Concentration: 90 ug/L for 21 days (95% confidence interval: 60-120 ug/L) /97-99% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oryzias latipes (Japanese Medaka) age 10-14 days posthatch juvenile; Conditions: freshwater, renewal, 25 °C; Concentration: 138800 ug/L for 48 hr (95% confidence interval: 107100-170500 ug/L) /97-99% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oryzias latipes (Japanese Medaka) age 10-14 days posthatch juvenile; Conditions: freshwater, renewal, 25 °C; Concentration: 80800 ug/L for 96 hr (95% confidence interval: 63700-97900 ug/L) /97-99% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Lemna gibba (Inflated Duckweed); Conditions: freshwater, renewal, 25 °C; Concentration: &gt;1000 ug/L for 7 days; Effect: reproduction, decreased progeny counts/numbers /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Lemna gibba (Inflated Duckweed); Conditions: freshwater, renewal, 25 °C; Concentration: &gt;1000 ug/L for 7 days; Effect: population, decreased chlorophyll B concentration /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Lemna gibba (Inflated Duckweed); Conditions: freshwater, renewal, 25 °C; Concentration: &gt;1000 ug/L for 7 days; Effect: population, decreased chlorophyll A concentration /formulated product/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Lemna gibba (Inflated Duckweed); Conditions: freshwater, renewal, 25 °C; Concentration: &gt;1000 ug/L for 7 days; Effect: population, decreased carotenoid content /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Lemna gibba (Inflated Duckweed); Conditions: freshwater, renewal, 25 °C; Concentration: &gt;1000 ug/L for 7 days; Effect: population, decreased biomass /formulated product/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

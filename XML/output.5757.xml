@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>5757</ns0:RecordNumber>
+  <ns0:RecordTitle>Estradiol</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea, age &lt;24 hr neonate newly released); Conditions: freshwater, static, 20 °C; Concentration: 1550 ug/L for 24 hr (95% confidence interval: 1050-2040 ug/L); Effect: development, decreased molting /100% purity, 17beta-estradiol/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea, age &lt;24 hr neonate newly released); Conditions: freshwater, static, 20 °C; Concentration: 2040 ug/L for 48 hr (95% confidence interval: 1720-2360 ug/L); Effect: development, decreased molting /100% purity, 17beta-estradiol/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea, age &lt;24 hr neonate newly released); Conditions: freshwater, static, 20 °C; Concentration: 3670 ug/L for 24 hr (95% confidence interval: 3460-3880 ug/L); Effect: intoxication, immobilization /100% purity, 17beta-estradiol/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea, age &lt;24 hr neonate newly released); Conditions: freshwater, static, 20 °C; Concentration: 2870 ug/L for 48 hr (95% confidence interval: 2670-3070 ug/L); Effect: intoxication, immobilization /100% purity, 17beta-estradiol/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water flea, age &lt;24 hr neonate newly released); Conditions: freshwater, renewal, 20 °C; Concentration: 648 ug/L for 21 days /100% purity, 17beta-estradiol/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water flea); Conditions: freshwater, renewal, 25 °C; Concentration: 2970 ug/L for 48 hr (95% confidence interval: 2760-4110 ug/L) /formulation/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Danio rerio (Zebra danio, age 6-8 month adult, female); Conditions: freshwater, renewal, 25-28 °C, pH 8.0-8.5, hardness 140-145 mg/L CaCO3; Concentration: 0.88 nM for 3 weeks; Effect: morphology, decreased ovarian weight in relationship to body weight /98% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Pimephales promelas (Fathead minnow, age 12-18 month sexually mature female); Conditions: freshwater, flow through, 26.1 °C, pH 8.13-8.19, alkalinity 302-328 mg/L CaCO3, dissolved oxygen 7.2-7.3 mg/L; Concentration: 0.12 ug/L for 19 days; Effect: reproduction, decreased progeny counts/numbers</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC10; Species: Pimephales promelas (Fathead minnow, age 12-18 month sexually mature male); Conditions: freshwater, flow through, 26.1 °C, pH 8.13-8.19, alkalinity 302-328 mg/L CaCO3, dissolved oxygen 7.2-7.3 mg/L; Concentration: 0.603 ug/L for 19 days</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>IC50; Species: Oryzias latipes (Medaka, eggs); Conditions: freshwater, renewal, 20 °C, pH 7.0-7.4; Concentration: 470 ug/L for 72 hr (95% confidence interval: 360-580 ug/L); Effect: mortality, decreased hatching (50% inhibitory concentration) /99.9% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oryzias latipes (Medaka, adult female); Conditions: freshwater, renewal, 20 °C, pH 7.0-7.4; Concentration: 3500 ug/L for 72 hr (95% confidence interval: 2700-4300 ug/L) /99.9% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oryzias latipes (Medaka, adult male mature); Conditions: freshwater, renewal, 20 °C, pH 7.0-7.4; Concentration: 3500 ug/L for 72 hr (95% confidence interval: 2700-4400 ug/L) /99.9% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oryzias latipes (Medaka, embryo); Conditions: freshwater, renewal, 20 °C, pH 7.0-7.4; Concentration: 460 ug/L for 72 hr (95% confidence interval: 350-590 ug/L) /99.9% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Oryzias latipes (Medaka, age 4 month sexually mature); Conditions: freshwater, flow through, 24 °C; Concentration: 0.002 ug/L for 96 hr /&gt;99.9% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

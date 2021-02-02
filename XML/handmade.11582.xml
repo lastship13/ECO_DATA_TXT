@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf8'?>
+<Excel_XML>
+  <RECORDS>
+    <index>15</index>
+    <name>2-Methylhexane</name>
+    <CAS>591-76-4</CAS>
+    <IUPAC>2-methylhexane</IUPAC>
+    <SMILES>CCCCC(C)C</SMILES>
+    <Toxicity>Fathead_minnow_LC50 : 9640 mg/L  Fathead_minnow_Duration : 96 hrs  Fathead_minnow_Further_info : CRC Canada Co. - Safety Data Sheet (http://docs.crcindustries.com/msds/75391E.pdf), 2.1-2.98 mg/L (96 hrs, CRC Canada Co. - Safety Data Sheet (http://docs.crcindustries.com/msds/75391E.pdf))</Toxicity>
+    <Toxicity>Daphnia_EC50 : 1.5 mg/L  Daphnia_Duration : 48 hrs  Daphnia_Further_info : CRC Canada Co. - Safety Data Sheet (http://docs.crcindustries.com/msds/75391E.pdf), 7550-13299 mg/L (48 hrs, CRC Canada Co. - Safety Data Sheet (http://docs.crcindustries.com/msds/75391E.pdf)), 1.5 mg/L (48 hrs, CRC Canada Co. - Safety Data Sheet (http://docs.crcindustries.com/msds/75391E.pdf)), 1.5 mg/L (48 hrs, CRC Canada Co. - Safety Data Sheet (http://docs.crcindustries.com/msds/75391E.pdf))</Toxicity>
+  </RECORDS>
+</Excel_XML>

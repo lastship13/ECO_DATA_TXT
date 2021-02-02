@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf8'?>
+<Excel_XML>
+  <RECORDS>
+    <index>135</index>
+    <name>2-phenylethanol</name>
+    <CAS>60-12-8</CAS>
+    <IUPAC>2-phenylethanol</IUPAC>
+    <SMILES>C1=CC=C(C=C1)CCO</SMILES>
+    <Toxicity>Daphnia_EC50 : 287.17 mg/L  Daphnia_Duration : 48 hr  Daphnia_Further_info : ECHA ; European Chemicals Agency</Toxicity>
+  </RECORDS>
+</Excel_XML>

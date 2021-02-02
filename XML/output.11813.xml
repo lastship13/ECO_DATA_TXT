@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>11813</ns0:RecordNumber>
+  <ns0:RecordTitle>2,6-Dinitrotoluene</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Scenedesmus subspicatus (Green Algae) exponential growth phase; Conditions: freshwater, static; 24 °C, pH 8.0-9.3; Concentration: 16000 ug/L for 48 hr; Effect: population, decreased biomass /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Scenedesmus subspicatus (Green Algae) exponential growth phase; Conditions: freshwater, static; 24 °C, pH 8.0-9.3; Concentration: 11000 ug/L for 72 hr; Effect: population, decreased biomass /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Scenedesmus subspicatus (Green Algae) exponential growth phase; Conditions: freshwater, static; 24 °C, pH 8.0-9.3; Concentration: 12000 ug/L for 96 hr; Effect: population, decreased biomass /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Scenedesmus subspicatus (Green Algae) exponential growth phase; Conditions: freshwater, static; 24 °C, pH 8.0-9.3; Concentration: 22000 ug/L for 48 hr; Effect: decreased population, population changes, general /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Scenedesmus subspicatus (Green Algae) exponential growth phase; Conditions: freshwater, static; 24 °C, pH 8.0-9.3; Concentration: 20000 ug/L for 72 hr; Effect: decreased population, population changes, general /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water Flea); Conditions: freshwater, renewal, 25 °C, pH &gt;7; Concentration: 20000 ug/L for 24 hr; Effect: behavior, equilibrium /formulation/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water Flea) age &lt; or =24 hr; Conditions: freshwater, static, 25 °C, pH &gt; or =7.0, dissolved oxygen &gt; or =58%; Concentration: 20000 ug/L for 24 hr; Effect: intoxication, immobilization /formulation/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead Minnow) juvenile, length 2.4 cm, weight 0.28 g; Conditions: freshwater, static, 20.3 (19.5-22.0) °C, pH 7.6 (6.0-9.2), hardness 29.6 (12.0-43.0) mg/L CaCO3, alkalinity 31.0 (15.0-60.0) mg/L CaCO3, dissolved oxygen 7.2 (2.8-9.4) mg/L; Concentration: 18500 ug/L for 96 hr (95% confidence interval: 17200-20200 ug/L) /95-99% purity formulation/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead Minnow) juvenile; Conditions: freshwater, static, 20 °C, pH 7.2-8.6, hardness 26 mg/L CaCO3, alkalinity 45 mg/L CaCO3, dissolved oxygen 7.4 (6.3-8.8) mg/L; Concentration: 19800 ug/L for 96 hr /formulation/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Tetrahymena pyriformis (Ciliate); Conditions: static, 30 °C; Concentration: 100000 ug/L for 24 hr; Effect: decreased population growth rate</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

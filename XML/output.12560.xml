@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>12560</ns0:RecordNumber>
+  <ns0:RecordTitle>Erythromycin</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Penaeus vannamei  (Whiteleg shrimp, 1st stage nauplii); Conditions: saltwater, static 25-29 °C; Concentration: 29200 ug/L for 24 hr; Effect: intoxication, immobilization /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Penaeus vannamei  (Whiteleg shrimp, 1st stage mysis); Conditions: saltwater, static 25-29 °C; Concentration: &gt;50000 ug/L for 48 hr; Effect: intoxication, immobilization /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Penaeus vannamei  (Whiteleg shrimp, 1st stage post-larvae); Conditions: saltwater, static 25-29 °C; Concentration: &gt;500000 ug/L for 48 hr; Effect: intoxication, immobilization /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Penaeus vannamei  (Whiteleg shrimp, post-larvae, post-larvaeIII-mysisI); Conditions: saltwater, static 25-29 °C; Concentration: 22700 ug/L for 48 hr; Effect: intoxication, immobilization /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Penaeus vannamei  (Whiteleg shrimp, 1st stage Protozoea); Conditions: saltwater, static 25-29 °C; Concentration: 37700 ug/L for 48 hr; Effect: intoxication, immobilization /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Penaeus vannamei  (Whiteleg shrimp, ProtozoeaIII-mysisI interface); Conditions: saltwater, static 25-29 °C; Concentration: 49800 ug/L for 48 hr; Effect: intoxication, immobilization /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Penaeus vannamei  (Whiteleg shrimp, 1st stage nauplii); Conditions: saltwater, static 25-29 °C; Concentration: 30800 ug/L for 24 hr /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Penaeus vannamei  (Whiteleg shrimp, 1st stage protozoea); Conditions: saltwater, static 25-29 °C; Concentration: &gt;50000 ug/L for 48 hr /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Penaeus vannamei  (Whiteleg shrimp, 1st stage mysis); Conditions: saltwater, static 25-29 °C; Concentration: &gt;50000 ug/L for 48 hr /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Penaeus vannamei  (Whiteleg shrimp, 1st stage post-larva); Conditions: saltwater, static 25-29 °C; Concentration: &gt;50000 ug/L for 48 hr /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Penaeus vannamei  (Whiteleg shrimp, post-larvaIII-mysisI interface); Conditions: saltwater, static 25-29 °C; Concentration: 85000 ug/L for 48 hr /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Morone saxatilis (Striped bass, fry, 1 g); Conditions: freshwater, static, 12 °C, hardness 40 mg/L CaCO3; Concentration: 349000 ug/L for 96 hr (95% confidence interval: 266000-457000 ug/L) /formulation/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

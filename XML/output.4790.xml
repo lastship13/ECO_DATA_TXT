@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>4790</ns0:RecordNumber>
+  <ns0:RecordTitle>Phorate</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 ANAS PLATYRHNCHOS (MALLARD) FEMALE ORAL 0.616 MG/KG (95% CONFIDENCE LIMIT 0.367-1.03 MG/KG), 3-4 MO OLD</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 PHASTANUS COLCHICUS (PHEASANT) ORAL 7.12 MG/KG (95% CONFIDENCE LIMIT 4.94-10.3 MG/KG), 3-4 MO OLD</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 ALECTORIS CHUKAR (CHUKAR) ORAL 12.8 MG/KG (95% CONFIDENCE LIMIT 3.20-51.2 MG/KG), 3 MO OLD</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 RANA CATESBEIANA (BULLFROG) ORAL 85.2 MG/KG (95% CONFIDENCE LIMIT 59.3-122 MG/KG)</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Gammarus fasciatus (Scud) 4 ug/l/96 hr @ 15 °C (95% confidence limit 2-7ug/l), mature. Static bioassay without aeration, pH 7.2-7.5, water hardness 40-50 mg/l as calcium carbonate and alkalinity of 30-35 mg/l. /Technical, 100%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Pteronarcys californica (Stonefly) 4 ug/l/96 hr @ 15 °C (95% confidence limit 2-6 ug/l), second year class. Static bioassay without aeration, pH 7.2-7.5, water hardness 40-50 mg/l as calcium carbonate and alkalinity of 30-35 mg/l. /Technical, 100%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Salmo gairdneri (Rainbow trout) 13 ug/l/96 hr @ 12 °C (95% confidence limit 11-16 ug/l), wt 1.2 g. Static bioassay without aeration, pH 7.2-7.5, water hardness 40-50 mg/l as calcium carbonate and alkalinity of 30-35 mg/l. /Technical, 100%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Esox lucius (Northern pike) 110 ug/l/96 hr @ 15 °C (95% confidence limit 90-130 ug/l wt 0.7 g. Static bioassay without aeration, pH 7.2-7.5, water hardness 40-50 mg/l as calcium carbonate and alkalinity of 30-35 mg/l. /Technical, 100%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Salmo clarki (Cutthroat trout) 6.0 ug/l/96 hr @ 12 °C (95% confidence limit 5.2-6.8 ug/l), wt 1.0 g. Static bioassay without aeration, pH 7.2-7.5, water hardness 40-50 mg/l as calcium carbonate and alkalinity of 30-35 mg/l. /Technical, 91%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Micropterus salmoides (Largemouth bass) 5.0 ug/l/96 hr @ 15 °C (95% confidence limit 4.7-5.4 ug/l), wt 0.9 g. Static bioassay without aeration, pH 7.2-7.5, water hardness 40-50 mg/l as calcium carbonate and alkalinity of 30-35 mg/l. /Technical, 91%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Lepomis macrochirus (Bluegill) 2.0 ug/l/96 hr @ 15 °C (95% confidence limit 1.5-2.5 ug/l), wt 1.0 g. Static bioassay without aeration, pH 7.2-7.5, water hardness 40-50 mg/l as calcium carbonate and alkalinity of 30-35 mg/l. /Technical, 91%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Ictalarus punctatus (Channel catfish) 280 ug/l/96 hr @ 15 °C (95% confidence limit 115-680 ug/l), wt 1.0 g. Static bioassay without aeration, pH 7.2-7.5, water hardness 40-50 mg/l as calcium carbonate and alkalinity of 30-35 mg/l. /Technical, 91%/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Colinus virginianus (Bobwhite) oral 373 ppm in 5 day diet (95% confidence limit 326-431 ppm) age 14 days /90%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Coturnix coturnix (Japanese quail) oral 200 ppm in 5 day diet age 17 days /90%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Ring-necked pheasant oral 441 ppm in 5-day diet (95% confidence limit 381-510 ppm) age 10 days /90%/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Anas platyrhynchos (Mallard) oral 248 ppm in 5 day diet (95% confidence limit 198-306 ppm), age 10 days</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50 Orconectes nais 50 ug/l/96 hr /Conditions of bioassay not given/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 Starlings acute oral 7.5 mg/kg /Technical phorate/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 Redwing blackbird acute oral 1.0 mg/kg /Technical phorate/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 Grackle acute oral 1.3 mg/kg /Technical phorate/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 Chukar acute oral 12.8 mg/kg (95% Confidence limits 3.2-51.2) /98.8% ai/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50 Honey bee acute contact 0.32 ug/bee /Technical phorate/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

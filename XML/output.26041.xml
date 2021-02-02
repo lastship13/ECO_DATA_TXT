@@ -1,0 +1,197 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Record xmlns:ns0="http://pubchem.ncbi.nlm.nih.gov/pug_view" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd">
+  <ns0:RecordType>CID</ns0:RecordType>
+  <ns0:RecordNumber>26041</ns0:RecordNumber>
+  <ns0:RecordTitle>Zinc pyrithione</ns0:RecordTitle>
+  <ns0:Section>
+    <ns0:TOCHeading>Toxicity</ns0:TOCHeading>
+    <ns0:Section>
+      <ns0:TOCHeading>Toxicological Information</ns0:TOCHeading>
+      <ns0:Section>
+        <ns0:TOCHeading>Ecotoxicity Values</ns0:TOCHeading>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Colinus virginianus (Northern bobwhite) oral 60 mg/kg (95% confidence interval: 44-81 mg/kg) /Zinc pyrithione 96% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Colinus virginianus (Bobwhite quail, age 10 days) diet 1063 ppm for 8 days</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Anas platyrhynchos (Mallard duck, age 10 days) diet &gt;5000 ppm for 16 days</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LD50; Species: Peromyscus maniculatus (Deer mouse) oral via capsule 1070 mg/kg</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Mysid ((Mysidopsis bahia); Concentration: 4.7 mg/kg for 96 hr (95% Confidence interval: 4.04-5.53 mg/kg) /Conditions of bioassay not specified in source examined/ /97.8% a.i./</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Crassostrea virginica (Eastern oyster); Concentration: 22.0 ppb for 96 hr (95% Confidence interval: 18.9-27.3 ppb); Effect: shell deposition /Conditions of bioassay not specified in source examined/ /97% a.i./</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Anabaena flos-aquae (blue-green algae); Concentration: 7.1 ppb for 96 hr /Conditions of bioassay not specified in source examined/ /98.3% a.i./</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Selenastrum capricornatum (Freshwater green algae); Concentration: 28.0 ppb for 96 hr (95% Confidence interval: 24.3-33.0 ppb) /Conditions of bioassay not specified in source examined/ /97.8% a.i./</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Pseudokirchneriella subcapitata (Green algae); Conditions: freshwater, static; Concentration: 28 ug/L for 5 days; Effect: population abundance /97.8% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Lemna gibba (duckweed); Concentration: 8.87 ppb for 96 hr /Conditions of bioassay not specified in source examined/ /98.2% a.i./</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Navicula pelliculosa (freshwater diatom); Concentration: 2.6 ppg for 96 hr /Conditions of bioassay not specified in source examined/ /98.3% a.i./</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Thalassiosira pseudonana (Diatom, age &lt;1 week, exponential growth phase, 10000 cells/mL); Conditions: saltwater, static, 25 °C, pH 8.1-8.4, salinity 33 ppt; Concentration: 1.9 ug/L for 96 hr (95% confidence interval: 1.6-2.3 ug/L); Effect: increased population growth rate /about 95% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea, age 24 hr nauplii); Conditions: freshwater, static, 22 °C, pH 7.54-7.83, dissolved oxygen 7.06 mg/L, dark conditions; Concentration: 52 ug/L for 24 hr (95% confidence interval: 1-1848 ug/L); Effect: intoxication, immobilization /Technical, 99% pure/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea, age 24 hr nauplii); Conditions: freshwater, static, 22 °C, pH 7.54-7.83, dissolved oxygen 7.06 mg/L, light conditions; Concentration: 84 ug/L for 24 hr (95% confidence interval: 1-18884 ug/L); Effect: intoxication, immobilization /Technical, 99% pure/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea, age 24 hr nauplii); Conditions: freshwater, static, 22 °C, pH 7.54-7.83, dissolved oxygen 7.06 mg/L, dark conditions; Concentration: 61 ug/L for 48 hr (95% confidence interval: 4-998 ug/L); Effect: intoxication, immobilization /Technical, 99% pure/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea, age 24 hr nauplii); Conditions: freshwater, static, 22 °C, pH 7.54-7.83, dissolved oxygen 7.06 mg/L, light conditions; Concentration: 72 ug/L for 48 hr (95% confidence interval: 2-2140 ug/L); Effect: intoxication, immobilization /Technical, 99% pure/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Daphnia magna (Water flea, age &lt;24 hr); Conditions: freshwater, flow through; Concentration: 8.25 ug/L for 48 hr; Effect: intoxication, immobilization /97.8% purity/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water flea, age 24 hr nauplii); Conditions: freshwater, static, 22 °C, pH 7.54-7.83, dissolved oxygen 7.06 mg/L, light conditions; Concentration: 106 ug/L for 24 hr (95% confidence interval: 1-17302 ug/L) /Technical, 99% pure/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water flea, age 24 hr nauplii); Conditions: freshwater, static, 22 °C, pH 7.54-7.83, dissolved oxygen 7.06 mg/L, dark conditions; Concentration: 145 ug/L for 24 hr (95% confidence interval: 2-11151 ug/L) /Technical, 99% pure/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water flea, age 24 hr nauplii); Conditions: freshwater, static, 22 °C, pH 7.54-7.83, dissolved oxygen 7.06 mg/L, dark conditions; Concentration: 75 ug/L for 48 hr (95% confidence interval: 1-14320 ug/L) /Technical, 99% pure/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Daphnia magna (Water flea, age 24 hr nauplii); Conditions: freshwater, static, 22 °C, pH 7.54-7.83, dissolved oxygen 7.06 mg/L, dark conditions; Concentration: 98 ug/L for 48 hr (95% confidence interval: 1-9602 ug/L) /Technical, 99% pure/</ns0:String>
+              </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Americamysis bahia (Opossum shrimp, age &lt;24 hr); Conditions: saltwater, flow through; Concentration: 4.7 ug/L for 96 hr /97.8% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Danio rerio (Zebra danio, age 2-4 hr blastula, AB strain); Conditions: freshwater, renewal, 25 °C, pH 7.3, hardness 200 mg/L CaCO3; Concentration: 9 ug/L for 7 days (95% confidence interval: 8-10 ug/L); Effect: development, increased spinal deformation /Technical/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>EC50; Species: Oryzias latipes (Medaka high-eyes, age 2-4 hr blastula); Conditions: freshwater, renewal, 25 °C, pH 7.3, hardness 200 mg/L CaCO3; Concentration: 5 ug/L for 20 days (95% confidence interval: 3-7 ug/L); Effect: development, increased spinal deformation /Technical/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Cyprinodon variegatus (Sheepshead minnow); Conditions: saltwater, renewal; Concentration: 400 ug/L for 96 hr /97.8% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+        <ns0:Information>
+          <ns0:Value>
+            <ns0:StringWithMarkup>
+              <ns0:String>LC50; Species: Pimephales promelas (Fathead minnow); Conditions: freshwater, flow through; Concentration: 2.68 ug/L for 96 hr /97.8% purity/</ns0:String>
+            </ns0:StringWithMarkup>
+          </ns0:Value>
+        </ns0:Information>
+      </ns0:Section>
+      </ns0:Section>
+    </ns0:Section>
+  </ns0:Record>

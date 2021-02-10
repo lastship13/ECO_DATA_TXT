@@ -5,48 +5,29 @@ import parsing_def as ps
 import pandas as pd
 import re
 import csv
+import operator
+import pickle
+import os
 
-## 1. read csv file
-data = pd.read_csv("./LC50_tox.csv", header=None)
-#print(data.head)
+## 1. read pickle file
+pickle_dir = './PICKLES'
+fname = 'lc50_good_grouped.pickle'
+with open(os.path.join(pickle_dir,fname),"rb") as fr:
+    splited_list = pickle.load(fr)
 
-## 2. format change for using def
-data_list = data.values.tolist()
-#print(data_list)
-
-## 3. tag and except words
+## 2. tag and except words
 tag = ['species', 'conditions', 'concentration', 'condtions', 'condtiions']
 species_except = ['embryo', 'egg', 'larvae', 'embryo', 'young', 'adult', 'hatch',
                   'life', 'stage', 'organism', 'new', 'mid', 'late', 'first', 'instar',
                   'early', 'male', 'female', 'second', 'year', 'age','interface',
                   'equilibrium', 'death', 'mature', 'type', 'length', 'growth', 'log',
-                  'larva', 'asexual', 'weight', 'oxygen', 'static', 'fresh', 'water',
-                  'juvenile','and']
+                  'larva', 'asexual', 'weight', 'oxygen', 'static', 'fresh',
+                  'juvenile', 'mixed', 'tadpole', 'semi', 'site', 'swim', 'gastrulae',
+                  'blastu', 'gastulae','lab','obtained','clone','reproduc', 'neonat',
+                  'loss', 'wild', 'sub','strain','recent','unfed' ]
 
-## 4-1. text grouping
-splited_list = []
-for tox in data_list:
-    tox_grouped = []
-    split_list = re.split(';|:|\(|\)| \/|for| ,|, |lc50',tox[1])
-    split_list = [ v.strip(' /') for v in split_list if v ]
-
-    tag_id = [ i for i, word in enumerate(split_list)
-               if ( (word.strip() in tag) or (tag[1] in word.strip()) )]
-
-    previd = 0 
-    for id in tag_id :
-        add = split_list[previd:id]
-        if add : tox_grouped.append(add) # not append empty list
-        previd = id
-    tox_grouped.append(split_list[id:])
-
-    #print(tox_grouped)
-    splited_list.append([tox[0],tox_grouped])
-
-#for i in splited_list :
-#    print(i)
-
-## 4-2. species processing
+## 3. species processing
+word_counts = dict()
 for tox in splited_list :
     species = [ v for v in tox[1] if v[0] == tag[0] ]
     species = species[0]
@@ -63,4 +44,19 @@ for tox in splited_list :
         if len(v) < 3 or len(v) > 50: flag = False
         if flag : result.append(v)
     
-    print(result)
+    # print(result[1:])
+    for word in result[1:]:
+        word_counts[word] = word_counts.get(word, 0) + 1
+
+
+sdict = sorted(word_counts.items(), key=operator.itemgetter(1))
+
+## **. Save Datas
+outname="lc50_good_species_dictionary.pickle"
+with open(os.path.join(pickle_dir,outname),'wb') as fw:
+    pickle.dump(sdict, fw)
+
+###### print ######
+for i in sdict:
+    print(i)
+###################
